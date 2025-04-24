@@ -3,3 +3,6 @@ models/
 *.png
 *.jpg
 *.jpeg
+wandb/
+__pycache__/
+*.py[cod]
