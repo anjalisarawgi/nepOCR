@@ -20,18 +20,18 @@ class PrintPredictionsCallback(TrainerCallback):
             with torch.no_grad():
                 predictions = model.generate(pixel_values)
 
-            # Decode predictions
+            #  predictions
             decoded_preds = self.tokenizer.batch_decode(predictions, skip_special_tokens=True)
 
-            # Decode ground truth labels (convert -100 back to pad_token)
+            # ground truth labels (we convert -100 back to pad_token)
             labels = labels.clone()
             labels[labels == -100] = self.tokenizer.pad_token_id
             decoded_labels = self.tokenizer.batch_decode(labels, skip_special_tokens=True)
 
             for i, (pred, true) in enumerate(zip(decoded_preds, decoded_labels)):
                 print(f"Sample {i+1}")
-                print(f" Prediction   : {pred}")
-                print(f" Ground Truth : {true}")
+                print(f"Prediction   : {pred}")
+                print(f"Ground Truth : {true}")
                 print("")
 
             model.train()

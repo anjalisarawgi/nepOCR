@@ -14,36 +14,18 @@ def load_dataset(json_path):
     return Dataset.from_pandas(df[["image_path", "label"]])
 
 
-def get_preprocessing_fn(tokenizer, feature_extractor):
-    def process_data(example):
-        image = Image.open(example["image_path"]).convert("RGB")
-        pixel_values = feature_extractor(image, return_tensors="pt")["pixel_values"][0]
-
-        tokens = tokenizer.encode(example["label"], add_special_tokens=False)
-        tokens = tokens[:tokenizer.model_max_length - 1]
-        tokens.append(tokenizer.eos_token_id)
-        tokens += [tokenizer.pad_token_id] * (tokenizer.model_max_length - len(tokens))
-        labels = [tok if tok != tokenizer.pad_token_id else -100 for tok in tokens]
-
-        return {
-            "pixel_values": pixel_values,
-            "labels": torch.tensor(labels)
-        }
-
-    return process_data
-
 
 
 def preprocess_dataset(dataset, tokenizer, feature_extractor, max_length):
     images, labels = [], []
     for item in tqdm(dataset, desc="Preprocessing dataset"):
-        image = Image.open(item["image_path"]).convert("RGB")
-        pixel = feature_extractor(images=image, return_tensors = "pt", size=(384,384)).pixel_values[0]
+        image = Image.open(item["image_path"]).convert("RGB") # rgb only required for trocr
+        pixel = feature_extractor(images=image, return_tensors = "pt", size=(384,384)).pixel_values[0] # only required for trocr
 
-        token_ids = tokenizer.encode(item["label"], add_special_tokens=False)
-        token_ids = token_ids[:max_length] + [tokenizer.eos_token_id]
-        token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids))
-        labels_tensor = torch.tensor([i if i != tokenizer.pad_token_id else -100 for i in token_ids])
+        token_ids = tokenizer.encode(item["label"], add_special_tokens=False) # converting labels to token ids
+        token_ids = token_ids[:max_length] + [tokenizer.eos_token_id] # [SEP]
+        token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids)) # padding
+        labels_tensor = torch.tensor([i if i != tokenizer.pad_token_id else -100 for i in token_ids]) # -100 for padding and convert to tensor
 
         images.append(pixel)
         labels.append(labels_tensor)
@@ -73,4 +55,22 @@ def collate_fn(batch):
     }
 
 
+
+# def get_preprocessing_fn(tokenizer, feature_extractor):
+#     def process_data(example):
+#         image = Image.open(example["image_path"]).convert("RGB")
+#         pixel_values = feature_extractor(image, return_tensors="pt")["pixel_values"][0]
+
+#         tokens = tokenizer.encode(example["label"], add_special_tokens=False)
+#         tokens = tokens[:tokenizer.model_max_length - 1]
+#         tokens.append(tokenizer.eos_token_id)
+#         tokens += [tokenizer.pad_token_id] * (tokenizer.model_max_length - len(tokens))
+#         labels = [tok if tok != tokenizer.pad_token_id else -100 for tok in tokens]
+
+#         return {
+#             "pixel_values": pixel_values,
+#             "labels": torch.tensor(labels)
+#         }
+
+#     return process_data
 

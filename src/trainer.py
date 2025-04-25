@@ -16,10 +16,11 @@ from utils.data import load_dataset, preprocess_dataset, OCRTorchDataset, collat
 from utils.tokenizer import train_tokenizer
 from utils.callbacks import PrintPredictionsCallback
 from utils.metrics import compute_metrics
-
+# from utils.seed import set_all_seeds
 
 def main(args):
     set_seed(args.seed)
+    # set_all_seeds(args.seed)
     wandb.init(project=args.wandb_project, name=args.wandb_run)
 
     # dataset
@@ -64,6 +65,7 @@ def main(args):
         eos_token_id=tokenizer.eos_token_id
     )
     decoder = BertLMHeadModel(decoder_config)
+    
     model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
 
     # configs for the model
@@ -145,4 +147,3 @@ if __name__ == "__main__":
 
     main(args)
 
-    
