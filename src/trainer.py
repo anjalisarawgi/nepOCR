@@ -18,6 +18,9 @@ from utils.callbacks import PrintPredictionsCallback
 from utils.metrics import compute_metrics
 # from utils.seed import set_all_seeds
 
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 def main(args):
     set_seed(args.seed)
     # set_all_seeds(args.seed)
@@ -28,8 +31,8 @@ def main(args):
     split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
     train_dataset = split_dataset["train"]
     eval_dataset = split_dataset["test"]
-    train_dataset = train_dataset.select(range(200))
-    eval_dataset = eval_dataset.select(range(50))
+    # train_dataset = train_dataset.select(range(200))
+    # eval_dataset = eval_dataset.select(range(50))
 
     # tokenizer
     tokenizer = train_tokenizer(
@@ -39,18 +42,25 @@ def main(args):
         output_dir=args.tokenizer_dir
     )
 
+    print("\n Debugging and checking the tokenizer:")
+    print(f"  Vocab size: {len(tokenizer)}")
+    print(f"  PAD token: {tokenizer.pad_token} (ID: {tokenizer.pad_token_id})")
+    print(f"  CLS token: {tokenizer.cls_token} (ID: {tokenizer.cls_token_id})")
+    print(f"  EOS token: {tokenizer.eos_token} (ID: {tokenizer.eos_token_id})\n")
+
     # processor
     processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
     feature_extractor = processor.feature_extractor
 
 
-    train_imgs, train_lbls = preprocess_dataset(train_dataset, tokenizer, feature_extractor, args.max_length)
-    eval_imgs, eval_lbls = preprocess_dataset(eval_dataset, tokenizer, feature_extractor, args.max_length)
+    train_imgs, train_lbls = preprocess_dataset(train_dataset, tokenizer, feature_extractor, max_length=100)
+    eval_imgs, eval_lbls = preprocess_dataset(eval_dataset, tokenizer, feature_extractor, max_length=100)
 
     train_ds = OCRTorchDataset(train_imgs, train_lbls)
     eval_ds = OCRTorchDataset(eval_imgs, eval_lbls)
 
-    # callback initialized for debugging and inference during traning
+
+    # callback initialized for debugging and inference 
     sample_batch = [eval_ds[i] for i in range(5)]
     print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=100)
 
@@ -71,19 +81,46 @@ def main(args):
     # configs for the model
     model.config.decoder_start_token_id = tokenizer.cls_token_id
     model.config.pad_token_id = tokenizer.pad_token_id
+    model.config.vocab_size = model.config.decoder.vocab_size
+
+    
+    # setting beam search params
     model.config.eos_token_id = tokenizer.eos_token_id
-    model.config.max_length = args.max_length
-    model.config.no_repeat_ngram_size = 5
-    model.config.num_beams = 5
+    model.config.max_length = 100
     model.config.early_stopping = True
+    model.config.no_repeat_ngram_size = 10
+    model.config.num_beams = 5
+
+    print(" Checking model configuration:")
+    print(f"  decoder_start_token_id: {model.config.decoder_start_token_id}")
+    print(f"  pad_token_id: {model.config.pad_token_id}")
+    print(f"  eos_token_id: {model.config.eos_token_id}")
+    print(f"  vocab_size: {model.config.vocab_size}")
+    print(f"  max_length: {model.config.max_length}")
+    print(f"  num_beams: {model.config.num_beams}")
+    print(f"  no_repeat_ngram_size: {model.config.no_repeat_ngram_size}")
+    print(f"  early_stopping: {model.config.early_stopping}\n")
+
+    # small sample to check the model and tokenizre
+    test_str = "बजारमा नयाँ पुस्तक आएको छ"
+    encoded = tokenizer.encode(test_str, add_special_tokens=False)
+    decoded = tokenizer.decode(encoded)
+    tokens = tokenizer.convert_ids_to_tokens(encoded)
+    print(f"  Test string: {test_str}")
+    print(f"  Encoded: {encoded}")
+    print(f"  Decoded: {decoded}")
+    print(f"  Tokens: {tokens}")
 
     # training 
+    # eval_steps  = len(train_ds) // args.batch_size # does it once every epich
+    eval_steps = max(1, (len(train_ds) * args.epochs) // (args.batch_size * 10)) # evaluates 10 times every run
+    
     training_args = Seq2SeqTrainingArguments(
         output_dir=args.model_dir,
         per_device_train_batch_size=args.batch_size,
         per_device_eval_batch_size=args.batch_size,
-        evaluation_strategy="steps",
-        eval_steps=args.eval_steps,
+        eval_strategy="steps",
+        eval_steps=eval_steps, 
         logging_steps=100,
         warmup_steps=500,
         num_train_epochs=args.epochs,
@@ -121,7 +158,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--wandb_project", type=str, default="oldNepali-ocr-logs")
     parser.add_argument("--wandb_run", type=str, default="nepOCR-logs")
-    parser.add_argument("--dataset_name", type=str, default="oldNepaliSynthetic10k")
+    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic10k', 'oldNepaliSynthetic30k', 'nagari', 'nagari_augmented_3', 'oldNepali', 'oldNepali_augmented_3'], default="oldNepaliSynthetic10k")
     parser.add_argument("--json_path", type=str, default="data/oldNepaliSynthetic/10k/labels_processed.json")
     parser.add_argument("--corpus_path", type=str, default="corpus/oldNepaliSynthetic_nagari_oldNepali.txt")
     parser.add_argument("--tokenizer_dir", type=str, default="tokenizer/charBPE/")
@@ -136,8 +173,6 @@ if __name__ == "__main__":
     parser.add_argument("--batch_size", type=int, default=8)
     parser.add_argument("--epochs", type=int, default=20)
     parser.add_argument("--learning_rate", type=float, default=1e-4)
-    parser.add_argument("--max_length", type=int, default=100)
-    parser.add_argument("--eval_steps", type=int, default=1000)
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
