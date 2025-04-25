@@ -19,16 +19,18 @@ from utils.metrics import compute_metrics
 
 
 def main(args):
-    # Set random seed and init Weights & Biases
     set_seed(args.seed)
     wandb.init(project=args.wandb_project, name=args.wandb_run)
 
-    # Load and split dataset
+    # dataset
     dataset = load_dataset(args.json_path)
     split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
-    train_dataset, eval_dataset = split_dataset["train"], split_dataset["test"]
+    train_dataset = split_dataset["train"]
+    eval_dataset = split_dataset["test"]
+    train_dataset = train_dataset.select(range(200))
+    eval_dataset = eval_dataset.select(range(50))
 
-    # Train or load tokenizer
+    # tokenizer
     tokenizer = train_tokenizer(
         corpus_path=args.corpus_path,
         tokenizer_type=args.tokenizer_type,
@@ -36,22 +38,23 @@ def main(args):
         output_dir=args.tokenizer_dir
     )
 
-    # Feature extractor from TrOCR
+    # processor
     processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
     feature_extractor = processor.feature_extractor
 
-    # Preprocess image-text data
+
     train_imgs, train_lbls = preprocess_dataset(train_dataset, tokenizer, feature_extractor, args.max_length)
     eval_imgs, eval_lbls = preprocess_dataset(eval_dataset, tokenizer, feature_extractor, args.max_length)
 
     train_ds = OCRTorchDataset(train_imgs, train_lbls)
     eval_ds = OCRTorchDataset(eval_imgs, eval_lbls)
 
-    # Callback to print predictions during training
+    # callback initialized for debugging and inference during traning
     sample_batch = [eval_ds[i] for i in range(5)]
     print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=100)
 
-    # Load encoder (from TrOCR) and create new decoder (BERT)
+
+    # model
     encoder = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten").encoder
     decoder_config = BertConfig(
         is_decoder=True,
@@ -63,7 +66,7 @@ def main(args):
     decoder = BertLMHeadModel(decoder_config)
     model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
 
-    # Set generation/config parameters
+    # configs for the model
     model.config.decoder_start_token_id = tokenizer.cls_token_id
     model.config.pad_token_id = tokenizer.pad_token_id
     model.config.eos_token_id = tokenizer.eos_token_id
@@ -72,7 +75,7 @@ def main(args):
     model.config.num_beams = 5
     model.config.early_stopping = True
 
-    # Training arguments
+    # training 
     training_args = Seq2SeqTrainingArguments(
         output_dir=args.model_dir,
         per_device_train_batch_size=args.batch_size,
@@ -94,7 +97,6 @@ def main(args):
         dataloader_pin_memory=True
     )
 
-    # Trainer
     trainer = Seq2SeqTrainer(
         model=model,
         args=training_args,
@@ -106,26 +108,29 @@ def main(args):
         callbacks=[print_callback]
     )
 
-    # Train + Save
     trainer.train()
     trainer.save_model(args.model_dir)
     tokenizer.save_pretrained(args.model_dir)
-
-    # Final eval
     print("Final Evaluation:", trainer.evaluate(eval_ds))
     wandb.finish()
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument("--wandb_project", type=str, default="oldNepali-ocr-logs")
+    parser.add_argument("--wandb_run", type=str, default="nepOCR-logs")
+    parser.add_argument("--dataset_name", type=str, default="oldNepaliSynthetic10k")
     parser.add_argument("--json_path", type=str, default="data/oldNepaliSynthetic/10k/labels_processed.json")
     parser.add_argument("--corpus_path", type=str, default="corpus/oldNepaliSynthetic_nagari_oldNepali.txt")
+    parser.add_argument("--tokenizer_dir", type=str, default="tokenizer/charBPE/")
+
+    # model setup args
+    parser.add_argument("--encoder", type=str, choices=["trocr"], default="trocr")
+    parser.add_argument("--decoder", type=str, choices=["bert"], default="bert")
     parser.add_argument("--tokenizer_type", type=str, choices=["char", "sbpe"], default="char")
     parser.add_argument("--vocab_size", type=int, default=1000)
-    parser.add_argument("--tokenizer_dir", type=str, default="tokenizer/charBPE/")
-    parser.add_argument("--model_dir", type=str, default="models/trocr-BERT-oldNepaliSynth-cbpe-1000")
-    parser.add_argument("--wandb_project", type=str, default="oldNepali-ocr-logs")
-    parser.add_argument("--wandb_run", type=str, default="trocr-BERT-oldNepaliSynth-cbpe-1000")
+
+    # training args
     parser.add_argument("--batch_size", type=int, default=8)
     parser.add_argument("--epochs", type=int, default=20)
     parser.add_argument("--learning_rate", type=float, default=1e-4)
@@ -134,4 +139,10 @@ if __name__ == "__main__":
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
+    args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
+    args.model_dir = os.path.join("models", args.model_name)
+    args.wandb_run = args.model_name
+
     main(args)
+
+    
