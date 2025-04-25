@@ -5,15 +5,30 @@ from PIL import Image
 from tqdm import tqdm
 from datasets import Dataset
 
-def load_dataset(json_path):
+# def load_dataset(json_path):
+#     with open(json_path, "r", encoding="utf-8") as f:
+#         data = json.load(f)
+#     df = pd.DataFrame(data)
+#     df["text"] = df["text"].astype(str)
+#     df["image_path"] = df["image_path"].astype(str)
+#     return Dataset.from_pandas(df[["image_path", "text"]])
+
+# def load_from_json(path):
+#     with open(path, "r", encoding="utf-8") as f:
+#         data = json.load(f)
+#     df = pd.DataFrame(data)
+#     df["text"] = df["text"].astype(str) + " [SEP]"
+#     return Dataset.from_pandas(df[["image_path", "text"]])
+
+def load_dataset(json_path, add_sep_token: bool = False):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     df = pd.DataFrame(data)
-    df["label"] = df["label"].astype(str)
+    df["text"] = df["text"].astype(str)
+    if add_sep_token:
+        df["text"] += " [SEP]"
     df["image_path"] = df["image_path"].astype(str)
-    return Dataset.from_pandas(df[["image_path", "label"]])
-
-
+    return Dataset.from_pandas(df[["image_path", "text"]])
 
 
 def preprocess_dataset(dataset, tokenizer, feature_extractor, max_length):
@@ -22,7 +37,7 @@ def preprocess_dataset(dataset, tokenizer, feature_extractor, max_length):
         image = Image.open(item["image_path"]).convert("RGB") # rgb only required for trocr
         pixel = feature_extractor(images=image, return_tensors = "pt", size=(384,384)).pixel_values[0] # only required for trocr
 
-        token_ids = tokenizer.encode(item["label"], add_special_tokens=False) # converting labels to token ids
+        token_ids = tokenizer.encode(item["text"], add_special_tokens=False) # converting labels to token ids
         token_ids = token_ids[:max_length] + [tokenizer.eos_token_id] # [SEP]
         token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids)) # padding
         labels_tensor = torch.tensor([i if i != tokenizer.pad_token_id else -100 for i in token_ids]) # -100 for padding and convert to tensor

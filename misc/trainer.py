@@ -9,9 +9,9 @@ from transformers import (
     TrOCRProcessor,
     Seq2SeqTrainer,
     Seq2SeqTrainingArguments,
-    set_seed
+    set_seed, 
+    PreTrainedTokenizerFast
 )
-
 from utils.data import load_dataset, preprocess_dataset, OCRTorchDataset, collate_fn
 from utils.tokenizer import train_tokenizer
 from utils.callbacks import PrintPredictionsCallback
@@ -22,25 +22,36 @@ import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def main(args):
-    set_seed(args.seed)
+    set_seed(42)
     # set_all_seeds(args.seed)
-    wandb.init(project=args.wandb_project, name=args.wandb_run)
+    wandb.init(project="nepOCR-logs", name = args.model_name)
 
     # dataset
-    dataset = load_dataset(args.json_path)
-    split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
-    train_dataset = split_dataset["train"]
-    eval_dataset = split_dataset["test"]
+    if args.dataset_name == "nagari":
+        train_dataset = load_dataset("data/nagari/augmented3/train/labels_processed_new.json")
+        eval_dataset = load_dataset("data/nagari/augmented3/test/labels_processed_new.json")
+    else:
+        dataset = load_dataset("json", data_files="data/oldNepaliSynthetic/10k/labels_processed_new.json")
+        split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
+        train_dataset = split_dataset["train"]
+        eval_dataset = split_dataset["test"]
+
     # train_dataset = train_dataset.select(range(200))
     # eval_dataset = eval_dataset.select(range(50))
 
     # tokenizer
-    tokenizer = train_tokenizer(
-        corpus_path=args.corpus_path,
-        tokenizer_type=args.tokenizer_type,
-        vocab_size=args.vocab_size,
-        output_dir=args.tokenizer_dir
-    )
+    if args.finetune_from_model:
+        model_path = args.finetune_from_model
+        print(f"Loading tokenizer from: {model_path}")
+        tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
+    else:
+        print(f"Training tokenizer from corpus: corpus/oldNepaliSynthetic_nagari_oldNepali.txt")
+        tokenizer = train_tokenizer(
+            corpus_path="corpus/oldNepaliSynthetic_nagari_oldNepali.txt",
+            tokenizer_type=args.tokenizer_type,
+            vocab_size=args.vocab_size,
+            output_dir=f"tokenizer/{args.tokenizer_type}_{args.vocab_size}",
+        )
 
     print("\n Debugging and checking the tokenizer:")
     print(f"  Vocab size: {len(tokenizer)}")
@@ -65,18 +76,21 @@ def main(args):
     print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=100)
 
 
-    # model
-    encoder = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten").encoder
-    decoder_config = BertConfig(
-        is_decoder=True,
-        add_cross_attention=True,
-        vocab_size=len(tokenizer),
-        pad_token_id=tokenizer.pad_token_id,
-        eos_token_id=tokenizer.eos_token_id
-    )
-    decoder = BertLMHeadModel(decoder_config)
-    
-    model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
+    # model    
+    if args.finetune_from_model:
+        print(f"Finetuning from: {args.finetune_from_model}")
+        model = VisionEncoderDecoderModel.from_pretrained(args.finetune_from_model)
+    else:
+        encoder = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten").encoder
+        decoder_config = BertConfig(
+            is_decoder=True,
+            add_cross_attention=True,
+            vocab_size=len(tokenizer),
+            pad_token_id=tokenizer.pad_token_id,
+            eos_token_id=tokenizer.eos_token_id
+        )
+        decoder = BertLMHeadModel(decoder_config)
+        model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
 
     # configs for the model
     model.config.decoder_start_token_id = tokenizer.cls_token_id
@@ -112,19 +126,24 @@ def main(args):
     print(f"  Tokens: {tokens}")
 
     # training 
-    # eval_steps  = len(train_ds) // args.batch_size # does it once every epich
-    eval_steps = max(1, (len(train_ds) * args.epochs) // (args.batch_size * 10)) # evaluates 10 times every run
+    epochs = 10
+    batch_size = 8
     
+    # eval_steps  = len(train_ds) // args.batch_size # does it once every epich
+    eval_steps = max(1, (len(train_ds) * epochs ) // ( batch_size * 10)) # evaluates 10 times every run
+    total_steps = (len(train_ds) * epochs) // batch_size
+    warmup_steps =  max(1, int(0.1 * total_steps))
+
     training_args = Seq2SeqTrainingArguments(
         output_dir=args.model_dir,
-        per_device_train_batch_size=args.batch_size,
-        per_device_eval_batch_size=args.batch_size,
+        per_device_train_batch_size=batch_size,
+        per_device_eval_batch_size=batch_size,
         eval_strategy="steps",
         eval_steps=eval_steps, 
         logging_steps=100,
-        warmup_steps=500,
-        num_train_epochs=args.epochs,
-        learning_rate=args.learning_rate,
+        warmup_steps=warmup_steps,
+        num_train_epochs=epochs,
+        learning_rate=1e-4,
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
@@ -153,32 +172,29 @@ def main(args):
     print("Final Evaluation:", trainer.evaluate(eval_ds))
     wandb.finish()
 
-
+# always make sure to define dataset_name (finetuning from scratch)
+# always make sure to define dataset_name + finetune_from_model (finetuning from the pretrained model)
+# oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--wandb_project", type=str, default="oldNepali-ocr-logs")
-    parser.add_argument("--wandb_run", type=str, default="nepOCR-logs")
-    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic10k', 'oldNepaliSynthetic30k', 'nagari', 'nagari_augmented_3', 'oldNepali', 'oldNepali_augmented_3'], default="oldNepaliSynthetic10k")
-    parser.add_argument("--json_path", type=str, default="data/oldNepaliSynthetic/10k/labels_processed.json")
-    parser.add_argument("--corpus_path", type=str, default="corpus/oldNepaliSynthetic_nagari_oldNepali.txt")
-    parser.add_argument("--tokenizer_dir", type=str, default="tokenizer/charBPE/")
+    parser.add_argument("--dataset_name", type=str, choices = ['nagari', 'oldNepaliSynthetic'], default="oldNepaliSynthetic")
 
     # model setup args
     parser.add_argument("--encoder", type=str, choices=["trocr"], default="trocr")
     parser.add_argument("--decoder", type=str, choices=["bert"], default="bert")
     parser.add_argument("--tokenizer_type", type=str, choices=["char", "sbpe"], default="char")
     parser.add_argument("--vocab_size", type=int, default=1000)
-
-    # training args
-    parser.add_argument("--batch_size", type=int, default=8)
-    parser.add_argument("--epochs", type=int, default=20)
-    parser.add_argument("--learning_rate", type=float, default=1e-4)
-    parser.add_argument("--seed", type=int, default=42)
+    
+    # finetuning args   
+    parser.add_argument("--finetune_from_model", type=str, default=None, help="Path to pretrained model to finetune from")
+   
     args = parser.parse_args()
-
     args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
+    
+    if args.finetune_from_model:
+        args.model_name = f"{args.finetune_from_model.split('/')[-1]}-finetune-{args.dataset_name}" # model name for finetuning
+    
     args.model_dir = os.path.join("models", args.model_name)
-    args.wandb_run = args.model_name
 
     main(args)
 
