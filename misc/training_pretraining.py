@@ -12,7 +12,8 @@ from transformers import (
     SwinModel,
     BertLMHeadModel,
     BertConfig,
-    set_seed
+    set_seed, 
+    TrOCRProcessor
 )
 from torch.utils.data import DataLoader, Dataset as TorchDataset
 from tokenizers import SentencePieceBPETokenizer, CharBPETokenizer
@@ -23,35 +24,26 @@ from torchmetrics import CharErrorRate
 from tqdm import tqdm
 
 set_seed(42)
-wandb.init(project="oldNepali-ocr-logs", name="trocr-BERT-oldNepaliSynth-cbpe-1000")
+wandb.init(project="nepOCR-logs", name="trocr-BERT-oldNepaliSynth-cbpe-1000")
 
 def load_from_json(json_path):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     df = pd.DataFrame(data)
-    df["label"] = df["label"].astype(str)
+    df["text"] = df["text"].astype(str)
     df["image_path"] = df["image_path"].astype(str)
-    return Dataset.from_pandas(df[["image_path", "label"]])
+    return Dataset.from_pandas(df[["image_path", "text"]])
 
-json_path = "oldNepaliSyntheticDataset/labels.json"
+json_path = "data/oldNepaliSynthetic/10k/labels_processed_new.json"
 full_dataset = load_from_json(json_path)
 split_dataset = full_dataset.train_test_split(test_size=0.1, seed=42)
 train_dataset, eval_dataset = split_dataset["train"], split_dataset["test"]
 
 
-### SBPE
-# tokenizer_obj = SentencePieceBPETokenizer()
-# with open("corpus/oldNepaliSynthetic_nagari_oldNepali.txt", "r", encoding="utf-8") as f:
-#     tokenizer_obj.train_from_iterator(f, vocab_size=5000)
-
-# tokenizer_dir = "tokenizer/sbpe/trocr_BERT_oldNepaliSynth_sbpe_5k/"
-# os.makedirs(tokenizer_dir, exist_ok=True)
-# tokenizer_obj.save(os.path.join(tokenizer_dir, "tokenizer.json"))
-
 
 ### Char BPE 
 tokenizer_obj = CharBPETokenizer()
-with open("corpus/oldNepaliSyntheticClean_nagari_oldNepali.txt", "r", encoding="utf-8") as f:
+with open("corpus/oldNepaliSynthetic_nagari_oldNepali.txt", "r", encoding="utf-8") as f:
     tokenizer_obj.train_from_iterator(f, vocab_size=1000)
 
 tokenizer_dir = "tokenizer/charBPE/trocr_BERT_oldNepaliSynth_1000/"
@@ -90,7 +82,7 @@ model.config.early_stopping = True
 model.config.no_repeat_ngram_size = 5
 model.config.num_beams = 5
 
-from transformers import TrOCRProcessor
+
 processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
 feature_extractor = processor.feature_extractor  
 
@@ -101,7 +93,7 @@ def preprocess_dataset(dataset, tokenizer, feature_extractor):
         image = Image.open(item["image_path"]).convert("RGB")
         pixel = feature_extractor(images=image, return_tensors="pt", size=(384, 384)).pixel_values[0]
 
-        tokenized = tokenizer.encode(item["label"], add_special_tokens=False)
+        tokenized = tokenizer.encode(item["text"], add_special_tokens=False)
         tokenized.append(tokenizer.eos_token_id)
         tokenized = tokenized[:100] + [tokenizer.pad_token_id] * (100 - len(tokenized))
         label_tensor = torch.tensor([t if t != tokenizer.pad_token_id else -100 for t in tokenized])

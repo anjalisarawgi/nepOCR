@@ -17,9 +17,9 @@ from typing import Any, Dict, List
 from torchmetrics import CharErrorRate
 
 set_seed(42)
-wandb.init(project="oldNepali-ocr-logs", name="trocr-BERT-oldNepaliSynth-nagari-cbpe-1k")
+wandb.init(project="oldNepali-ocr-logs", name="trocr-BERT-oldNepaliSynth-nagari-cbpe-1000")
 
-model_path = "models/trocr-BERT-oldNepaliSynth-cbpe-1k"
+model_path = "models/trocr-BERT-oldNepaliSynth-cbpe-1000"
 model = VisionEncoderDecoderModel.from_pretrained(model_path)
 tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
 
@@ -66,12 +66,13 @@ def load_from_json(json_path):
     return Dataset.from_pandas(df[["image_path", "text"]])
 
 
-
-train_dataset = load_from_json("datasetProcessedAugmented/train/labels_processed.json")
-# train_dataset = train_dataset.select(range(1000))
-test_dataset = load_from_json("datasetProcessedAugmented/test/labels_processed_new.json")
+train_dataset = load_from_json("data/nagari/augmented3/train/labels_processed_new.json")
+test_dataset = load_from_json("data/nagari/augmented3/test/labels_processed_new.json")
 val_dataset = test_dataset
 eval_dataset = val_dataset
+train_dataset = train_dataset.select(range(500))
+eval_dataset = eval_dataset.select(range(100))
+
 
 def process_data(example):
     
@@ -236,7 +237,7 @@ print_callback = PrintPredictionsCallback(
 data_collator = ImageToTextCollator(tokenizer)
 
 training_args = Seq2SeqTrainingArguments(
-    output_dir="models/strocr-BERT-oldNepaliSynth-nagari-cbpe-1k",
+    output_dir="models/trocr-BERT-oldNepaliSynth-nagari-cbpe-1000",
     per_device_train_batch_size=8,
     per_device_eval_batch_size=8,
     evaluation_strategy="steps",
@@ -267,7 +268,7 @@ trainer = Seq2SeqTrainer(
 ) 
 
 trainer.train()
-trainer.save_model("models/trocr-BERT-oldNepaliSynth-nagari-cbpe-1k")
-tokenizer.save_pretrained("models/trocr-BERT-oldNepaliSynth-nagari-cbpe-1k")
+trainer.save_model("models/trocr-BERT-oldNepaliSynth-nagari-cbpe-1000")
+tokenizer.save_pretrained("models/trocr-BERT-oldNepaliSynth-nagari-cbpe-1000")
 
 wandb.finish()
