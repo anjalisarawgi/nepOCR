@@ -189,11 +189,13 @@ if __name__ == "__main__":
     parser.add_argument("--finetune_from_model", type=str, default=None, help="Path to pretrained model to finetune from")
    
     args = parser.parse_args()
-    args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
-    
+
+    # model name logic
     if args.finetune_from_model:
-        args.model_name = f"{args.finetune_from_model.split('/')[-1]}-finetune-{args.dataset_name}" # model name for finetuning
-    
+        model_base = os.path.basename(args.finetune_from_model.strip("/"))
+        args.model_name = f"{model_base}-finetune-{args.dataset_name}"
+    else:
+        args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
     args.model_dir = os.path.join("models", args.model_name)
 
     main(args)
