@@ -27,20 +27,26 @@ def main(args):
     wandb.init(project="nepOCR-logs", name = args.model_name)
 
     # dataset
-    if args.dataset_name == "nagari":
-        train_dataset = load_dataset("data/nagari/augmented3/train/labels_processed_new.json")
-        eval_dataset = load_dataset("data/nagari/augmented3/test/labels_processed_new.json")
-    else:
+    if args.dataset_name == "oldNepaliSynthetic":
         dataset = load_dataset("json", data_files="data/oldNepaliSynthetic/10k/labels_processed_new.json")
         split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
+    elif args.dataset_name == "nagari":
+        train_dataset = load_dataset("data/nagari/augmented3/train/labels_processed_new.json")
+        eval_dataset = load_dataset("data/nagari/augmented3/test/labels_processed_new.json")
+    elif args.dataset_name == "oldNepali":
+        train_dataset = load_dataset("data/oldNepali/augmented3/train/labels_processed.json")
+        eval_dataset = load_dataset("data/oldNepali/augmented3/test/labels_processed.json")
+    else:
+        raise ValueError(f"Unknown dataset name: {args.dataset_name}")
 
+    # slice for debugging
     # train_dataset = train_dataset.select(range(200))
     # eval_dataset = eval_dataset.select(range(50))
 
     # tokenizer
-    if args.finetune_from_model:
+    if args.finetune_from_model: # if finetuning from a pretrained model, load the tokenizer from the model (esp for nagari and oldNepali)
         model_path = args.finetune_from_model
         print(f"Loading tokenizer from: {model_path}")
         tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
@@ -126,11 +132,11 @@ def main(args):
     print(f"  Tokens: {tokens}")
 
     # training 
-    epochs = 5
+    epochs = 15
     batch_size = 8
     
     # eval_steps  = len(train_ds) // args.batch_size # does it once every epich
-    eval_steps = max(1, (len(train_ds) * epochs ) // ( batch_size * 10)) # evaluates 10 times every run
+    eval_steps = max(1, (len(train_ds) * epochs ) // ( batch_size * 6)) # evaluates 6 times every run
     total_steps = (len(train_ds) * epochs) // batch_size
     warmup_steps =  max(1, int(0.1 * total_steps))
 
@@ -177,7 +183,7 @@ def main(args):
 # oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_name", type=str, choices = ['nagari', 'oldNepaliSynthetic'], default="oldNepaliSynthetic")
+    parser.add_argument("--dataset_name", type=str, choices = ['nagari', 'oldNepaliSynthetic', 'oldNepali'], default="oldNepaliSynthetic")
 
     # model setup args
     parser.add_argument("--encoder", type=str, choices=["trocr"], default="trocr")
@@ -193,7 +199,7 @@ if __name__ == "__main__":
     # model name logic
     if args.finetune_from_model:
         model_base = os.path.basename(args.finetune_from_model.strip("/"))
-        args.model_name = f"{model_base}-finetune-{args.dataset_name}"
+        args.model_name = f"{model_base}_finetuned_on_{args.dataset_name}"
     else:
         args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
     args.model_dir = os.path.join("models", args.model_name)
