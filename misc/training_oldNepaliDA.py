@@ -82,7 +82,7 @@ def process_data(example):
     tokenized = tokenizer(
         text_with_eos,
         padding="max_length",
-        max_length=100,
+        max_length=100, 
         return_tensors="pt",
         truncation=True
     )

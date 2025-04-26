@@ -132,31 +132,31 @@ def main(args):
     print(f"  Tokens: {tokens}")
 
     # training 
-    epochs = 15
-    batch_size = 8
+    # epochs = 15
+    # batch_size = 8
     
-    # eval_steps  = len(train_ds) // args.batch_size # does it once every epich
-    eval_steps = max(1, (len(train_ds) * epochs ) // ( batch_size * 6)) # evaluates 6 times every run
-    total_steps = (len(train_ds) * epochs) // batch_size
-    warmup_steps =  max(1, int(0.1 * total_steps))
+    # # eval_steps  = len(train_ds) // args.batch_size # does it once every epich
+    # eval_steps = max(1, (len(train_ds) * epochs ) // ( batch_size * 6)) # evaluates 6 times every run
+    # total_steps = (len(train_ds) * epochs) // batch_size
+    # warmup_steps =  max(1, int(0.1 * total_steps))
 
     training_args = Seq2SeqTrainingArguments(
         output_dir=args.model_dir,
-        per_device_train_batch_size=batch_size,
-        per_device_eval_batch_size=batch_size,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
         eval_strategy="steps",
-        eval_steps=eval_steps, 
+        eval_steps=1000, 
         logging_steps=100,
-        warmup_steps=warmup_steps,
-        num_train_epochs=epochs,
-        learning_rate=1e-4,
+        warmup_steps=500,
+        num_train_epochs=15,
+        learning_rate=3e-5,
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
         report_to=["wandb"],
         max_grad_norm=0.5,
         save_strategy="no",
-        gradient_accumulation_steps=2 if torch.cuda.is_available() else 1,
+        # gradient_accumulation_steps=2 if torch.cuda.is_available() else 1,
         dataloader_num_workers=4,
         dataloader_pin_memory=True
     )
