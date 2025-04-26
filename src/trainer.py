@@ -28,8 +28,9 @@ def main(args):
 
     # dataset
     if args.dataset_name == "oldNepaliSynthetic":
-        dataset = load_dataset("json", data_files="data/oldNepaliSynthetic/10k/labels_processed_new.json")
-        split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
+        # dataset = load_dataset("json", data_files="data/oldNepaliSynthetic/10k/labels_processed_new.json")
+        dataset = load_dataset("data/oldNepaliSynthetic/10k/labels_processed_new.json")
+        split_dataset = dataset.train_test_split(test_size=0.1, seed=42)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
     elif args.dataset_name == "nagari":
@@ -148,8 +149,8 @@ def main(args):
         eval_steps=1000, 
         logging_steps=100,
         warmup_steps=500,
-        num_train_epochs=15,
-        learning_rate=3e-5,
+        num_train_epochs=20,
+        learning_rate=3e-5, #1e-4,
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
