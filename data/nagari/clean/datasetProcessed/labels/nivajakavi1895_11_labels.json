@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "(११)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_1.png",
+        "bounding_box": {
+            "x1": 1141,
+            "y1": 308,
+            "x2": 1535,
+            "y2": 494
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "यह नृपहि सुनायो ॥ क्यों न होय अब कुशल हमारी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_2.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 612,
+            "x2": 2444,
+            "y2": 801
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "आये । श्रम जल कत आनन में छाये ॥ शीतल छांह",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_3.png",
+        "bounding_box": {
+            "x1": 271,
+            "y1": 912,
+            "x2": 2436,
+            "y2": 1096
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "ग्य ते चरण तिहारे । आजु दिवस तुम अतिथि हमारे ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_4.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 1205,
+            "x2": 2436,
+            "y2": 1387
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "पानी ॥ तब नृप बैन मैन रस साने । देखत ही हम",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_5.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 1506,
+            "x2": 2469,
+            "y2": 1691
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "हमारी है मिजमानी ॥ तुमहूं थकी सलिल के सींचे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_6.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 1806,
+            "x2": 2440,
+            "y2": 1987
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "बिहँसति शकुन्तला को ताकी ॥ अद्भुत आज अतिथि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_7.png",
+        "bounding_box": {
+            "x1": 236,
+            "y1": 2110,
+            "x2": 2436,
+            "y2": 2278
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "न कछू मन आनो । इन को कहो उचित के मानो ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_8.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2407,
+            "x2": 2421,
+            "y2": 2584
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "में ॥ शकुन्तला के हिय में पैठ्यो । क्षितिपालौ छाया",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_9.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 2699,
+            "x2": 2413,
+            "y2": 2875
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "भयो खोलो भगवान आज दुहुन को भालु है । दोऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_10.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 3156,
+            "x2": 2409,
+            "y2": 3322
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "दुहूं देखत अघात न द्युननई लगन को दुहुनकेशाल्यौ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_11.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 3296,
+            "x2": 2441,
+            "y2": 3474
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "एकै रंग एक दुहुन को भयो एक हाल है । हिये में",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_12.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 3593,
+            "x2": 2403,
+            "y2": 3768
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "समानो महिपाल है ५२ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_13.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 3886,
+            "x2": 1398,
+            "y2": 4080
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "चौपाई । शकुन्तला को बोलि न आयो । अनसूया",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_14.png",
+        "bounding_box": {
+            "x1": 404,
+            "y1": 452,
+            "x2": 2452,
+            "y2": 642
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तुमसे साधु करत रखवारी ॥ प्यादे श्रम करि तुम यहँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_15.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 760,
+            "x2": 2460,
+            "y2": 945
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "सघन तरु डारैं । बैठो इत हम पायँ पखारैं ॥ लखे भा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_16.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 1061,
+            "x2": 2448,
+            "y2": 1239
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "शकुन्तला क्यों भई अयानी । ल्याउ पियन को शीतल",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_17.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 1377,
+            "x2": 2445,
+            "y2": 1539
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "तुम्हें अघाने ॥ मधुर मधुर कहती तुम बानी । यही",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_18.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 1654,
+            "x2": 2440,
+            "y2": 1834
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "बैठो घरिकद्रुमनिके नीचे ॥ तब बोली अनसूया बांकी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_19.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 1954,
+            "x2": 2495,
+            "y2": 2130
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "जो आये । सिगरे कहत बचन मन भाये ॥ इन कर डर",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_20.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 2255,
+            "x2": 2421,
+            "y2": 2427
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "यह सुनि शकुन्तला छाया में । बैठी मोहि नृपति माया",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_21.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 2547,
+            "x2": 2417,
+            "y2": 2724
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "में बैठ्यो ५१ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_22.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 2848,
+            "x2": 910,
+            "y2": 3022
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "उर शाल है ॥ मन में दुहुन के मनोज बान लागे संग",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_23.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 3449,
+            "x2": 2437,
+            "y2": 3630
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "महीप के शकुन्तला समानी सो शकुन्तला के हिये में",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_24.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 3745,
+            "x2": 2382,
+            "y2": 3921
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "घनाक्षरी छन्द । भागन तें बन में दुहुन भट भेरो",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_25.png",
+        "bounding_box": {
+            "x1": 361,
+            "y1": 2988,
+            "x2": 2409,
+            "y2": 3177
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "चौपाई । दोऊ सखी दुहून निहारे । कोटि काम रति",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_11_textline_26.png",
+        "bounding_box": {
+            "x1": 361,
+            "y1": 4042,
+            "x2": 2389,
+            "y2": 4219
+        }
+    }
+]

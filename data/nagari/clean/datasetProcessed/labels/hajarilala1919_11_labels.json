@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_1.png",
+        "bounding_box": {
+            "x1": 597,
+            "y1": 177,
+            "x2": 1130,
+            "y2": 339
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "मम भाग्य लिख्यो बर बाउर, तो अब दोष",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_2.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 326,
+            "x2": 1721,
+            "y2": 499
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "लगाइये काहीं । मेटिसकै तुमसे बिधिअङ्क",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_3.png",
+        "bounding_box": {
+            "x1": 43,
+            "y1": 475,
+            "x2": 1674,
+            "y2": 655
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "कि, मातु कलङ्क न लेहु बृथाहीं ।। जो सुख",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_4.png",
+        "bounding_box": {
+            "x1": 53,
+            "y1": 640,
+            "x2": 1699,
+            "y2": 799
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दुःख ललाट लिखा मम, जाब जहैं तहँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_5.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 787,
+            "x2": 1721,
+            "y2": 948
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "पाउब वाहीं । बूझि हिये अस शोच तजौ,",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_6.png",
+        "bounding_box": {
+            "x1": 48,
+            "y1": 930,
+            "x2": 1699,
+            "y2": 1095
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "करहू करुणा कस औसर नाहीं १८ गि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_7.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 1084,
+            "x2": 1679,
+            "y2": 1237
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "रिजा मुखबैन बिनीत मृदू, सुनिकै अबला",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_8.png",
+        "bounding_box": {
+            "x1": 38,
+            "y1": 1232,
+            "x2": 1684,
+            "y2": 1388
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सब शोचति भारी । बहुभांतिन दोष बिरं-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_9.png",
+        "bounding_box": {
+            "x1": 33,
+            "y1": 1379,
+            "x2": 1674,
+            "y2": 1537
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "चिहिं दै, पछताइ बिलोचन मोचति बारी।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_10.png",
+        "bounding_box": {
+            "x1": 28,
+            "y1": 1525,
+            "x2": 1671,
+            "y2": 1688
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "बिधि जौन रच्यो अस रूप उमा,गुण शील",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_11.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 1673,
+            "x2": 1671,
+            "y2": 1823
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सुभाव भली सुकुमारी । कस सो बरसे अस",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_12.png",
+        "bounding_box": {
+            "x1": 14,
+            "y1": 1822,
+            "x2": 1667,
+            "y2": 1970
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "ब्याह लिख्यो, बिधि बुद्धिबड़ी अहही कु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_13.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 1963,
+            "x2": 1667,
+            "y2": 2127
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "बिचारी १९ सप्तऋषी सह नारदजू, तिहि",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_14.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 2110,
+            "x2": 1671,
+            "y2": 2275
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "औसर आये हिमाचल गेहा । हालसुनी",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_15.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2256,
+            "x2": 1659,
+            "y2": 2420
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "समुझावत लोगन, पूर्बकथा शिव गौरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_16.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 2409,
+            "x2": 1706,
+            "y2": 2570
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "११ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_11_textline_17.png",
+        "bounding_box": {
+            "x1": 1514,
+            "y1": 187,
+            "x2": 1676,
+            "y2": 339
+        }
+    }
+]

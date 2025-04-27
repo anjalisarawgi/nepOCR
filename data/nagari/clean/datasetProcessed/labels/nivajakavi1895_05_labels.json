@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "(५)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_1.png",
+        "bounding_box": {
+            "x1": 1042,
+            "y1": 228,
+            "x2": 1425,
+            "y2": 398
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "द्योसनि में फिरि आवतु हों तब लों तुम आनन्द सों",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_2.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 351,
+            "x2": 2337,
+            "y2": 541
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "रहियो २५ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_3.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 525,
+            "x2": 728,
+            "y2": 712
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "दिनन में ॥ आश्रम कोउ अतीत जो आवे । ताकों आ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_4.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 819,
+            "x2": 2333,
+            "y2": 988
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दर निपट दिवावे ॥ पासहि के तंदुल गहि ध्यावे । मृग",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_5.png",
+        "bounding_box": {
+            "x1": 137,
+            "y1": 970,
+            "x2": 2365,
+            "y2": 1141
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "छौननि कों आनि खवावे ॥ पानी भरि मूलनि ढरकावे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_6.png",
+        "bounding_box": {
+            "x1": 156,
+            "y1": 1125,
+            "x2": 2380,
+            "y2": 1290
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "छोटे छोटे द्रुमनि बढ़ावे ॥ सोई करै जो यह कछुभाखै ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_7.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 1264,
+            "x2": 2333,
+            "y2": 1446
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जियतें अधिक गौतमी राखे ॥ शकुन्तला को सुख बहु",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_8.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1426,
+            "x2": 2358,
+            "y2": 1582
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "चाहति । दोऊ सखियन सँग में राखति ॥ बालबैस बहु",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_9.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 1566,
+            "x2": 2330,
+            "y2": 1732
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "द्योस बिताई । झलकनि लगी कछुक तरुणाई २६ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_10.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1716,
+            "x2": 2310,
+            "y2": 1890
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "लगी ॥ अंगनि में आई तरुणाई की झलक लरिकाई",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_11.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 2312,
+            "x2": 2337,
+            "y2": 2494
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "अब देह तें हरें हरें कढ़नलगी । होन लागी कटिया",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_12.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 2470,
+            "x2": 2387,
+            "y2": 2626
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "वचटिकें छला सी ह्वैज चन्द्र की कला सी तन दीपति",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_13.png",
+        "bounding_box": {
+            "x1": 160,
+            "y1": 2617,
+            "x2": 2370,
+            "y2": 2790
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "बढ़न लगी २७ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_14.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 2791,
+            "x2": 941,
+            "y2": 2946
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "लागी रहन बाप बिन बनमें । भई उदासी कछुक",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_15.png",
+        "bounding_box": {
+            "x1": 299,
+            "y1": 665,
+            "x2": 2341,
+            "y2": 841
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "घनाक्षरी । बिसरन लागो बालापनको अयनप सखिन",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_16.png",
+        "bounding_box": {
+            "x1": 237,
+            "y1": 1875,
+            "x2": 2357,
+            "y2": 2037
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "सों सयानप की बतियां गढ़न लगी । दृगलगि तिरीछे",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_17.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 2014,
+            "x2": 2337,
+            "y2": 2184
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "चलनि पग मन्द लागे उर में कछुक उसांसे सी चढ़न",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_18.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 2169,
+            "x2": 2345,
+            "y2": 2328
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "चौपाई । बनहू मैं नहिं दुरति दुराई । शकुन्तलाकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_19.png",
+        "bounding_box": {
+            "x1": 284,
+            "y1": 2915,
+            "x2": 2386,
+            "y2": 3088
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "सुन्दरताई ॥ जनु बिरंचि कर आपु बनाई । देखे तें मन",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_20.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 3074,
+            "x2": 2349,
+            "y2": 3234
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "सुधा सिराई । वह उपमा बरणी नहिं जाई । पूर्व कथा",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_21.png",
+        "bounding_box": {
+            "x1": 179,
+            "y1": 3197,
+            "x2": 2353,
+            "y2": 3394
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "भारत में गाई २८ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_22.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 3375,
+            "x2": 1149,
+            "y2": 3541
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "घनाक्षरी । मृग के चर्म ही को पहिरैंदुकूल और",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_23.png",
+        "bounding_box": {
+            "x1": 311,
+            "y1": 3503,
+            "x2": 2349,
+            "y2": 3679
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "गहने की कहा है न गरे में जाकें पोति है । तोऊ जाके",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_24.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 3669,
+            "x2": 2364,
+            "y2": 3823
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "अंग अंग रूपके तरंग उठें सुन्दर अनंग मानों अगनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_25.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 3816,
+            "x2": 2357,
+            "y2": 3979
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "की सोति है ॥ देह में निवाज ज्यों ज्यों जोबन बढ़त ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_05_textline_26.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 3963,
+            "x2": 2368,
+            "y2": 4137
+        }
+    }
+]

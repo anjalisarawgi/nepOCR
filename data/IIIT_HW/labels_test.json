@@ -1,0 +1,3950 @@
+[
+  {
+    "image_path": "IIT_HW_word/test/images/9_130_19.jpg",
+    "label": "खिदमत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_52_29.jpg",
+    "label": "दिग्दर्शन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_86_38.jpg",
+    "label": "अंश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_35.jpg",
+    "label": "दहाड़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_33_8.jpg",
+    "label": "उपस्थिति"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_65_11.jpg",
+    "label": "इंजेक्शन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_49_1.jpg",
+    "label": "नेताओ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_113_16.jpg",
+    "label": "बर्बर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_19.jpg",
+    "label": "अहंकारी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_65_13.jpg",
+    "label": "बडे़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_20.jpg",
+    "label": "कांस्टेबल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_10_20.jpg",
+    "label": "मण्डली"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_10_1.jpg",
+    "label": "आरुषी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_63_10.jpg",
+    "label": "पोस्तेड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_127_16.jpg",
+    "label": "खासकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_93_23.jpg",
+    "label": "राहुल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_13.jpg",
+    "label": "आदर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_76_36.jpg",
+    "label": "सुशांत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_3_31.jpg",
+    "label": "चंडीगढ़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_17_19.jpg",
+    "label": "करुणासम्पन्न"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_37_5.jpg",
+    "label": "बारह-चौदह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_10_27.jpg",
+    "label": "दर्शाते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_65_22.jpg",
+    "label": "हारुन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_35_13.jpg",
+    "label": "उपसमिति"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_3.jpg",
+    "label": "यच्छ्रेय"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_102_32.jpg",
+    "label": "बनइ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_30_26.jpg",
+    "label": "पहनकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_103_12.jpg",
+    "label": "एक्टिंग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_34.jpg",
+    "label": "जाड़ों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_38.jpg",
+    "label": "धोखेबाज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_111_33.jpg",
+    "label": "बोध"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_35_37.jpg",
+    "label": "हॅसी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_100_7.jpg",
+    "label": "बंबई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_8.jpg",
+    "label": "खुशदीप"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_19_4.jpg",
+    "label": "क्लीन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_1_23.jpg",
+    "label": "आराम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_38_10.jpg",
+    "label": "लोकसभा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_6.jpg",
+    "label": "घूम-फिर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_73_38.jpg",
+    "label": "वृन्दावन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_127_31.jpg",
+    "label": "फएलुन।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_3_35.jpg",
+    "label": "उतारता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_19.jpg",
+    "label": "स्टाफिंग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_3.jpg",
+    "label": "संबंधियो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_49_23.jpg",
+    "label": "नीतीश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_132_3.jpg",
+    "label": "चावेज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_131_29.jpg",
+    "label": "बर्फ़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_70_26.jpg",
+    "label": "लग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_30_21.jpg",
+    "label": "तलाष"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_58_26.jpg",
+    "label": "फ़ुलेले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_19_32.jpg",
+    "label": "जिंहोने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_45_33.jpg",
+    "label": "हौली"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_114_35.jpg",
+    "label": "चाहें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_48_24.jpg",
+    "label": "असमय"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_92_22.jpg",
+    "label": "जेटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_56_3.jpg",
+    "label": "टच"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_112_29.jpg",
+    "label": "स्वप्न"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_108_32.jpg",
+    "label": "विरासत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_49_25.jpg",
+    "label": "प्राचीनं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_16.jpg",
+    "label": "नेक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_11.jpg",
+    "label": "चलाते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_27_32.jpg",
+    "label": "जिंहोने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_55_30.jpg",
+    "label": "जागते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_141_32.jpg",
+    "label": "बोरियत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_110_6.jpg",
+    "label": "शूद्रादि-अतिशूद्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_110_7.jpg",
+    "label": "जरूरीः"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_10_16.jpg",
+    "label": "सुदेव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_143_14.jpg",
+    "label": "शिल्पीजी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_12_30.jpg",
+    "label": "एवं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_79_37.jpg",
+    "label": "रिस्पेक्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_39.jpg",
+    "label": "भ्रम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_11_3.jpg",
+    "label": "नज़ारा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_2_19.jpg",
+    "label": "दायमा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_117_17.jpg",
+    "label": "प्वाइंट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_16_11.jpg",
+    "label": "परमब्रह्म"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_5.jpg",
+    "label": "सूचकांक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_23.jpg",
+    "label": "४०"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_7.jpg",
+    "label": "अवतार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_5.jpg",
+    "label": "कृतियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_139_3.jpg",
+    "label": "संकुचित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_84_13.jpg",
+    "label": "देखते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_120_3.jpg",
+    "label": "आलोचनात्मक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_6_25.jpg",
+    "label": "परे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_11_18.jpg",
+    "label": "अवसरों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_26_11.jpg",
+    "label": "जगदीश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_5_19.jpg",
+    "label": "रिकॉर्ड्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_115_18.jpg",
+    "label": "अँग्रेजी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_3.jpg",
+    "label": "लगता।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_5_26.jpg",
+    "label": "बंद।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_21.jpg",
+    "label": "अगर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_45_1.jpg",
+    "label": "महाकाव्य"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_106_6.jpg",
+    "label": "रचनाकारों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_31.jpg",
+    "label": "पंडितों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_23_29.jpg",
+    "label": "ख़ैराबादी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_1_38.jpg",
+    "label": "कृत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_108_8.jpg",
+    "label": "कारणों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_20_19.jpg",
+    "label": "मेगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_11.jpg",
+    "label": "विश्वा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_27_27.jpg",
+    "label": "स्टानफोर्ड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_106_12.jpg",
+    "label": "जैन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_113_20.jpg",
+    "label": "फिरोज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_56_1.jpg",
+    "label": "संक्षेप"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_14.jpg",
+    "label": "डिजिटल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_104_31.jpg",
+    "label": "दीक्षित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_57_34.jpg",
+    "label": "समक्ष"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_80_9.jpg",
+    "label": "कर्मकांड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_2.jpg",
+    "label": "गठित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_39_20.jpg",
+    "label": "रन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_115_31.jpg",
+    "label": "आधुनिकीकरण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_29.jpg",
+    "label": "सहिष्णु"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_143_33.jpg",
+    "label": "ढ़ाई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_31.jpg",
+    "label": "सैल्यूलर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_30_11.jpg",
+    "label": "पैक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_9.jpg",
+    "label": "अस्पष्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_77_33.jpg",
+    "label": "चित्रशाला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_38.jpg",
+    "label": "हूगो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_35_35.jpg",
+    "label": "विवाहित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_5.jpg",
+    "label": "खिलाफत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_76_24.jpg",
+    "label": "स्वामिभक्ति"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_40_7.jpg",
+    "label": "मानेसर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_4_20.jpg",
+    "label": "पड़ी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_101_8.jpg",
+    "label": "उतुंग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_31.jpg",
+    "label": "शंकरदेव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_122_33.jpg",
+    "label": "साफ-सफाई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_42_37.jpg",
+    "label": "हकदार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_5_24.jpg",
+    "label": "सम्बंधित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_27.jpg",
+    "label": "जलेस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_32.jpg",
+    "label": "हरीश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_33.jpg",
+    "label": "गुरुदेव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_51_35.jpg",
+    "label": "दूतावास"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_4.jpg",
+    "label": "होगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_18_29.jpg",
+    "label": "नासिर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_20_32.jpg",
+    "label": "मस्तिष्क"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_93_20.jpg",
+    "label": "ग्यारह-साढे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_99_19.jpg",
+    "label": "है-जिसका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_27_3.jpg",
+    "label": "महंगार्इ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_127_20.jpg",
+    "label": "धमकाया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_14.jpg",
+    "label": "सहस्त्रों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_13_4.jpg",
+    "label": "ओक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_115_3.jpg",
+    "label": "लक्ष्मी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_84_26.jpg",
+    "label": "रीढ़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_38.jpg",
+    "label": "मिथाइल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_27.jpg",
+    "label": "भटका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_126_1.jpg",
+    "label": "३"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_132_20.jpg",
+    "label": "दिवंगत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_21.jpg",
+    "label": "करीब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_12_28.jpg",
+    "label": "सारिका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_110_14.jpg",
+    "label": "चेन्नेई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_98_13.jpg",
+    "label": "खुले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_22.jpg",
+    "label": "मध्यवर्ग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_33.jpg",
+    "label": "आतीं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_17.jpg",
+    "label": "चलना।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_7.jpg",
+    "label": "शहर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_15_32.jpg",
+    "label": "इंतज़ार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_24_6.jpg",
+    "label": "रूपरेखा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_51_34.jpg",
+    "label": "तालाबों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_135_19.jpg",
+    "label": "निवृत्त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_126_22.jpg",
+    "label": "भेजते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_24.jpg",
+    "label": "पड़कर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_15_13.jpg",
+    "label": "नसबंदी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_74_7.jpg",
+    "label": "सन्नाटे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_46_25.jpg",
+    "label": "पधारें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_118_20.jpg",
+    "label": "मौलिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_24.jpg",
+    "label": "लच्छेदार-आलंकारिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_131_23.jpg",
+    "label": "सेवाऍं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_91_26.jpg",
+    "label": "बेचूँगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_39_19.jpg",
+    "label": "प्रंशसा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_43_13.jpg",
+    "label": "महिलाओ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_26_23.jpg",
+    "label": "सटिकतम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_9_22.jpg",
+    "label": "सकता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_135_28.jpg",
+    "label": "जायेगी।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_29_8.jpg",
+    "label": "मद्देनज़र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_92_36.jpg",
+    "label": "झपकाए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_33.jpg",
+    "label": "आतीं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_3_20.jpg",
+    "label": "रविकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_66_36.jpg",
+    "label": "१९"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_16_6.jpg",
+    "label": "खटखटाया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_38_15.jpg",
+    "label": "नर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_10_28.jpg",
+    "label": "भूलती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_119_5.jpg",
+    "label": "विश्लेषकों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_58_3.jpg",
+    "label": "तबादले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_21_34.jpg",
+    "label": "ठहरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_120_23.jpg",
+    "label": "लिपट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_68_21.jpg",
+    "label": "पंचाग्नि"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_22.jpg",
+    "label": "निर्धानों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_23.jpg",
+    "label": "शुदनी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_108_18.jpg",
+    "label": "सुरिंदर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_109_9.jpg",
+    "label": "अलीशा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_33.jpg",
+    "label": "संचालकों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_24_30.jpg",
+    "label": "कलाकारों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_45_4.jpg",
+    "label": "आदिकाल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_52_2.jpg",
+    "label": "करने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_37.jpg",
+    "label": "घराने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_29_24.jpg",
+    "label": "विलिस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_24.jpg",
+    "label": "ओरिजन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_46_29.jpg",
+    "label": "धारायें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_126_10.jpg",
+    "label": "अपहरणकर्ताओं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_128_26.jpg",
+    "label": "सोचें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_117_8.jpg",
+    "label": "खंडहर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_58_6.jpg",
+    "label": "नाग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_27_24.jpg",
+    "label": "वजहों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_53_28.jpg",
+    "label": "जायेंगे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_15.jpg",
+    "label": "डिबेट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_109_12.jpg",
+    "label": "जीनों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_130_38.jpg",
+    "label": "मसौदे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_10_15.jpg",
+    "label": "परफॉर्मेंस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_121_36.jpg",
+    "label": "उपाध्याय"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_114_15.jpg",
+    "label": "राजेयाना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_13.jpg",
+    "label": "राधा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_99_28.jpg",
+    "label": "ज़िम्मेदारी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_11_17.jpg",
+    "label": "मुड़े"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_130_9.jpg",
+    "label": "न्योता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_128_32.jpg",
+    "label": "हत्याएं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_40.jpg",
+    "label": "बच्चें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_107_33.jpg",
+    "label": "फोल्लोवर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_23_5.jpg",
+    "label": "भेड़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_37.jpg",
+    "label": "सल्ल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_55_31.jpg",
+    "label": "बाल-बाल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_3_22.jpg",
+    "label": "आंकड़े"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_17.jpg",
+    "label": "खच॔"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_43_37.jpg",
+    "label": "कुछपल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_3.jpg",
+    "label": "जताई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_35.jpg",
+    "label": "एक्जीक्यूटिव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_105_28.jpg",
+    "label": "टीपीए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_40_13.jpg",
+    "label": "करते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_11.jpg",
+    "label": "उछलने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_30_18.jpg",
+    "label": "परेश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_29.jpg",
+    "label": "विराजमान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_73_28.jpg",
+    "label": "अय्याशी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_58_7.jpg",
+    "label": "खुशु"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_46_10.jpg",
+    "label": "गेस्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_25_13.jpg",
+    "label": "अराजकता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_106_18.jpg",
+    "label": "किग्रा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_33.jpg",
+    "label": "मदनवर्मन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_134_16.jpg",
+    "label": "जनहित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_17.jpg",
+    "label": "बबीता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_37_20.jpg",
+    "label": "जानेवाला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_100_11.jpg",
+    "label": "रौब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_29_6.jpg",
+    "label": "कुमकुम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_21.jpg",
+    "label": "सेमी-फॉर्मल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_71_30.jpg",
+    "label": "झगडे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_48_32.jpg",
+    "label": "उज्ञल्तऌार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_10_3.jpg",
+    "label": "हटता।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_65_7.jpg",
+    "label": "हाथो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_126_8.jpg",
+    "label": "स्ट्रिपटीज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_126_5.jpg",
+    "label": "लौड़े"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_54_24.jpg",
+    "label": "सिलवट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_95_17.jpg",
+    "label": "शस्त्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_100_18.jpg",
+    "label": "नवंबर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_55_26.jpg",
+    "label": "वीपी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_120_1.jpg",
+    "label": "सामरिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_111_30.jpg",
+    "label": "कुष्ठ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_115_8.jpg",
+    "label": "बगीचों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_43_14.jpg",
+    "label": "गंवाई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_19_18.jpg",
+    "label": "पहुंचा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_26_5.jpg",
+    "label": "गौ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_8.jpg",
+    "label": "पफोटो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_132_29.jpg",
+    "label": "नुस्खा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_56_38.jpg",
+    "label": "उल्लिखित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_131_16.jpg",
+    "label": "ता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_28_6.jpg",
+    "label": "निभाई।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_34_38.jpg",
+    "label": "वार्मिग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_133_36.jpg",
+    "label": "बीए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_38_5.jpg",
+    "label": "बढ़ाकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_104_23.jpg",
+    "label": "जैव-प्रौद्योगिकी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_114_29.jpg",
+    "label": "भर्ती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_52_21.jpg",
+    "label": "खोकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_130_13.jpg",
+    "label": "कन्धों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_42_22.jpg",
+    "label": "हमारे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_109_10.jpg",
+    "label": "जायें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_40_28.jpg",
+    "label": "ट्रेक्टर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_34_26.jpg",
+    "label": "खंड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_104_24.jpg",
+    "label": "साधारण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_79_30.jpg",
+    "label": "सहूलियत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_134_12.jpg",
+    "label": "समस्तीपुरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_17.jpg",
+    "label": "कनिष्क"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_105_4.jpg",
+    "label": "परसादी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_22.jpg",
+    "label": "सिमटते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_13_16.jpg",
+    "label": "विशिष्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_18_19.jpg",
+    "label": "शाहनवाज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_65_27.jpg",
+    "label": "नाचो।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_29.jpg",
+    "label": "द्रष्टा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_93_14.jpg",
+    "label": "बच्ची"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_71_22.jpg",
+    "label": "मध्य-मार्ग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_1.jpg",
+    "label": "बस्तियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_112_39.jpg",
+    "label": "अच्छा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_71_32.jpg",
+    "label": "अमृतस्य"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_106_37.jpg",
+    "label": "साँझे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_2_40.jpg",
+    "label": "सिद्व"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_32.jpg",
+    "label": "हाजी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_38_8.jpg",
+    "label": "निवृत्ति"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_73_27.jpg",
+    "label": "वैन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_32.jpg",
+    "label": "क्यूबा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_39.jpg",
+    "label": "पड़ेगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_6_34.jpg",
+    "label": "रामानुज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_94_15.jpg",
+    "label": "गंभीरता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_53_1.jpg",
+    "label": "कसते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_50_10.jpg",
+    "label": "लक्ष्मीकांत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_13.jpg",
+    "label": "शरुआत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_104_27.jpg",
+    "label": "सह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_19.jpg",
+    "label": "रुम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_14_24.jpg",
+    "label": "अजीब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_21.jpg",
+    "label": "बीमारियां"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_3_5.jpg",
+    "label": "रंगे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_50_14.jpg",
+    "label": "खलवे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_21_13.jpg",
+    "label": "लखनऊ।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_30.jpg",
+    "label": "प्लेटफ़ार्म"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_37_31.jpg",
+    "label": "ऐश्वर्या"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_124_17.jpg",
+    "label": "अकड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_34_35.jpg",
+    "label": "संकीर्ण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_6_11.jpg",
+    "label": "क़रीब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_144_14.jpg",
+    "label": "लटक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_38.jpg",
+    "label": "ऑडेन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_64_20.jpg",
+    "label": "प्रतिनिधियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_35.jpg",
+    "label": "अश्लील"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_33_31.jpg",
+    "label": "रहिये।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_134_17.jpg",
+    "label": "बैंकों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_102_10.jpg",
+    "label": "प्रार्थना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_8.jpg",
+    "label": "तन्ज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_49_13.jpg",
+    "label": "ट्रैवलर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_19_38.jpg",
+    "label": "२"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_58_38.jpg",
+    "label": "टसर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_23_29.jpg",
+    "label": "महायुद्ध"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_6.jpg",
+    "label": "बताते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_40.jpg",
+    "label": "अनुप"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_104_21.jpg",
+    "label": "खिताब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_86_15.jpg",
+    "label": "औरतें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_28_28.jpg",
+    "label": "कंस्ट्रक्सन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_15_35.jpg",
+    "label": "गुना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_50_7.jpg",
+    "label": "परनिंदा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_40_8.jpg",
+    "label": "चुमकी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_29.jpg",
+    "label": "सीखे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_31_10.jpg",
+    "label": "बंदिश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_24_35.jpg",
+    "label": "छोड़ने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_128_10.jpg",
+    "label": "अदब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_102_26.jpg",
+    "label": "दिखावा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_131_22.jpg",
+    "label": "तेलुगू"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_124_24.jpg",
+    "label": "रेड्डी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_93_31.jpg",
+    "label": "स्ट्रोक्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_78_1.jpg",
+    "label": "बहनों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_14.jpg",
+    "label": "सन्यास"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_6_20.jpg",
+    "label": "अँधेरों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_53_34.jpg",
+    "label": "तालाबों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_115_18.jpg",
+    "label": "मिलनी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_29_26.jpg",
+    "label": "नायकों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_123_36.jpg",
+    "label": "पृथ्वीराज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_32.jpg",
+    "label": "दिखने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_108_38.jpg",
+    "label": "मेस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_24.jpg",
+    "label": "पदाधिकारियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_35_16.jpg",
+    "label": "सुविधानुसार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_125_33.jpg",
+    "label": "लडक़े"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_28.jpg",
+    "label": "गोलाबारी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_30.jpg",
+    "label": "पलड़ा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_16.jpg",
+    "label": "केवल--जीवन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_15_17.jpg",
+    "label": "फोटोग्राफी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_40.jpg",
+    "label": "लेडीज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_111_21.jpg",
+    "label": "फटती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_52_34.jpg",
+    "label": "अती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_103_20.jpg",
+    "label": "बरामदे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_76_29.jpg",
+    "label": "गिराए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_29_17.jpg",
+    "label": "शस्त्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_30.jpg",
+    "label": "कहनी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_103_1.jpg",
+    "label": "व्यथा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_23.jpg",
+    "label": "छोटूराम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_49_2.jpg",
+    "label": "कारणवश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_17_13.jpg",
+    "label": "कार्यक्त्रम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_96_28.jpg",
+    "label": "जाएगी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_10_32.jpg",
+    "label": "खुचा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_28_32.jpg",
+    "label": "पवित्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_120_14.jpg",
+    "label": "समझाया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_82_17.jpg",
+    "label": "टायर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_50_16.jpg",
+    "label": "क्रेच"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_2_8.jpg",
+    "label": "ऊर्जा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_109_37.jpg",
+    "label": "नसरीन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_102_2.jpg",
+    "label": "ब्रांडेड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_12_3.jpg",
+    "label": "री"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_12_22.jpg",
+    "label": "प्रह्लाद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_7_37.jpg",
+    "label": "टंकित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_43_13.jpg",
+    "label": "दूसरे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_104_24.jpg",
+    "label": "कोला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_129_21.jpg",
+    "label": "भीद्ध"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_117_4.jpg",
+    "label": "गया।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_108_11.jpg",
+    "label": "लगे।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_25_25.jpg",
+    "label": "बैरिस्टर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_29.jpg",
+    "label": "विलेन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_27.jpg",
+    "label": "ऐक्सिस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_24_9.jpg",
+    "label": "मेंबर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_13.jpg",
+    "label": "शान्ति"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_35.jpg",
+    "label": "तप"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_18.jpg",
+    "label": "कटे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_11_3.jpg",
+    "label": "धारण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_44_2.jpg",
+    "label": "उसकी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_7_21.jpg",
+    "label": "उतावला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_2_35.jpg",
+    "label": "कपड़ों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_49_21.jpg",
+    "label": "जूझता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_114_31.jpg",
+    "label": "बेबाकी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_1.jpg",
+    "label": "बैठना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_33.jpg",
+    "label": "तस्दीक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_12.jpg",
+    "label": "टॉम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_16.jpg",
+    "label": "माइंड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_30.jpg",
+    "label": "शाला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_9.jpg",
+    "label": "महिलायें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_37_10.jpg",
+    "label": "माला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_20_23.jpg",
+    "label": "नामजद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_51_33.jpg",
+    "label": "श्रीसंत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_12.jpg",
+    "label": "कसा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_14.jpg",
+    "label": "गाइड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_12_10.jpg",
+    "label": "जज्बाजी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_27.jpg",
+    "label": "रवीन्द्रनाथ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_39.jpg",
+    "label": "दैन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_1_1.jpg",
+    "label": "ड्रेसेस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_65_6.jpg",
+    "label": "लाइंस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_98_35.jpg",
+    "label": "जाकिर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_18.jpg",
+    "label": "झोपङीं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_6.jpg",
+    "label": "मैकेनिकल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_108_35.jpg",
+    "label": "शनिवार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_28_12.jpg",
+    "label": "जूनूनी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_14.jpg",
+    "label": "जाले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_42_20.jpg",
+    "label": "जुड़ी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_123_11.jpg",
+    "label": "जिंदा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_34.jpg",
+    "label": "फिरता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_44_21.jpg",
+    "label": "शहादत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_13_30.jpg",
+    "label": "हेतु"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_139_33.jpg",
+    "label": "एंगल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_75_9.jpg",
+    "label": "साल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_112_4.jpg",
+    "label": "सुलभता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_6_7.jpg",
+    "label": "प्रभुता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_12_4.jpg",
+    "label": "मोड़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_39_27.jpg",
+    "label": "वृन्द"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_125_34.jpg",
+    "label": "उड़ता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_10_8.jpg",
+    "label": "नकारते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_39_3.jpg",
+    "label": "अभ्यावेदनों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_11_11.jpg",
+    "label": "चढ़ने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_129_9.jpg",
+    "label": "पाओ।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_25_3.jpg",
+    "label": "ब्यूरो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_10.jpg",
+    "label": "त्वचाएं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_139_34.jpg",
+    "label": "उठाती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_107_24.jpg",
+    "label": "प्रवर्तक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_32_22.jpg",
+    "label": "बचा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_13_38.jpg",
+    "label": "डॉ॰"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_123_6.jpg",
+    "label": "हैरान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_66_40.jpg",
+    "label": "जर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_116_16.jpg",
+    "label": "ओस्लो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_31.jpg",
+    "label": "जोड़े"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_38.jpg",
+    "label": "आयी।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_5.jpg",
+    "label": "धधकते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_17.jpg",
+    "label": "देखिएगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_36.jpg",
+    "label": "मस्त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_129_6.jpg",
+    "label": "जनसुरक्षा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_14.jpg",
+    "label": "उत्तराखण्ड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_5_7.jpg",
+    "label": "पारम्परिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_70_29.jpg",
+    "label": "शोधकर्ताओं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_88_39.jpg",
+    "label": "फ्राँस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_116_6.jpg",
+    "label": "पीके"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_51_14.jpg",
+    "label": "बुधोबरकत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_31.jpg",
+    "label": "लठ्ठ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_118_27.jpg",
+    "label": "लगायी।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_24.jpg",
+    "label": "दिये।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_48_12.jpg",
+    "label": "अबसार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_120_27.jpg",
+    "label": "नियोजित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_39_9.jpg",
+    "label": "सादे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_36.jpg",
+    "label": "नाता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_72_21.jpg",
+    "label": "पत्ता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_15.jpg",
+    "label": "नवरात्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_34_9.jpg",
+    "label": "आपदा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_54_14.jpg",
+    "label": "मानुष-सत्ता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_23.jpg",
+    "label": "दर्शाई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_141_6.jpg",
+    "label": "शौहर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_100_14.jpg",
+    "label": "सोच"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_5_8.jpg",
+    "label": "निरीह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_48_19.jpg",
+    "label": "इकाइयां"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_103_6.jpg",
+    "label": "माहेश्वर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_14_31.jpg",
+    "label": "बाप-बेटे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_132_15.jpg",
+    "label": "धरना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_95_31.jpg",
+    "label": "आधुनिकीकरण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_48_36.jpg",
+    "label": "कृतज्ञ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_113_2.jpg",
+    "label": "महादलित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_68_10.jpg",
+    "label": "धड़े"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_5_30.jpg",
+    "label": "टंग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_31_2.jpg",
+    "label": "सुलगते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_17_24.jpg",
+    "label": "रामकृष्ण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_97_8.jpg",
+    "label": "चाहिए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_21_9.jpg",
+    "label": "महकी-महकी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_95_10.jpg",
+    "label": "गाड़ियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_44_27.jpg",
+    "label": "भगवन्नाम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_42_5.jpg",
+    "label": "अपराधों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_122_11.jpg",
+    "label": "कमर्शियल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_55_28.jpg",
+    "label": "आख़िर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_112_37.jpg",
+    "label": "मूंह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_30.jpg",
+    "label": "राष्ट्रीय-सामाजिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_52_5.jpg",
+    "label": "ठो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_28_22.jpg",
+    "label": "सर्वोच्चतम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_22_30.jpg",
+    "label": "भाजपा-कांग्रेस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_126_33.jpg",
+    "label": "पुस्तक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_48_27.jpg",
+    "label": "गुनी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_39_20.jpg",
+    "label": "मनीषा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_106_17.jpg",
+    "label": "फोडता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_10.jpg",
+    "label": "लार्ड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_12.jpg",
+    "label": "टक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_98_32.jpg",
+    "label": "नामुमकिन-सा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_114_29.jpg",
+    "label": "अख्तर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_2_8.jpg",
+    "label": "सत्ता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_77_3.jpg",
+    "label": "नामौजूद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_1_33.jpg",
+    "label": "रोमांस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_116_17.jpg",
+    "label": "यूनिवॢसटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_128_38.jpg",
+    "label": "नासमझी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_129_13.jpg",
+    "label": "भारतके"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_8.jpg",
+    "label": "बीओटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_103_4.jpg",
+    "label": "रंगरेजवा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_32_12.jpg",
+    "label": "फासीवाद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_141_33.jpg",
+    "label": "बैठक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_88_15.jpg",
+    "label": "आँखें।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_29_2.jpg",
+    "label": "धुर्लीपार्ली"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_101_20.jpg",
+    "label": "सब्जियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_17_34.jpg",
+    "label": "चिपका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_43_38.jpg",
+    "label": "अश्वघोष"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_56_31.jpg",
+    "label": "रिहा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_61_20.jpg",
+    "label": "फौजी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_25_13.jpg",
+    "label": "दशमी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_11_28.jpg",
+    "label": "प्रतिभावान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_30_10.jpg",
+    "label": "जिन्दा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_17.jpg",
+    "label": "कालिदास"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_115_10.jpg",
+    "label": "व्याख्याओं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_13.jpg",
+    "label": "एशिया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_23_22.jpg",
+    "label": "हितके"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_30.jpg",
+    "label": "स्किल्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_109_6.jpg",
+    "label": "घटनाएं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_18_3.jpg",
+    "label": "नेक्सस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_89_34.jpg",
+    "label": "प्रेरक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_7.jpg",
+    "label": "दिशाहीनता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_40_8.jpg",
+    "label": "मसीही"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_125_31.jpg",
+    "label": "विवेकके"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_22_32.jpg",
+    "label": "कश्यप"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_126_1.jpg",
+    "label": "मर्म"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_119_10.jpg",
+    "label": "पोस्टमार्टम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_80_1.jpg",
+    "label": "डाकण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_11.jpg",
+    "label": "लिपिबद्ध"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_104_25.jpg",
+    "label": "पधारें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_1.jpg",
+    "label": "फैज़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_9_26.jpg",
+    "label": "पालन-पोषण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_87_17.jpg",
+    "label": "अभावग्रस्त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_34.jpg",
+    "label": "अवस्था"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_10.jpg",
+    "label": "पौन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_18_5.jpg",
+    "label": "लगाऒये"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_19_25.jpg",
+    "label": "सवेरे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_10_37.jpg",
+    "label": "निर्भरता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_18.jpg",
+    "label": "अतारांकित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_36.jpg",
+    "label": "मंदी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_116_23.jpg",
+    "label": "त्र्यंबकेश्वर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_26_6.jpg",
+    "label": "अधीनस्थ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_123_9.jpg",
+    "label": "मर्डर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_13.jpg",
+    "label": "पोसने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_19.jpg",
+    "label": "हज़ारों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_106_26.jpg",
+    "label": "मिलीं।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_18.jpg",
+    "label": "संचालक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_81_3.jpg",
+    "label": "जन्मा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_31_22.jpg",
+    "label": "सीता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_17_6.jpg",
+    "label": "लब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_6.jpg",
+    "label": "ऊपरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_27.jpg",
+    "label": "छोटे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_19.jpg",
+    "label": "मैथिल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_49_23.jpg",
+    "label": "बल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_62_11.jpg",
+    "label": "सुगमता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_37.jpg",
+    "label": "अनुराधा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_35.jpg",
+    "label": "थी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_18.jpg",
+    "label": "चार्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_8_2.jpg",
+    "label": "री"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_11_28.jpg",
+    "label": "सनातन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_16_37.jpg",
+    "label": "कोटा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_106_8.jpg",
+    "label": "तवील"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_14_8.jpg",
+    "label": "रथ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_13.jpg",
+    "label": "लखनऊ।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_42_35.jpg",
+    "label": "तड़के"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_58_37.jpg",
+    "label": "पिताश्री"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_24.jpg",
+    "label": "परिणत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_24_7.jpg",
+    "label": "लोमता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_26.jpg",
+    "label": "रॊक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_1.jpg",
+    "label": "वडनेरकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_4.jpg",
+    "label": "गलते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_60_35.jpg",
+    "label": "पेय"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_16.jpg",
+    "label": "सुलगाने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_22_4.jpg",
+    "label": "टीचर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_90_9.jpg",
+    "label": "बजी।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_6.jpg",
+    "label": "समर्पित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_6.jpg",
+    "label": "सेव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_122_7.jpg",
+    "label": "बीतते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_6_29.jpg",
+    "label": "बिरली"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_20_12.jpg",
+    "label": "बहु-विवाह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_122_12.jpg",
+    "label": "निष्कासन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_6_34.jpg",
+    "label": "फ़ुल्लम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_57_27.jpg",
+    "label": "गौतमी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_94_4.jpg",
+    "label": "झांकने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_122_12.jpg",
+    "label": "निकलेगा।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_28_21.jpg",
+    "label": "शिष्टाचारपूर्वक।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_14_5.jpg",
+    "label": "रंगे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_12_26.jpg",
+    "label": "अनुष्का"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_27.jpg",
+    "label": "हममें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_97_2.jpg",
+    "label": "विपुल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_90_24.jpg",
+    "label": "गैलरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_111_12.jpg",
+    "label": "गौरवमयी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_125_7.jpg",
+    "label": "लादा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_86_24.jpg",
+    "label": "समझाते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_12_37.jpg",
+    "label": "बॉक्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_76_28.jpg",
+    "label": "स्व"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_35.jpg",
+    "label": "जुडे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_31_23.jpg",
+    "label": "नज़्म"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_30_19.jpg",
+    "label": "अरोद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_47_12.jpg",
+    "label": "छुईपाली"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_35_36.jpg",
+    "label": "मस्त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_116_13.jpg",
+    "label": "चूड़ी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_23.jpg",
+    "label": "चिपडे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_60_29.jpg",
+    "label": "खरमिटाव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_40_9.jpg",
+    "label": "विश्वासोत्पादक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_46_12.jpg",
+    "label": "गैर-तेल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_37.jpg",
+    "label": "नयी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_18.jpg",
+    "label": "बासी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_42_7.jpg",
+    "label": "भतीजे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_2.jpg",
+    "label": "टाटा-बिड़ला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_8_23.jpg",
+    "label": "खींचना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_97_29.jpg",
+    "label": "नवसंचार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_69_8.jpg",
+    "label": "हर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_43_25.jpg",
+    "label": "चार-पांच"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_30.jpg",
+    "label": "जहाज़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_73_12.jpg",
+    "label": "कल्पनाओं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_6_4.jpg",
+    "label": "प्रदाता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_47_29.jpg",
+    "label": "उत्क्रष्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_33_26.jpg",
+    "label": "रॊक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_32.jpg",
+    "label": "संभाले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_27.jpg",
+    "label": "सुपरवाइजरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_18_23.jpg",
+    "label": "लूक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_95_22.jpg",
+    "label": "जलाई"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_69_26.jpg",
+    "label": "हैॽ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_13_35.jpg",
+    "label": "सँसद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_39_35.jpg",
+    "label": "मौसी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_47_5.jpg",
+    "label": "भौतकशास्त्रियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_21.jpg",
+    "label": "बंगलौर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_12.jpg",
+    "label": "गाम्भीर्य"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_32_32.jpg",
+    "label": "फ़ायरफ़ॉक्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_32_33.jpg",
+    "label": "नोटिस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_13.jpg",
+    "label": "मिठाइयाँ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_103_16.jpg",
+    "label": "मास्को"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_139_4.jpg",
+    "label": "टकोण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_20.jpg",
+    "label": "निरक्षरों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_16_3.jpg",
+    "label": "थू।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_128_29.jpg",
+    "label": "आधार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_29_30.jpg",
+    "label": "सजसंवर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_37_23.jpg",
+    "label": "ॠषि"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_140_37.jpg",
+    "label": "ऑंखें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_49_7.jpg",
+    "label": "नाक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_145_16.jpg",
+    "label": "मिल्की"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_2_15.jpg",
+    "label": "बंधवा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_56_32.jpg",
+    "label": "मुसीबतें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_36.jpg",
+    "label": "मिलते-जुलते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_33_17.jpg",
+    "label": "पुकारेंगे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_88_6.jpg",
+    "label": "सिंपल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_10_16.jpg",
+    "label": "लाचार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_25_40.jpg",
+    "label": "किताब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_13_29.jpg",
+    "label": "तुझे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_115_35.jpg",
+    "label": "किसलिए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_105_20.jpg",
+    "label": "हताशा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_104_18.jpg",
+    "label": "बुरादे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_35_15.jpg",
+    "label": "लौह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_87_22.jpg",
+    "label": "उल्लंघन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_139_20.jpg",
+    "label": "अवश्यम्भावी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_13_20.jpg",
+    "label": "आवें।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_57_1.jpg",
+    "label": "व्यवस्थित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_10.jpg",
+    "label": "हास्यफुहार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_16_8.jpg",
+    "label": "खरीदे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_51_16.jpg",
+    "label": "तरीका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_18_26.jpg",
+    "label": "साधारणत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_81_1.jpg",
+    "label": "भवन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_34_5.jpg",
+    "label": "प्रसंन्न-चित्त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_70_32.jpg",
+    "label": "अण्डमान-निकोबार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_100_26.jpg",
+    "label": "ऊँचाइयां"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_19_6.jpg",
+    "label": "कोका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_38_9.jpg",
+    "label": "सकूं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_135_16.jpg",
+    "label": "यमुना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_21.jpg",
+    "label": "होण्डा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_60_38.jpg",
+    "label": "बढ़िया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_20.jpg",
+    "label": "बाजीराव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_95_36.jpg",
+    "label": "छुड़ा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_4.jpg",
+    "label": "प्रेमिका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_123_15.jpg",
+    "label": "पर्दाफाश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_10_4.jpg",
+    "label": "ख़त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_115_16.jpg",
+    "label": "जमदूरों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_118_11.jpg",
+    "label": "चंद्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_106_33.jpg",
+    "label": "देशमुख"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_12.jpg",
+    "label": "कैश"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_134_10.jpg",
+    "label": "संकल्प"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_113_34.jpg",
+    "label": "उठाते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_36.jpg",
+    "label": "सज़ा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_66_38.jpg",
+    "label": "कंफ़र्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_2.jpg",
+    "label": "एकाउंट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_35_34.jpg",
+    "label": "दुर्भिक्ष"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_15.jpg",
+    "label": "न्यायालयो"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_67_2.jpg",
+    "label": "वीज़ा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_26_22.jpg",
+    "label": "बेहद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_32.jpg",
+    "label": "बच"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_52_9.jpg",
+    "label": "होगी।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_28_4.jpg",
+    "label": "लाता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_29_12.jpg",
+    "label": "विशाखापट्नम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_33_7.jpg",
+    "label": "अध्यापकों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_71_20.jpg",
+    "label": "रुप"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_14_19.jpg",
+    "label": "कैंपेन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_72_1.jpg",
+    "label": "जरूरत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_29.jpg",
+    "label": "पल्लू"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_47_14.jpg",
+    "label": "बिखरना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_103_9.jpg",
+    "label": "अस्पष्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_125_23.jpg",
+    "label": "मनाया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_14.jpg",
+    "label": "लिटल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_11_16.jpg",
+    "label": "बॉडी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_119_29.jpg",
+    "label": "विश्वविद्यालय"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_4_24.jpg",
+    "label": "उत्सव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_42_39.jpg",
+    "label": "आवगत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_29.jpg",
+    "label": "सहिष्णु"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_103_23.jpg",
+    "label": "लड़्का"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_129_22.jpg",
+    "label": "विकृत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_126_23.jpg",
+    "label": "इसीलिये"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_47_22.jpg",
+    "label": "देस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_30_12.jpg",
+    "label": "हिन्दू-मुस्लिमों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_54_8.jpg",
+    "label": "सबपे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_109_1.jpg",
+    "label": "खतम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_100_10.jpg",
+    "label": "बीमारी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_3_24.jpg",
+    "label": "सुन्दरता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_115_16.jpg",
+    "label": "भेजें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_121_28.jpg",
+    "label": "निरीक्षण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_13_18.jpg",
+    "label": "बचाती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_77_30.jpg",
+    "label": "जागते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_31_15.jpg",
+    "label": "अंतर्निहित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_11.jpg",
+    "label": "बुनता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_25_24.jpg",
+    "label": "आगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_124_4.jpg",
+    "label": "कलाविद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_26.jpg",
+    "label": "जगमोहन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_112_5.jpg",
+    "label": "दिवस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_105_14.jpg",
+    "label": "आयोगों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_25_17.jpg",
+    "label": "पुकारेंगे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_126_31.jpg",
+    "label": "एमआईएम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_36_30.jpg",
+    "label": "डाक्यूमेंट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_110_5.jpg",
+    "label": "काला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_125_19.jpg",
+    "label": "उबाल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_93_34.jpg",
+    "label": "झाड़ोल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_134_15.jpg",
+    "label": "एलटीटीइ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_137_34.jpg",
+    "label": "८"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_30_38.jpg",
+    "label": "डिग्रियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_20_16.jpg",
+    "label": "धन्यवाद।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_120_2.jpg",
+    "label": "देबे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_77_39.jpg",
+    "label": "बाब"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_35_30.jpg",
+    "label": "उच्चारित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_14.jpg",
+    "label": "क्या-क्या"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_128_34.jpg",
+    "label": "लडी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_13_24.jpg",
+    "label": "दबे-कुचले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_47_35.jpg",
+    "label": "फायदा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_17_37.jpg",
+    "label": "फैलते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_66_10.jpg",
+    "label": "संवत्सर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_75_37.jpg",
+    "label": "चेंज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_83_21.jpg",
+    "label": "हफ्तों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_23_39.jpg",
+    "label": "ओझा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_49_9.jpg",
+    "label": "गरीबी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_90_3.jpg",
+    "label": "कंपनी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_64_5.jpg",
+    "label": "कडाबीन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_58_5.jpg",
+    "label": "शिक्षाविद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_24_36.jpg",
+    "label": "कमांडर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_131_33.jpg",
+    "label": "बान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_127_32.jpg",
+    "label": "ओर।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_116_17.jpg",
+    "label": "शर्म"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_134_30.jpg",
+    "label": "आखें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_30.jpg",
+    "label": "पलड़ा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_94_24.jpg",
+    "label": "रिलाज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_9.jpg",
+    "label": "तीसरे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_140_30.jpg",
+    "label": "हार्ले"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_2_9.jpg",
+    "label": "ऋषभदेव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_48_23.jpg",
+    "label": "तुलना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_137_24.jpg",
+    "label": "बुजुर्गों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_24_10.jpg",
+    "label": "असाधारण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_20_14.jpg",
+    "label": "घृतश्राद्धकी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_103_10.jpg",
+    "label": "खातिरदारी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_20_6.jpg",
+    "label": "वेयर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_22.jpg",
+    "label": "गुजराती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_102_26.jpg",
+    "label": "भीगी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_114_34.jpg",
+    "label": "टेलीफोन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_22_15.jpg",
+    "label": "आतुर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_58_13.jpg",
+    "label": "मिततल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_7_24.jpg",
+    "label": "छोड़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_30.jpg",
+    "label": "पूजा-पाठ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_106_4.jpg",
+    "label": "ओढ़ें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_8.jpg",
+    "label": "बातको"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_119_14.jpg",
+    "label": "ब्लॉगस्ते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_9_7.jpg",
+    "label": "लोमता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_29_15.jpg",
+    "label": "इत्मीनान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_9.jpg",
+    "label": "समग्रता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_116_7.jpg",
+    "label": "अतिक्रांतिकारिता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_12.jpg",
+    "label": "मोहरा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_61_30.jpg",
+    "label": "लपककर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_113_26.jpg",
+    "label": "बंद।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_20.jpg",
+    "label": "अपहरण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_52_34.jpg",
+    "label": "सूचनाप्रद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_2.jpg",
+    "label": "एजेण्ट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_48_11.jpg",
+    "label": "मंडेला"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_33_38.jpg",
+    "label": "दीया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_4.jpg",
+    "label": "बिकती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_7_29.jpg",
+    "label": "काव्य-संकलन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_20_28.jpg",
+    "label": "कंस्ट्रक्सन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_52_18.jpg",
+    "label": "महन्तों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_42_35.jpg",
+    "label": "त्रिधारा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_21_22.jpg",
+    "label": "बड़ी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_54_5.jpg",
+    "label": "प्राचीन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_111_12.jpg",
+    "label": "मुकाम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_14.jpg",
+    "label": "मसूर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_59_4.jpg",
+    "label": "समता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_54_11.jpg",
+    "label": "चतुर्वेदी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_98_8.jpg",
+    "label": "आशीष"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_132_10.jpg",
+    "label": "लापरवाही"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_4.jpg",
+    "label": "बद्ध"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_105_3.jpg",
+    "label": "गुंडों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_50_26.jpg",
+    "label": "कहीं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_126_5.jpg",
+    "label": "सिस्टेम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_33_27.jpg",
+    "label": "टेबिल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_29_8.jpg",
+    "label": "कोर्राम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_128_38.jpg",
+    "label": "सारा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_2.jpg",
+    "label": "वीरप्पन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_107_21.jpg",
+    "label": "व्यतित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_125_8.jpg",
+    "label": "गोमूत्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_79_26.jpg",
+    "label": "अंदाजन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_117_20.jpg",
+    "label": "बासन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_62_33.jpg",
+    "label": "गुज़रे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_86_13.jpg",
+    "label": "लाएंगे।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_25_9.jpg",
+    "label": "उड़ेल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_127_25.jpg",
+    "label": "ऐप्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_140_36.jpg",
+    "label": "बसर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_27_23.jpg",
+    "label": "एजन्सीयों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_87_7.jpg",
+    "label": "ठंड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_45_38.jpg",
+    "label": "द्वैत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_56_11.jpg",
+    "label": "भ्रामक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_18_9.jpg",
+    "label": "भुवन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_61_6.jpg",
+    "label": "पुस्तिका"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_117_19.jpg",
+    "label": "क्रुयेलिटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_30_13.jpg",
+    "label": "मुकदमों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_75_6.jpg",
+    "label": "नाग"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_43_35.jpg",
+    "label": "गुरुर्ब्रह्मा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_26_38.jpg",
+    "label": "सैय्यद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_28_23.jpg",
+    "label": "लपकता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_3_25.jpg",
+    "label": "संरचनात्मक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_23_30.jpg",
+    "label": "ललकारा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_48_6.jpg",
+    "label": "यूनिट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_7.jpg",
+    "label": "दूसरासोमवार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_126_26.jpg",
+    "label": "सांगवान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_133_21.jpg",
+    "label": "जसवन्त"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_81_23.jpg",
+    "label": "जंतर-मंतर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_68_28.jpg",
+    "label": "शान्तिपूर्ण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_97_34.jpg",
+    "label": "दत्तमंगलवार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_27_19.jpg",
+    "label": "डीएनए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_58_34.jpg",
+    "label": "सुथरा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_100_24.jpg",
+    "label": "बीसवीं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_2_31.jpg",
+    "label": "प्रतिवेदन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_22_33.jpg",
+    "label": "माननीय"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_23_33.jpg",
+    "label": "शिवव्रत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_40_10.jpg",
+    "label": "सकूं।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_83_10.jpg",
+    "label": "बिखरे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_41_25.jpg",
+    "label": "सूचनाओं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_16_20.jpg",
+    "label": "पड़ी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_6_22.jpg",
+    "label": "जेटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_17_1.jpg",
+    "label": "नियत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_64_8.jpg",
+    "label": "पौराणिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_35.jpg",
+    "label": "अप्रेल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_15_19.jpg",
+    "label": "अंगदान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_129_24.jpg",
+    "label": "शायरों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_108_33.jpg",
+    "label": "चरित्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_44_13.jpg",
+    "label": "चिंयुटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_76_21.jpg",
+    "label": "बैठें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_40_30.jpg",
+    "label": "कुछ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_79_24.jpg",
+    "label": "ज़िक्र"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_15_7.jpg",
+    "label": "होने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_92_16.jpg",
+    "label": "उत्कंठा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_3_16.jpg",
+    "label": "रिश्तेदार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_40_32.jpg",
+    "label": "इस्लामी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_6_31.jpg",
+    "label": "गिर्द"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_17_6.jpg",
+    "label": "अंकित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_33_8.jpg",
+    "label": "शहडोल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_40_3.jpg",
+    "label": "झूठों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_10.jpg",
+    "label": "शाखा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_87_1.jpg",
+    "label": "नौन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_61_32.jpg",
+    "label": "गाते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_13_22.jpg",
+    "label": "भंडारों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_107_3.jpg",
+    "label": "लखा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_89_9.jpg",
+    "label": "अहंकार"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_137_3.jpg",
+    "label": "उपहास"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_46_17.jpg",
+    "label": "गल्ती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_6_22.jpg",
+    "label": "निकलने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_113_3.jpg",
+    "label": "बचकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_123_15.jpg",
+    "label": "कबूल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_142_39.jpg",
+    "label": "ट्रेक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_51_32.jpg",
+    "label": "सबा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_55_27.jpg",
+    "label": "विजुअल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_57_4.jpg",
+    "label": "स्वर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_136_2.jpg",
+    "label": "नवाज़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_14.jpg",
+    "label": "आश्चर्यचकित"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_18_13.jpg",
+    "label": "सुनवाने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_130_2.jpg",
+    "label": "कॉन्क्लेव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_34_27.jpg",
+    "label": "मुख्यमंत्री"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_25.jpg",
+    "label": "कोसलनाथ"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_37_17.jpg",
+    "label": "चलना।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_135_31.jpg",
+    "label": "मोतियाबिंद"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_15_34.jpg",
+    "label": "करेगें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_11_27.jpg",
+    "label": "कैल्सियम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_15_10.jpg",
+    "label": "धंधे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_17_31.jpg",
+    "label": "मुस्लमान"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_24.jpg",
+    "label": "प्रभाव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_57_28.jpg",
+    "label": "बहुत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_76_5.jpg",
+    "label": "सार्वजनिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_29_28.jpg",
+    "label": "करिए"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_19_31.jpg",
+    "label": "मूलभाव"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_12_1.jpg",
+    "label": "बिल्डिंग्स"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_122_26.jpg",
+    "label": "धड़कन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_115_26.jpg",
+    "label": "आपत्ति"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_124_1.jpg",
+    "label": "खन्ना"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_33_15.jpg",
+    "label": "घास"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_38_34.jpg",
+    "label": "दफा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_101_33.jpg",
+    "label": "समानता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_89_3.jpg",
+    "label": "बेस्ड"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_37_18.jpg",
+    "label": "उधर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_78_21.jpg",
+    "label": "कोरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_140_10.jpg",
+    "label": "मोड़कर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_71_4.jpg",
+    "label": "डॉक्टौरेट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_47_13.jpg",
+    "label": "प्रिंट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_26_19.jpg",
+    "label": "कर्जा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_14_36.jpg",
+    "label": "ट्रेन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_27_25.jpg",
+    "label": "वज़ह"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_125_37.jpg",
+    "label": "तड़पते"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_115_28.jpg",
+    "label": "सामुदायिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_25_27.jpg",
+    "label": "शिक्षाओं"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_88_17.jpg",
+    "label": "गंडासे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_110_27.jpg",
+    "label": "आंशिक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_13_29.jpg",
+    "label": "विषेशकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_38_10.jpg",
+    "label": "शाखा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_69_24.jpg",
+    "label": "करायें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_9_17.jpg",
+    "label": "ईंट-पत्थर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_26_19.jpg",
+    "label": "शाहनवाज"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_58_1.jpg",
+    "label": "ख्याती"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_54_25.jpg",
+    "label": "गान्धी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_36_35.jpg",
+    "label": "गयीं।"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_105_6.jpg",
+    "label": "विरल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_104_29.jpg",
+    "label": "धारायें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_51_34.jpg",
+    "label": "ठप्पा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_36_3.jpg",
+    "label": "फयदे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_49_9.jpg",
+    "label": "मानवीयता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_11_5.jpg",
+    "label": "जीडीपी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_16_37.jpg",
+    "label": "साँझे"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_119_24.jpg",
+    "label": "अधिनियम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_36_29.jpg",
+    "label": "टीईटी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_12_39.jpg",
+    "label": "ऑफ़"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_87_34.jpg",
+    "label": "क्रिएट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_111_22.jpg",
+    "label": "पद्मभूषण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_72_3.jpg",
+    "label": "मौत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_21_12.jpg",
+    "label": "नंवर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_46_9.jpg",
+    "label": "ग्रामोफोन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_102_4.jpg",
+    "label": "मेधा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_24_2.jpg",
+    "label": "संकर"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_103_33.jpg",
+    "label": "आत्मविश्लेषण"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_7_23.jpg",
+    "label": "लिजीये"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_141_34.jpg",
+    "label": "भडास"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_4_19.jpg",
+    "label": "रुम"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_92_7.jpg",
+    "label": "बोलचाल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_143_10.jpg",
+    "label": "आएगा"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_106_14.jpg",
+    "label": "लक्झरी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_88_16.jpg",
+    "label": "चौहटन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_19_20.jpg",
+    "label": "टेन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_88_8.jpg",
+    "label": "मित्रों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_118_36.jpg",
+    "label": "पाये"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_48_38.jpg",
+    "label": "ग्रेनाइट"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_1_27.jpg",
+    "label": "प्रहसन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_45_25.jpg",
+    "label": "जिया"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_29_34.jpg",
+    "label": "यथार्थतः"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_33_24.jpg",
+    "label": "छांटने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_132_33.jpg",
+    "label": "संकलक"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/11_55_25.jpg",
+    "label": "कलियों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_112_8.jpg",
+    "label": "छल"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_132_27.jpg",
+    "label": "कृष्णवार्ता"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_74_14.jpg",
+    "label": "मानें"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_81_24.jpg",
+    "label": "वजहों"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_27_12.jpg",
+    "label": "सूखने"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_22_18.jpg",
+    "label": "सुत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_83_18.jpg",
+    "label": "नफरत"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_2_27.jpg",
+    "label": "प्रेस"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_124_32.jpg",
+    "label": "उज्जैन"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_108_17.jpg",
+    "label": "बतकही"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_96_38.jpg",
+    "label": "इन्द्रधनुषी"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/9_41_23.jpg",
+    "label": "अवैध"
+  },
+  {
+    "image_path": "IIT_HW_word/test/images/6_19_34.jpg",
+    "label": "चढाई"
+  }
+]

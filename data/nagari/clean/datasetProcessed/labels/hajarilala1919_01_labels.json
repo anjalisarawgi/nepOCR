@@ -1,0 +1,167 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीशिवविवाहकवितावली",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_1.png",
+        "bounding_box": {
+            "x1": 329,
+            "y1": 378,
+            "x2": 1347,
+            "y2": 525
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "जिसमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_2.png",
+        "bounding_box": {
+            "x1": 751,
+            "y1": 704,
+            "x2": 945,
+            "y2": 800
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "श्रीजगज्जननी पार्वती और श्रीमहादेवजी का",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_3.png",
+        "bounding_box": {
+            "x1": 236,
+            "y1": 785,
+            "x2": 1428,
+            "y2": 908
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "ब्याह चरित्र सुन्दर कवित्तों में",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_4.png",
+        "bounding_box": {
+            "x1": 420,
+            "y1": 902,
+            "x2": 1263,
+            "y2": 1031
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "वर्णित है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_5.png",
+        "bounding_box": {
+            "x1": 655,
+            "y1": 1037,
+            "x2": 1000,
+            "y2": 1154
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "जिसको",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_6.png",
+        "bounding_box": {
+            "x1": 732,
+            "y1": 1190,
+            "x2": 925,
+            "y2": 1293
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "श्रीहज़ारीलाल साहब कुतुबफ़रोश ने शिव-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_7.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 1288,
+            "x2": 1407,
+            "y2": 1404
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "भक्तों के अवलोकनार्थ बनाया ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_8.png",
+        "bounding_box": {
+            "x1": 391,
+            "y1": 1405,
+            "x2": 1275,
+            "y2": 1524
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "पांचवीं बार",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_9.png",
+        "bounding_box": {
+            "x1": 674,
+            "y1": 1559,
+            "x2": 990,
+            "y2": 1662
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "687",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_10.png",
+        "bounding_box": {
+            "x1": 1172,
+            "y1": 1676,
+            "x2": 1379,
+            "y2": 1826
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_11.png",
+        "bounding_box": {
+            "x1": 676,
+            "y1": 1784,
+            "x2": 997,
+            "y2": 1904
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "केसरीदास सेठ द्वारा",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_12.png",
+        "bounding_box": {
+            "x1": 600,
+            "y1": 1901,
+            "x2": 1074,
+            "y2": 2008
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "नवलकिशोर प्रेस में मुद्रित होकर प्रकाशित.",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_13.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 1966,
+            "x2": 1445,
+            "y2": 2105
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "सन् १९१९ ई०",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_14.png",
+        "bounding_box": {
+            "x1": 609,
+            "y1": 2095,
+            "x2": 1045,
+            "y2": 2204
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "कापीराइट महफ़ूज़ है बहक़ इस छापेख़ाने के ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_01_textline_15.png",
+        "bounding_box": {
+            "x1": 269,
+            "y1": 2210,
+            "x2": 1395,
+            "y2": 2315
+        }
+    }
+]

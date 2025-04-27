@@ -1,0 +1,651 @@
+[
+    {
+        "line_number": 1,
+        "text": "२० काम करने का बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_1.png",
+        "bounding_box": {
+            "x1": 147,
+            "y1": 128,
+            "x2": 966,
+            "y2": 261
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "२१ राजनीतिका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_2.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 258,
+            "x2": 893,
+            "y2": 384
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "२२ बुद्धिकी उन्नति",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_3.png",
+        "bounding_box": {
+            "x1": 150,
+            "y1": 376,
+            "x2": 762,
+            "y2": 505
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "२३ महात्माओंके वचन",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_4.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 502,
+            "x2": 875,
+            "y2": 625
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "२४ सत्संग वो मेहनतका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_5.png",
+        "bounding_box": {
+            "x1": 129,
+            "y1": 612,
+            "x2": 1131,
+            "y2": 744
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "२५ दुष्ट वो मूर्खका लक्षण",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_6.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 737,
+            "x2": 966,
+            "y2": 868
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "२६ धन वो क्रोधका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_7.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 860,
+            "x2": 998,
+            "y2": 985
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "प्रार्थना",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_8.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 973,
+            "x2": 388,
+            "y2": 1107
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "१ स्त्री शिक्षाका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_9.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 1093,
+            "x2": 888,
+            "y2": 1227
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "२ स्त्रियोंके कर्कश सुभावका लक्षण",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_10.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 1211,
+            "x2": 1249,
+            "y2": 1353
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "३ लज्जाका वर्णन",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_11.png",
+        "bounding_box": {
+            "x1": 194,
+            "y1": 1344,
+            "x2": 762,
+            "y2": 1467
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "४ सतीत्वका वर्णन",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_12.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 1449,
+            "x2": 794,
+            "y2": 1588
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "५ पतिब्रताका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_13.png",
+        "bounding_box": {
+            "x1": 194,
+            "y1": 1587,
+            "x2": 828,
+            "y2": 1707
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "६ प्रात उठने वो भोजन बनानेका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_14.png",
+        "bounding_box": {
+            "x1": 194,
+            "y1": 1695,
+            "x2": 1410,
+            "y2": 1826
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "७ धर्मशास्त्रकी शिक्षा",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_15.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 1820,
+            "x2": 846,
+            "y2": 1948
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "८ स्त्रीलाभार्थ सुशिक्षा",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_16.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 1938,
+            "x2": 880,
+            "y2": 2074
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "९ स्त्रीमहत्त्वका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_17.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 2066,
+            "x2": 844,
+            "y2": 2193
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "१० गर्भवतीका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_18.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 2178,
+            "x2": 820,
+            "y2": 2304
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "११ बच्चेकी सेवा करनेका बयान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_19.png",
+        "bounding_box": {
+            "x1": 137,
+            "y1": 2296,
+            "x2": 1097,
+            "y2": 2434
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "(४)",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_20.png",
+        "bounding_box": {
+            "x1": 924,
+            "y1": 28,
+            "x2": 1186,
+            "y2": 148
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "इति ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_21.png",
+        "bounding_box": {
+            "x1": 930,
+            "y1": 2424,
+            "x2": 1165,
+            "y2": 2551
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "४०",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_22.png",
+        "bounding_box": {
+            "x1": 1552,
+            "y1": 149,
+            "x2": 1710,
+            "y2": 277
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "४१",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_23.png",
+        "bounding_box": {
+            "x1": 1547,
+            "y1": 282,
+            "x2": 1723,
+            "y2": 409
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "४२",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_24.png",
+        "bounding_box": {
+            "x1": 1547,
+            "y1": 405,
+            "x2": 1723,
+            "y2": 526
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "४३",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_25.png",
+        "bounding_box": {
+            "x1": 1555,
+            "y1": 517,
+            "x2": 1707,
+            "y2": 646
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "४८",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_26.png",
+        "bounding_box": {
+            "x1": 1555,
+            "y1": 638,
+            "x2": 1710,
+            "y2": 756
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "४९",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_27.png",
+        "bounding_box": {
+            "x1": 1560,
+            "y1": 758,
+            "x2": 1717,
+            "y2": 879
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "५६",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_28.png",
+        "bounding_box": {
+            "x1": 1552,
+            "y1": 884,
+            "x2": 1712,
+            "y2": 1003
+        }
+    },
+    {
+        "line_number": 29,
+        "text": "५९",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_29.png",
+        "bounding_box": {
+            "x1": 1547,
+            "y1": 988,
+            "x2": 1707,
+            "y2": 1119
+        }
+    },
+    {
+        "line_number": 30,
+        "text": "६०",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_30.png",
+        "bounding_box": {
+            "x1": 1555,
+            "y1": 1114,
+            "x2": 1694,
+            "y2": 1230
+        }
+    },
+    {
+        "line_number": 31,
+        "text": "६२",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_31.png",
+        "bounding_box": {
+            "x1": 1534,
+            "y1": 1239,
+            "x2": 1707,
+            "y2": 1359
+        }
+    },
+    {
+        "line_number": 32,
+        "text": "६३",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_32.png",
+        "bounding_box": {
+            "x1": 1537,
+            "y1": 1367,
+            "x2": 1702,
+            "y2": 1477
+        }
+    },
+    {
+        "line_number": 33,
+        "text": "६४",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_33.png",
+        "bounding_box": {
+            "x1": 1544,
+            "y1": 1472,
+            "x2": 1707,
+            "y2": 1596
+        }
+    },
+    {
+        "line_number": 34,
+        "text": "६५",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_34.png",
+        "bounding_box": {
+            "x1": 1557,
+            "y1": 1593,
+            "x2": 1706,
+            "y2": 1717
+        }
+    },
+    {
+        "line_number": 35,
+        "text": "६६",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_35.png",
+        "bounding_box": {
+            "x1": 1542,
+            "y1": 1702,
+            "x2": 1702,
+            "y2": 1831
+        }
+    },
+    {
+        "line_number": 36,
+        "text": "६८",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_36.png",
+        "bounding_box": {
+            "x1": 1539,
+            "y1": 1838,
+            "x2": 1715,
+            "y2": 1959
+        }
+    },
+    {
+        "line_number": 37,
+        "text": "६९",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_37.png",
+        "bounding_box": {
+            "x1": 1537,
+            "y1": 1943,
+            "x2": 1710,
+            "y2": 2085
+        }
+    },
+    {
+        "line_number": 38,
+        "text": "७१",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_38.png",
+        "bounding_box": {
+            "x1": 1534,
+            "y1": 2061,
+            "x2": 1686,
+            "y2": 2196
+        }
+    },
+    {
+        "line_number": 39,
+        "text": "७३",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_39.png",
+        "bounding_box": {
+            "x1": 1542,
+            "y1": 2189,
+            "x2": 1691,
+            "y2": 2313
+        }
+    },
+    {
+        "line_number": 40,
+        "text": "७६",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_40.png",
+        "bounding_box": {
+            "x1": 1547,
+            "y1": 2317,
+            "x2": 1678,
+            "y2": 2425
+        }
+    },
+    {
+        "line_number": 41,
+        "text": "४१",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_41.png",
+        "bounding_box": {
+            "x1": 1806,
+            "y1": 164,
+            "x2": 1969,
+            "y2": 291
+        }
+    },
+    {
+        "line_number": 42,
+        "text": "४२",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_42.png",
+        "bounding_box": {
+            "x1": 1811,
+            "y1": 282,
+            "x2": 1961,
+            "y2": 408
+        }
+    },
+    {
+        "line_number": 43,
+        "text": "४३",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_43.png",
+        "bounding_box": {
+            "x1": 1803,
+            "y1": 408,
+            "x2": 1961,
+            "y2": 528
+        }
+    },
+    {
+        "line_number": 44,
+        "text": "४८",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_44.png",
+        "bounding_box": {
+            "x1": 1803,
+            "y1": 538,
+            "x2": 1974,
+            "y2": 645
+        }
+    },
+    {
+        "line_number": 45,
+        "text": "४९",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_45.png",
+        "bounding_box": {
+            "x1": 1803,
+            "y1": 640,
+            "x2": 1953,
+            "y2": 765
+        }
+    },
+    {
+        "line_number": 46,
+        "text": "५६",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_46.png",
+        "bounding_box": {
+            "x1": 1803,
+            "y1": 763,
+            "x2": 1969,
+            "y2": 883
+        }
+    },
+    {
+        "line_number": 47,
+        "text": "५८",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_47.png",
+        "bounding_box": {
+            "x1": 1801,
+            "y1": 889,
+            "x2": 1953,
+            "y2": 1002
+        }
+    },
+    {
+        "line_number": 48,
+        "text": "६०",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_48.png",
+        "bounding_box": {
+            "x1": 1793,
+            "y1": 1009,
+            "x2": 1951,
+            "y2": 1117
+        }
+    },
+    {
+        "line_number": 49,
+        "text": "६२",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_49.png",
+        "bounding_box": {
+            "x1": 1798,
+            "y1": 1111,
+            "x2": 1958,
+            "y2": 1246
+        }
+    },
+    {
+        "line_number": 50,
+        "text": "६२",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_50.png",
+        "bounding_box": {
+            "x1": 1796,
+            "y1": 1226,
+            "x2": 1966,
+            "y2": 1369
+        }
+    },
+    {
+        "line_number": 51,
+        "text": "६४",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_51.png",
+        "bounding_box": {
+            "x1": 1793,
+            "y1": 1355,
+            "x2": 1955,
+            "y2": 1480
+        }
+    },
+    {
+        "line_number": 52,
+        "text": "६५",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_52.png",
+        "bounding_box": {
+            "x1": 1793,
+            "y1": 1485,
+            "x2": 1955,
+            "y2": 1603
+        }
+    },
+    {
+        "line_number": 53,
+        "text": "६६",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_53.png",
+        "bounding_box": {
+            "x1": 1796,
+            "y1": 1579,
+            "x2": 1953,
+            "y2": 1720
+        }
+    },
+    {
+        "line_number": 54,
+        "text": "६७",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_54.png",
+        "bounding_box": {
+            "x1": 1806,
+            "y1": 1736,
+            "x2": 1945,
+            "y2": 1839
+        }
+    },
+    {
+        "line_number": 55,
+        "text": "६९",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_55.png",
+        "bounding_box": {
+            "x1": 1798,
+            "y1": 1844,
+            "x2": 1950,
+            "y2": 1971
+        }
+    },
+    {
+        "line_number": 56,
+        "text": "७१",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_56.png",
+        "bounding_box": {
+            "x1": 1796,
+            "y1": 1974,
+            "x2": 1940,
+            "y2": 2083
+        }
+    },
+    {
+        "line_number": 57,
+        "text": "७३",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_57.png",
+        "bounding_box": {
+            "x1": 1780,
+            "y1": 2099,
+            "x2": 1941,
+            "y2": 2199
+        }
+    },
+    {
+        "line_number": 58,
+        "text": "७६",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_58.png",
+        "bounding_box": {
+            "x1": 1782,
+            "y1": 2210,
+            "x2": 1921,
+            "y2": 2314
+        }
+    },
+    {
+        "line_number": 59,
+        "text": "८०",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_4_textline_59.png",
+        "bounding_box": {
+            "x1": 1772,
+            "y1": 2343,
+            "x2": 1929,
+            "y2": 2434
+        }
+    }
+]

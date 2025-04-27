@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "६",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_1.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 197,
+            "x2": 245,
+            "y2": 330
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_2.png",
+        "bounding_box": {
+            "x1": 797,
+            "y1": 143,
+            "x2": 1486,
+            "y2": 316
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "श्यतम्पुरतःस्फुरन् ॥ तद्विश्वेरसंज्ञंहि स",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_3.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 289,
+            "x2": 2207,
+            "y2": 513
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "च्चिदानन्दविग्रहम् ३४ लयंलिङ्गशरीरस्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_4.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 492,
+            "x2": 2169,
+            "y2": 700
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "विश्लेषङ्गमयेत्परम् ॥ तेनलिङ्गमितिख्यात",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_5.png",
+        "bounding_box": {
+            "x1": 98,
+            "y1": 679,
+            "x2": 2199,
+            "y2": 883
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "मपवर्गैकसाधनम् ३५ व्यापकत्वेपिचैतस्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_6.png",
+        "bounding_box": {
+            "x1": 89,
+            "y1": 865,
+            "x2": 2186,
+            "y2": 1066
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "निराकारस्यतत्त्वतः ॥ परिच्छिन्नप्रभावर्द्धि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_7.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1051,
+            "x2": 2183,
+            "y2": 1256
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "र्नमयानचविष्णुना ३६ यथाव्योमापरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_8.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 1240,
+            "x2": 2177,
+            "y2": 1432
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "च्छिन्नंशब्दहेतुतयासमम् ॥ स्वयमेवपरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_9.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 1426,
+            "x2": 2194,
+            "y2": 1632
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "च्छिन्नम्प्राप्नोतीदमपीदृशम् ३७ प्रभावः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_10.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 1615,
+            "x2": 2183,
+            "y2": 1819
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "श्रूयतामस्य नित्यानन्दस्वरूपिण: ॥ अत्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_11.png",
+        "bounding_box": {
+            "x1": 126,
+            "y1": 1810,
+            "x2": 2174,
+            "y2": 1998
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "त्यक्त्वाप्यसून् सन्तःसच्चिदानन्दरूपताम ३८",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_12.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 2002,
+            "x2": 2183,
+            "y2": 2197
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "यथायोग्यंलभन्तेहि नात्रकार्याविचारणा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_13.png",
+        "bounding_box": {
+            "x1": 112,
+            "y1": 2177,
+            "x2": 2183,
+            "y2": 2368
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अत्रप्रविष्टमात्रस्य जन्तोः पापम्पुरार्जित",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_14.png",
+        "bounding_box": {
+            "x1": 83,
+            "y1": 2372,
+            "x2": 2174,
+            "y2": 2563
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "म् ३९ विनाशमाप्नोतिपरं पुण्यराशिश्चव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_15.png",
+        "bounding_box": {
+            "x1": 126,
+            "y1": 2549,
+            "x2": 2174,
+            "y2": 2758
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "र्द्धते॥ निर्वाणपदमेवैतदधितिष्ठामिनित्यशः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_16.png",
+        "bounding_box": {
+            "x1": 124,
+            "y1": 2724,
+            "x2": 2186,
+            "y2": 2937
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "४० म्रियमाणस्यजन्तोर्हि वाक्यङ्कर्णेसमुच्च",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_06_textline_17.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 2925,
+            "x2": 2183,
+            "y2": 3121
+        }
+    }
+]

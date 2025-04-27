@@ -1,0 +1,255 @@
+[
+    {
+        "line_number": 1,
+        "text": "८ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_1.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 153,
+            "x2": 273,
+            "y2": 265
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "प्रलय पयोनिधि जलते बेद उधारे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_2.png",
+        "bounding_box": {
+            "x1": 215,
+            "y1": 438,
+            "x2": 1327,
+            "y2": 567
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "बिनु श्रम पोत चरित बिस्तारे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_3.png",
+        "bounding_box": {
+            "x1": 235,
+            "y1": 563,
+            "x2": 1233,
+            "y2": 690
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "क्षिति अति बिपुल तिहारी पीठ बिराजै ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_4.png",
+        "bounding_box": {
+            "x1": 222,
+            "y1": 797,
+            "x2": 1332,
+            "y2": 928
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दशनशिखरपर धरणि सोहति ऐसे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_5.png",
+        "bounding_box": {
+            "x1": 246,
+            "y1": 1147,
+            "x2": 1342,
+            "y2": 1286
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "अङ्क मयङ्क कलापर जैसे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_6.png",
+        "bounding_box": {
+            "x1": 251,
+            "y1": 1282,
+            "x2": 1248,
+            "y2": 1409
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "अचरजमय करकमल नखाग्र तिहारे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_7.png",
+        "bounding_box": {
+            "x1": 254,
+            "y1": 1520,
+            "x2": 1358,
+            "y2": 1645
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "गीतगोविन्दादर्श ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_8.png",
+        "bounding_box": {
+            "x1": 661,
+            "y1": 117,
+            "x2": 1207,
+            "y2": 250
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "केशव धरि मीन शरीर जय जगदीश हरे १",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_9.png",
+        "bounding_box": {
+            "x1": 243,
+            "y1": 680,
+            "x2": 1477,
+            "y2": 804
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "धरणि धरनसों किण जिमि छाजै ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_10.png",
+        "bounding_box": {
+            "x1": 235,
+            "y1": 920,
+            "x2": 1243,
+            "y2": 1044
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "केशव धरि कच्छपरूप जय जगदीश हरे २",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_11.png",
+        "bounding_box": {
+            "x1": 241,
+            "y1": 1040,
+            "x2": 1501,
+            "y2": 1162
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "केशव धरि शूकररूप जय जगदीश हरे ३",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_12.png",
+        "bounding_box": {
+            "x1": 249,
+            "y1": 1379,
+            "x2": 1537,
+            "y2": 1525
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "हिरणकशिपु अलि उदर बिदारे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_13.png",
+        "bounding_box": {
+            "x1": 259,
+            "y1": 1640,
+            "x2": 1254,
+            "y2": 1772
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "केशव धरि नरहरिरूप जय जगदीश हरे ४",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_14.png",
+        "bounding_box": {
+            "x1": 272,
+            "y1": 1754,
+            "x2": 1502,
+            "y2": 1886
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "अद्भुतबामन बपु धरि बलि छलि लीन्हे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_15.png",
+        "bounding_box": {
+            "x1": 264,
+            "y1": 1877,
+            "x2": 1457,
+            "y2": 2004
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "पदनखजल जन पावन कीन्हे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_16.png",
+        "bounding_box": {
+            "x1": 264,
+            "y1": 1999,
+            "x2": 1316,
+            "y2": 2126
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "केशव धरि बामनरूप जय जगदीश हरे ५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_17.png",
+        "bounding_box": {
+            "x1": 290,
+            "y1": 2114,
+            "x2": 1483,
+            "y2": 2243
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "क्षत्री रुधिरनीर में स्नान कराये ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_18.png",
+        "bounding_box": {
+            "x1": 280,
+            "y1": 2237,
+            "x2": 1371,
+            "y2": 2369
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "जग जनके सब पाप नशाये ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_19.png",
+        "bounding_box": {
+            "x1": 288,
+            "y1": 2367,
+            "x2": 1285,
+            "y2": 2487
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "केशव धरि भृगुपतिरूप जय जगदीश हरे ६",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_20.png",
+        "bounding_box": {
+            "x1": 288,
+            "y1": 2474,
+            "x2": 1476,
+            "y2": 2612
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "दशदिशिदिग्पतिरण में मोदित कीन्हे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_21.png",
+        "bounding_box": {
+            "x1": 295,
+            "y1": 2589,
+            "x2": 1430,
+            "y2": 2733
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "दशमुख के दशशिर बलि दीन्हे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_22.png",
+        "bounding_box": {
+            "x1": 275,
+            "y1": 2717,
+            "x2": 1330,
+            "y2": 2850
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "प्रतिबिम्बभाषा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_008_textline_23.png",
+        "bounding_box": {
+            "x1": 726,
+            "y1": 297,
+            "x2": 1165,
+            "y2": 408
+        }
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_1.png",
+        "bounding_box": {
+            "x1": 243,
+            "y1": 299,
+            "x2": 365,
+            "y2": 409
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीरामस्तवराजः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_2.png",
+        "bounding_box": {
+            "x1": 646,
+            "y1": 247,
+            "x2": 1429,
+            "y2": 394
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "ते कामाय प्रमदामनोहरगुणग्रामाय रामा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_3.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 449,
+            "x2": 1840,
+            "y2": 603
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "त्मने ।। योगारूढमुनीन्द्रमानससरोहंसाय",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_4.png",
+        "bounding_box": {
+            "x1": 243,
+            "y1": 590,
+            "x2": 1832,
+            "y2": 738
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "संसारविध्वंसाय स्फुरदोजसे रघुकुलोत्तंसा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_5.png",
+        "bounding_box": {
+            "x1": 234,
+            "y1": 727,
+            "x2": 1837,
+            "y2": 870
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "य पुंसे नमः ।। ५४ ।। भवोद्भवं वेदविदां",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_6.png",
+        "bounding_box": {
+            "x1": 252,
+            "y1": 867,
+            "x2": 1840,
+            "y2": 1010
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "वरिष्ठमादित्यचन्द्रानलसुप्रभावम् ।। सर्वा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_7.png",
+        "bounding_box": {
+            "x1": 257,
+            "y1": 1005,
+            "x2": 1837,
+            "y2": 1147
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "त्मकं सर्वगतस्वरूपं नमामि रामं तमसः प-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_8.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 1135,
+            "x2": 1849,
+            "y2": 1281
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "रस्तात् ।। ५५ ।। निरञ्जनं निष्प्रतिमं नि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_9.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 1271,
+            "x2": 1866,
+            "y2": 1422
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "रीहं निराश्रयं निष्कलमप्रपञ्चम् ।। नित्यं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_10.png",
+        "bounding_box": {
+            "x1": 246,
+            "y1": 1405,
+            "x2": 1856,
+            "y2": 1558
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "ध्रुवं निर्विषयस्वरूपं निरन्तरं राममहं भजा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_11.png",
+        "bounding_box": {
+            "x1": 257,
+            "y1": 1547,
+            "x2": 1869,
+            "y2": 1688
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "मि ।। ५६ ।। भवाब्धिपोतं भरताग्रजं तं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_12.png",
+        "bounding_box": {
+            "x1": 249,
+            "y1": 1680,
+            "x2": 1853,
+            "y2": 1827
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "भक्लप्रियं भानुकुलप्रदीपम् ।। भूतत्रिनाथं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_13.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 1818,
+            "x2": 1875,
+            "y2": 1966
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "भुवनाधिपत्यं भजामि रामं भवरोगवैद्यम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_14.png",
+        "bounding_box": {
+            "x1": 257,
+            "y1": 1951,
+            "x2": 1846,
+            "y2": 2095
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "।। ५७ ।। सर्वाधिपत्यं समरे गभीरं सत्यं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_15.png",
+        "bounding_box": {
+            "x1": 257,
+            "y1": 2086,
+            "x2": 1875,
+            "y2": 2234
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "चिदानन्दमयस्वरूपम् ।। सत्यं शिवं शा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_16.png",
+        "bounding_box": {
+            "x1": 257,
+            "y1": 2233,
+            "x2": 1849,
+            "y2": 2369
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "न्तिमयं शरण्यं सनातनं राममहं भजामि",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_17.png",
+        "bounding_box": {
+            "x1": 245,
+            "y1": 2363,
+            "x2": 1846,
+            "y2": 2499
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "।। ५८ ।। कार्यक्रियाकारणमप्रमेयं कविं पु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_18.png",
+        "bounding_box": {
+            "x1": 260,
+            "y1": 2490,
+            "x2": 1897,
+            "y2": 2640
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "राणं कमलायताक्षम् ।। कुमारवैद्यं करुणा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_19.png",
+        "bounding_box": {
+            "x1": 269,
+            "y1": 2637,
+            "x2": 1896,
+            "y2": 2776
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "मयं तं कल्पद्रुमं राममहं भजामि ।। ५९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_08_textline_20.png",
+        "bounding_box": {
+            "x1": 266,
+            "y1": 2767,
+            "x2": 1855,
+            "y2": 2912
+        }
+    }
+]

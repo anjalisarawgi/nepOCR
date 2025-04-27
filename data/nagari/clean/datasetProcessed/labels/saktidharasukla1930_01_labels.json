@@ -1,0 +1,145 @@
+[
+    {
+        "line_number": 1,
+        "text": "च०",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_1.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 170,
+            "x2": 222,
+            "y2": 283
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "१",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_2.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 326,
+            "x2": 231,
+            "y2": 445
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "ॐ गणाधिपतये नमः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_3.png",
+        "bounding_box": {
+            "x1": 1405,
+            "y1": 170,
+            "x2": 2200,
+            "y2": 300
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नमसकृत्यशिवंसाम्बं शङ्करंलोकशङ्करम्। श्रीमच्चरणव्यूहस्य भाषा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_4.png",
+        "bounding_box": {
+            "x1": 568,
+            "y1": 337,
+            "x2": 3170,
+            "y2": 546
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "भाष्यंब्रुवेऽधुना ।। १ ।। अब इसके अनन्तर चरणव्यूहका व्याख्यान",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_5.png",
+        "bounding_box": {
+            "x1": 471,
+            "y1": 565,
+            "x2": 3171,
+            "y2": 720
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "श्रीगणेशाय नमः ।। अथातश्चरण",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_6.png",
+        "bounding_box": {
+            "x1": 697,
+            "y1": 804,
+            "x2": 3159,
+            "y2": 990
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "व्यूहं व्याख्यास्यामस्तत्र निरुक्तं चातु",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_7.png",
+        "bounding_box": {
+            "x1": 462,
+            "y1": 1071,
+            "x2": 3143,
+            "y2": 1269
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "र्विधं चत्वारो वेदा विज्ञातानिभवन्त्यृ",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_8.png",
+        "bounding_box": {
+            "x1": 464,
+            "y1": 1305,
+            "x2": 3144,
+            "y2": 1550
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "करैंगे-वहां निरुक्त**चार प्रकारकाहै । ऋग्वेद, यजुर्वेद, सामवेद",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_9.png",
+        "bounding_box": {
+            "x1": 451,
+            "y1": 1620,
+            "x2": 3158,
+            "y2": 1798
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "भाष्य, शंकरभाष्य, महाभाष्य, महीधरभाष्य, सायणाचार्यकृतभाष्य, ताण्ड्यमहा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_10.png",
+        "bounding_box": {
+            "x1": 451,
+            "y1": 2069,
+            "x2": 3169,
+            "y2": 2185
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "ब्राह्मण, निघण्ड्वादयोऽलौकिकामहान्तोग्रन्थाःसन्तीति ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_11.png",
+        "bounding_box": {
+            "x1": 453,
+            "y1": 2172,
+            "x2": 2168,
+            "y2": 2304
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "** निश्चयेनउक्तोऽर्थोयस्मिन्नितिनिरुक्तम्-अत्र शतपथ, गोपथ, ब्रह्मभाष्य, रावण",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_12.png",
+        "bounding_box": {
+            "x1": 540,
+            "y1": 1935,
+            "x2": 3141,
+            "y2": 2064
+        }
+    },
+    {
+        "line_number": 13,
+        "text": " १",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_01_textline_13.png",
+        "bounding_box": {
+            "x1": 3380,
+            "y1": 2140,
+            "x2": 3509,
+            "y2": 2243
+        }
+    }
+]

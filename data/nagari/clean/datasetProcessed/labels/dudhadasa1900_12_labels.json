@@ -1,0 +1,321 @@
+[
+    {
+        "line_number": 1,
+        "text": "१२ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_1.png",
+        "bounding_box": {
+            "x1": 129,
+            "y1": 75,
+            "x2": 312,
+            "y2": 210
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "दो० देखी लक्ष्ममण सियागति बिनजल त्यागतप्राण ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_2.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 174,
+            "x2": 1564,
+            "y2": 318
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "चलेलेन जल विकल अति योजन एक प्रमाण ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_3.png",
+        "bounding_box": {
+            "x1": 319,
+            "y1": 285,
+            "x2": 1534,
+            "y2": 408
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "रामाश्वमेध ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_4.png",
+        "bounding_box": {
+            "x1": 730,
+            "y1": 93,
+            "x2": 1131,
+            "y2": 215
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "करुणा करत विविध बैदेही । सो दुखबरणिजाय अबकेही ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_5.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 369,
+            "x2": 1758,
+            "y2": 509
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "परीमुरछि व्याकुल क्षितिमाहीं । देखिदशा बनचर अकुलाहीं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_6.png",
+        "bounding_box": {
+            "x1": 126,
+            "y1": 457,
+            "x2": 1731,
+            "y2": 601
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "रघुबरबिरह शूल उर व्यापी । दारुणबिपतिअधिकतनकांपी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_7.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 556,
+            "x2": 1734,
+            "y2": 695
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "दुखितश्रमितगइसोयभवानी । लक्ष्मणतबजलघटभरिआनी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_8.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 650,
+            "x2": 1726,
+            "y2": 788
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "लखिमुर्च्छितक्षितिअवनिकुमारी । भेलक्ष्मणदुखकेअधिकारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_9.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 741,
+            "x2": 1731,
+            "y2": 883
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "भसम होन हित रच्यो उपाई । नभबानी त्यहि समय सुनाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_10.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 834,
+            "x2": 1721,
+            "y2": 978
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "गवनहु लषण अवधकीघाहीं । जियै बाल कछुसंशय नाहीं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_11.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 931,
+            "x2": 1721,
+            "y2": 1069
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सुनि नभगिरा लषणबलधारी । चढ़ि बटडार बांधिघटबारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_12.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1027,
+            "x2": 1718,
+            "y2": 1160
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "धरि धीरज उर अनुज खरारी । जोततुरितरथ अवधसिधारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_13.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1118,
+            "x2": 1713,
+            "y2": 1257
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "दो० मनहींमन पद बन्दि सिय बहुविधि कीन्ह निहोर ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_14.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 1214,
+            "x2": 1557,
+            "y2": 1353
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "मन मलीन तन क्षीण अति हांक्यो रथ पुरओर ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_15.png",
+        "bounding_box": {
+            "x1": 296,
+            "y1": 1315,
+            "x2": 1546,
+            "y2": 1439
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "त्यागि सिया बन सघन अनेरी । लक्ष्मण अवधचले रथफेरी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_16.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 1409,
+            "x2": 1713,
+            "y2": 1541
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "सिया विरह अति दीन दुखारी । भयसभीत प्रियबन्धु खरारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_17.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1495,
+            "x2": 1708,
+            "y2": 1638
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "चौथे दिवस अवध में आई । रघुनायक पद शीश नवाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_18.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1583,
+            "x2": 1728,
+            "y2": 1732
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "पूछा रामसिया कुशलाई । तजिक्यहिबनसियआयहुभाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_19.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1682,
+            "x2": 1718,
+            "y2": 1823
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "ब्रह्मावर्त्त सघन बन भारी । आयों त्यागि विदेह कुमारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_20.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1791,
+            "x2": 1711,
+            "y2": 1915
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "नाथ विरह गइ मुरि भवानी । तबमैं चल्यों प्रभुशारँगपानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_21.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 1882,
+            "x2": 1703,
+            "y2": 2005
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "सुनि रघुबीर हृदय दुख पावा । पुनिनिजराज्यकाजचितलावा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_22.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 1973,
+            "x2": 1708,
+            "y2": 2099
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "सुनियहचरितसकलपुरबासी । शोच प्रबशहरिलेत उसासी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_23.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 2067,
+            "x2": 1706,
+            "y2": 2197
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "एककहैंनहिं विधिभलकीन्हा । जोअसबिपतिजानकिहिदीन्हा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_24.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2155,
+            "x2": 1711,
+            "y2": 2301
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "असबिपतिदीनजोजानकी बिनकाजरघुबरपरिहरी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_25.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 2342,
+            "x2": 1594,
+            "y2": 2487
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "जगसकल अपयशमोटबांधिबनायशिर अपनेधरी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_26.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2446,
+            "x2": 1577,
+            "y2": 2584
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "असकहैंपुर नरनारिमिलि दशपांच उरशोचहिंसही ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_27.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2530,
+            "x2": 1590,
+            "y2": 2676
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "गुरुसचिवकिोउनबुझाय रामहिं उचितकीबातेंकही ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_28.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2626,
+            "x2": 1567,
+            "y2": 2776
+        }
+    },
+    {
+        "line_number": 29,
+        "text": "छन्द ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_12_textline_29.png",
+        "bounding_box": {
+            "x1": 787,
+            "y1": 2274,
+            "x2": 1045,
+            "y2": 2386
+        }
+    }
+]

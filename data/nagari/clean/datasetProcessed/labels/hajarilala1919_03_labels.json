@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_1.png",
+        "bounding_box": {
+            "x1": 597,
+            "y1": 131,
+            "x2": 1136,
+            "y2": 293
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गूथी नरशिरहीं १ दुल्लह स्वरूप बनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_2.png",
+        "bounding_box": {
+            "x1": 51,
+            "y1": 304,
+            "x2": 1690,
+            "y2": 468
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "चढ़िशिव बसहापै, साजिके समाज निज",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_3.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 446,
+            "x2": 1712,
+            "y2": 612
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "चले ले बराति जो । अमितप्रकार गण बेषहुँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_4.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 586,
+            "x2": 1692,
+            "y2": 768
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अनेक बिधि, निज निज बाहन चढ़े हैं बहु",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_5.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 740,
+            "x2": 1692,
+            "y2": 919
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "भाँति जो ।। खर श्वान असुर शृगाल बाघ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_6.png",
+        "bounding_box": {
+            "x1": 49,
+            "y1": 902,
+            "x2": 1734,
+            "y2": 1051
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "मूषगण,बिबिध स्वरूप सब अगणित जाति",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_7.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 1051,
+            "x2": 1687,
+            "y2": 1210
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जो। भूत प्रेत योगिनी पिशाच बहुरंगनको,",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_8.png",
+        "bounding_box": {
+            "x1": 32,
+            "y1": 1190,
+            "x2": 1687,
+            "y2": 1360
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "चले सब हरषित सकलजमाति जो २ बि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_9.png",
+        "bounding_box": {
+            "x1": 46,
+            "y1": 1336,
+            "x2": 1690,
+            "y2": 1498
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "कट सरूप बिकराल रुद्रगण जेते, अदभुत",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_10.png",
+        "bounding_box": {
+            "x1": 51,
+            "y1": 1494,
+            "x2": 1685,
+            "y2": 1651
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "शोभा नहिं बनत बखानते । काहू अंग मुख-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_11.png",
+        "bounding_box": {
+            "x1": 39,
+            "y1": 1638,
+            "x2": 1697,
+            "y2": 1806
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "हीन काहू अति पुष्ट पीन, कोउ कृशगात",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_12.png",
+        "bounding_box": {
+            "x1": 49,
+            "y1": 1791,
+            "x2": 1678,
+            "y2": 1945
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "छीन कोउ हीन कानते ।। काहू कर पद नाहीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_13.png",
+        "bounding_box": {
+            "x1": 56,
+            "y1": 1932,
+            "x2": 1687,
+            "y2": 2085
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "काहू बहुपगबाहीं, कोउ बिनु शीश धाहीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_14.png",
+        "bounding_box": {
+            "x1": 51,
+            "y1": 2071,
+            "x2": 1685,
+            "y2": 2239
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "नाचरंग ठानते । काहू को बिपुल नैन काहू",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_15.png",
+        "bounding_box": {
+            "x1": 54,
+            "y1": 2222,
+            "x2": 1685,
+            "y2": 2382
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "को एकहुहैन,कोउ बहुमुखबैनगावतसता- ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_16.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 2373,
+            "x2": 1685,
+            "y2": 2531
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_03_textline_17.png",
+        "bounding_box": {
+            "x1": 1575,
+            "y1": 162,
+            "x2": 1682,
+            "y2": 288
+        }
+    }
+]

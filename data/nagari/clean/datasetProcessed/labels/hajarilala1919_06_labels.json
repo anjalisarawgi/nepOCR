@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "६",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_1.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 210,
+            "x2": 330,
+            "y2": 346
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_2.png",
+        "bounding_box": {
+            "x1": 763,
+            "y1": 184,
+            "x2": 1304,
+            "y2": 344
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "पहुँची नगर पास,सुनि पुरबासी लोग हिये",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_3.png",
+        "bounding_box": {
+            "x1": 200,
+            "y1": 347,
+            "x2": 1850,
+            "y2": 512
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "हरषाइ जो । हाथी घोड़ा ऊंट रथ आदिक",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_4.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 495,
+            "x2": 1855,
+            "y2": 669
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अनेक भांति, सजि सजि बाहनन शोभा",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_5.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 651,
+            "x2": 1860,
+            "y2": 817
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "अधिकाइ जो ।। चले लेन अगुवान सादर",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_6.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 802,
+            "x2": 1850,
+            "y2": 976
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "सकलमिलि, आनँद उछाह मन बरणी न",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_7.png",
+        "bounding_box": {
+            "x1": 200,
+            "y1": 962,
+            "x2": 1862,
+            "y2": 1112
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जाइजो । देवन समाज लखि मुदित हृदय",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_8.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 1099,
+            "x2": 1841,
+            "y2": 1269
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सब, हरिहिं बिलोकी अति आनँदहू छाइ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_9.png",
+        "bounding_box": {
+            "x1": 193,
+            "y1": 1243,
+            "x2": 1841,
+            "y2": 1417
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "जो ८ शिवको समाज अवलोके पुरलोगन",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_10.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 1391,
+            "x2": 1845,
+            "y2": 1550
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जो, देखत चकित सब परमभयावनै । कहुँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_11.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 1542,
+            "x2": 1858,
+            "y2": 1710
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "भूत प्रेतगण कहुँ बाघ ब्याल कहुँ, निशि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_12.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 1681,
+            "x2": 1864,
+            "y2": 1845
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "चर बिकट सरूप जो अपावनै ।। देखतहिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_13.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 1834,
+            "x2": 1845,
+            "y2": 1999
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "बाहनबिडरि सब भागिचले,कहुँ हाथी कहुँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_14.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 1983,
+            "x2": 1836,
+            "y2": 2142
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "घोड़ा प्राणको बचावनै । बालक सकलडरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_15.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 2126,
+            "x2": 1838,
+            "y2": 2288
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "भागिगये घरघर, रहे धीर धरि स्यान गये",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_16.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 2275,
+            "x2": 1864,
+            "y2": 2433
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "जो बुलावनै ९ पूछत घरन पितु मातु सब",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_06_textline_17.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 2423,
+            "x2": 1836,
+            "y2": 2591
+        }
+    }
+]

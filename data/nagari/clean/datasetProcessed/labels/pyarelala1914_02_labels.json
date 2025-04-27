@@ -1,0 +1,178 @@
+[
+    {
+        "line_number": 1,
+        "text": "२",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_1.png",
+        "bounding_box": {
+            "x1": 188,
+            "y1": 116,
+            "x2": 333,
+            "y2": 221
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रागबिनोद ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_2.png",
+        "bounding_box": {
+            "x1": 819,
+            "y1": 93,
+            "x2": 1325,
+            "y2": 243
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "तुमहीं हौ शुभबानी ।। ३ ।। जै जै० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_3.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 300,
+            "x2": 1880,
+            "y2": 456
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "जन प्यारेके शोकहरो सब आपन किंकर",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_4.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 463,
+            "x2": 1911,
+            "y2": 604
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "जानी ।। ४ ।। जै जै जैजगदम्बभवानी ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_5.png",
+        "bounding_box": {
+            "x1": 219,
+            "y1": 604,
+            "x2": 1844,
+            "y2": 760
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "दो० सिद्ध करनि सब कामको, और सुभग बरदान ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_6.png",
+        "bounding_box": {
+            "x1": 256,
+            "y1": 814,
+            "x2": 1828,
+            "y2": 934
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "तुम बिन माता देतको, मम मूरख को ज्ञान ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_7.png",
+        "bounding_box": {
+            "x1": 417,
+            "y1": 932,
+            "x2": 1851,
+            "y2": 1056
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "गजबदन को कर गान ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_8.png",
+        "bounding_box": {
+            "x1": 510,
+            "y1": 1286,
+            "x2": 1577,
+            "y2": 1440
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "(भजन)",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_9.png",
+        "bounding_box": {
+            "x1": 803,
+            "y1": 1102,
+            "x2": 1279,
+            "y2": 1248
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "जहान ।। १ ।। अब गजबदन ० ।। देव नर",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_10.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 1635,
+            "x2": 1886,
+            "y2": 1785
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "गन्धर्ब किन्नर, धरत प्रथमै ध्यान ।। २ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_11.png",
+        "bounding_box": {
+            "x1": 219,
+            "y1": 1768,
+            "x2": 1941,
+            "y2": 1927
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "अब गजबदन० ।। एक ऊपर सुन्न रथ जो,",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_12.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 1933,
+            "x2": 1927,
+            "y2": 2078
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "तासु पुत्र बखान ।। ३ ।। अब गजबदन० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_13.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 2084,
+            "x2": 1886,
+            "y2": 2228
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "एक दन्त सवारी मूसा, जपत सकल",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_14.png",
+        "bounding_box": {
+            "x1": 365,
+            "y1": 1484,
+            "x2": 1886,
+            "y2": 1626
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "कहत प्यारे सिद्धिदायक, नामकरौं स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_15.png",
+        "bounding_box": {
+            "x1": 231,
+            "y1": 2224,
+            "x2": 1891,
+            "y2": 2376
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "गान ।। ४ ।। अब गजबदन को कर गान ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_02_textline_16.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 2384,
+            "x2": 1893,
+            "y2": 2530
+        }
+    }
+]

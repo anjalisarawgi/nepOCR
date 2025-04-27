@@ -1,0 +1,134 @@
+[
+    {
+        "line_number": 1,
+        "text": "च०",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_1.png",
+        "bounding_box": {
+            "x1": 21,
+            "y1": 209,
+            "x2": 222,
+            "y2": 320
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_2.png",
+        "bounding_box": {
+            "x1": 108,
+            "y1": 354,
+            "x2": 222,
+            "y2": 477
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "यजुर्वेद के छियासी भेद होते हैं। वहां चरकनामक बारह भेद होते",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_3.png",
+        "bounding_box": {
+            "x1": 529,
+            "y1": 177,
+            "x2": 3136,
+            "y2": 355
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "हैं--चरकाह्वरक,कठ,प्राच्यकठ, कपिष्ठलकठ, चारायणीय, वार्तन्त-",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_4.png",
+        "bounding_box": {
+            "x1": 455,
+            "y1": 362,
+            "x2": 3138,
+            "y2": 531
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "तत्रचरकाणांद्वादशभिदा भवन्ति ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_5.png",
+        "bounding_box": {
+            "x1": 462,
+            "y1": 807,
+            "x2": 3130,
+            "y2": 1026
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "चरकाह्वरकाः कठाःप्राच्यकठाःकपिष्ठ",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_6.png",
+        "bounding_box": {
+            "x1": 460,
+            "y1": 1059,
+            "x2": 3127,
+            "y2": 1308
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "लकठाश्चारायणीया वार्तन्तवीयाःश्वे",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_7.png",
+        "bounding_box": {
+            "x1": 494,
+            "y1": 1340,
+            "x2": 3130,
+            "y2": 1558
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "ता अश्वतरा औपमन्यवाः पाता ऐ",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_8.png",
+        "bounding_box": {
+            "x1": 458,
+            "y1": 1606,
+            "x2": 3147,
+            "y2": 1833
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "यजुर्वेदस्यषडशीतिर्भेदाभवन्ति ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_9.png",
+        "bounding_box": {
+            "x1": 729,
+            "y1": 529,
+            "x2": 3143,
+            "y2": 753
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "णिडनेया मैत्रायणीयाश्चेति ।। तत्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_10.png",
+        "bounding_box": {
+            "x1": 449,
+            "y1": 1873,
+            "x2": 3153,
+            "y2": 2097
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "वीय, श्वेत, अश्वतर, औपमन्यव, पात, ऐण्डिनेय और मैत्रा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_11.png",
+        "bounding_box": {
+            "x1": 441,
+            "y1": 2115,
+            "x2": 3164,
+            "y2": 2315
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_05_textline_12.png",
+        "bounding_box": {
+            "x1": 3383,
+            "y1": 2161,
+            "x2": 3507,
+            "y2": 2254
+        }
+    }
+]

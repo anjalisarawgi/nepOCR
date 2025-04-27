@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "गीतगोविन्दादर्श ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_1.png",
+        "bounding_box": {
+            "x1": 569,
+            "y1": 117,
+            "x2": 1098,
+            "y2": 265
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "स्नपयसि पयसि शमितभवतापम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_2.png",
+        "bounding_box": {
+            "x1": 120,
+            "y1": 299,
+            "x2": 1405,
+            "y2": 464
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "केशव धृतभृगुपतिरूप जय जगदीश हरे ६",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_3.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 453,
+            "x2": 1681,
+            "y2": 616
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "वितरसि दिक्षुरणे दिक्पतिकमनीयम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_4.png",
+        "bounding_box": {
+            "x1": 120,
+            "y1": 604,
+            "x2": 1503,
+            "y2": 766
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दशमुखमौलिबलिं रमणीयम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_5.png",
+        "bounding_box": {
+            "x1": 120,
+            "y1": 760,
+            "x2": 1275,
+            "y2": 912
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "केशव धृतरघुपतिरूप जय जगदीश हरे ७",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_6.png",
+        "bounding_box": {
+            "x1": 115,
+            "y1": 917,
+            "x2": 1649,
+            "y2": 1060
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "चहसि वपुषि विशदे वसनं जलदाभम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_7.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1065,
+            "x2": 1484,
+            "y2": 1219
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "हलहतिभीतिमिलितयमुनाभम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_8.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1216,
+            "x2": 1304,
+            "y2": 1361
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "केशव धृतहलधररूप जय जगदीश हरे ८",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_9.png",
+        "bounding_box": {
+            "x1": 97,
+            "y1": 1373,
+            "x2": 1591,
+            "y2": 1510
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "निन्दसि यज्ञविधेरहहः श्रुतिजातम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_10.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 1506,
+            "x2": 1396,
+            "y2": 1667
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सदयहृदयदर्शितपशुघातम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_11.png",
+        "bounding_box": {
+            "x1": 105,
+            "y1": 1670,
+            "x2": 1213,
+            "y2": 1812
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "केशव धृतबुद्धशरीर जय जगदीश हरे ९",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_12.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 1811,
+            "x2": 1578,
+            "y2": 1965
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "म्लेच्छनिवहनिधने कलयसि करवालम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_13.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1954,
+            "x2": 1586,
+            "y2": 2106
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "धूम्रकेतुमिव किमपि करालम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_14.png",
+        "bounding_box": {
+            "x1": 105,
+            "y1": 2105,
+            "x2": 1294,
+            "y2": 2261
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "केशव धृतकल्किशरीर जय जगदीश हरे १०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_15.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 2254,
+            "x2": 1646,
+            "y2": 2405
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "श्रीजयदेवकवेरिदमुदितमुदारम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_16.png",
+        "bounding_box": {
+            "x1": 97,
+            "y1": 2405,
+            "x2": 1354,
+            "y2": 2553
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "शृणु सुखदं शुभदं भवसारम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_17.png",
+        "bounding_box": {
+            "x1": 100,
+            "y1": 2564,
+            "x2": 1297,
+            "y2": 2711
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "केशव धृतदशविधरूप जय जगदीश हरे ११",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_18.png",
+        "bounding_box": {
+            "x1": 110,
+            "y1": 2704,
+            "x2": 1654,
+            "y2": 2861
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "७",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_007_textline_19.png",
+        "bounding_box": {
+            "x1": 1528,
+            "y1": 153,
+            "x2": 1656,
+            "y2": 252
+        }
+    }
+]

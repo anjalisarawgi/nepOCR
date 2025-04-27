@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "अपरोक्षानुभव",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_1.png",
+        "bounding_box": {
+            "x1": 760,
+            "y1": 1202,
+            "x2": 1470,
+            "y2": 1369
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीगणेशाय नमः",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_2.png",
+        "bounding_box": {
+            "x1": 960,
+            "y1": 1070,
+            "x2": 1322,
+            "y2": 1179
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "अपरोक्षानुभूती नागरिक भाषाटीका सहित",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_3.png",
+        "bounding_box": {
+            "x1": 441,
+            "y1": 1494,
+            "x2": 1903,
+            "y2": 1627
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "परब्रह्मानवद्याखण्ड स्वरूप जगदीश के निर्गुण",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_4.png",
+        "bounding_box": {
+            "x1": 477,
+            "y1": 1720,
+            "x2": 1821,
+            "y2": 1837
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "स्वरूप जानने के निमित्त इन्द्रप्रस्थस्थ नील",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_5.png",
+        "bounding_box": {
+            "x1": 517,
+            "y1": 1822,
+            "x2": 1802,
+            "y2": 1935
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "कटरा निवासि परब्रह्म ज्ञानकैतत्पर",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_6.png",
+        "bounding_box": {
+            "x1": 579,
+            "y1": 1921,
+            "x2": 1748,
+            "y2": 2041
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "भास्कर ज्ञानदास कविने सुंदरसंस्कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_7.png",
+        "bounding_box": {
+            "x1": 618,
+            "y1": 2032,
+            "x2": 1691,
+            "y2": 2140
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "श्लोकों में निर्म्मित कियाथा ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_8.png",
+        "bounding_box": {
+            "x1": 730,
+            "y1": 2121,
+            "x2": 1641,
+            "y2": 2247
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "श्रीबाबू हकूमतराय अंग्रेज़ी नवीस महकमःफिनै-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_9.png",
+        "bounding_box": {
+            "x1": 428,
+            "y1": 2292,
+            "x2": 1874,
+            "y2": 2456
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "न्शियल कमिश्नर बहादुर मुल्क अवधकी आज्ञानु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_10.png",
+        "bounding_box": {
+            "x1": 467,
+            "y1": 2440,
+            "x2": 1821,
+            "y2": 2557
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सार भाषा टीका सहित ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_11.png",
+        "bounding_box": {
+            "x1": 789,
+            "y1": 2541,
+            "x2": 1546,
+            "y2": 2665
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "मुन्शी नवलकिशोर ( सि, आई, ई) के छापेख़ाने में छपा ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_12.png",
+        "bounding_box": {
+            "x1": 523,
+            "y1": 2991,
+            "x2": 1788,
+            "y2": 3094
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_13.png",
+        "bounding_box": {
+            "x1": 983,
+            "y1": 2791,
+            "x2": 1316,
+            "y2": 2941
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "दिसम्बर सन् १८९५ ई० ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_14.png",
+        "bounding_box": {
+            "x1": 921,
+            "y1": 3080,
+            "x2": 1448,
+            "y2": 3172
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "जिसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_15.png",
+        "bounding_box": {
+            "x1": 1075,
+            "y1": 1609,
+            "x2": 1224,
+            "y2": 1711
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "वही",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_16.png",
+        "bounding_box": {
+            "x1": 1072,
+            "y1": 2229,
+            "x2": 1220,
+            "y2": 2328
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "दूसरीबार",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_01_textline_17.png",
+        "bounding_box": {
+            "x1": 1039,
+            "y1": 2653,
+            "x2": 1283,
+            "y2": 2775
+        }
+    }
+]

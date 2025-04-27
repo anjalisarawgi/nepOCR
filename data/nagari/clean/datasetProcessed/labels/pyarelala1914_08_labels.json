@@ -1,0 +1,178 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_1.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 119,
+            "x2": 368,
+            "y2": 246
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रागबिनोद ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_2.png",
+        "bounding_box": {
+            "x1": 802,
+            "y1": 113,
+            "x2": 1307,
+            "y2": 267
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "दो० या बिधि को मैं पातकी, सुनियो दीनदयाल ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_3.png",
+        "bounding_box": {
+            "x1": 230,
+            "y1": 299,
+            "x2": 1802,
+            "y2": 454
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "पतित उबारन नाम है, मम अघ हरो कृपाल ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_4.png",
+        "bounding_box": {
+            "x1": 370,
+            "y1": 436,
+            "x2": 1809,
+            "y2": 579
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "(भजन)",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_5.png",
+        "bounding_box": {
+            "x1": 825,
+            "y1": 631,
+            "x2": 1288,
+            "y2": 776
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "नाम बिन कौन भयो भव पार ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_6.png",
+        "bounding_box": {
+            "x1": 370,
+            "y1": 848,
+            "x2": 1730,
+            "y2": 1015
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "बेद पुराण भनत यश थाकत तेउ न",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_7.png",
+        "bounding_box": {
+            "x1": 370,
+            "y1": 1031,
+            "x2": 1910,
+            "y2": 1176
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "पावत पार । बालमीकि नारद सनका-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_8.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 1182,
+            "x2": 1888,
+            "y2": 1324
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "दिक तिनहुँ के प्राण अधार ।। १ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_9.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 1321,
+            "x2": 1897,
+            "y2": 1479
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "नाम बिन० ।। ध्रुव प्रहलाद और पारा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_10.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 1475,
+            "x2": 1877,
+            "y2": 1626
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "शर अरु मुनिबृन्द अपार । हरिहित",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_11.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 1621,
+            "x2": 1908,
+            "y2": 1777
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सुखसम्पति सब त्यागेउ दरशदीन क-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_12.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 1775,
+            "x2": 1883,
+            "y2": 1921
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "रतार ।। २ ।। नाम बिन० ।। सूरदास",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_13.png",
+        "bounding_box": {
+            "x1": 188,
+            "y1": 1937,
+            "x2": 1867,
+            "y2": 2067
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "शरभंग कपिलमुनि अरु मनु अवधभु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_14.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 2079,
+            "x2": 1891,
+            "y2": 2208
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "वार । नामहेत तृण यों सब त्यागेउ राज",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_15.png",
+        "bounding_box": {
+            "x1": 195,
+            "y1": 2216,
+            "x2": 1877,
+            "y2": 2370
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "पाट संसार ।। ३ ।। नाम बिन० ।। प्यारे",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_08_textline_16.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 2372,
+            "x2": 1877,
+            "y2": 2524
+        }
+    }
+]

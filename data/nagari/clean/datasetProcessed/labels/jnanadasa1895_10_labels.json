@@ -1,0 +1,244 @@
+[
+    {
+        "line_number": 1,
+        "text": "१०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_1.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 135,
+            "x2": 348,
+            "y2": 271
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "दरशात ४४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_2.png",
+        "bounding_box": {
+            "x1": 235,
+            "y1": 2870,
+            "x2": 723,
+            "y2": 2971
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "एवंदेहद्वयादन्यआत्मापुरुषईश्वरः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_3.png",
+        "bounding_box": {
+            "x1": 338,
+            "y1": 305,
+            "x2": 1561,
+            "y2": 443
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "इत्यात्मदेहभागेन प्रपञ्चस्यैवसत्यता ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_4.png",
+        "bounding_box": {
+            "x1": 359,
+            "y1": 580,
+            "x2": 1640,
+            "y2": 719
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अपरोक्षानुभव स० ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_5.png",
+        "bounding_box": {
+            "x1": 791,
+            "y1": 151,
+            "x2": 1407,
+            "y2": 264
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सर्व्वात्मासर्वरूपश्चसर्व्वातीतोहमव्ययः ।। ४० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_6.png",
+        "bounding_box": {
+            "x1": 353,
+            "y1": 441,
+            "x2": 1979,
+            "y2": 574
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "यथोक्तातर्कशास्त्रेणकिंततःपुरुषार्थिता ।। ४१ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_7.png",
+        "bounding_box": {
+            "x1": 353,
+            "y1": 713,
+            "x2": 1888,
+            "y2": 859
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "इत्यात्मदेहभेदेन देहात्मत्वंनिवारितम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_8.png",
+        "bounding_box": {
+            "x1": 350,
+            "y1": 843,
+            "x2": 1691,
+            "y2": 990
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "इदानींदेहभेदस्य ह्यसत्वंस्फुटमुच्यते ।। ४२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_9.png",
+        "bounding_box": {
+            "x1": 344,
+            "y1": 994,
+            "x2": 1855,
+            "y2": 1129
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "चैतन्यस्यैकरूपत्वाद्भेदोयुक्तोनकर्हिचित् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_10.png",
+        "bounding_box": {
+            "x1": 350,
+            "y1": 1111,
+            "x2": 1694,
+            "y2": 1255
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जीवत्वचमृषाज्ञेयं रज्जोसर्पगृहोयथा ।। ४३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_11.png",
+        "bounding_box": {
+            "x1": 356,
+            "y1": 1253,
+            "x2": 1855,
+            "y2": 1401
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "रज्ज्वज्ञानात्क्षणेनैवयद्वद्रज्जुहिसर्पिणी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_12.png",
+        "bounding_box": {
+            "x1": 356,
+            "y1": 1383,
+            "x2": 1670,
+            "y2": 1531
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "भातितद्वच्चितिःसाक्षाद्विश्वाकारेणकेवला ।। ४४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_13.png",
+        "bounding_box": {
+            "x1": 371,
+            "y1": 1522,
+            "x2": 1970,
+            "y2": 1669
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "ऐसे दोऊ देहते न्यारो । आत्मा पुरुष जु ईश्वर प्यारो ।। स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_14.png",
+        "bounding_box": {
+            "x1": 338,
+            "y1": 1749,
+            "x2": 2015,
+            "y2": 1899
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "र्वात्मा सबरूप जु सोई । सर्ब परे हो अव्यय सोई ४० आतम",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_15.png",
+        "bounding_box": {
+            "x1": 241,
+            "y1": 1870,
+            "x2": 2030,
+            "y2": 2017
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "देह भिन्नइमिकहो । असत्यप्रपंच सत्यकरिलहो ।। तर्कशास्त्रकरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_16.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 1994,
+            "x2": 2027,
+            "y2": 2139
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "बर्णितजोय । यामें कह पुरुषारथ सोय ४१ आत्मा देह भेद करि",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_17.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 2118,
+            "x2": 2018,
+            "y2": 2253
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "जोई । तनआत्मत्व निवास्यो सोई ।। अब तन भेद असत्यसु",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_18.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 2236,
+            "x2": 2024,
+            "y2": 2374
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "जैसे । सोअस्पष्ट कहतहौं तैसे ४२ चेतन एकरूपजोआहि । भेद",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_19.png",
+        "bounding_box": {
+            "x1": 265,
+            "y1": 2350,
+            "x2": 2033,
+            "y2": 2490
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "युक्ति सो कबहूं नाहि ।। जीव भाव मिथ्या करिजानि। ज्यों रजु",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_20.png",
+        "bounding_box": {
+            "x1": 253,
+            "y1": 2468,
+            "x2": 2018,
+            "y2": 2611
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "माहिं सर्प बुधि ठानि ४३ रजु अज्ञान ते छिन इक जोई । जैसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_21.png",
+        "bounding_box": {
+            "x1": 241,
+            "y1": 2580,
+            "x2": 2027,
+            "y2": 2728
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "सर्पनिरजुहै सोई ।। तैसे चेतन है साक्षात । बिश्व रूपकरि सो",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_10_textline_22.png",
+        "bounding_box": {
+            "x1": 256,
+            "y1": 2701,
+            "x2": 2027,
+            "y2": 2847
+        }
+    }
+]

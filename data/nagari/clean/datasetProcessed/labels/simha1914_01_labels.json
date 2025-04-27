@@ -1,0 +1,134 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीगणशाय नम:",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_1.png",
+        "bounding_box": {
+            "x1": 768,
+            "y1": 402,
+            "x2": 1337,
+            "y2": 516
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "अथ जगत् उपदेश ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_2.png",
+        "bounding_box": {
+            "x1": 407,
+            "y1": 498,
+            "x2": 1683,
+            "y2": 717
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "(२) समयका विचार ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_3.png",
+        "bounding_box": {
+            "x1": 467,
+            "y1": 1017,
+            "x2": 1609,
+            "y2": 1191
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "मनुष्यको हमेशा सोच समझकर काम करना",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_4.png",
+        "bounding_box": {
+            "x1": 289,
+            "y1": 1255,
+            "x2": 1952,
+            "y2": 1414
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "चाहिये. हर एक काम उचित समयसे करना समय",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_5.png",
+        "bounding_box": {
+            "x1": 98,
+            "y1": 1412,
+            "x2": 1960,
+            "y2": 1560
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "का ध्यान रखना और समयको नष्ट न करना चाहिये.",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_6.png",
+        "bounding_box": {
+            "x1": 108,
+            "y1": 1564,
+            "x2": 1970,
+            "y2": 1710
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "जो समयका ध्यान नहीं करता वह अपना समय",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_7.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 1718,
+            "x2": 1955,
+            "y2": 1858
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "व काम नष्ट करताहै; उसी तरह औरोंकाभी समय",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_8.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 1865,
+            "x2": 1955,
+            "y2": 2005
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "व काम नष्ट करताहै. छोटेसे छोटा काम हो तोभी",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_9.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 2001,
+            "x2": 1931,
+            "y2": 2157
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "अच्छीतरहसे करना चाहिये. हमेशा शरीर व कपड़ों",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_10.png",
+        "bounding_box": {
+            "x1": 103,
+            "y1": 2144,
+            "x2": 1939,
+            "y2": 2307
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "को साफ़ रखना चाहिये जिससे चित्त प्रसन्न रहे. औरों",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_11.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 2291,
+            "x2": 1934,
+            "y2": 2457
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "को मोटा झोटा कपड़ा पहिरनेसे तुच्छ मत देखो.",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_01_textline_12.png",
+        "bounding_box": {
+            "x1": 108,
+            "y1": 2443,
+            "x2": 1944,
+            "y2": 2601
+        }
+    }
+]

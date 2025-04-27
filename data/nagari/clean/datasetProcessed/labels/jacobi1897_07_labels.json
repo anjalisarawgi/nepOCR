@@ -1,0 +1,266 @@
+[
+    {
+        "line_number": 1,
+        "text": "(७)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_1.png",
+        "bounding_box": {
+            "x1": 793,
+            "y1": 121,
+            "x2": 1063,
+            "y2": 224
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "और उस सूरत पर संवत्सर ९८ खुदा है और उसी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_2.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 261,
+            "x2": 1688,
+            "y2": 415
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "जगह से निकले हुए दूसरे पत्थरों पर हविश्क और",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_3.png",
+        "bounding_box": {
+            "x1": 83,
+            "y1": 380,
+            "x2": 1696,
+            "y2": 520
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "कनिश्क के नाम रहने से साबित है कि वह विक्रमही",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_4.png",
+        "bounding_box": {
+            "x1": 85,
+            "y1": 488,
+            "x2": 1726,
+            "y2": 644
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "का संवत्सर है सिवाय इसके बौद्धों के शास्त्रों में जैन",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_5.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 598,
+            "x2": 1697,
+            "y2": 744
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "मत स्थापन करनेवाले अथवा उसे दुरुस्त करनेवाले",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_6.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 717,
+            "x2": 1685,
+            "y2": 863
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "का चरचा है कुछ जैनियों के नाम से नहीं किन्तु",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_7.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 822,
+            "x2": 1712,
+            "y2": 968
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "निगंठनाथ या निगंठनात पुत्त के नाम से निगंठ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_8.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 930,
+            "x2": 1677,
+            "y2": 1075
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "तो जैनी साधुओं का नाम मालूम ही है नातपुत्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_9.png",
+        "bounding_box": {
+            "x1": 80,
+            "y1": 1043,
+            "x2": 1680,
+            "y2": 1186
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "हम नायपुत्त जो कल्पसूत्र और उत्तराध्ययन सूत्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_10.png",
+        "bounding_box": {
+            "x1": 80,
+            "y1": 1156,
+            "x2": 1677,
+            "y2": 1291
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "में महावीर का विरुद लिखा है समझते हैं नयपाल",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_11.png",
+        "bounding_box": {
+            "x1": 69,
+            "y1": 1256,
+            "x2": 1685,
+            "y2": 1408
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "के बौद्ध पुस्तकों में निगंठनाथ को ज्ञाति का पुत्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_12.png",
+        "bounding_box": {
+            "x1": 66,
+            "y1": 1361,
+            "x2": 1685,
+            "y2": 1522
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "लिखा है और जैन लोग महावीर को ज्ञात पुत्र कह-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_13.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 1480,
+            "x2": 1680,
+            "y2": 1630
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "ते हैं हेमचन्द्र के परिशिष्ट पर्व्व का यह श्लाके है",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_14.png",
+        "bounding_box": {
+            "x1": 66,
+            "y1": 1582,
+            "x2": 1677,
+            "y2": 1740
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "\"कल्याणपादपरमं श्रुतगङ्गाहिमाचलम् । विश्वां",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_15.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1706,
+            "x2": 1707,
+            "y2": 1846
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "भोजरविं देवं वन्दे श्रीज्ञातनन्दनम् ॥ ,,महावीर को",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_16.png",
+        "bounding_box": {
+            "x1": 52,
+            "y1": 1804,
+            "x2": 1710,
+            "y2": 1961
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "ज्ञातनन्दन इसवास्ते कहा कि कल्पसूत्र में उनके",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_17.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 1928,
+            "x2": 1674,
+            "y2": 2067
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "बाप को ज्ञात क्षत्रिय लिखा है सामन्नफल सूत्र में",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_18.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 2033,
+            "x2": 1716,
+            "y2": 2179
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "निगंठनाथ पुत्र को अग्नि वैश्यायन लिखा है यह",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_19.png",
+        "bounding_box": {
+            "x1": 43,
+            "y1": 2143,
+            "x2": 1669,
+            "y2": 2297
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "बौद्धों कीभूल मालूम होती है उन्होंने शायद महा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_20.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 2249,
+            "x2": 1674,
+            "y2": 2402
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "वीर को उस के मुख्य शिख्य सुधर्मासे मिलाकर एक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_21.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 2356,
+            "x2": 1672,
+            "y2": 2513
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "कर दिया क्योंकि सुधर्मा अग्नि वैश्यायन था",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_22.png",
+        "bounding_box": {
+            "x1": 53,
+            "y1": 2475,
+            "x2": 1669,
+            "y2": 2618
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "अफ़सोस सामन्नफल सूत्र में जहां निगंठनात पुत्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_23.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 2580,
+            "x2": 1664,
+            "y2": 2736
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "का मत वर्णन किया है शाका और संवत् नहीं लिखा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_07_textline_24.png",
+        "bounding_box": {
+            "x1": 42,
+            "y1": 2693,
+            "x2": 1664,
+            "y2": 2837
+        }
+    }
+]

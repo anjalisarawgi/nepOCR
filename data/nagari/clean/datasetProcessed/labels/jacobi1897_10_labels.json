@@ -1,0 +1,266 @@
+[
+    {
+        "line_number": 1,
+        "text": "(१०)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_1.png",
+        "bounding_box": {
+            "x1": 782,
+            "y1": 132,
+            "x2": 1026,
+            "y2": 242
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "जो तीसरे श्लोक में लिखा है वही विक्रम है जिसने",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_2.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 254,
+            "x2": 1704,
+            "y2": 433
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सन् ईसवी से ५७ बरस पहले संवत् चलाया और",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_3.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 380,
+            "x2": 1709,
+            "y2": 544
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "सन् ईसवी ७८ का शाका चलानेवाला शालिवाहन",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_4.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 496,
+            "x2": 1706,
+            "y2": 656
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "ही है ६० बरस पालक के राज के और १०५ नव-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_5.png",
+        "bounding_box": {
+            "x1": 46,
+            "y1": 593,
+            "x2": 1695,
+            "y2": 759
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "नन्दों के अर्थात् २१५ बरस चंद्रगुप्त के अभिषेक में",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_6.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 706,
+            "x2": 1733,
+            "y2": 872
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "अर्थात् सन् ईसवी से पहले ३१२ में मिलाने से",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_7.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 822,
+            "x2": 1706,
+            "y2": 985
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "महावीर का निर्वाण सन् ईसवी से ५२७ बरस पह-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_8.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 930,
+            "x2": 1698,
+            "y2": 1105
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ले ठहरता है सिंहल अथात् लंकावाले बुद्ध का",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_9.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 1035,
+            "x2": 1695,
+            "y2": 1210
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "निर्वाण सन् ईसवी से ५४३ बरस पहले मानते हैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_10.png",
+        "bounding_box": {
+            "x1": 69,
+            "y1": 1138,
+            "x2": 1730,
+            "y2": 1318
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "पस कुल १६ बरस का फ़र्क रह जाता है ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_11.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 1278,
+            "x2": 1393,
+            "y2": 1420
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "हेमचन्द्र अपने परिशिष्टापर्व में लिखता है \"एवं",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_12.png",
+        "bounding_box": {
+            "x1": 180,
+            "y1": 1373,
+            "x2": 1736,
+            "y2": 1525
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "च श्रीमहावीरे मुक्ते वर्ष शते गते । पंच पंचाशदधि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_13.png",
+        "bounding_box": {
+            "x1": 44,
+            "y1": 1480,
+            "x2": 1685,
+            "y2": 1647
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "के चंद्रगुप्तो भवन्नृपः ॥ १ ॥ ''इससे यह बात निक-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_14.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 1586,
+            "x2": 1708,
+            "y2": 1759
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "लती है कि महावीर के निर्वाण से १५५ बरस पीछे",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_15.png",
+        "bounding_box": {
+            "x1": 42,
+            "y1": 1696,
+            "x2": 1677,
+            "y2": 1859
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "चंद्रगुप्त का अभिषेक हुआ हेमचंद्र पालक के राज",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_16.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 1815,
+            "x2": 1671,
+            "y2": 1971
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "का ६० बरस नहीं लेता इस कारन महावीर का",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_17.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 1931,
+            "x2": 1668,
+            "y2": 2083
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "निर्वाण हेमचंद्र के अनुसार ४६७ बरस सन् ईसवी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_18.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 2025,
+            "x2": 1691,
+            "y2": 2191
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "से पहले पड़ता है और सिंहलवालों की भूल जो",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_19.png",
+        "bounding_box": {
+            "x1": 28,
+            "y1": 2133,
+            "x2": 1721,
+            "y2": 2301
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "अब सही की गई है उस के अनुसार बुद्ध का निर्वा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_20.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 2252,
+            "x2": 1703,
+            "y2": 2412
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "ण भी ४७७ बरस सन् ईसवी से पहले पड़ता है",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_21.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2365,
+            "x2": 1701,
+            "y2": 2523
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "कि जिस से कुल १० बरस का फ़र्क रह जाता है",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_22.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 2473,
+            "x2": 1705,
+            "y2": 2632
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "और यही शुद्धतर मालूम होता है ॥ इति",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_23.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2584,
+            "x2": 1342,
+            "y2": 2736
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_10_textline_24.png",
+        "bounding_box": {
+            "x1": 771,
+            "y1": 2760,
+            "x2": 889,
+            "y2": 2831
+        }
+    }
+]

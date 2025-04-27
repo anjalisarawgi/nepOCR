@@ -1,0 +1,244 @@
+[
+    {
+        "line_number": 1,
+        "text": "भारतीभूषण प्रारम्भ: ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_1.png",
+        "bounding_box": {
+            "x1": 781,
+            "y1": 568,
+            "x2": 2296,
+            "y2": 805
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीगणेशाय नम: ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_2.png",
+        "bounding_box": {
+            "x1": 1245,
+            "y1": 350,
+            "x2": 1888,
+            "y2": 515
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "श्रीबल्लभआचार्य्यके भजतभजतसबपाप ॥ श्रीब",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_3.png",
+        "bounding_box": {
+            "x1": 479,
+            "y1": 1310,
+            "x2": 2760,
+            "y2": 1471
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "ल्लभकरुणाकरत हरतसकलसन्ताप १ विधिभवतरणी",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_4.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 1467,
+            "x2": 2764,
+            "y2": 1641
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "हमलहीयमगरूरकरुनाहिं ॥ विधिभवतरणीनमतनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_5.png",
+        "bounding_box": {
+            "x1": 305,
+            "y1": 1632,
+            "x2": 2803,
+            "y2": 1799
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "तहरिपदममउरमाहिं २ मोहनमनमानीसदा बानीको",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_6.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 1801,
+            "x2": 2752,
+            "y2": 1967
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "करिध्यान ॥ अलंकारवरणनकरत गिरिधरदाससुजान३",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_7.png",
+        "bounding_box": {
+            "x1": 301,
+            "y1": 1967,
+            "x2": 2756,
+            "y2": 2137
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "सुन्दरवरणनगणरचित भारतिभूषणयेहु ॥ पढ़हुगुनहु",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_8.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 2136,
+            "x2": 2752,
+            "y2": 2287
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सीखहुसुनहुसतकविसहितसनेहु ४ ॥ उपमालक्षण ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_9.png",
+        "bounding_box": {
+            "x1": 334,
+            "y1": 2297,
+            "x2": 2764,
+            "y2": 2461
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "सोउपमाजहँवरणिये उपमेयरुउपमान ॥ समताईशो",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_10.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 2450,
+            "x2": 2764,
+            "y2": 2633
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "भितसदाइमिकविकहहिंसुजान ५ ॥ उदाहरणयथा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_11.png",
+        "bounding_box": {
+            "x1": 321,
+            "y1": 2620,
+            "x2": 2764,
+            "y2": 2793
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "आननपंचाननतिलक पंचाननकटिसोह ॥ खरीरमासी",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_12.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 2793,
+            "x2": 2805,
+            "y2": 2951
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "राधिकाभरीमोदसंदोह ६ ॥ उपमानादिकेलक्षण ॥ जाकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_13.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 2950,
+            "x2": 2776,
+            "y2": 3117
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "समतादीजियेतिहिकहियेउपमान ॥ जाकोसमकरिव",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_14.png",
+        "bounding_box": {
+            "x1": 321,
+            "y1": 3111,
+            "x2": 2780,
+            "y2": 3287
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "रणियेसोउपमेयनआन ७ उपमेयरुउपमानगतजोक",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_15.png",
+        "bounding_box": {
+            "x1": 313,
+            "y1": 3281,
+            "x2": 2772,
+            "y2": 3453
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "छुधरमलखाय ॥ सोसाधारणधर्महैइमिवरणहिंकविराय",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_16.png",
+        "bounding_box": {
+            "x1": 338,
+            "y1": 3446,
+            "x2": 2784,
+            "y2": 3611
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "८ समताबोधकशब्दको उपमाबाचकनाम ॥ वरणेगि",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_17.png",
+        "bounding_box": {
+            "x1": 346,
+            "y1": 3619,
+            "x2": 2777,
+            "y2": 3777
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "रिधरदासइमि लक्षणस्वच्छमुदाम ९ कम्बुकमलअरु",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_18.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 3776,
+            "x2": 2784,
+            "y2": 3943
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "बिम्बफलशुकसुवरणकीसीप ॥ इनहिंआदिउपमानहैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_19.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 3934,
+            "x2": 2834,
+            "y2": 4107
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "समुझहुकविकुलदीप १० कंठआंखिअलकावलीअध",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_20.png",
+        "bounding_box": {
+            "x1": 334,
+            "y1": 4103,
+            "x2": 2772,
+            "y2": 4267
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "रनासिकाश्रौन ॥ इनहिं आदिउपमेयहैंवर्णहिंवरबुधि",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_21.png",
+        "bounding_box": {
+            "x1": 342,
+            "y1": 4260,
+            "x2": 2820,
+            "y2": 4441
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "दोहा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_02_textline_22.png",
+        "bounding_box": {
+            "x1": 1383,
+            "y1": 1068,
+            "x2": 1703,
+            "y2": 1238
+        }
+    }
+]

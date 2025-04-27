@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "जगत् उपदेश ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_1.png",
+        "bounding_box": {
+            "x1": 786,
+            "y1": 185,
+            "x2": 1385,
+            "y2": 339
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "चाहते हो तो तमाखू मदिरा वग़ैरह नशा न पीवो",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_2.png",
+        "bounding_box": {
+            "x1": 160,
+            "y1": 384,
+            "x2": 2010,
+            "y2": 543
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सबेरे उठना चिन्ता कम करनाचाहिये, कृत्रिम रोशनी",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_3.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 538,
+            "x2": 2003,
+            "y2": 693
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "में कम काम करना. गृहस्थ शोकों की खानि, शरीर",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_4.png",
+        "bounding_box": {
+            "x1": 150,
+            "y1": 682,
+            "x2": 2016,
+            "y2": 840
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "रोगोंकी खानि, अविवेक दुःखोंकी खानि, और विवेक",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_5.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 829,
+            "x2": 2005,
+            "y2": 993
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सुखोंकी खानि. अपनेको सुधार नहीं तो बुद्धि कैसी,",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_6.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 975,
+            "x2": 2036,
+            "y2": 1141
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "मरजाना तो चिन्ता कैसी. दूसरेका उपकार और मौत",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_7.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 1127,
+            "x2": 2010,
+            "y2": 1291
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "को सदा याद रखना, अपना उपकार, और पराया",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_8.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 1289,
+            "x2": 2005,
+            "y2": 1438
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "अपराध भुलादेना. महामूर्ख वहहै जो मरजाना समझ",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_9.png",
+        "bounding_box": {
+            "x1": 150,
+            "y1": 1433,
+            "x2": 2010,
+            "y2": 1579
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "करकेभी परलोककी चिन्ता नहीं करता और विषयरत",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_10.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1574,
+            "x2": 1992,
+            "y2": 1729
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "रहताहै. ईश्वरका हमेशा ध्यान रक्खो, धर्म करने में",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_11.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1731,
+            "x2": 2044,
+            "y2": 1881
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "आलस्य मत करो, कल करने को सो आज करो",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_12.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 1878,
+            "x2": 1987,
+            "y2": 2029
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "जिससे कल प्रसन्नता हो, मनको अपने बशमें रक्खो.",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_13.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 2024,
+            "x2": 1989,
+            "y2": 2172
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "जिससे विषयके भोगसे अरुचि हो, मनको अनुचित",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_14.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 2168,
+            "x2": 2010,
+            "y2": 2320
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "करतूतिपर ग्लानि हो; और अन्तःकरणकी शुद्धतापर",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_15.png",
+        "bounding_box": {
+            "x1": 134,
+            "y1": 2315,
+            "x2": 2000,
+            "y2": 2475
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "ध्यानहो वही दुःखोंसे बचताहै. आलस्य, विषयकी ",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_16.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 2461,
+            "x2": 2000,
+            "y2": 2619
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "९",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_09_textline_17.png",
+        "bounding_box": {
+            "x1": 1887,
+            "y1": 190,
+            "x2": 2005,
+            "y2": 331
+        }
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीगणेशाय नम: ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_1.png",
+        "bounding_box": {
+            "x1": 757,
+            "y1": 271,
+            "x2": 1288,
+            "y2": 382
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "प्रार्थना १",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_2.png",
+        "bounding_box": {
+            "x1": 783,
+            "y1": 379,
+            "x2": 1270,
+            "y2": 544
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सो० । जेहि सुमिरे सिधि होय, गणनायक मङ्गलभवन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_3.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 546,
+            "x2": 1835,
+            "y2": 684
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "दो० । देवि सरस्वती सुमिरिके, धरों चरण का ध्यान ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_4.png",
+        "bounding_box": {
+            "x1": 134,
+            "y1": 787,
+            "x2": 1846,
+            "y2": 924
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "विघ्र हरो प्रभु सोय, एकदन्त गजबदन शुभ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_5.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 685,
+            "x2": 1872,
+            "y2": 805
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "वाक्यसिद्धि मम कीजिये, होय सदा सन्मान ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_6.png",
+        "bounding_box": {
+            "x1": 320,
+            "y1": 910,
+            "x2": 1843,
+            "y2": 1041
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "श्रीगुरुचरण प्रणामकरि, घरों हृदय में ध्यान ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_7.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 1032,
+            "x2": 1835,
+            "y2": 1158
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "स्वामी किरपा कीजिये, सदा होय कल्यान ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_8.png",
+        "bounding_box": {
+            "x1": 333,
+            "y1": 1155,
+            "x2": 1840,
+            "y2": 1279
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "चौ० । गुरुके चरणप्रीति जो करई । बिन प्रयासभवसागरतरई ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_9.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 1263,
+            "x2": 2002,
+            "y2": 1401
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "शुभकार्यमें कोई विघ्न न होय, कलिके सज्जनोंको बारम्बार प्र-",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_10.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 1979,
+            "x2": 1975,
+            "y2": 2133
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सर्वदेवगणोंके चरणोंमें प्रणाम करके प्रार्थना करताहूं किः",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_11.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 1867,
+            "x2": 1965,
+            "y2": 2010
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "णाम करताहूं कि, आपलोगोंकी कृपासे मेरी भणितका सन्मान",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_12.png",
+        "bounding_box": {
+            "x1": 126,
+            "y1": 2110,
+            "x2": 1955,
+            "y2": 2251
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "होवे, क्योंकि मुझको अपने बल व बुद्धिका भरोसा नहीं है, केवल",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_13.png",
+        "bounding_box": {
+            "x1": 115,
+            "y1": 2220,
+            "x2": 1955,
+            "y2": 2377
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "आप लोगोंकी कृपाका भरोसा है, सर्वजीवों को प्रणाम करके",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_14.png",
+        "bounding_box": {
+            "x1": 118,
+            "y1": 2343,
+            "x2": 1950,
+            "y2": 2497
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "गुरुकी महिमा अमितअपारा । सुमिरतजीव लहैभवपारा ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_15.png",
+        "bounding_box": {
+            "x1": 328,
+            "y1": 1391,
+            "x2": 2004,
+            "y2": 1519
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "जगतसिंह ये सत्यप्रमाणा । गुरुकी कृपा होयकल्याणा ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_16.png",
+        "bounding_box": {
+            "x1": 336,
+            "y1": 1508,
+            "x2": 1984,
+            "y2": 1642
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "दयावन्त प्रभु सबसुखकारी । विष्णुस्वरूप सर्वदुखहारी ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_17.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 1629,
+            "x2": 1982,
+            "y2": 1761
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "चरणकमलमें करों प्रणामा । पूरणकरो सदा मम कामा ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_000_1_textline_18.png",
+        "bounding_box": {
+            "x1": 322,
+            "y1": 1754,
+            "x2": 1984,
+            "y2": 1881
+        }
+    }
+]

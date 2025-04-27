@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीगणेशाय नमः",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_1.png",
+        "bounding_box": {
+            "x1": 541,
+            "y1": 597,
+            "x2": 862,
+            "y2": 694
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "अथ शिवरत्नसंग्रह:प्रारभ्यते ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_2.png",
+        "bounding_box": {
+            "x1": 218,
+            "y1": 700,
+            "x2": 1235,
+            "y2": 845
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "गजाननं चारुविशालमूर्तिं मौंजीधरंमूषकवाह",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_3.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 919,
+            "x2": 1333,
+            "y2": 1043
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नंच ।। चतुर्भुजं चंचलकर्णनेत्रं गणाधिपं गौरिसुतं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_4.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 1003,
+            "x2": 1379,
+            "y2": 1137
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "नमामि १ नीलाम्बुजश्यामलकोमलांगं सीतास",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_5.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 1096,
+            "x2": 1335,
+            "y2": 1232
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "मारोपितवामभागम् । पाणौमहाशायकचारुचापं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_6.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 1190,
+            "x2": 1356,
+            "y2": 1317
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "नमामि रामं रघुवंशनाथम् २ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_7.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 1301,
+            "x2": 927,
+            "y2": 1398
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "अथ मनुस्मृतिश्लोक ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_8.png",
+        "bounding_box": {
+            "x1": 454,
+            "y1": 1387,
+            "x2": 945,
+            "y2": 1484
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "यथा काष्ठमयोहस्ती यथाचर्ममयोमृग: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_9.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 1458,
+            "x2": 1260,
+            "y2": 1589
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "यश्चविप्रोनधीयानस्त्रयस्तेनामबिभ्रति ३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_10.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 1559,
+            "x2": 1289,
+            "y2": 1676
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "अर्थ ।। जैसे काठका बनाहुवा हाथी और जैसे चमड़े का",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_11.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 1647,
+            "x2": 1335,
+            "y2": 1757
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "बनाहुवा मृग और विना पढ़ाहुवा ब्राह्मण ये तीनों केवल नाम",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_12.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 1722,
+            "x2": 1335,
+            "y2": 1829
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "को धारण करते हैं शत्रुबध आदि हाथी आदिकों के काम नहीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_13.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1789,
+            "x2": 1365,
+            "y2": 1904
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "करसक्ते, वैसेही विना पढ़ाहुवा ब्राह्मण यज्ञ आदि काम का",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_14.png",
+        "bounding_box": {
+            "x1": 80,
+            "y1": 1864,
+            "x2": 1331,
+            "y2": 1974
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "नहीं होता ३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_15.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 1929,
+            "x2": 433,
+            "y2": 2034
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "संमानाद्ब्राह्मणोनित्यमुद्विजेतविषादिव ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_16.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 2000,
+            "x2": 1205,
+            "y2": 2127
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "अमृतस्येवचाकांक्षेदवमानस्यसर्वदा ४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_01_textline_17.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 2108,
+            "x2": 1211,
+            "y2": 2225
+        }
+    }
+]

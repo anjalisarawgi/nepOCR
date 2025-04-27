@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "४",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_1.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 92,
+            "x2": 162,
+            "y2": 167
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "परा-पूजा",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_2.png",
+        "bounding_box": {
+            "x1": 566,
+            "y1": 84,
+            "x2": 757,
+            "y2": 171
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "और ईरवरात्मा में भेद है, इसवास्ते ईश्वरात्मा देहादिकों से और जन्म-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_3.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 186,
+            "x2": 1233,
+            "y2": 274
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "मरण से रहित है । वह एकरस, ज्यों का त्यों अपने स्वरूप में स्थित",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_4.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 263,
+            "x2": 1237,
+            "y2": 350
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "है, इसवास्ते जीवात्मा का दृष्टांत नहीं बनता । जो जीव मुक्त हो जाते",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_5.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 341,
+            "x2": 1228,
+            "y2": 423
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "हैं, वह भी शरीरादिकों से रहित होकर ईश्वर में मिल जाते हैं, और",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_6.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 402,
+            "x2": 1235,
+            "y2": 493
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "फिर उनका भी जन्म-मरण किसी प्रकार से भी नहीं होता है, और",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_7.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 481,
+            "x2": 1233,
+            "y2": 566
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "न उनकी मूर्त्ति को ही कोई बना सकता है, तब फिर जो नित्य-मुक्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_8.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 554,
+            "x2": 1228,
+            "y2": 639
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ईश्वर है, उस व्यापक चेतन की मूर्ति कोई कैसे बना सकता है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_9.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 618,
+            "x2": 1228,
+            "y2": 717
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "जिसको कोई देखे होता है, वही उसकी मूर्ति को बना सकता है,",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_10.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 689,
+            "x2": 1226,
+            "y2": 791
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जिसको किसी ने कभी नहीं देखा है, उसकी मूर्ति को कोई भी बना",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_11.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 768,
+            "x2": 1233,
+            "y2": 858
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "नहीं सकता । फिर जो किसी भी इंद्रिय का विषय नहीं है, उसकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_12.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 838,
+            "x2": 1233,
+            "y2": 931
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मूर्ति कैसे बन सकती है । और निराकार चेतन कभी भी साकार नहीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_13.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 911,
+            "x2": 1231,
+            "y2": 1002
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "बन सकता, क्योंकि इसमें भी कोई दृष्टांत नहीं मिलता है; और साकार",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_14.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 986,
+            "x2": 1231,
+            "y2": 1074
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "कभी भी निराकार नहीं हो सकता, क्योंकि इसमें भी कोई दृष्टांत नहीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_15.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 1055,
+            "x2": 1222,
+            "y2": 1145
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "मिलता है । इसी से निराकार की पूजा किसी प्रकार से भी नहीं बनती",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_16.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1136,
+            "x2": 1233,
+            "y2": 1216
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "है, और इसीलिये उसका विधान भी नहीं हो सकता है । वेद में",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_17.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 1202,
+            "x2": 1233,
+            "y2": 1288
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "ईश्वर के स्वरूप को इस प्रकार दिखलाया है --",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_18.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 1275,
+            "x2": 892,
+            "y2": 1360
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "\" सत्यं ज्ञानमनन्तं ब्रह्म ''",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_19.png",
+        "bounding_box": {
+            "x1": 136,
+            "y1": 1360,
+            "x2": 651,
+            "y2": 1449
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "अर्थात् सबसे महान् ईश्वर सत्य-रूप है, ज्ञान-स्वरूप है, अनंत-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_20.png",
+        "bounding_box": {
+            "x1": 138,
+            "y1": 1445,
+            "x2": 1229,
+            "y2": 1533
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "स्वरूप है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_21.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 1520,
+            "x2": 333,
+            "y2": 1605
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "\" एको देव: सर्वभूतेषु गूढः ।\"",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_22.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 1595,
+            "x2": 760,
+            "y2": 1694
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "अर्थात् वह परमात्मा एक है, और संपूर्ण भूतों में छिपा है, सर्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_23.png",
+        "bounding_box": {
+            "x1": 148,
+            "y1": 1670,
+            "x2": 1224,
+            "y2": 1766
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "व्यापी है, साक्षी है, चेतन है, और निर्गुण है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_24.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1745,
+            "x2": 896,
+            "y2": 1839
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "\" दिव्यो ह्यमूर्त: पुरुष: स बाह्याभ्यन्तरो ह्यज: । \"",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_25.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1826,
+            "x2": 1052,
+            "y2": 1910
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "अर्थात् वह परमेश्वर दिव्य अर्थात् अलौकिक है, मूर्ति से रहित है",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_26.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 1886,
+            "x2": 1233,
+            "y2": 1986
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "सबमें व्याप्त है, सबके बाहर और भीतर स्थित है, अज अर्थात्",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_04_textline_27.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 1965,
+            "x2": 1235,
+            "y2": 2055
+        }
+    }
+]

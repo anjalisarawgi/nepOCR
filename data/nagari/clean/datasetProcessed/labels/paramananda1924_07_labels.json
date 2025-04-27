@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "भ्रम-नाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_1.png",
+        "bounding_box": {
+            "x1": 814,
+            "y1": 164,
+            "x2": 1212,
+            "y2": 285
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "उत्तर ---- शास्त्रों में जो जाति आदि की बड़ाई की गई है, वह",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_2.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 334,
+            "x2": 1998,
+            "y2": 489
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "भी संसार की प्रवृत्ति के लिये है । वह अर्थ वाद-रूप है, यथार्थ",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_3.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 475,
+            "x2": 2003,
+            "y2": 625
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नहीं है । क्योंकि यदि यथार्थ होती, तो शास्त्रों में उसकी निंदा",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_4.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 608,
+            "x2": 2012,
+            "y2": 756
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "न होती । उसकी निंदा अग्निपुराण में कही गई है ---",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_5.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 750,
+            "x2": 1686,
+            "y2": 895
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "वह ही द्विज-भाव का कारण है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_6.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1521,
+            "x2": 1054,
+            "y2": 1669
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "न जातिर्न कुलं राजन् न स्वाध्याय: श्रुतं न च ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_7.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 917,
+            "x2": 1947,
+            "y2": 1068
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "कारणानि द्विजत्वस्य व्रतमेव हि कारणम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_8.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 1079,
+            "x2": 1814,
+            "y2": 1236
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "यह सब द्विज-भाव के कारण नहीं हैं किंतु इंद्रियों का संयम-रूपी",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_9.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 1379,
+            "x2": 2052,
+            "y2": 1528
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "हे राजन् ! जाति, कुल, वेदाध्ययन और शास्त्र का श्रवण",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_10.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1234,
+            "x2": 2051,
+            "y2": 1395
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "किं कुलं व्रतहीनस्य करिष्यति दुरात्मनः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_11.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 1671,
+            "x2": 1711,
+            "y2": 1848
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "कृमय किं न जायंते कुसुमेषु सुगंधिषु ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_12.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 1846,
+            "x2": 1646,
+            "y2": 2013
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "करेगा ? क्या सुगंधवाले पुष्पों में कृमि नहीं उत्पन्न होते ?",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_13.png",
+        "bounding_box": {
+            "x1": 17,
+            "y1": 2135,
+            "x2": 1867,
+            "y2": 2278
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "दुराचारी और व्रत-हीन पुरुष की सहायता उत्तम कुल क्या",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_14.png",
+        "bounding_box": {
+            "x1": 128,
+            "y1": 1985,
+            "x2": 2043,
+            "y2": 2149
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "चतुर्वेदोऽपि दुर्वृत्त: शूद्रादल्पतर: स्मृतः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_15.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 2282,
+            "x2": 1669,
+            "y2": 2442
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "तस्माद्विद्धि महाराज व्रतं ब्राह्मणलक्षणम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_16.png",
+        "bounding_box": {
+            "x1": 128,
+            "y1": 2450,
+            "x2": 1785,
+            "y2": 2604
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "मार्ग में प्रवृत्त है वह शूद्र से भी अधम है । इस कारण, हे राजन् !",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_17.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2733,
+            "x2": 2077,
+            "y2": 2871
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "जो ब्राह्मण चारों वेदों को पढ़ा भी है परंतु जो खोटे",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_18.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 2583,
+            "x2": 2037,
+            "y2": 2742
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "व्रत ही ब्राह्मण का लक्षण है । इत्यादि पुराण-वाक्य भी जाति",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_19.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2866,
+            "x2": 2043,
+            "y2": 3004
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "७",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_07_textline_20.png",
+        "bounding_box": {
+            "x1": 1897,
+            "y1": 172,
+            "x2": 2004,
+            "y2": 267
+        }
+    }
+]

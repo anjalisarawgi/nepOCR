@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_1.png",
+        "bounding_box": {
+            "x1": 709,
+            "y1": 120,
+            "x2": 1392,
+            "y2": 307
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "उपवीतानिददृशे तेषांसाजिनकानिच ८४",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_2.png",
+        "bounding_box": {
+            "x1": 23,
+            "y1": 289,
+            "x2": 2112,
+            "y2": 486
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "दृष्ट्वाब्राह्मण्यसंपन्नान्ब्रह्महत्याभयार्दितः ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_3.png",
+        "bounding_box": {
+            "x1": 32,
+            "y1": 484,
+            "x2": 2135,
+            "y2": 693
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "पर्यतप्यतदुःखेनकिंकृतंमेनिनिन्दितम ८५",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_4.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 673,
+            "x2": 2098,
+            "y2": 873
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "विशस्ताब्राह्मणाह्येते हताभार्यापतिव्रता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_5.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 845,
+            "x2": 2135,
+            "y2": 1053
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "प्राणलोभेनमहताकृतंनिष्कृतिवर्जितम् ८६",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_6.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1051,
+            "x2": 2081,
+            "y2": 1240
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "एकब्राह्मणविच्छेदोनरकान्प्रापयेत्परान् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_7.png",
+        "bounding_box": {
+            "x1": 6,
+            "y1": 1231,
+            "x2": 2141,
+            "y2": 1435
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "यावत्कल्पशतंपूर्णंस्त्रीघातश्चतदर्द्धकम् ८७",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_8.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 1426,
+            "x2": 2101,
+            "y2": 1618
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "चत्वारोब्राह्मणाःशस्ताएकास्त्रीचपतिक्ता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_9.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 1590,
+            "x2": 2106,
+            "y2": 1806
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "एकाधिकशतंपूर्वे मया सह यमालये ८८",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_10.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 1793,
+            "x2": 2095,
+            "y2": 1986
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "निरयेषुपतिष्यन्ति पतिताएवतेथवा ॥ अतः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_11.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1971,
+            "x2": 2088,
+            "y2": 2176
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "परंमयाकिञ्चिततथाकार्यंविजानता ८९ तथै",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_12.png",
+        "bounding_box": {
+            "x1": 15,
+            "y1": 2157,
+            "x2": 2092,
+            "y2": 2365
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "तत्पापमतुलं तूलवद्भस्मसाद्भवेत् ॥ भृगुरु",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_13.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2363,
+            "x2": 2101,
+            "y2": 2548
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "वाच ॥ भूरिद्युम्नोविचार्यैवं भ्रमंस्तत्रैव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_14.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2526,
+            "x2": 2142,
+            "y2": 2755
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "कानने ॥ शालङ्कायनजंविप्रमपश्यत्स्वा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_15.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 2713,
+            "x2": 2089,
+            "y2": 2940
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "श्रमस्थितम् ९० दूरेस्थित्वाभिवाद्यैनं कथया",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_16.png",
+        "bounding_box": {
+            "x1": 6,
+            "y1": 2902,
+            "x2": 2104,
+            "y2": 3127
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "१३",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_13_textline_17.png",
+        "bounding_box": {
+            "x1": 1925,
+            "y1": 140,
+            "x2": 2121,
+            "y2": 316
+        }
+    }
+]

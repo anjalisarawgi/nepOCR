@@ -1,0 +1,244 @@
+[
+    {
+        "line_number": 1,
+        "text": "१०",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_1.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 161,
+            "x2": 243,
+            "y2": 283
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भ्रम-नाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_2.png",
+        "bounding_box": {
+            "x1": 887,
+            "y1": 169,
+            "x2": 1295,
+            "y2": 289
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "के नहीं रह सकता । जिस काल में शरीर होगा उसी काल में जाति-",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_3.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 328,
+            "x2": 2094,
+            "y2": 492
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "रूपी धर्म भी साथ ही रहेगा । और जन्म-काल में श्रुति सबको",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_4.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 475,
+            "x2": 2118,
+            "y2": 619
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "शूद्र ही विधान करती है और संस्कार कराने से ही द्विज होता",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_5.png",
+        "bounding_box": {
+            "x1": 60,
+            "y1": 591,
+            "x2": 2128,
+            "y2": 762
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "है । इसवास्ते स्थूल शरीर का धर्म जाति नहीं है । और जो द्विज",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_6.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 733,
+            "x2": 2097,
+            "y2": 889
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "किसी प्रकार से अपने धर्म से च्युत हो गया है अर्थात् म्लेच्छ",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_7.png",
+        "bounding_box": {
+            "x1": 71,
+            "y1": 866,
+            "x2": 2102,
+            "y2": 1017
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "हो गया है, अब उसको भी तुमको द्विज मानना पड़ेगा, क्योंकि",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_8.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 1008,
+            "x2": 2105,
+            "y2": 1146
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "द्विजत्व-जाति को तुमने स्थूल शरीर का धर्म माना है सो स्थूल शरीर",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_9.png",
+        "bounding_box": {
+            "x1": 85,
+            "y1": 1118,
+            "x2": 2117,
+            "y2": 1285
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "उसका वही विद्यमान है । क्योंकि धर्मी के रहने से धर्म भी अवश्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_10.png",
+        "bounding_box": {
+            "x1": 85,
+            "y1": 1257,
+            "x2": 2116,
+            "y2": 1408
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "रहेगा । अग्नि के रहने से उष्णता भी उसमें अवश्य रहेगी । अब",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_11.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 1382,
+            "x2": 2121,
+            "y2": 1542
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "उस म्लेच्छ को द्विज मानना होगा परंतु माना नहीं जाता, इसवास्ते",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_12.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 1523,
+            "x2": 2125,
+            "y2": 1678
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "स्थूल शरीर का धर्म जाति नहीं हो सकती । और यदि कहो उसमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_13.png",
+        "bounding_box": {
+            "x1": 85,
+            "y1": 1648,
+            "x2": 2119,
+            "y2": 1809
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "द्विजत्व-जाति नष्ट हो गई है, इसवास्ते उसमेंद्विजत्व-व्यवहार नहीं होता,",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_14.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 1792,
+            "x2": 2129,
+            "y2": 1948
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तो ऐसा कहना भी ठीक नहीं है । क्योंकि यदि जाति का नाश मानोगे,",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_15.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 1926,
+            "x2": 2129,
+            "y2": 2077
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "तो जाति तो तुम्हारे मत में एक ही थी । वह तो नष्ट हो गई, अब और",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_16.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 2053,
+            "x2": 2129,
+            "y2": 2209
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "द्विजों में भी द्विजत्व-व्यवहार न होना चाहिए । यदि कहो कि उस",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_17.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 2186,
+            "x2": 2114,
+            "y2": 2346
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "म्लेच्छ-शरीर को छोड़कर और द्विजों में वह जा रही है, यह कथन",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_18.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2325,
+            "x2": 2129,
+            "y2": 2476
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "भी नहीं ठीक है । क्योंकि गमन-क्रिया सावयव पदार्थ में होती है,",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_19.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 2467,
+            "x2": 2117,
+            "y2": 2608
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "निरवयव में नहीं होती । जाति तो निरवयव है, उसका गमन नहीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_20.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 2594,
+            "x2": 2125,
+            "y2": 2742
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "होता, इसी हेतु से स्थूल शरीर का धर्म जाति नहीं हो सकती ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_21.png",
+        "bounding_box": {
+            "x1": 115,
+            "y1": 2726,
+            "x2": 2129,
+            "y2": 2875
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "प्रश्न ----नित्यमेकमनेकानुगतं सामान्यम् । जो एक हो,",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_10_textline_22.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 2869,
+            "x2": 2122,
+            "y2": 3004
+        }
+    }
+]

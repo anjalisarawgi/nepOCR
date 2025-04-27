@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "पीयूषलहरी",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_1.png",
+        "bounding_box": {
+            "x1": 906,
+            "y1": 1546,
+            "x2": 1825,
+            "y2": 1742
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "अर्त्थात् गङ्गालहरी",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_2.png",
+        "bounding_box": {
+            "x1": 860,
+            "y1": 1843,
+            "x2": 1901,
+            "y2": 2017
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "पण्डितवर जगन्नाथत्रिशूलि कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_3.png",
+        "bounding_box": {
+            "x1": 417,
+            "y1": 2048,
+            "x2": 2280,
+            "y2": 2259
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "जिसमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_4.png",
+        "bounding_box": {
+            "x1": 1189,
+            "y1": 2231,
+            "x2": 1490,
+            "y2": 2414
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "श्रीमहाराणी गंगाजीका चरित्र उत्तमरीतिसे वर्णितहै",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_5.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 2372,
+            "x2": 2485,
+            "y2": 2611
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "अत्यन्त कठिन पाण्डित्यपूरित विचारिकर श्रीमहारा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_6.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 2696,
+            "x2": 2531,
+            "y2": 2906
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "जाधिराज राजेन्द्र महाराज परमधर्म्मज्ञ प्रजापालन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_7.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 2879,
+            "x2": 2533,
+            "y2": 3049
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "तत्पर भूलोक पुरन्दर बैकुण्ठागार वालीय भरतपुर",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_8.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 3025,
+            "x2": 2526,
+            "y2": 3221
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "श्रीमद्बलवन्तसिंह बहादुर बहादुरजंगकी आज्ञा",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_9.png",
+        "bounding_box": {
+            "x1": 285,
+            "y1": 3194,
+            "x2": 2403,
+            "y2": 3377
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "पाय बलदेवसिंहने अत्युत्तम कवित्तोंमें प्रति",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_10.png",
+        "bounding_box": {
+            "x1": 417,
+            "y1": 3349,
+            "x2": 2307,
+            "y2": 3521
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "श्लोक अनुवाद कियाथा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_11.png",
+        "bounding_box": {
+            "x1": 732,
+            "y1": 3527,
+            "x2": 1946,
+            "y2": 3685
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "उक्त श्रीमहाराज बहादुर भरतपुरके चरणसेवक",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_12.png",
+        "bounding_box": {
+            "x1": 335,
+            "y1": 3664,
+            "x2": 2371,
+            "y2": 3848
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "बलदेवसिंह वैश्य खण्डेलवाल पेशकारात्मज",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_13.png",
+        "bounding_box": {
+            "x1": 353,
+            "y1": 3833,
+            "x2": 2325,
+            "y2": 4012
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "गोपालसिंहके उद्योगसे ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_14.png",
+        "bounding_box": {
+            "x1": 778,
+            "y1": 3983,
+            "x2": 1937,
+            "y2": 4172
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "मुन्शीनवलकिशोर (सी, आई, ई) के यंत्रालयमें छापीगई",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_15.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 4458,
+            "x2": 2435,
+            "y2": 4709
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "नवम्वर सन् १८५० ई० ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_16.png",
+        "bounding_box": {
+            "x1": 846,
+            "y1": 4681,
+            "x2": 1796,
+            "y2": 4873
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "जिसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_17.png",
+        "bounding_box": {
+            "x1": 1225,
+            "y1": 2601,
+            "x2": 1481,
+            "y2": 2742
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "दूसरीबार",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_18.png",
+        "bounding_box": {
+            "x1": 1143,
+            "y1": 4175,
+            "x2": 1577,
+            "y2": 4365
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_19.png",
+        "bounding_box": {
+            "x1": 1084,
+            "y1": 4339,
+            "x2": 1638,
+            "y2": 4525
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "41",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_20.png",
+        "bounding_box": {
+            "x1": 2120,
+            "y1": 4266,
+            "x2": 2321,
+            "y2": 4445
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "हक़महफू़ज़है बहक़ इसछापेख़ानेके ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_00c_textline_21.png",
+        "bounding_box": {
+            "x1": 656,
+            "y1": 5084,
+            "x2": 2040,
+            "y2": 5233
+        }
+    }
+]

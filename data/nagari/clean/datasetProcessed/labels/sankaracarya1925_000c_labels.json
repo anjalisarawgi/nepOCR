@@ -1,0 +1,123 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीस्वामी शङ्कराचार्य-कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_1.png",
+        "bounding_box": {
+            "x1": 335,
+            "y1": 335,
+            "x2": 882,
+            "y2": 433
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "परा-पूजा ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_2.png",
+        "bounding_box": {
+            "x1": 333,
+            "y1": 485,
+            "x2": 855,
+            "y2": 617
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "(सुबोधिनी हिंदी-टीका-सहित)",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_3.png",
+        "bounding_box": {
+            "x1": 177,
+            "y1": 681,
+            "x2": 1033,
+            "y2": 821
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "टीकाकार",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_4.png",
+        "bounding_box": {
+            "x1": 476,
+            "y1": 976,
+            "x2": 722,
+            "y2": 1063
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "रायबहादुर बाबू ज़ालिमसिंह",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_5.png",
+        "bounding_box": {
+            "x1": 264,
+            "y1": 1107,
+            "x2": 944,
+            "y2": 1213
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_6.png",
+        "bounding_box": {
+            "x1": 470,
+            "y1": 1367,
+            "x2": 757,
+            "y2": 1459
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "केसरीदास सेठ, सुपरिंटेंडेंट द्वारा",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_7.png",
+        "bounding_box": {
+            "x1": 372,
+            "y1": 1502,
+            "x2": 857,
+            "y2": 1597
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "ननलकिशोर-प्रेस में मुद्रित और प्रकाशित",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_8.png",
+        "bounding_box": {
+            "x1": 291,
+            "y1": 1609,
+            "x2": 954,
+            "y2": 1692
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सन् १९२५ ई०",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_9.png",
+        "bounding_box": {
+            "x1": 699,
+            "y1": 1706,
+            "x2": 1015,
+            "y2": 1791
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "द्वितीय बार २००० ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_10.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 1702,
+            "x2": 587,
+            "y2": 1799
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सर्वाधिकार-रक्षित ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_000c_textline_11.png",
+        "bounding_box": {
+            "x1": 429,
+            "y1": 2006,
+            "x2": 782,
+            "y2": 2079
+        }
+    }
+]

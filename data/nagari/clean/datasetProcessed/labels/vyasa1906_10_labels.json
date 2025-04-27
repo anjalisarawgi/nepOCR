@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "१०",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_1.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 120,
+            "x2": 306,
+            "y2": 259
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "काशीमाहात्म्य । ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_2.png",
+        "bounding_box": {
+            "x1": 809,
+            "y1": 103,
+            "x2": 1504,
+            "y2": 268
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "रमुल्बणम् ६२ शार्दूलशावयूथेन मृगयूथ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_3.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 254,
+            "x2": 2211,
+            "y2": 468
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "विमर्द्दिना ॥ सेवितंरोषचलितंक्षिप्तलाङ्मूलसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_4.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 446,
+            "x2": 2195,
+            "y2": 651
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "विना ६३ क्वचिन्मातङ्गनिनदैः क्वचित्पञ्चा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_5.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 644,
+            "x2": 2202,
+            "y2": 831
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "स्यगर्जितैः ॥ क्वचिन्महिषहुङ्कारैराकुलंविश्व",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_6.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 816,
+            "x2": 2201,
+            "y2": 1026
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "भीषणम् ६४ तंदृष्ट्वाविन्ध्यकान्तारंकान्तारा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_7.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 1019,
+            "x2": 2201,
+            "y2": 1210
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जानमब्रवीत् ॥ विभावर्य्युवाच ॥ राजन्केय",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_8.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1206,
+            "x2": 2204,
+            "y2": 1401
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "मवस्थाते मत्सहायस्यचागता ॥ यदत्रश्वाप",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_9.png",
+        "bounding_box": {
+            "x1": 108,
+            "y1": 1407,
+            "x2": 2211,
+            "y2": 1594
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "दाकीर्णं कान्तारंप्रतिपद्यसे ६५ कथंवनेस्मिन्",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_10.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 1570,
+            "x2": 2201,
+            "y2": 1748
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "राजेन्द्रस्थातव्यंभवतामया ॥ निर्मानुषेनिर",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_11.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 1741,
+            "x2": 2198,
+            "y2": 1939
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "न्नेचप्रायस्तोयविवर्जिते ६६ इदानीमेवबाध",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_12.png",
+        "bounding_box": {
+            "x1": 98,
+            "y1": 1931,
+            "x2": 2211,
+            "y2": 2129
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "न्तेक्षुत्पिपासादयोग्रहाः ॥ मुखंचतेतिविम्ल",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_13.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 2117,
+            "x2": 2211,
+            "y2": 2313
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "नंनतथामेस्तिभूपते ६७ प्राप्यापिमहतीमृ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_14.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 2297,
+            "x2": 2198,
+            "y2": 2512
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "द्धिंनत्वयासुकृतंकृतम्॥नीतःकालोवृथाराज",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_15.png",
+        "bounding_box": {
+            "x1": 87,
+            "y1": 2504,
+            "x2": 2198,
+            "y2": 2692
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "न् काममात्रोपसेवया ६८ धर्मार्थौयःपरित्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_16.png",
+        "bounding_box": {
+            "x1": 115,
+            "y1": 2675,
+            "x2": 2211,
+            "y2": 2866
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "ज्य काममात्रोपसेवते ॥ भवानिवसदुःखार्त्तः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_10_textline_17.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 2856,
+            "x2": 2198,
+            "y2": 3066
+        }
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीरामस्तवराजः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_1.png",
+        "bounding_box": {
+            "x1": 566,
+            "y1": 305,
+            "x2": 1289,
+            "y2": 482
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "प्तद्वीपाः समुद्रश्च नगा नद्यस्तथा द्रुमाः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_2.png",
+        "bounding_box": {
+            "x1": 125,
+            "y1": 507,
+            "x2": 1728,
+            "y2": 704
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "।। ७३ ।। स्थावरा जङ्गमाश्चैव त्वमेव रघु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_3.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 660,
+            "x2": 1728,
+            "y2": 830
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नायक ।। देवतिर्यङ्मनुष्याणां दानवानां त-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_4.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 812,
+            "x2": 1713,
+            "y2": 956
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "थैवच ।। ७४ ।। माता पिता तथा भ्राता",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_5.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 922,
+            "x2": 1722,
+            "y2": 1098
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "त्वमेव रघुवल्लभ ।। सर्वेषां त्वं परं ब्रह्म त्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_6.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1054,
+            "x2": 1741,
+            "y2": 1230
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "न्मयं सर्वमेव हि ।। ७५ ।। त्वमक्षरं परं ज्यो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_7.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 1193,
+            "x2": 1725,
+            "y2": 1354
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "तिस्त्वमेव पुरुषोत्तम ।। त्वमेव तारकं ब्रह्म",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_8.png",
+        "bounding_box": {
+            "x1": 125,
+            "y1": 1320,
+            "x2": 1713,
+            "y2": 1506
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "त्वत्तोन्यन्नैव किंचन ।। ७६ ।। शान्तं सर्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_9.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1470,
+            "x2": 1713,
+            "y2": 1627
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "गतं सूक्ष्मं परं ब्रह्म सनातनम् ।। राजीव-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_10.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1602,
+            "x2": 1702,
+            "y2": 1761
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "लोचनं रामं प्रणमामि जगत्पतिम् ।।७७।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_11.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 1735,
+            "x2": 1699,
+            "y2": 1900
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "व्यास उवाच ।। ततः प्रसन्नः श्रीरामः प्रो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_12.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1867,
+            "x2": 1716,
+            "y2": 2029
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "वाच मुनिपुङ्गवम् ।। तुष्टोस्मि मुनिशार्दूल",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_13.png",
+        "bounding_box": {
+            "x1": 110,
+            "y1": 1991,
+            "x2": 1707,
+            "y2": 2174
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "वृणीष्व वरमुत्तमम् ।। ७८ ।। नारद उवा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_14.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 2141,
+            "x2": 1699,
+            "y2": 2296
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "च ।। यदि तुष्टोसि सर्वज्ञ श्रीराम करुणा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_15.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 2268,
+            "x2": 1696,
+            "y2": 2425
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "निधे ।। त्वन्मूर्तिदर्शनेनैव कृतार्थोऽहं च स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_16.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 2389,
+            "x2": 1690,
+            "y2": 2570
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "र्वदा।।७९।। धन्योहंकृतकृत्योहं पुण्योहं पुरुषो",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_17.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 2539,
+            "x2": 1702,
+            "y2": 2705
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "त्तम ।।अद्यमेसफलंजन्म जीवितंसफलंच",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_18.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2677,
+            "x2": 1699,
+            "y2": 2830
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "मे ।। ८० ।। अद्यमे सफलं ज्ञानमद्य मे सफलं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_19.png",
+        "bounding_box": {
+            "x1": 87,
+            "y1": 2796,
+            "x2": 1705,
+            "y2": 2965
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "११",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_11_textline_20.png",
+        "bounding_box": {
+            "x1": 1533,
+            "y1": 348,
+            "x2": 1725,
+            "y2": 500
+        }
+    }
+]

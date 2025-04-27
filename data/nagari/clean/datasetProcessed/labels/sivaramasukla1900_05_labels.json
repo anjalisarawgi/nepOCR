@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवरत्नसंग्रह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_1.png",
+        "bounding_box": {
+            "x1": 540,
+            "y1": 140,
+            "x2": 879,
+            "y2": 245
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "स्त्री को न देखना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_2.png",
+        "bounding_box": {
+            "x1": 497,
+            "y1": 253,
+            "x2": 935,
+            "y2": 359
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "नाश्नीयाद्भार्ययासार्धमैनामिक्षेत चाश्नतीम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_3.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 343,
+            "x2": 1269,
+            "y2": 474
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "क्षवतींजृम्भमाणां वा नचासीनांयथासुखम् १७ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_4.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 442,
+            "x2": 1314,
+            "y2": 561
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "छींकतीहुई, जम्हातीहुई और बेपर्द बैठीहुई को न देखै १७ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_5.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 619,
+            "x2": 1324,
+            "y2": 730
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "उसी दिन रस्सी आदि से बांधकर रखने योग्य है और कोप दूर",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_6.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1074,
+            "x2": 1357,
+            "y2": 1183
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "होने तक पिता आदिके समीप छोड़ने के योग्यहै १८ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_7.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1137,
+            "x2": 1184,
+            "y2": 1249
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "अर्थ ।। स्त्री के साथ एकपात्र में न खाय और खाती हुई,",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_8.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 538,
+            "x2": 1330,
+            "y2": 663
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "स्त्री को निकालना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_9.png",
+        "bounding_box": {
+            "x1": 479,
+            "y1": 698,
+            "x2": 937,
+            "y2": 815
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "अधिविन्नातुयानारी निर्गच्छेद्रुषितागृहात् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_10.png",
+        "bounding_box": {
+            "x1": 80,
+            "y1": 794,
+            "x2": 1238,
+            "y2": 939
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सासद्यःसन्निरोद्धव्या त्याज्यावाकुलसन्निधौ १८।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_11.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 901,
+            "x2": 1330,
+            "y2": 1019
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "अर्थ ।। जो स्त्री दूसरी स्त्री करनेपर कुपितहो घरसे निकलै वह",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_12.png",
+        "bounding_box": {
+            "x1": 129,
+            "y1": 995,
+            "x2": 1330,
+            "y2": 1114
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मध्याह्नके सूर्य्य को न देखै १९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_13.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 1703,
+            "x2": 759,
+            "y2": 1806
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "सूर्य को न देखै ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_14.png",
+        "bounding_box": {
+            "x1": 503,
+            "y1": 1228,
+            "x2": 897,
+            "y2": 1329
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "नेक्षेतोद्यन्तमादित्यं नास्तंयान्तंकदाचन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_15.png",
+        "bounding_box": {
+            "x1": 140,
+            "y1": 1303,
+            "x2": 1266,
+            "y2": 1427
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "नोपसृष्टंनवारिस्थं नमध्यंनभसोगतम् १९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_16.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 1401,
+            "x2": 1301,
+            "y2": 1524
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "मण्डल को न देखै तथा राहु ग्रह से ग्रसे हुये और जल",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_17.png",
+        "bounding_box": {
+            "x1": 62,
+            "y1": 1553,
+            "x2": 1312,
+            "y2": 1672
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "से प्रतिबिम्ब पड़े हुये तथा आकाश के मध्य में स्थित अर्थात्",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_18.png",
+        "bounding_box": {
+            "x1": 66,
+            "y1": 1624,
+            "x2": 1348,
+            "y2": 1747
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "देखै १० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_19.png",
+        "bounding_box": {
+            "x1": 52,
+            "y1": 2164,
+            "x2": 311,
+            "y2": 2263
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "अर्थ ।। उदय होतेहुये और अस्त होतेहुये सूर्य्य के सम्पूर्ण",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_20.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 1488,
+            "x2": 1312,
+            "y2": 1602
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "बछवा आदि की रस्सी न नांधना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_21.png",
+        "bounding_box": {
+            "x1": 324,
+            "y1": 1770,
+            "x2": 1057,
+            "y2": 1884
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "नलङ्घयेद्वत्सतंत्रीं न प्रधावेच्चवर्षति ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_22.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 1856,
+            "x2": 1078,
+            "y2": 1977
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "नचोदकेनिरीक्षेत स्वंरूपमितिधारणा १० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_23.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 1945,
+            "x2": 1255,
+            "y2": 2065
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "अर्थ ।। बछड़ा बांधन की रस्सी को न उल्लंघै और मेघ वर्षने",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_24.png",
+        "bounding_box": {
+            "x1": 143,
+            "y1": 2036,
+            "x2": 1314,
+            "y2": 2138
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "के समय नहीं दौरे और अपनी देह की परछाहीं को जल में न",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_25.png",
+        "bounding_box": {
+            "x1": 62,
+            "y1": 2095,
+            "x2": 1316,
+            "y2": 2208
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_05_textline_26.png",
+        "bounding_box": {
+            "x1": 1249,
+            "y1": 150,
+            "x2": 1332,
+            "y2": 249
+        }
+    }
+]

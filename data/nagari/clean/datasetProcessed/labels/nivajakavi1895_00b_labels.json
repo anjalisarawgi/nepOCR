@@ -1,0 +1,277 @@
+[
+    {
+        "line_number": 1,
+        "text": "इस मतबे में जितने प्रकारकी काब्यकी पुस्तकैं छपी",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_1.png",
+        "bounding_box": {
+            "x1": 545,
+            "y1": 436,
+            "x2": 2704,
+            "y2": 625
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "हैं उनमें से कुछ नीचे लिखीजाती हैं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_2.png",
+        "bounding_box": {
+            "x1": 804,
+            "y1": 589,
+            "x2": 2419,
+            "y2": 784
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "नवीनसंग्रह ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_3.png",
+        "bounding_box": {
+            "x1": 1299,
+            "y1": 983,
+            "x2": 1923,
+            "y2": 1158
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "जिसमें भक्तभयहारी कुञ्जविहारी रसिकशिरोमणि श्रीकृष्ण",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_4.png",
+        "bounding_box": {
+            "x1": 627,
+            "y1": 1108,
+            "x2": 2712,
+            "y2": 1317
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "चन्द्र और श्रीराधिकाजीके लीलाविषयक नानाप्रकारके अत्यु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_5.png",
+        "bounding_box": {
+            "x1": 510,
+            "y1": 1252,
+            "x2": 2733,
+            "y2": 1439
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "त्तम कबित्त और सवैयादि वर्णितहैं जिसको हफ़ीजुल्लाहखांसां-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_6.png",
+        "bounding_box": {
+            "x1": 521,
+            "y1": 1385,
+            "x2": 2743,
+            "y2": 1561
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "ड़ीनिवासि सुदर्रिस मदर्सा मौज़ा बन्नापुर परगनै बंगर थाना",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_7.png",
+        "bounding_box": {
+            "x1": 506,
+            "y1": 1517,
+            "x2": 2753,
+            "y2": 1686
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "बघौली स्टेशन ज़िला हरदोई ने अपने शौक़ीन दोस्तोंके दि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_8.png",
+        "bounding_box": {
+            "x1": 510,
+            "y1": 1646,
+            "x2": 2720,
+            "y2": 1836
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "लबहलानेके निमित्त अति परिश्रमसे संग्रह किया ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_9.png",
+        "bounding_box": {
+            "x1": 506,
+            "y1": 1767,
+            "x2": 2384,
+            "y2": 1945
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "होती है ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_10.png",
+        "bounding_box": {
+            "x1": 459,
+            "y1": 3238,
+            "x2": 868,
+            "y2": 3394
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "हफ़ीजुल्लाहखांका हज़ारा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_11.png",
+        "bounding_box": {
+            "x1": 959,
+            "y1": 3371,
+            "x2": 2138,
+            "y2": 3543
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "षट्ऋतुकाव्यसंग्रह ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_12.png",
+        "bounding_box": {
+            "x1": 1158,
+            "y1": 1919,
+            "x2": 2048,
+            "y2": 2091
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "हेमन्त, शिशिर, छओ ऋतुओंके कबित्त व सवैया ऐसे२ अत्यु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_13.png",
+        "bounding_box": {
+            "x1": 462,
+            "y1": 2169,
+            "x2": 2753,
+            "y2": 2368
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "त्तम लहलहे रँगीले परमचुहचुहे रसीले, अपने रसिकमित्रों व",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_14.png",
+        "bounding_box": {
+            "x1": 498,
+            "y1": 2313,
+            "x2": 2697,
+            "y2": 2497
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "रंगीन तबीयतवाले महाशयोंके चित्तविनोदार्थ बड़े परिश्रमसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_15.png",
+        "bounding_box": {
+            "x1": 482,
+            "y1": 2422,
+            "x2": 2693,
+            "y2": 2625
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "छांट २ कर लिखेगये हैं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_16.png",
+        "bounding_box": {
+            "x1": 482,
+            "y1": 2563,
+            "x2": 1419,
+            "y2": 2732
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "हुये संग्रह किये गये हैं इसकी उत्तमता देखनेहीसे मालूम",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_17.png",
+        "bounding_box": {
+            "x1": 471,
+            "y1": 3097,
+            "x2": 2665,
+            "y2": 3292
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "लिखे गये हैं स्थान २ पर तसवीरैं भी बनी हैं ऐसा ग्रंथ कबित्तों",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_18.png",
+        "bounding_box": {
+            "x1": 467,
+            "y1": 3609,
+            "x2": 2691,
+            "y2": 3838
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "खनेसे प्रकटहोगी रसिकपुरुषोंके लिये अत्यन्त आनन्दकारीहै॥ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_19.png",
+        "bounding_box": {
+            "x1": 459,
+            "y1": 3878,
+            "x2": 2654,
+            "y2": 4097
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "हफ़ीतुल्लाहख़ां संग्रहीत जिसमें वसन्त, ग्रीष्म, वर्षा, शरद",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_20.png",
+        "bounding_box": {
+            "x1": 627,
+            "y1": 2040,
+            "x2": 2704,
+            "y2": 2242
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "प्रेमतरङ्गिनी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_21.png",
+        "bounding_box": {
+            "x1": 1287,
+            "y1": 2699,
+            "x2": 1915,
+            "y2": 2889
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "देवपक्ष व प्रत्येक ऋतुओं के कबित्त सवैया हरएक कविके बनाये",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_22.png",
+        "bounding_box": {
+            "x1": 482,
+            "y1": 2961,
+            "x2": 2665,
+            "y2": 3169
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "का संग्रह कियाहुआ आजतक देखनेमेंनहीं आया उत्तमता दे-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_23.png",
+        "bounding_box": {
+            "x1": 459,
+            "y1": 3769,
+            "x2": 2650,
+            "y2": 3957
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "मुंशीहफ़ीजुल्लाहख़ां संग्रहीत इसमें चित्रविचित्र सामयिक",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_24.png",
+        "bounding_box": {
+            "x1": 600,
+            "y1": 2828,
+            "x2": 2693,
+            "y2": 3037
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "इसमें नानाप्रकार के बहुतही उत्तम २ सब १९८४ कबित्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00b_textline_25.png",
+        "bounding_box": {
+            "x1": 584,
+            "y1": 3495,
+            "x2": 2665,
+            "y2": 3708
+        }
+    }
+]

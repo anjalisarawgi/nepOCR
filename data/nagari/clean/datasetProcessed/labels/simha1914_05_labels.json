@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "जगत् उपदेश ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_1.png",
+        "bounding_box": {
+            "x1": 841,
+            "y1": 163,
+            "x2": 1443,
+            "y2": 334
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भोजन न खाना चाहिये. लेकिन पकवान मिठाई",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_2.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 368,
+            "x2": 2063,
+            "y2": 547
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "बासी खानेमें दोष नहीं है. सड़ा पदार्थ न खाना चा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_3.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 543,
+            "x2": 2065,
+            "y2": 693
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "हिये न किसीका बचा अन्न खावे सत्तू या भुनी चीज़",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_4.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 690,
+            "x2": 2078,
+            "y2": 844
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "घी व मीठा मिलाकर खाना अच्छा होताहै, रातको",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_5.png",
+        "bounding_box": {
+            "x1": 215,
+            "y1": 834,
+            "x2": 2052,
+            "y2": 997
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सत्तू न खाना चाहिये. भोजनको अच्छी तरह दांतोंसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_6.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 983,
+            "x2": 2042,
+            "y2": 1144
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "चबाकर खाना, खानेके वक़्त शरीरको टेढ़ा न करना",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_7.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 1145,
+            "x2": 2060,
+            "y2": 1285
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "चाहिये, रातको सोनेसे दो घण्टा पहले भोजन करना",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_8.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 1286,
+            "x2": 2047,
+            "y2": 1438
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "चाहिये. भोजनसे अच्छी तरह उदर भरके फ़ौरन सो",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_9.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 1435,
+            "x2": 2039,
+            "y2": 1585
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "जानेसे भोजन अच्छी तरहसे नहीं पचता; न अच्छी",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_10.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 1587,
+            "x2": 2047,
+            "y2": 1737
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "तरहसे निद्रा लगती और स्वप्न बहुत होतेहैं. दूध पीकर",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_11.png",
+        "bounding_box": {
+            "x1": 215,
+            "y1": 1733,
+            "x2": 2039,
+            "y2": 1890
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "फ़ौरन न सोना चाहिये. भोजनसे पेटको बहुत न भर",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_12.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 1890,
+            "x2": 2034,
+            "y2": 2038
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "लेना चाहिये क्योंकि अधिक खानेसे बदन निकम्मा",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_13.png",
+        "bounding_box": {
+            "x1": 192,
+            "y1": 2037,
+            "x2": 2025,
+            "y2": 2188
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "हो जाताहै. एक आहार जबतक न पचे दूसरा आहार",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_14.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 2188,
+            "x2": 2083,
+            "y2": 2337
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "न करना चाहिये, क्योंकि इससे जठराग्निका पावन",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_15.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 2329,
+            "x2": 2010,
+            "y2": 2487
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "कम होजाताहै. बहुत भूख लगनेपर पानी से पेट न",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_16.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 2486,
+            "x2": 2024,
+            "y2": 2635
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_05_textline_17.png",
+        "bounding_box": {
+            "x1": 1953,
+            "y1": 151,
+            "x2": 2057,
+            "y2": 316
+        }
+    }
+]

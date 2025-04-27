@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "अश्वमेधयज्ञ श्रीरामचन्द्रजीकी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_1.png",
+        "bounding_box": {
+            "x1": 282,
+            "y1": 750,
+            "x2": 1569,
+            "y2": 889
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "बन्दौं चरण पुनीत गुण प्रतिपालन गजवदन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_2.png",
+        "bounding_box": {
+            "x1": 270,
+            "y1": 1139,
+            "x2": 1586,
+            "y2": 1252
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "जे पूजत करि प्रीत होत परम कल्याणमय ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_3.png",
+        "bounding_box": {
+            "x1": 263,
+            "y1": 1227,
+            "x2": 1589,
+            "y2": 1352
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "बन्दौं गुरु पदरेनु मन रञ्जन अञ्जन दृगन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_4.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 1313,
+            "x2": 1594,
+            "y2": 1443
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "मुद मंगल सुख देनु सूझिपरै रघुबर चरित ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_5.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 1407,
+            "x2": 1586,
+            "y2": 1534
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "बन्दौं तनयसमीर ज्ञानखान रघुनाथ प्रिय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_6.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 1516,
+            "x2": 1589,
+            "y2": 1619
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "जासु हृदय रघुबीर बसहिं सदा शरचापधर ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_7.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 1609,
+            "x2": 1586,
+            "y2": 1722
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "बन्दौं अज सनकादि सनक सनातन जय विजय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_8.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 1697,
+            "x2": 1581,
+            "y2": 1813
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ऋषि परमारथवादि जे नित गावहिं राम यश ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_9.png",
+        "bounding_box": {
+            "x1": 275,
+            "y1": 1791,
+            "x2": 1581,
+            "y2": 1907
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "बन्दौं सिन्धुसुजान शैलसुता षटमुख सहित ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_10.png",
+        "bounding_box": {
+            "x1": 270,
+            "y1": 1887,
+            "x2": 1581,
+            "y2": 2006
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सकल सुमंगलखान नन्दीपति गिरिजारमण ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_11.png",
+        "bounding_box": {
+            "x1": 259,
+            "y1": 1978,
+            "x2": 1571,
+            "y2": 2103
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सोरठा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_12.png",
+        "bounding_box": {
+            "x1": 793,
+            "y1": 1025,
+            "x2": 1068,
+            "y2": 1130
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "बन्दौं रघुबर पद जलजाता । आरतिहरण परमसुखदाता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_13.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 2074,
+            "x2": 1730,
+            "y2": 2194
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "पुनि लक्ष्मण युगचरण नमामी । बीर धुरीण राम अनुगामी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_14.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 2188,
+            "x2": 1731,
+            "y2": 2285
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "बन्दौं चरण भरत द्वउ भाई । शील सनेह ज्ञान अधिकाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_15.png",
+        "bounding_box": {
+            "x1": 134,
+            "y1": 2266,
+            "x2": 1744,
+            "y2": 2379
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "बन्दौं तीरथराज प्रयागा । मज्जनते कोटिन अघभागा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_16.png",
+        "bounding_box": {
+            "x1": 129,
+            "y1": 2354,
+            "x2": 1736,
+            "y2": 2470
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "बन्दौं साधु सन्त जग जेते । करौं प्रणाम नाय शिर तेते ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_17.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 2445,
+            "x2": 1735,
+            "y2": 2564
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "गिरामूक शारद श्रुति शेशा । सुर मुनि नारद सप्त ऋषेशा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_18.png",
+        "bounding_box": {
+            "x1": 134,
+            "y1": 2531,
+            "x2": 1730,
+            "y2": 2669
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "महि पाताल अकाश समेता । भूधर विटप पयोनिधि सेता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_02_textline_19.png",
+        "bounding_box": {
+            "x1": 108,
+            "y1": 2625,
+            "x2": 1728,
+            "y2": 2760
+        }
+    }
+]

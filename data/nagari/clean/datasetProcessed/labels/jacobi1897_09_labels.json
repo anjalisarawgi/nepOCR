@@ -1,0 +1,266 @@
+[
+    {
+        "line_number": 1,
+        "text": "(९)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_1.png",
+        "bounding_box": {
+            "x1": 809,
+            "y1": 97,
+            "x2": 1042,
+            "y2": 226
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रो तं रयणिं अवंति वई अहिसितो पालगोराया ॥ १ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_2.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 253,
+            "x2": 1722,
+            "y2": 415
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सट्ठी पालग रण्णोपणवण्ण सयं तु होइनं दाण",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_3.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 385,
+            "x2": 1750,
+            "y2": 518
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अट्ठसयं मुरियाणं तीसं चिअ पूसमित्तस्स ॥ २ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_4.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 493,
+            "x2": 1725,
+            "y2": 617
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "बलमित्त भानुमित्ता सट्ठीवरिसाणि चत्तनहवहणे",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_5.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 604,
+            "x2": 1722,
+            "y2": 742
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "तहगद्दभिल्ललारज्जं तेरसवरिसा सगस्सचौ ॥ ३ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_6.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 706,
+            "x2": 1731,
+            "y2": 866
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "अर्थात् पालक अवन्ती के राजा का उस रात को रा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_7.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 817,
+            "x2": 1728,
+            "y2": 960
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "ज्याभिषेक हुआ कि जिस रात को अर्हत तीर्थकर",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_8.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 924,
+            "x2": 1720,
+            "y2": 1076
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "महावीर का निर्वाण हुआ ॥ १ ॥ साठ बरस राजा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_9.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 1043,
+            "x2": 1725,
+            "y2": 1179
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "पालक के लेकिन १५५ बरस नन्दों के १०८ मौर्यों",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_10.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 1146,
+            "x2": 1746,
+            "y2": 1294
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "के और ३० पूसमित्त अर्थात् पुष्पमित्र के ॥ २ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_11.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1257,
+            "x2": 1731,
+            "y2": 1402
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "६० बरस बलमित्र और भानुमित्र ने राज किया ४०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_12.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 1367,
+            "x2": 1733,
+            "y2": 1511
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "नभोवाहन ने १३ बरस इसी तरह गर्दभिल्ल का",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_13.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 1485,
+            "x2": 1746,
+            "y2": 1622
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "राज रहा और शाका ४ है ॥ ३ ॥ यह श्लोक बहुत",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_14.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 1588,
+            "x2": 1722,
+            "y2": 1735
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "पोथियों में लिखे हैं और पुराने जैनियों ने इसी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_15.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 1698,
+            "x2": 1722,
+            "y2": 1836
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "के अनुसार महावीर और विक्रम के संवत् ठहरा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_16.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 1812,
+            "x2": 1722,
+            "y2": 1961
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "ये हैं पर इन की असल नहीं मालूम होती ४",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_17.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 1906,
+            "x2": 1729,
+            "y2": 2065
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "शाके का १३ गर्दभिल्ल का ४० नभोवाहन का ६०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_18.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 2044,
+            "x2": 1709,
+            "y2": 2170
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "बलमित्र और भानुमित्र का ३० पुष्पमित्र का और",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_19.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 2135,
+            "x2": 1709,
+            "y2": 2288
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "१०८ मौर्यों का जोड़ने से २५५ होता है और उस",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_20.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2243,
+            "x2": 1709,
+            "y2": 2398
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "में विक्रम के संवत् का ५७ बरस मिलाने से चन्द्रगुप्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_21.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 2354,
+            "x2": 1712,
+            "y2": 2515
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "का अभिषेक ३१२ बरस सन् ईसवी से पहले",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_22.png",
+        "bounding_box": {
+            "x1": 85,
+            "y1": 2480,
+            "x2": 1714,
+            "y2": 2611
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "ठहरता है और यूनानियों के संवत् से इस संवत् के",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_23.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 2586,
+            "x2": 1709,
+            "y2": 2720
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "पास पास मिलजाने से साबित होता है कि विक्रम ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_09_textline_24.png",
+        "bounding_box": {
+            "x1": 80,
+            "y1": 2696,
+            "x2": 1701,
+            "y2": 2838
+        }
+    }
+]

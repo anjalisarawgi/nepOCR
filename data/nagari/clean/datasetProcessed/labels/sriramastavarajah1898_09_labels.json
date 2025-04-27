@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीरामस्तवराजः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_1.png",
+        "bounding_box": {
+            "x1": 552,
+            "y1": 328,
+            "x2": 1292,
+            "y2": 489
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "त्रैलोक्यनाथं सरसीरुहाक्षं दयानिधिं द्वन्द्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_2.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 510,
+            "x2": 1716,
+            "y2": 706
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "विनाशहेतुम् ।। महाबलं वेदनिधिं सुरेशं स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_3.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 677,
+            "x2": 1716,
+            "y2": 829
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नातनं राममहं भजामि ।। ६० ।। वेदान्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_4.png",
+        "bounding_box": {
+            "x1": 125,
+            "y1": 809,
+            "x2": 1690,
+            "y2": 962
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "वेद्यं कविमीशितारमनादिमध्यान्तमचिन्य-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_5.png",
+        "bounding_box": {
+            "x1": 125,
+            "y1": 945,
+            "x2": 1716,
+            "y2": 1092
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "माद्यम् ।। अगोचरं निर्मलमेकरूपं नमामि",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_6.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1078,
+            "x2": 1722,
+            "y2": 1228
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "रामं तमसः परस्तात् ।। ६१ ।। अशेषवेदा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_7.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1204,
+            "x2": 1716,
+            "y2": 1373
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "त्मकमादिसंज्ञमजं हरिं विष्णुमनन्तमाद्य-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_8.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1340,
+            "x2": 1713,
+            "y2": 1502
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "म् ।। अपारसंवित्सुखमेकरूपं परात्परं रा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_9.png",
+        "bounding_box": {
+            "x1": 118,
+            "y1": 1476,
+            "x2": 1716,
+            "y2": 1631
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "ममहं भजामि ।। ६२ ।। तत्त्वस्वरूपं पुरुषं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_10.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 1614,
+            "x2": 1713,
+            "y2": 1766
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "पुराणं स्वतेजसा पूरितविश्वमेकम्।। राजा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_11.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 1746,
+            "x2": 1707,
+            "y2": 1904
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "धिराजं रविमण्डलस्थं विश्वेश्वरंराममहंभ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_12.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1882,
+            "x2": 1713,
+            "y2": 2039
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "जामि ।। ६३।।लोकाभिरामं रघुवंशनाथं हरिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_13.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 2011,
+            "x2": 1713,
+            "y2": 2174
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "चिदानन्दमयं मुकुन्दम् ।। अशेषविद्याधिप",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_14.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 2144,
+            "x2": 1722,
+            "y2": 2303
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तिं कवीन्द्रं नमामि रामं तमसः परस्तात् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_15.png",
+        "bounding_box": {
+            "x1": 89,
+            "y1": 2275,
+            "x2": 1716,
+            "y2": 2450
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "।।६४।। योगीन्द्रसंघैश्चसुसेव्यमानं नारायणं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_16.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 2415,
+            "x2": 1716,
+            "y2": 2573
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "निर्मलमादिदेवम् ।। नतोस्मि नित्यं जगदेक",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_17.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 2542,
+            "x2": 1702,
+            "y2": 2705
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "नाथमादित्यवर्णं तमसः परस्तात् ।। ६५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_18.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 2683,
+            "x2": 1713,
+            "y2": 2849
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "विभूतिदं विश्वसृजं विराजं राजेन्द्रमीशं र-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_19.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 2816,
+            "x2": 1729,
+            "y2": 2969
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "९",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_20.png",
+        "bounding_box": {
+            "x1": 1588,
+            "y1": 348,
+            "x2": 1713,
+            "y2": 501
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "२",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_09_textline_21.png",
+        "bounding_box": {
+            "x1": 847,
+            "y1": 2986,
+            "x2": 942,
+            "y2": 3057
+        }
+    }
+]

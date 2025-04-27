@@ -1,0 +1,244 @@
+[
+    {
+        "line_number": 1,
+        "text": "भ्रम-नाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_1.png",
+        "bounding_box": {
+            "x1": 858,
+            "y1": 181,
+            "x2": 1256,
+            "y2": 300
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "का अभिमान है और कर्म आदि की उपासना है, वह सब बंधन",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_2.png",
+        "bounding_box": {
+            "x1": 51,
+            "y1": 339,
+            "x2": 2052,
+            "y2": 499
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "का कारण है, यही वेद का सिद्धांत है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_3.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 478,
+            "x2": 1318,
+            "y2": 633
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "का हेतु है, तब ईश्वर ने इनको क्यों बनाया ?",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_4.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 750,
+            "x2": 1545,
+            "y2": 898
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "वह तो किसी को होता नहीं तब कैसे संसार प्रवृत्त होता । और",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_5.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 1157,
+            "x2": 2071,
+            "y2": 1291
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "भी व्यवहार सिद्ध नहीं हो सकता । यदि पिता अपने पुत्र का कोई",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_6.png",
+        "bounding_box": {
+            "x1": 40,
+            "y1": 1421,
+            "x2": 2088,
+            "y2": 1563
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "पूछता कि तुम कौन हो और वह क्या उत्तर देता कि हम अमुक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_7.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 1823,
+            "x2": 2071,
+            "y2": 1951
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "कोई न करता । क्योंकि वेद में भिन्न-भिन्न वर्णाश्रमों के कर्म कहे हैं,",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_8.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2075,
+            "x2": 2080,
+            "y2": 2221
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "जबकि वर्णाश्रम ही नहीं है तब उनके कर्मों का कर्ता कौन हो",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_9.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 2213,
+            "x2": 2064,
+            "y2": 2347
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "विभाग की कल्पना न होती, तब सब अपने को तुलब ही जानते और",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_10.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 2482,
+            "x2": 2058,
+            "y2": 2613
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "व्यवहार भी न होता, और दान आदि का अधिकारी भी कोई न",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_11.png",
+        "bounding_box": {
+            "x1": 17,
+            "y1": 2743,
+            "x2": 2049,
+            "y2": 2878
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "प्रश्न ---- यदि वर्णाश्रम आदि धर्म और कर्म की उपासना बंधन",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_12.png",
+        "bounding_box": {
+            "x1": 147,
+            "y1": 617,
+            "x2": 2052,
+            "y2": 763
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "उत्तर ---- यदि ईश्वर वर्ण आदि के विभाग की कल्पना न करता, तो",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_13.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 883,
+            "x2": 2073,
+            "y2": 1033
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "यह संसार भी न होता । क्योंकि अभिमान ही बंधन का हेतु है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_14.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 1013,
+            "x2": 2040,
+            "y2": 1171
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "नामकरण तथा वर्णाश्रम आदि की कल्पना के बिना कोई",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_15.png",
+        "bounding_box": {
+            "x1": 40,
+            "y1": 1288,
+            "x2": 2075,
+            "y2": 1426
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "नाम न धरे तब कैसे कोई उसको पुकारे । और जो ईश्वर वर्णों",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_16.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 1545,
+            "x2": 2066,
+            "y2": 1690
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "के विभाग की कल्पना न करता, तब कैसे कोई एक दूसरे से",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_17.png",
+        "bounding_box": {
+            "x1": 23,
+            "y1": 1687,
+            "x2": 2060,
+            "y2": 1821
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "हैं । तब तो सबको मौन ही रहना पड़ता और संसार में कार्य भी",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_18.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 1950,
+            "x2": 2060,
+            "y2": 2082
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "सकता है ? कोई नहीं हो सकता । और जबकि जाति आदि",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_19.png",
+        "bounding_box": {
+            "x1": 23,
+            "y1": 2346,
+            "x2": 2040,
+            "y2": 2482
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "फिर सेवा आदि जो निषिद्ध कर्म हैं, सो कैसे होते । और गुरु-शिष्य-",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_20.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2604,
+            "x2": 2069,
+            "y2": 2748
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "होता । तब संसार का व्यवहार कदापि न चल सकता ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_21.png",
+        "bounding_box": {
+            "x1": 14,
+            "y1": 2881,
+            "x2": 2041,
+            "y2": 3018
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_03_textline_22.png",
+        "bounding_box": {
+            "x1": 1953,
+            "y1": 158,
+            "x2": 2049,
+            "y2": 289
+        }
+    }
+]

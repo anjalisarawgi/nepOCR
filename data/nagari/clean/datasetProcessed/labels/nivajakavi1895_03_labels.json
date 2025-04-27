@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "(३)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_1.png",
+        "bounding_box": {
+            "x1": 1165,
+            "y1": 273,
+            "x2": 1539,
+            "y2": 437
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "लचकत लंफतें । करत विविधकटाक्ष अलपत रागऊंचे",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_2.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 405,
+            "x2": 2452,
+            "y2": 606
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सुरनतें ॥ सुनिरागके मृदु सुरनिमुनि दृगखोलिदीन्हें ध्या",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_3.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 554,
+            "x2": 2444,
+            "y2": 772
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "न तें । छबि लखत लूट्यों तपजुछूट्यो छुट्यो ऋषि तप",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_4.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 698,
+            "x2": 2448,
+            "y2": 916
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "ज्ञानतें १५ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_5.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 877,
+            "x2": 867,
+            "y2": 1039
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "यो मुनि योग को आसन ॥ जप तप संयम धर्म नशा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_6.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 1154,
+            "x2": 2466,
+            "y2": 1366
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "नि लगायो । योग कियेको फल मनु पायो ॥ एक मुहू-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_7.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 1459,
+            "x2": 2429,
+            "y2": 1656
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "रत के सुख कारन । खोयो तप करिबर्ष हजारन ॥ पी-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_8.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 1603,
+            "x2": 2448,
+            "y2": 1824
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "छे निकट बहुत पछितानो । वा बन तें मुनि अनत परा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_9.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 1751,
+            "x2": 2429,
+            "y2": 1975
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "बिचारन ॥ नर गर्भहि ले कें जो जावै । तो सुरपुर",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_10.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 2052,
+            "x2": 2429,
+            "y2": 2279
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "महँ पैठि न पावे ॥ भई सुता नौ मास भये जब । गई",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_11.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 2212,
+            "x2": 2471,
+            "y2": 2424
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "मेनका सुरपुर को तब ॥ १६ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_12.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 2360,
+            "x2": 1519,
+            "y2": 2566
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "पियायो न एक घरी । यह जानि कें मानस की जन्मी",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_13.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2664,
+            "x2": 2409,
+            "y2": 2869
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "कछु मेनका नेकु दयानधरी ॥ कुलमाहिंन कोऊ जोराखे",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_14.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 2824,
+            "x2": 2436,
+            "y2": 3024
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "कहूं वह काहे को धौं करतार करी । सुधिलेबे की कोऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_15.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 2976,
+            "x2": 2417,
+            "y2": 3178
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "चौपाई । मास्यो मन्मथ साधि शरासन । छोड़ि दि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_16.png",
+        "bounding_box": {
+            "x1": 380,
+            "y1": 1002,
+            "x2": 2491,
+            "y2": 1225
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "यो । मोहि मेनका के ढिग आयो ॥ अंग अंग सों आ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_17.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 1295,
+            "x2": 2436,
+            "y2": 1516
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "नो ॥ गर्भ मेनका कीन्हों धारन । तब सो मन में लगी",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_18.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 1904,
+            "x2": 2421,
+            "y2": 2119
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "नहीं सँगमें बन सूने शकुन्तला रोवे परी ॥ १७ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_19.png",
+        "bounding_box": {
+            "x1": 193,
+            "y1": 3121,
+            "x2": 2179,
+            "y2": 3319
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "कण्व कृपा अति कीन्ही । देव कि दानवकै नर की कि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_20.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 3429,
+            "x2": 2405,
+            "y2": 3616
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "धौं नाग की है न परै कुछचीन्ही ॥ सुंदर ऐसी सुताकि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_21.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 3566,
+            "x2": 2433,
+            "y2": 3771
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "हि कारण को बन में गहि डारि धों दीन्ही । रोवे अके-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_22.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 3726,
+            "x2": 2446,
+            "y2": 3921
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "दोहा । लीहें सुता शकुन्तला कलपत आश्रम आय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_23.png",
+        "bounding_box": {
+            "x1": 279,
+            "y1": 4042,
+            "x2": 2405,
+            "y2": 4224
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "सवैया । डर डारि सुता कों गई सुरलोकहि दूध",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_24.png",
+        "bounding_box": {
+            "x1": 376,
+            "y1": 2512,
+            "x2": 2424,
+            "y2": 2730
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "सवैया । न्हैबेकों जाय कढ़्यो तिहि मारग देखि के",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_25.png",
+        "bounding_box": {
+            "x1": 369,
+            "y1": 3265,
+            "x2": 2405,
+            "y2": 3472
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "ली परी बनमें ऋषिआय उठाय शकुन्तला लीन्ही १८ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_03_textline_26.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 3874,
+            "x2": 2405,
+            "y2": 4074
+        }
+    }
+]

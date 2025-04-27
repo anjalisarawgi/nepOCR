@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "उदञ्चन्मार्तण्डस्फुटकपटहेरम्बजननी-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_1.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 492,
+            "x2": 1528,
+            "y2": 646
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "कटाक्षव्याक्षेपक्षणजनितसंक्षोभनिवहा: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_2.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 626,
+            "x2": 1697,
+            "y2": 780
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "भवन्तु त्वङ्गन्तो हरशिरसि गङ्गातनुभुव-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_3.png",
+        "bounding_box": {
+            "x1": 154,
+            "y1": 759,
+            "x2": 1615,
+            "y2": 894
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "प्रभाते स्नातीनां नृपतिरमणीनां कुचतटी-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_4.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 1772,
+            "x2": 1684,
+            "y2": 1930
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "। ४ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_5.png",
+        "bounding_box": {
+            "x1": 835,
+            "y1": 193,
+            "x2": 1147,
+            "y2": 321
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "(६)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_6.png",
+        "bounding_box": {
+            "x1": 814,
+            "y1": 364,
+            "x2": 1143,
+            "y2": 485
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "स्तरङ्गाः प्रोत्तुङ्गा दुरितभयभङ्गाय भवताम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_7.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 885,
+            "x2": 1757,
+            "y2": 1044
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "गतो यावन्मातर्मिलति तवतोयैमृर्गमदः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_8.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1903,
+            "x2": 1662,
+            "y2": 2055
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "मृगास्तावद्वैमानिकशतसहस्रैः परिवृताः",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_9.png",
+        "bounding_box": {
+            "x1": 143,
+            "y1": 2039,
+            "x2": 1577,
+            "y2": 2176
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "सूर्योदय के समय पार्वती ने कटाक्ष से जब देखा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_10.png",
+        "bounding_box": {
+            "x1": 263,
+            "y1": 1141,
+            "x2": 1784,
+            "y2": 1278
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "उपजा क्षोभ क्षणिक हिरदे में पर विनोद कर तुम लेखा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_11.png",
+        "bounding_box": {
+            "x1": 252,
+            "y1": 1271,
+            "x2": 1798,
+            "y2": 1402
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "जो शिव-जटा बीच हर्षित हो सदा खेलती मातु रहें ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_12.png",
+        "bounding_box": {
+            "x1": 242,
+            "y1": 1388,
+            "x2": 1817,
+            "y2": 1526
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "ऊँची ऊँची लहरें उनकी पाप आपके दूर करें ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_13.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 1500,
+            "x2": 1792,
+            "y2": 1651
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "विशन्ति स्वच्छन्दं विमलवपुषो नन्दनवनम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_14.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 2165,
+            "x2": 1828,
+            "y2": 2314
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "राजाओं की रमणी आकर प्राप्त करें तव जल में स्नान ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_15.png",
+        "bounding_box": {
+            "x1": 236,
+            "y1": 2434,
+            "x2": 1796,
+            "y2": 2559
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "कुचलिपटी कस्तूरीवाले मृग पाते हैं मुक्ति महान ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_16.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 2557,
+            "x2": 1768,
+            "y2": 2688
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "देवों के सँग चढ़ विमान वे क्या क्या मौज उड़ाते हैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_17.png",
+        "bounding_box": {
+            "x1": 211,
+            "y1": 2677,
+            "x2": 1792,
+            "y2": 2801
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "करने को आनन्द यहाँ से नन्दनवन को जाते हैं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_18.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 2796,
+            "x2": 1779,
+            "y2": 2926
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "(६)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_19.png",
+        "bounding_box": {
+            "x1": 909,
+            "y1": 1043,
+            "x2": 1154,
+            "y2": 1149
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "(७)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_20.png",
+        "bounding_box": {
+            "x1": 860,
+            "y1": 1650,
+            "x2": 1171,
+            "y2": 1771
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "(७)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_04_textline_21.png",
+        "bounding_box": {
+            "x1": 879,
+            "y1": 2314,
+            "x2": 1139,
+            "y2": 2432
+        }
+    }
+]

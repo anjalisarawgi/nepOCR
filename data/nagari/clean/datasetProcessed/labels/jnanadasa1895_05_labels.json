@@ -1,0 +1,244 @@
+[
+    {
+        "line_number": 1,
+        "text": "जौन । याते परे अज्ञानसु कौन ।। १९ ।। ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_1.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 2940,
+            "x2": 1289,
+            "y2": 3075
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "येतयोर्यदुपादानमेकं सूक्ष्मंसदव्ययम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_2.png",
+        "bounding_box": {
+            "x1": 247,
+            "y1": 380,
+            "x2": 1542,
+            "y2": 555
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "अपरोक्षानुभव स० ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_3.png",
+        "bounding_box": {
+            "x1": 737,
+            "y1": 235,
+            "x2": 1364,
+            "y2": 369
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "यथैवमृद्घटादीनां विचारःसोयमीदृशः ।। १५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_4.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 516,
+            "x2": 1866,
+            "y2": 688
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अहमेकोपिसूक्ष्मश्चज्ञातासाक्षीसदव्ययः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_5.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 655,
+            "x2": 1639,
+            "y2": 820
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "तदहंनात्रसंदेहः विचारःसोयमीदृशः ।। १६ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_6.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 806,
+            "x2": 1784,
+            "y2": 967
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "तयोरैक्यंप्रपश्यंति किमज्ञानमतःपरम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_7.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 939,
+            "x2": 1582,
+            "y2": 1090
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "आत्माविनिष्कलोह्येकोदेहोबहुभिरावृतः ।। १७ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_8.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 1066,
+            "x2": 1848,
+            "y2": 1239
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "आत्मानियाम्यकश्चांत र्देहोनियम्यवाह्यकः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_9.png",
+        "bounding_box": {
+            "x1": 253,
+            "y1": 1205,
+            "x2": 1694,
+            "y2": 1365
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "तयोरैक्यंप्रपश्यंति किमज्ञानमतःपरम् ।। १८ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_10.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 1338,
+            "x2": 1806,
+            "y2": 1512
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "आत्माज्ञानमयःप्रज्ञोदेहोमांसमयोशुचिः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_11.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 1492,
+            "x2": 1591,
+            "y2": 1630
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "तयोरैक्यंप्रपश्यंति किमज्ञानमतःपरम् ।। १९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_12.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 1616,
+            "x2": 1809,
+            "y2": 1782
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मैंहौं सूक्ष्म एकज्ञाता पुनि । साक्षी सत अविनाशी जो सुनि ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_13.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 2109,
+            "x2": 1902,
+            "y2": 2265
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अकल एकहै जोई । देह बहुत करि आबृति सोई ।। तिन दोउ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_14.png",
+        "bounding_box": {
+            "x1": 126,
+            "y1": 2353,
+            "x2": 1912,
+            "y2": 2493
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "एक सु देखै जौन ।। यातें परे अज्ञान सु कौन १७ आत्मा न्यामक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_15.png",
+        "bounding_box": {
+            "x1": 120,
+            "y1": 2468,
+            "x2": 1903,
+            "y2": 2610
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "अंतर जोई । देह नियम्य वाह्य पुनि सोई ।। तिन दोउ एकसु",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_16.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 2583,
+            "x2": 1912,
+            "y2": 2732
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "जोई । देह मांस मय अशुचि जुसोई ।। तिन दोउ एक सु देखै",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_17.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 2816,
+            "x2": 1902,
+            "y2": 2964
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "याजग कारण एक सु जोई । सूक्षम सत अबिनाशी सोई ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_18.png",
+        "bounding_box": {
+            "x1": 229,
+            "y1": 1873,
+            "x2": 1902,
+            "y2": 2032
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "ज्यों घटादि कारण मृद जौन । याको नाम बिचारैतौन १५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_19.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 1985,
+            "x2": 1905,
+            "y2": 2145
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "सो मैं यामें संशय नाहीं । याको नाम बिचार सुआहीं १६ आत्मा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_20.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 2229,
+            "x2": 1936,
+            "y2": 2377
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "देखै जौन । याते परे अज्ञान सुकौन १८ आत्मा शुद्ध ज्ञानमय",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_21.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 2701,
+            "x2": 1881,
+            "y2": 2848
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_05_textline_22.png",
+        "bounding_box": {
+            "x1": 1825,
+            "y1": 246,
+            "x2": 1978,
+            "y2": 382
+        }
+    }
+]

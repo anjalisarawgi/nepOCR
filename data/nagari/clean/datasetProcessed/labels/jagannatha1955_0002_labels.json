@@ -1,0 +1,310 @@
+[
+    {
+        "line_number": 1,
+        "text": "[ २ ]",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_1.png",
+        "bounding_box": {
+            "x1": 816,
+            "y1": 217,
+            "x2": 1194,
+            "y2": 352
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "ऐंठ रहे पंडित अभिमानी अब थे आप स्वयं ऐंठे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_2.png",
+        "bounding_box": {
+            "x1": 195,
+            "y1": 490,
+            "x2": 1816,
+            "y2": 613
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "घाट पुनीत पंचगंगा के बावनवीं सीढ़ी बैठे ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_3.png",
+        "bounding_box": {
+            "x1": 206,
+            "y1": 604,
+            "x2": 1854,
+            "y2": 708
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "लिये हुए गोदी में दुलहिन 'गंगालहरी' गान किया ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_4.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 694,
+            "x2": 1798,
+            "y2": 807
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "हृदय कंठ के मधुर स्वरों ने वाद्यों का स्थान लिया ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_5.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 803,
+            "x2": 1828,
+            "y2": 906
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "दृढ सेवक माता के ठहरे भक्ति-लहर दम-दम बढ़ती ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_6.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 991,
+            "x2": 1787,
+            "y2": 1098
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "'लहरी' का सुन एक छन्द गंगा भी इक सीढ़ी चढ़ती ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_7.png",
+        "bounding_box": {
+            "x1": 180,
+            "y1": 1094,
+            "x2": 1792,
+            "y2": 1192
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "बावन छन्द हुए जब पूरे बावन सीढ़ी चढ़ि आईं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_8.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 1187,
+            "x2": 1792,
+            "y2": 1288
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "दोनों को ले गोदी चूमा हाथ फेर अति हरषाईं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_9.png",
+        "bounding_box": {
+            "x1": 192,
+            "y1": 1277,
+            "x2": 1798,
+            "y2": 1390
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "बोलीं यह मेरी लीला थी तुझको इतना कष्ट मिला ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_10.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 1456,
+            "x2": 1841,
+            "y2": 1575
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "मुझको दिखलाना जग को था जाग्रत् मेरी सदा कला ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_11.png",
+        "bounding_box": {
+            "x1": 192,
+            "y1": 1582,
+            "x2": 1798,
+            "y2": 1671
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "स्रोत सभी शुभ कर्मों की हूँ तूने तो हैं बहुत किये ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_12.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 1655,
+            "x2": 1829,
+            "y2": 1768
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "आशिष मेरी नित रहती है धर्म सनातन सदा जिये ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_13.png",
+        "bounding_box": {
+            "x1": 190,
+            "y1": 1759,
+            "x2": 1829,
+            "y2": 1869
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "तू सच्चा है भक्त वत्स अब अमर लोक को जायेगा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_14.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 1928,
+            "x2": 1838,
+            "y2": 2056
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "भाग्यवती वर बधू सहित अतिशय आनन्द मनायेगा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_15.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 2042,
+            "x2": 1830,
+            "y2": 2152
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "अरु वे नर जिनको लीलावश तव निन्दा का पाप लगा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_16.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 2145,
+            "x2": 1790,
+            "y2": 2247
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "तर जायेंगे न्हाइ न्हाइ धर ध्यान सदा मेरा सुभगा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_17.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 2235,
+            "x2": 1798,
+            "y2": 2349
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "गंगभक्ति से जगन्नाथ यों प्रस्तुत किये प्रमाण नये ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_18.png",
+        "bounding_box": {
+            "x1": 195,
+            "y1": 2412,
+            "x2": 1815,
+            "y2": 2535
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "स्तोत्रश्रेष्ठ गंगालहरी का छोटों के हित छोड़ गये ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_19.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 2524,
+            "x2": 1809,
+            "y2": 2629
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "गा गाथा गंगाभक्तों की आनन्दों की मिसरी घोलो ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_20.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 2611,
+            "x2": 1803,
+            "y2": 2728
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "राधेलाल प्रेम से मन से गंगाजी की जय बोलो ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_21.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 2701,
+            "x2": 1806,
+            "y2": 2827
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "बोलो श्रीगंगाजी की जय",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_22.png",
+        "bounding_box": {
+            "x1": 611,
+            "y1": 2799,
+            "x2": 1370,
+            "y2": 2919
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "गंगे, हर, हर, हर ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_23.png",
+        "bounding_box": {
+            "x1": 718,
+            "y1": 2900,
+            "x2": 1280,
+            "y2": 3018
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "(५)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_24.png",
+        "bounding_box": {
+            "x1": 873,
+            "y1": 381,
+            "x2": 1111,
+            "y2": 504
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "(९)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_25.png",
+        "bounding_box": {
+            "x1": 873,
+            "y1": 901,
+            "x2": 1101,
+            "y2": 997
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "(७)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_26.png",
+        "bounding_box": {
+            "x1": 876,
+            "y1": 1378,
+            "x2": 1114,
+            "y2": 1481
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "(८)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_27.png",
+        "bounding_box": {
+            "x1": 882,
+            "y1": 1857,
+            "x2": 1103,
+            "y2": 1962
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "(९)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0002_textline_28.png",
+        "bounding_box": {
+            "x1": 879,
+            "y1": 2331,
+            "x2": 1095,
+            "y2": 2432
+        }
+    }
+]

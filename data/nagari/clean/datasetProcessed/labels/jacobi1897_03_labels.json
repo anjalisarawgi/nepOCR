@@ -1,0 +1,266 @@
+[
+    {
+        "line_number": 1,
+        "text": "(३)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_1.png",
+        "bounding_box": {
+            "x1": 793,
+            "y1": 145,
+            "x2": 1052,
+            "y2": 274
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "नाश होनेपर निकला समझता है वेबर जैन को इस",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_2.png",
+        "bounding_box": {
+            "x1": 120,
+            "y1": 291,
+            "x2": 1728,
+            "y2": 478
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "से पुराना जानता है लेकिन बौद्धों को उस से भी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_3.png",
+        "bounding_box": {
+            "x1": 110,
+            "y1": 409,
+            "x2": 1720,
+            "y2": 578
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "आगे लासन वेबर का साथी है बिलसन के अनुसार",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_4.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 520,
+            "x2": 1712,
+            "y2": 694
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "यह कहा जासक्ताहै कि जैन सूत्र महावीर को केवल",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_5.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 622,
+            "x2": 1704,
+            "y2": 803
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "विहार का रहनेवालाही नहीं बतलाते कि जहां बुद्ध",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_6.png",
+        "bounding_box": {
+            "x1": 110,
+            "y1": 741,
+            "x2": 1699,
+            "y2": 919
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "रहा और उपदेश दिया बल्कि बुद्धका सहकाली और",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_7.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 854,
+            "x2": 1696,
+            "y2": 1024
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "उन्हीं राजाओं की सहाय में उसे लिखते हैं जो बुद्ध",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_8.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 979,
+            "x2": 1702,
+            "y2": 1134
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "के सहकाली थे अगर्चि श्रेणिक और कूणिक या को-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_9.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 1070,
+            "x2": 1699,
+            "y2": 1231
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "णिक वह नहीं हैं जिनका नाम अक्सर बौद्ध ग्रन्थोंमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_10.png",
+        "bounding_box": {
+            "x1": 85,
+            "y1": 1175,
+            "x2": 1688,
+            "y2": 1341
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "पाया जाता है तौ भी श्रेणय या श्रेणिक बिम्बिसार",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_11.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 1294,
+            "x2": 1672,
+            "y2": 1457
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "का विरुद मालूम होता है और उस के बेटे कूणिक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_12.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1386,
+            "x2": 1702,
+            "y2": 1562
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "का नाम औपपात्तिक सूत्र में बिम्बिसार पुत्र लिखा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_13.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 1510,
+            "x2": 1677,
+            "y2": 1679
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "है हेमचन्द्र बम्भसार लिखता है यह बिम्बिसार का",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_14.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1609,
+            "x2": 1674,
+            "y2": 1784
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "बेटा अजातशत्रु मालूम होता है क्योंकि जैन और",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_15.png",
+        "bounding_box": {
+            "x1": 48,
+            "y1": 1722,
+            "x2": 1656,
+            "y2": 1890
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "बौद्ध दोनों उन दोनों को लिखते हैं कि अपने बाप",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_16.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 1825,
+            "x2": 1650,
+            "y2": 1995
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "को मारडाला था कूणिक का बेटा उदायिन जिसने",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_17.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 1936,
+            "x2": 1650,
+            "y2": 2109
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "जैनियों के मुताबिक़ पाटलिपुत्र बसाया था वही उ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_18.png",
+        "bounding_box": {
+            "x1": 50,
+            "y1": 2049,
+            "x2": 1647,
+            "y2": 2213
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "दयि अजातशत्रु का बेटा है जिसको बौद्ध पाटलिपुत्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_19.png",
+        "bounding_box": {
+            "x1": 56,
+            "y1": 2160,
+            "x2": 1647,
+            "y2": 2325
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "का बसानेवाला मानते हैं इस में किसी तरह का सं-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_20.png",
+        "bounding_box": {
+            "x1": 42,
+            "y1": 2270,
+            "x2": 1653,
+            "y2": 2426
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "देह नहीं कि बुद्धके सहकाली बिम्बिसार और अजा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_21.png",
+        "bounding_box": {
+            "x1": 42,
+            "y1": 2375,
+            "x2": 1687,
+            "y2": 2542
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "तशत्रु श्रेणिक और कूणिक के नाम से जैन अंगों में",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_22.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 2491,
+            "x2": 1669,
+            "y2": 2651
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "महावीर के सहकाली लिखे हैं इन से छोटों पर भी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_23.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2596,
+            "x2": 1645,
+            "y2": 2764
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "यह बात ठीक ठहरती है जैसे गोसाल मंखलिय",
+        "image_path": "datasetProcessed/cropped_textlines/images/jacobi1897_03_textline_24.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2710,
+            "x2": 1639,
+            "y2": 2875
+        }
+    }
+]

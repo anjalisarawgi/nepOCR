@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "रागबिनोद ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_1.png",
+        "bounding_box": {
+            "x1": 757,
+            "y1": 81,
+            "x2": 1293,
+            "y2": 226
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "दो० लम्बोदर दुखके हरण, करण सकल मन काज ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_2.png",
+        "bounding_box": {
+            "x1": 219,
+            "y1": 283,
+            "x2": 1845,
+            "y2": 409
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "रेणु शिर धारत ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_3.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 2068,
+            "x2": 984,
+            "y2": 2232
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "बारबार मस्तक नऊं, कृपा करो अब आज ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_4.png",
+        "bounding_box": {
+            "x1": 373,
+            "y1": 414,
+            "x2": 1794,
+            "y2": 528
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "(भजन)",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_5.png",
+        "bounding_box": {
+            "x1": 773,
+            "y1": 544,
+            "x2": 1238,
+            "y2": 688
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "जे गरुचरण रेणु शिर धारत ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_6.png",
+        "bounding_box": {
+            "x1": 347,
+            "y1": 714,
+            "x2": 1675,
+            "y2": 871
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "तमके गृह को दीपक गुरु सिखवन सो",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_7.png",
+        "bounding_box": {
+            "x1": 186,
+            "y1": 1486,
+            "x2": 1863,
+            "y2": 1627
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जन प्यारे गुरुपद पंकज उर कलि",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_8.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 1791,
+            "x2": 1895,
+            "y2": 1933
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "भूरि भागिके भाजन होयँगे सब बिष-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_9.png",
+        "bounding_box": {
+            "x1": 335,
+            "y1": 872,
+            "x2": 1841,
+            "y2": 1030
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "यन को टारत ।। १ ।। जे गुरुचरण० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_10.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 1044,
+            "x2": 1841,
+            "y2": 1186
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "यमके त्रास सकल बिधि नाशत जे गुरु",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_11.png",
+        "bounding_box": {
+            "x1": 177,
+            "y1": 1177,
+            "x2": 1838,
+            "y2": 1339
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "मन्त्र उचारत ।। २ ।। जे गुरुचरण० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_12.png",
+        "bounding_box": {
+            "x1": 179,
+            "y1": 1337,
+            "x2": 1848,
+            "y2": 1488
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "पद मूढ़ बिसारत ।। ३ ।। जे गुरुचरण० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_13.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 1642,
+            "x2": 1881,
+            "y2": 1786
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "साउज हनि डारत ।। ४ ।। जे गुरुचरण",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_14.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 1933,
+            "x2": 1907,
+            "y2": 2080
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "दो० बिनु गुरु मुक्ति न पावहीं, सुर नर असुर समूह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_15.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 2249,
+            "x2": 1794,
+            "y2": 2397
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "गुरुके सिखवनसुमिरिकै, तरे खलनके जूह ।। ",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_16.png",
+        "bounding_box": {
+            "x1": 375,
+            "y1": 2375,
+            "x2": 1787,
+            "y2": 2512
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_03_textline_17.png",
+        "bounding_box": {
+            "x1": 1714,
+            "y1": 99,
+            "x2": 1853,
+            "y2": 215
+        }
+    }
+]

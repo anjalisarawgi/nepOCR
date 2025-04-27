@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "निवेदन",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_1.png",
+        "bounding_box": {
+            "x1": 904,
+            "y1": 144,
+            "x2": 1326,
+            "y2": 331
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "सिद्धांत का आश्रयण करके समस्त भ्रमात्मक धार्मिक बातों का",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_2.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 509,
+            "x2": 2091,
+            "y2": 717
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "निवारण किया गया है । और प्रत्येक विषय का निरूपण ऐसी",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_3.png",
+        "bounding_box": {
+            "x1": 62,
+            "y1": 654,
+            "x2": 2074,
+            "y2": 850
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "पांडित्य-पूर्ण शैली से किया गया है कि पाठकों को 'गागर",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_4.png",
+        "bounding_box": {
+            "x1": 71,
+            "y1": 778,
+            "x2": 2074,
+            "y2": 988
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "में सागर' की कहावत सत्य सिद्ध होगी । केवल इस एक ही ग्रंथ",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_5.png",
+        "bounding_box": {
+            "x1": 65,
+            "y1": 909,
+            "x2": 2080,
+            "y2": 1125
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "के पठन और मनन करने से वेदांत-संबंधी अत्यावश्यक विषयों",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_6.png",
+        "bounding_box": {
+            "x1": 65,
+            "y1": 1045,
+            "x2": 2106,
+            "y2": 1254
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "का ज्ञान भलीभाँति हो सकता है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_7.png",
+        "bounding_box": {
+            "x1": 62,
+            "y1": 1195,
+            "x2": 1204,
+            "y2": 1366
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "इसका तृतीय संस्करण है, जो इस बात को सिद्ध करता है कि",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_8.png",
+        "bounding_box": {
+            "x1": 43,
+            "y1": 1515,
+            "x2": 2057,
+            "y2": 1719
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "धार्मिक जगत् में धर्म के जिज्ञासुओं द्वारा इस पुस्तक का यथो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_9.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 1648,
+            "x2": 2064,
+            "y2": 1845
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "चित आदर हुआ है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_10.png",
+        "bounding_box": {
+            "x1": 48,
+            "y1": 1767,
+            "x2": 764,
+            "y2": 1939
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "एक नवीन शैली से संशोधन करके उनके कर-कमलों में अर्पित",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_11.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 2105,
+            "x2": 2029,
+            "y2": 2307
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "किया है । आशा है, वे इसका मान पहले से अधिक करेंगे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_12.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 2240,
+            "x2": 2047,
+            "y2": 2441
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "प्रस्तुत पुस्तक एक वदांत विषयक ग्रंथ है । इसमें वेदांत के",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_13.png",
+        "bounding_box": {
+            "x1": 167,
+            "y1": 373,
+            "x2": 2105,
+            "y2": 586
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "पुस्तक की उपयोगिता का यह एक प्रत्यक्ष प्रमाण है कि यह",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_14.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 1393,
+            "x2": 2063,
+            "y2": 1588
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "पाठकों को आनंद होगा कि इस बार इस उपादेय ग्रंथ को",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_15.png",
+        "bounding_box": {
+            "x1": 128,
+            "y1": 1977,
+            "x2": 2034,
+            "y2": 2179
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "प्रकाशन-विभाग",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_16.png",
+        "bounding_box": {
+            "x1": 235,
+            "y1": 2489,
+            "x2": 651,
+            "y2": 2602
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "नवलकिशोर-प्रेस",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_17.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 2580,
+            "x2": 750,
+            "y2": 2719
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_18.png",
+        "bounding_box": {
+            "x1": 284,
+            "y1": 2707,
+            "x2": 580,
+            "y2": 2812
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "गोकर्णदत्त त्रिपाठी",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_001_textline_19.png",
+        "bounding_box": {
+            "x1": 1086,
+            "y1": 2577,
+            "x2": 1879,
+            "y2": 2769
+        }
+    }
+]

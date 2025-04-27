@@ -1,0 +1,200 @@
+[
+    {
+        "line_number": 1,
+        "text": "निवेदन",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_1.png",
+        "bounding_box": {
+            "x1": 526,
+            "y1": 119,
+            "x2": 792,
+            "y2": 243
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "इस 'परा-पूजा' स्तोत्र में, जीवात्मा और परमात्मा",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_2.png",
+        "bounding_box": {
+            "x1": 148,
+            "y1": 269,
+            "x2": 1249,
+            "y2": 398
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "की, जो एकरूप है, पूजा का वर्णन है । इस पर",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_3.png",
+        "bounding_box": {
+            "x1": 50,
+            "y1": 369,
+            "x2": 1240,
+            "y2": 501
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "जो सुबोधिनी टीका लिखी गई है, वह आनंद का एक",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_4.png",
+        "bounding_box": {
+            "x1": 50,
+            "y1": 468,
+            "x2": 1240,
+            "y2": 602
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "सागर है । उसमें वेदांत-वाक्यों के अर्थों की लहरें",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_5.png",
+        "bounding_box": {
+            "x1": 52,
+            "y1": 578,
+            "x2": 1258,
+            "y2": 711
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "लहरा रही हैं । जो मुमुक्षु इस ग्रंथ को पढ़ता है,",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_6.png",
+        "bounding_box": {
+            "x1": 36,
+            "y1": 670,
+            "x2": 1238,
+            "y2": 818
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "उसके हृदय में आनंद इस प्रकार उछलने लगता है,",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_7.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 780,
+            "x2": 1223,
+            "y2": 921
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जैसे पूर्णमासी के चंद्रमा को देखकर समुद्र का जल ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_8.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 886,
+            "x2": 1228,
+            "y2": 1019
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "और फिर इसको पढ़ने, सुनने और समझने से भावुक",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_9.png",
+        "bounding_box": {
+            "x1": 25,
+            "y1": 988,
+            "x2": 1221,
+            "y2": 1121
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "का चित्त ब्रह्मानंद-समीर से ऐसे फरकता है जैसे चले",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_10.png",
+        "bounding_box": {
+            "x1": 17,
+            "y1": 1090,
+            "x2": 1219,
+            "y2": 1223
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जाते हुए पुरुष के हाथ में पताका में लगे हुए कपड़े",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_11.png",
+        "bounding_box": {
+            "x1": 21,
+            "y1": 1192,
+            "x2": 1209,
+            "y2": 1329
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "का फरहरा पीछे की ओर वायु में फरका करता है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_12.png",
+        "bounding_box": {
+            "x1": 25,
+            "y1": 1308,
+            "x2": 1215,
+            "y2": 1439
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "और ब्रह्मकी ओर उसका मन ऐसे धावमान होता है,",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_13.png",
+        "bounding_box": {
+            "x1": 15,
+            "y1": 1392,
+            "x2": 1211,
+            "y2": 1543
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "जैसे रेल में चले आ रहे यात्री का मन अपने घर",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_14.png",
+        "bounding_box": {
+            "x1": 21,
+            "y1": 1491,
+            "x2": 1207,
+            "y2": 1638
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "की ओर लगा रहता है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_15.png",
+        "bounding_box": {
+            "x1": 11,
+            "y1": 1597,
+            "x2": 611,
+            "y2": 1728
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "विशेष सहायता दी है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_16.png",
+        "bounding_box": {
+            "x1": 17,
+            "y1": 1811,
+            "x2": 567,
+            "y2": 1930
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "इसकी टीका बनाने में स्वामी परमानंद ने मुझे",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_17.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1714,
+            "x2": 1205,
+            "y2": 1840
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "अनुवादक",
+        "image_path": "datasetProcessed/cropped_textlines/images/sankaracarya1925_001_textline_18.png",
+        "bounding_box": {
+            "x1": 743,
+            "y1": 1984,
+            "x2": 1024,
+            "y2": 2083
+        }
+    }
+]

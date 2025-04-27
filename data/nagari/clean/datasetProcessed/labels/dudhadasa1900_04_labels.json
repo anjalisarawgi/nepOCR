@@ -1,0 +1,321 @@
+[
+    {
+        "line_number": 1,
+        "text": "४ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_1.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 84,
+            "x2": 204,
+            "y2": 207
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रामाश्वमेध ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_2.png",
+        "bounding_box": {
+            "x1": 686,
+            "y1": 79,
+            "x2": 1072,
+            "y2": 203
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "प्रथमजोकहसियविपिननिकारी । सुनि संदेह भयो उर भारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_3.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 164,
+            "x2": 1689,
+            "y2": 291
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "क्यहि कारण प्रभु दीनसनेही । दीन्ह्यो बास विपिन बैदेही ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_4.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 273,
+            "x2": 1689,
+            "y2": 388
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "का अपराध जानकी कीन्हा । कृपासिंधुजेहिलगिबनदीन्हा॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_5.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 358,
+            "x2": 1694,
+            "y2": 483
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "भयो शोच प्रभुशोच निबेरी । कहो बुझाय जानिम्वहिंचेरी॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_6.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 450,
+            "x2": 1689,
+            "y2": 575
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "यावत नभ विधि विष्णुपुरारी । प्रथमलीकजगअवनिकुमारी॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_7.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 547,
+            "x2": 1689,
+            "y2": 670
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जासु दृष्टि उपजैं गुण खानी । कोटिन रमा उमा ब्रह्मानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_8.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 646,
+            "x2": 1692,
+            "y2": 756
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "इन्द्रबधू सुर मुनि ऋषिनारी । सदा जासु रुखरहैं निहारी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_9.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 738,
+            "x2": 1692,
+            "y2": 851
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "त्यागन विपिन योगनहिं सीता । महादेवकह विधि विपरीता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_10.png",
+        "bounding_box": {
+            "x1": 124,
+            "y1": 820,
+            "x2": 1689,
+            "y2": 950
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "दो० विपिन बास सुनि विकलभइँ गिरिनंदिनी खगेश ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_11.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 920,
+            "x2": 1617,
+            "y2": 1038
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "प्रभु इतिहास अनूप तब कह्यो बुझाय महेश ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_12.png",
+        "bounding_box": {
+            "x1": 318,
+            "y1": 1017,
+            "x2": 1597,
+            "y2": 1132
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "असकछु दशाविलोकि भवानी । बोले हर प्रिय कोमलबानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_13.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 1094,
+            "x2": 1692,
+            "y2": 1221
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अतिअपारप्रियगतिजगदीशा । को जानै कह अस गौरीशा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_14.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1196,
+            "x2": 1713,
+            "y2": 1305
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "धरि उरधीर भरम सब खोई । सुनहुकथा तुम पूँछ्यो जोई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_15.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 1293,
+            "x2": 1694,
+            "y2": 1406
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "पिता बचनसुनि रघुकुलकेतू । गवनेबन सिय अनुजसमेतू ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_16.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 1380,
+            "x2": 1694,
+            "y2": 1502
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "मिलहिंबिपिनऋषिकुटीअनेका । सुन्दर बिमल एकते एका ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_17.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 1472,
+            "x2": 1694,
+            "y2": 1593
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "करत मुनिन मग दंडप्रणामा । जाहिंचलेप्रभुछबिअभिरामा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_18.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 1572,
+            "x2": 1692,
+            "y2": 1679
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "देखिप्रीति ऋषि मुनिवर नारी । प्रेमबिबशभइँ जनककुमारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_19.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 1654,
+            "x2": 1704,
+            "y2": 1780
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "असअभिलाष सियाउरआनी । ऋषिनबधूसन बोलीं बानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_20.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 1753,
+            "x2": 1706,
+            "y2": 1869
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "करिपूरण पितु बचन प्रमाना । आवहिंकुशलअवधभगवान ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_21.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 1850,
+            "x2": 1692,
+            "y2": 1965
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "दो० तब मैं आउब अवधसे पुजिहौं सबके पांय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_22.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 1942,
+            "x2": 1488,
+            "y2": 2056
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "पहिरावों भूषण बसन भोजनविविध कराय ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_23.png",
+        "bounding_box": {
+            "x1": 318,
+            "y1": 2032,
+            "x2": 1475,
+            "y2": 2148
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "अस लालसा सिया मनमाहीं । प्रभुसनकहत मुनीशलजाहीं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_24.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 2121,
+            "x2": 1694,
+            "y2": 2236
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "प्रभु सिय हृदय मनोरथ जाना । बोलेबिहँसि राम भगवाना ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_25.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 2211,
+            "x2": 1697,
+            "y2": 2331
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "जो रुचिप्रिय तुम्हरे उर होई । मांगहु बेगि देउँ बर सोई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_26.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 2308,
+            "x2": 1699,
+            "y2": 2427
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "मो मनकी रुचिजानहु स्वामी । घटघटके तुम अन्तरयामी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_27.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 2397,
+            "x2": 1704,
+            "y2": 2520
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "तदपि नाथ ऐसो बर पावों । बहुरि नाथ यहिकाननआवों ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_28.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 2492,
+            "x2": 1725,
+            "y2": 2619
+        }
+    },
+    {
+        "line_number": 29,
+        "text": "एवमस्तु कह रघुकुलराया । दीन्ह सुभगबरसियमनभाया ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_04_textline_29.png",
+        "bounding_box": {
+            "x1": 112,
+            "y1": 2589,
+            "x2": 1712,
+            "y2": 2703
+        }
+    }
+]

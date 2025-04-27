@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_1.png",
+        "bounding_box": {
+            "x1": 683,
+            "y1": 68,
+            "x2": 1375,
+            "y2": 232
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भ्यो मुच्यन्तेसर्वशोजनाः ५५ आसीत्कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_2.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 232,
+            "x2": 2086,
+            "y2": 401
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "युगेश्रीमान् समृद्धबलवाहनः ॥ भूरिद्युम्नो",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_3.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 412,
+            "x2": 2081,
+            "y2": 615
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "महाराजः क्षमामण्डलपालकः ५६ तस्या",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_4.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 613,
+            "x2": 2072,
+            "y2": 786
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "सञ्छतसाहस्राःप्रमदाःकमलेक्षणा ॥ तासां",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_5.png",
+        "bounding_box": {
+            "x1": 15,
+            "y1": 807,
+            "x2": 2078,
+            "y2": 973
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "विभावरीश्रेष्ठा बभूवतनुमध्यमा ५७ तस्या",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_6.png",
+        "bounding_box": {
+            "x1": 15,
+            "y1": 988,
+            "x2": 2089,
+            "y2": 1145
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "मेवाहितमतिर्भूरिद्युम्नोनिरन्तरम् ॥ चिक्री",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_7.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 1154,
+            "x2": 2086,
+            "y2": 1347
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "ड वनखण्डेषु पौलोम्या इव देवराट् ५८",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_8.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 1352,
+            "x2": 2075,
+            "y2": 1513
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "तस्यैवं क्रीडतः कालो गतोबहुतिथोद्विजाः ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_9.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 1532,
+            "x2": 2111,
+            "y2": 1737
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "नसराज्येमतिंचक्रेमन्मथाक्रान्तचेतनः ५९",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_10.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 1727,
+            "x2": 2072,
+            "y2": 1906
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "इत्थंविलासासक्तस्यराज्यंकोशोबलंस्त्रियः ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_11.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 1890,
+            "x2": 2098,
+            "y2": 2094
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "शत्रुणामित्रवृन्देन हृतं नातिप्रयत्नतः ६०",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_12.png",
+        "bounding_box": {
+            "x1": 4,
+            "y1": 2094,
+            "x2": 2084,
+            "y2": 2281
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "तच्छुत्वा शोकसंतप्तो नीत्वा नारीं विभाव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_13.png",
+        "bounding_box": {
+            "x1": 32,
+            "y1": 2280,
+            "x2": 2096,
+            "y2": 2458
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "रीम् ॥ जगामविन्ध्यकान्तारंखड्गमात्रायुधो",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_14.png",
+        "bounding_box": {
+            "x1": 15,
+            "y1": 2466,
+            "x2": 2104,
+            "y2": 2639
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "भवत् ६१ क्षुत्क्षामश्चपिपासार्त्तः स्त्रीद्वितीयः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_15.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 2641,
+            "x2": 2098,
+            "y2": 2841
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "सभूपतिः ॥ बहुभिर्दिवसैःप्रापविन्ध्यकान्ता",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_16.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 2827,
+            "x2": 2149,
+            "y2": 3028
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "९",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_09_textline_17.png",
+        "bounding_box": {
+            "x1": 1945,
+            "y1": 91,
+            "x2": 2081,
+            "y2": 225
+        }
+    }
+]

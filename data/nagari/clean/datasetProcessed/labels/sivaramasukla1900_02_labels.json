@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "२",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_1.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 97,
+            "x2": 180,
+            "y2": 174
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भिक्षा देने से प्राप्त होताहै ७ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_2.png",
+        "bounding_box": {
+            "x1": 60,
+            "y1": 1590,
+            "x2": 718,
+            "y2": 1690
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "शिवरत्नसंग्रह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_3.png",
+        "bounding_box": {
+            "x1": 548,
+            "y1": 93,
+            "x2": 908,
+            "y2": 190
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अर्थ ।। ब्राह्मण सन्मान से नित्यही विषके समान डरे और",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_4.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 196,
+            "x2": 1344,
+            "y2": 313
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अमृत के समान अपमान की चाहना करे ४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_5.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 278,
+            "x2": 1051,
+            "y2": 377
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "नतेनवृद्धोभवति येनास्य पलितं शिर: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_6.png",
+        "bounding_box": {
+            "x1": 174,
+            "y1": 353,
+            "x2": 1207,
+            "y2": 472
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "पढ़ा लिखाहो तो उसको देवतालोग वृद्ध कहते हैं ५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_7.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 621,
+            "x2": 1196,
+            "y2": 723
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "निर्वाह करते हैं ६ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_8.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1123,
+            "x2": 513,
+            "y2": 1213
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "२ पैर धोने आदि के लिये जल ३ और प्यारे वचन ४ ये सब",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_9.png",
+        "bounding_box": {
+            "x1": 56,
+            "y1": 1998,
+            "x2": 1306,
+            "y2": 2108
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "अर्थात् अवश्य देने पड़ते हैं ८ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_10.png",
+        "bounding_box": {
+            "x1": 46,
+            "y1": 2140,
+            "x2": 738,
+            "y2": 2241
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "योवैयुवाप्यधीयानस्तंदेवाः स्थविरं विदु: ५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_11.png",
+        "bounding_box": {
+            "x1": 180,
+            "y1": 450,
+            "x2": 1322,
+            "y2": 570
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "शिरके बाल सफेद होने से वृद्ध नहीं होताहै जो जवान भी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_12.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 540,
+            "x2": 1344,
+            "y2": 651
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सब आश्रमोंको गृहस्थके संहारे से जीना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_13.png",
+        "bounding_box": {
+            "x1": 267,
+            "y1": 702,
+            "x2": 1151,
+            "y2": 802
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "यथावायुंसूमाश्रित्य वर्तन्तेसर्वजन्तव: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_14.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 785,
+            "x2": 1200,
+            "y2": 899
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तर्थागृहस्थमाश्रित्य वर्तन्ते सर्वआश्रमा: ६ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_15.png",
+        "bounding_box": {
+            "x1": 151,
+            "y1": 871,
+            "x2": 1308,
+            "y2": 999
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "सब जीव जीते हैं वैसेही गृहस्थ के सहारे से सब आश्रम",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_16.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 1041,
+            "x2": 1328,
+            "y2": 1149
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "अर्थ ।। जैसे हृदय में स्थित प्राणनाम पवन के आश्रय से",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_17.png",
+        "bounding_box": {
+            "x1": 166,
+            "y1": 966,
+            "x2": 1332,
+            "y2": 1079
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "भिक्षाके देने का फल ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_18.png",
+        "bounding_box": {
+            "x1": 450,
+            "y1": 1188,
+            "x2": 944,
+            "y2": 1285
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "यत्पुण्यफलमाप्नोति गांदत्त्वाविधिवदगुरो: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_19.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 1259,
+            "x2": 1297,
+            "y2": 1377
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "को गौदेने से जो फल होताहै वह फल गृहस्थ को विधिपूर्वक",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_20.png",
+        "bounding_box": {
+            "x1": 56,
+            "y1": 1519,
+            "x2": 1312,
+            "y2": 1620
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "अतिथि के लिये धर्मात्मा गृहस्थके घर में कभी नहीं दूर रहते हैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_21.png",
+        "bounding_box": {
+            "x1": 44,
+            "y1": 2065,
+            "x2": 1313,
+            "y2": 2186
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "तत्पुण्यफलमाप्नोति भिक्षांदत्त्वाद्विजोगृही ७।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_22.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 1356,
+            "x2": 1320,
+            "y2": 1471
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "अर्थ ।। विधिवत् कहिये सोने के सींग आदि मढ़ाकै गुरु",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_23.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1445,
+            "x2": 1318,
+            "y2": 1554
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "दरिद्री गृहस्यको अतिथिका सत्कार ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_24.png",
+        "bounding_box": {
+            "x1": 284,
+            "y1": 1669,
+            "x2": 1072,
+            "y2": 1768
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "तृणानिभूमिरुदकं वाक् चतुर्थी च सूनृता ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_25.png",
+        "bounding_box": {
+            "x1": 151,
+            "y1": 1742,
+            "x2": 1230,
+            "y2": 1859
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "एतान्यापिसतांगेहे नोच्छिद्यन्तेकदाचन ८ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_26.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1831,
+            "x2": 1289,
+            "y2": 1950
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "अर्थ ।। अन्न न होय तो तृण बिछानेको १ विश्रामके लिये भूमि",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_02_textline_27.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1925,
+            "x2": 1312,
+            "y2": 2043
+        }
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "line_number": 1,
+        "text": "रामाश्वमेध भाषा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_1.png",
+        "bounding_box": {
+            "x1": 522,
+            "y1": 764,
+            "x2": 1309,
+            "y2": 888
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "जीकी आज्ञानुसार बाल्मीक्याश्रम समीप जानकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_2.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 1225,
+            "x2": 1598,
+            "y2": 1331
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "का परित्याग व बाल्मीक्याश्रममें जानकी निवास व लवकुशो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_3.png",
+        "bounding_box": {
+            "x1": 230,
+            "y1": 1314,
+            "x2": 1607,
+            "y2": 1410
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "मचन्द्रजी कृत अश्वमेध यज्ञार्थ वाजिपर्यटन और",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_4.png",
+        "bounding_box": {
+            "x1": 230,
+            "y1": 1390,
+            "x2": 1602,
+            "y2": 1492
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दिग्विजय व लव कुश कृत वाजिबन्धन पश्चात् शत्रुध्न",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_5.png",
+        "bounding_box": {
+            "x1": 301,
+            "y1": 1471,
+            "x2": 1552,
+            "y2": 1573
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "भरत लक्ष्मणादि व लव कुशसे परस्पर युद्ध कथा अति",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_6.png",
+        "bounding_box": {
+            "x1": 309,
+            "y1": 1544,
+            "x2": 1524,
+            "y2": 1656
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "विचित्र दोहा चौपाई आदि छंदोंमें वर्णितहै",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_7.png",
+        "bounding_box": {
+            "x1": 418,
+            "y1": 1628,
+            "x2": 1410,
+            "y2": 1740
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "श्रीपरमहंसाग्रगण्य श्रीबाबा दूधदासने रामरसरसिक पुरुषों",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_8.png",
+        "bounding_box": {
+            "x1": 248,
+            "y1": 1894,
+            "x2": 1583,
+            "y2": 2006
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "के अवलोकनार्थ भक्ति पूर्व्वक बड़े परिश्रमसे संस्कृत से",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_9.png",
+        "bounding_box": {
+            "x1": 294,
+            "y1": 1998,
+            "x2": 1532,
+            "y2": 2090
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "भाषा छंद बंधमें निर्मित किया",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_10.png",
+        "bounding_box": {
+            "x1": 570,
+            "y1": 2071,
+            "x2": 1286,
+            "y2": 2179
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "मुंशीनवलकिशोर (सी, आई, ई) के छापेखानेमें छपी",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_11.png",
+        "bounding_box": {
+            "x1": 420,
+            "y1": 2362,
+            "x2": 1433,
+            "y2": 2505
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "कापीराइट महफूज़ है बहक़ इस छापेखाने के ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_12.png",
+        "bounding_box": {
+            "x1": 507,
+            "y1": 2542,
+            "x2": 1370,
+            "y2": 2650
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "जिसमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_13.png",
+        "bounding_box": {
+            "x1": 803,
+            "y1": 1028,
+            "x2": 1030,
+            "y2": 1207
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "जिसको",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_14.png",
+        "bounding_box": {
+            "x1": 788,
+            "y1": 1767,
+            "x2": 1048,
+            "y2": 1878
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "दूसरी बार",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_15.png",
+        "bounding_box": {
+            "x1": 790,
+            "y1": 2183,
+            "x2": 1056,
+            "y2": 2293
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_16.png",
+        "bounding_box": {
+            "x1": 795,
+            "y1": 2310,
+            "x2": 1068,
+            "y2": 2402
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "सन् १९०० ई०",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_17.png",
+        "bounding_box": {
+            "x1": 760,
+            "y1": 2481,
+            "x2": 1091,
+            "y2": 2566
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "186",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_01_textline_18.png",
+        "bounding_box": {
+            "x1": 1274,
+            "y1": 944,
+            "x2": 1443,
+            "y2": 1065
+        }
+    }
+]

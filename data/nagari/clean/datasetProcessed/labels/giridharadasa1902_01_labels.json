@@ -1,0 +1,123 @@
+[
+    {
+        "line_number": 1,
+        "text": "भारतीभूषएा",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_1.png",
+        "bounding_box": {
+            "x1": 753,
+            "y1": 1612,
+            "x2": 2013,
+            "y2": 1884
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीगिरिधरदास कविराज कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_2.png",
+        "bounding_box": {
+            "x1": 715,
+            "y1": 2144,
+            "x2": 2139,
+            "y2": 2357
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सम्पूर्ण अलंकार के लक्षण उदाहरणसहित",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_3.png",
+        "bounding_box": {
+            "x1": 519,
+            "y1": 2669,
+            "x2": 2284,
+            "y2": 2869
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अतिसरलतापूर्व्वक वर्णित हैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_4.png",
+        "bounding_box": {
+            "x1": 866,
+            "y1": 2841,
+            "x2": 2005,
+            "y2": 3007
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "65",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_5.png",
+        "bounding_box": {
+            "x1": 2109,
+            "y1": 3709,
+            "x2": 2299,
+            "y2": 3839
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "अक्टूबर सन् १९०२ ई० ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_6.png",
+        "bounding_box": {
+            "x1": 1015,
+            "y1": 4139,
+            "x2": 1896,
+            "y2": 4286
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "श्रीगणेशाय नमः",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_7.png",
+        "bounding_box": {
+            "x1": 1082,
+            "y1": 1345,
+            "x2": 1663,
+            "y2": 1477
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मुंशी नवलकिशोर ( सी, आर्ह, ई) के छापेखाने में छपा",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_8.png",
+        "bounding_box": {
+            "x1": 543,
+            "y1": 4010,
+            "x2": 2320,
+            "y2": 4145
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "तीसरी बार ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_9.png",
+        "bounding_box": {
+            "x1": 1205,
+            "y1": 3131,
+            "x2": 1637,
+            "y2": 3295
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_10.png",
+        "bounding_box": {
+            "x1": 1169,
+            "y1": 3623,
+            "x2": 1642,
+            "y2": 3855
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जिसमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_01_textline_11.png",
+        "bounding_box": {
+            "x1": 1282,
+            "y1": 2442,
+            "x2": 1537,
+            "y2": 2605
+        }
+    }
+]

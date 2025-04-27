@@ -1,0 +1,321 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_1.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 96,
+            "x2": 219,
+            "y2": 210
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रामाश्वमेध ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_2.png",
+        "bounding_box": {
+            "x1": 729,
+            "y1": 103,
+            "x2": 1108,
+            "y2": 200
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "भरत लषण रिपुसूदन बीरा । आये जहँ राजित रघुबीरा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_3.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 182,
+            "x2": 1711,
+            "y2": 315
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "कीन्ह प्रणाम जोरि युग पानी । दीन अशीष राम सुखमानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_4.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 280,
+            "x2": 1718,
+            "y2": 404
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "बहुरि जाय मातन शिर नावा । आशिषपाय परम सुखपावा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_5.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 382,
+            "x2": 1718,
+            "y2": 498
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "पुनि सीता पद नायोशीशा । लह्योपरमसुख पाय अशीशा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_6.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 470,
+            "x2": 1718,
+            "y2": 585
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "भोजन कीन्ह संग सब भाई । बैठे प्रभु सिंहासन जाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_7.png",
+        "bounding_box": {
+            "x1": 98,
+            "y1": 571,
+            "x2": 1718,
+            "y2": 677
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "पुरबासी सब आय जुहारी । आदर सहित राम बैठारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_8.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 655,
+            "x2": 1716,
+            "y2": 776
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "आये तब बशिष्ठ मुनिज्ञानी ।करिदण्डवत मुनिहिंसनमानी॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_9.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 751,
+            "x2": 1716,
+            "y2": 871
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "दो० लगेकहन मुनिराजतब राजनीति कुल रीति ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_10.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 845,
+            "x2": 1524,
+            "y2": 965
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "दो० धरिधीरज बोले भरत सुनहु भानुकुलचन्द ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_11.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1882,
+            "x2": 1519,
+            "y2": 1988
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सुनहिंरामभाइनसहित अतिआनन्दसप्रीति ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_12.png",
+        "bounding_box": {
+            "x1": 309,
+            "y1": 938,
+            "x2": 1539,
+            "y2": 1058
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सन्ध्या जानि उठे भगवाना । सरयू जाय कीन्ह अस्नाना ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_13.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1042,
+            "x2": 1718,
+            "y2": 1150
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "करिनित कर्म्म भवनप्रभुआये । भारतको तब बोलि पठाये ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_14.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1130,
+            "x2": 1708,
+            "y2": 1245
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "आय भरत प्रभुपद शिरनाई । बैठे राम रजायसु पाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_15.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1234,
+            "x2": 1708,
+            "y2": 1338
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "बोले रामचन्द्र युग पावन । सुधासुरस मृदुवचनसुहावन ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_16.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 1325,
+            "x2": 1711,
+            "y2": 1432
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "तात कहौं तुमसन यह बानी । सियबनगमन प्रात मैं ठानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_17.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1411,
+            "x2": 1713,
+            "y2": 1525
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "सकहु तो तात पठैबनआवहु । भेदन यहतुमसियहिसुनावहु ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_18.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1512,
+            "x2": 1703,
+            "y2": 1615
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "दूत वचन सुनिकै निजकाना । ताते असप्रण अब मैं ठाना ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_19.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1591,
+            "x2": 1708,
+            "y2": 1708
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "सुनि प्रभुवचन भरत रणधीरा । भयो विकल लोचनबहनीरा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_20.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1690,
+            "x2": 1706,
+            "y2": 1798
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "हृदयशोच मुख आव न बानी । समय देखि कछुकह्योभवानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_21.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1786,
+            "x2": 1706,
+            "y2": 1899
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "प्रति उत्तर नहिं दैसकों बिनयकरों रघुनन्द ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_22.png",
+        "bounding_box": {
+            "x1": 298,
+            "y1": 1973,
+            "x2": 1518,
+            "y2": 2084
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "सियको कहा दोष प्रभुलाई । जो असप्रणकरिमोहिंसुनाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_23.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 2061,
+            "x2": 1701,
+            "y2": 2181
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "आयसु नाथकरों शिर राखी । फिरनअवधआवोंअसभाखी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_24.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2158,
+            "x2": 1706,
+            "y2": 2267
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "कह करजोरि शपथ प्रभुतोरी । मैं नहिं आउब अवधबहोरी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_25.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 2249,
+            "x2": 1711,
+            "y2": 2365
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "सुनि लघुभ्रात वचन रघुराई । सियपद प्रीति बहुतदृढ़पाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_26.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 2345,
+            "x2": 1703,
+            "y2": 2452
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "कहिबहुचरितअनुज समुझाई । बहुरि राम रिपुदवनबुलाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_27.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2433,
+            "x2": 1706,
+            "y2": 2555
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "आय शत्रुहन बैठि निहोरी । दण्डप्रणाम कीन्ह करजोरी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_28.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2537,
+            "x2": 1708,
+            "y2": 2650
+        }
+    },
+    {
+        "line_number": 29,
+        "text": "आशिष दीन्ह निकट बैठावा । अति सुन्दरमृदुबचनसुनावा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_08_textline_29.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2626,
+            "x2": 1703,
+            "y2": 2734
+        }
+    }
+]
