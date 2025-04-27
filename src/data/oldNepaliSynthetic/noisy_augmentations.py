@@ -17,28 +17,28 @@ LABEL_FILE_OUT = "oldNepaliSynthetic_105k_vnoisy/labels.json"
 
 
 
-def apply_random_thickness(image, min_dilate=1, max_dilate=2, min_erode=0, max_erode=1):
-    image = np.array(image)
-    if random.random() < 0.7:
-        ksize = random.randint(min_dilate, max_dilate)
-        if ksize > 0:
-            kernel = np.ones((ksize, ksize), np.uint8)
-            image = cv2.dilate(image, kernel, iterations=1)
-    else:
-        ksize = random.randint(min_erode, max_erode)
-        if ksize > 0:
-            kernel = np.ones((ksize, ksize), np.uint8)
-            image = cv2.erode(image, kernel, iterations=1)
-    return image
+# def apply_random_thickness(image, min_dilate=1, max_dilate=2, min_erode=0, max_erode=1):
+#     image = np.array(image)
+#     if random.random() < 0.7:
+#         ksize = random.randint(min_dilate, max_dilate)
+#         if ksize > 0:
+#             kernel = np.ones((ksize, ksize), np.uint8)
+#             image = cv2.dilate(image, kernel, iterations=1)
+#     else:
+#         ksize = random.randint(min_erode, max_erode)
+#         if ksize > 0:
+#             kernel = np.ones((ksize, ksize), np.uint8)
+#             image = cv2.erode(image, kernel, iterations=1)
+#     return image
 
 #### weak augmentations
 def get_augmenter():
     return iaa.Sequential([
         iaa.Sometimes(0.5, iaa.PiecewiseAffine(scale=(0.003, 0.01), mode="reflect")),
         iaa.Sometimes(0.4, iaa.ElasticTransformation(alpha=(1, 2), sigma=(0.5, 0.8), mode="reflect")),
-        iaa.Sometimes(0.4, iaa.AdditiveGaussianNoise(scale=(5, 10))),  # small ink shake
-        iaa.Sometimes(0.3, iaa.MotionBlur(k=3)),                      # just enough blur
-        iaa.Sometimes(0.3, iaa.Dropout(p=(0.01, 0.02))),                # slight dropout
+        iaa.Sometimes(0.4, iaa.AdditiveGaussianNoise(scale=(5, 10))),  
+        iaa.Sometimes(0.3, iaa.MotionBlur(k=3)),                      
+        iaa.Sometimes(0.3, iaa.Dropout(p=(0.01, 0.02))),              
         iaa.Sometimes(0.3, iaa.Affine(
             shear=(-1, 1),
             rotate=(-1.5, 1.5),
@@ -78,14 +78,13 @@ def process_image(img_path, augmenter, save_path):
         image = image[:, :, :3]
 
     augmented = augmenter(image=image)
-    thicker = apply_random_thickness(augmented, min_dilate=1, max_dilate=2)
-    final = cv2.cvtColor(thicker, cv2.COLOR_RGB2GRAY)
+    # thicker = apply_random_thickness(augmented, min_dilate=1, max_dilate=2)
+    final = cv2.cvtColor(augmented, cv2.COLOR_RGB2GRAY)
     imageio.imwrite(save_path, final)
 
 
 def process_all_images():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-
     with open(LABEL_FILE_IN, "r", encoding="utf-8") as f:
         original_labels = json.load(f)
 
