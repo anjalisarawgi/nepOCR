@@ -28,9 +28,13 @@ def main(args):
 
     # dataset
     if args.dataset_name == "oldNepaliSynthetic":
-        # dataset = load_dataset("json", data_files="data/oldNepaliSynthetic/10k/labels_processed_new.json")
         dataset = load_dataset("data/oldNepaliSynthetic/10k/labels_processed_new.json")
         split_dataset = dataset.train_test_split(test_size=0.1, seed=42)
+        train_dataset = split_dataset["train"]
+        eval_dataset = split_dataset["test"]
+    elif args.dataset_name == "oldNepaliSynthetic30k":
+        dataset = load_dataset("data/oldNepaliSynthetic30k/labels_processed.json")
+        split_dataset = dataset.train_test_split(train_size=30000, seed=42)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
     elif args.dataset_name == "nagari":
@@ -52,7 +56,7 @@ def main(args):
         print(f"Loading tokenizer from: {model_path}")
         tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
     else:
-        print(f"Training tokenizer from corpus: corpus/oldNepaliSynthetic_nagari_oldNepali.txt")
+        print(f"Training tokenizer from corpus: corpus/oldNepaliSynthetic10k_nagari_oldNepali_clean.txt") # oldNepaliSynthetic10k_nagari_oldNepali.txt
         tokenizer = train_tokenizer(
             corpus_path="corpus/oldNepaliSynthetic_nagari_oldNepali.txt",
             tokenizer_type=args.tokenizer_type,
@@ -84,20 +88,24 @@ def main(args):
 
 
     # model    
-    if args.finetune_from_model:
-        print(f"Finetuning from: {args.finetune_from_model}")
-        model = VisionEncoderDecoderModel.from_pretrained(args.finetune_from_model)
+    if args.use_full_trocr:
+        print("Using full TrOCR model (encoder + decoder)")
+        model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
     else:
-        encoder = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten").encoder
-        decoder_config = BertConfig(
-            is_decoder=True,
-            add_cross_attention=True,
-            vocab_size=len(tokenizer),
-            pad_token_id=tokenizer.pad_token_id,
-            eos_token_id=tokenizer.eos_token_id
-        )
-        decoder = BertLMHeadModel(decoder_config)
-        model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
+        if args.finetune_from_model:
+            print(f"Finetuning from: {args.finetune_from_model}")
+            model = VisionEncoderDecoderModel.from_pretrained(args.finetune_from_model)
+        else:
+            encoder = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten").encoder
+            decoder_config = BertConfig(
+                is_decoder=True,
+                add_cross_attention=True,
+                vocab_size=len(tokenizer),
+                pad_token_id=tokenizer.pad_token_id,
+                eos_token_id=tokenizer.eos_token_id
+            )
+            decoder = BertLMHeadModel(decoder_config)
+            model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
 
     # configs for the model
     model.config.decoder_start_token_id = tokenizer.cls_token_id
@@ -109,7 +117,7 @@ def main(args):
     model.config.eos_token_id = tokenizer.eos_token_id
     model.config.max_length = 100
     model.config.early_stopping = True
-    model.config.no_repeat_ngram_size = 10
+    model.config.no_repeat_ngram_size = 5
     model.config.num_beams = 5
 
     print(" Checking model configuration:")
@@ -184,7 +192,7 @@ def main(args):
 # oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_name", type=str, choices = ['nagari', 'oldNepaliSynthetic', 'oldNepali'], default="oldNepaliSynthetic")
+    parser.add_argument("--dataset_name", type=str, choices = ['nagari', 'oldNepaliSynthetic', 'oldNepali', 'oldNepaliSynthetic30k'], default="oldNepaliSynthetic")
 
     # model setup args
     parser.add_argument("--encoder", type=str, choices=["trocr"], default="trocr")
@@ -192,6 +200,9 @@ if __name__ == "__main__":
     parser.add_argument("--tokenizer_type", type=str, choices=["char", "sbpe"], default="char")
     parser.add_argument("--vocab_size", type=int, default=1000)
     
+    # args if you want to use base TrOCR (trocr as it is)
+    parser.add_argument("--use_full_trocr", action="store_true", help="set this if you want to use TrOCR as it is (both encoder and decoder).")
+
     # finetuning args   
     parser.add_argument("--finetune_from_model", type=str, default=None, help="Path to pretrained model to finetune from")
    
@@ -202,7 +213,11 @@ if __name__ == "__main__":
         model_base = os.path.basename(args.finetune_from_model.strip("/"))
         args.model_name = f"{model_base}_finetuned_on_{args.dataset_name}"
     else:
-        args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
+        if args.use_full_trocr:
+            args.model_name = f"full-trocr-{args.dataset_name}"
+        else:
+            args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
+        
     args.model_dir = os.path.join("models", args.model_name)
 
     main(args)

@@ -37,9 +37,19 @@ def preprocess_dataset(dataset, tokenizer, feature_extractor, max_length):
         image = Image.open(item["image_path"]).convert("RGB") # rgb only required for trocr
         pixel = feature_extractor(images=image, return_tensors = "pt", size=(384,384)).pixel_values[0] # only required for trocr
 
-        token_ids = tokenizer.encode(item["text"], add_special_tokens=False) # converting labels to token ids
-        token_ids = token_ids[:max_length] + [tokenizer.eos_token_id] # [SEP]
-        token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids)) # padding
+
+
+        # token_ids = tokenizer.encode(item["text"], add_special_tokens=False) # converting labels to token ids
+        # token_ids = token_ids[:max_length] + [tokenizer.eos_token_id] # [SEP]
+        # token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids)) # padding
+        token_ids = tokenizer.encode(item["text"], add_special_tokens=False)
+        if len(token_ids) >= max_length:
+            token_ids = token_ids[:max_length-1]  # reserve space for EOS
+        token_ids = token_ids + [tokenizer.eos_token_id] 
+        token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids))  # pad to max_length
+
+
+
         labels_tensor = torch.tensor([i if i != tokenizer.pad_token_id else -100 for i in token_ids]) # -100 for padding and convert to tensor
 
         images.append(pixel)
