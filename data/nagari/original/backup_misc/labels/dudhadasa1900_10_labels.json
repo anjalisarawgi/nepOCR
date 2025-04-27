@@ -1,0 +1,321 @@
+[
+    {
+        "line_number": 1,
+        "text": "१०",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_1.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 93,
+            "x2": 257,
+            "y2": 192
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रामाश्वमेध ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_2.png",
+        "bounding_box": {
+            "x1": 716,
+            "y1": 73,
+            "x2": 1108,
+            "y2": 190
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "कौनसोकाज जाहिलगिस्वामी । कीन शोच उर अन्तर्य्यामी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_3.png",
+        "bounding_box": {
+            "x1": 100,
+            "y1": 166,
+            "x2": 1721,
+            "y2": 276
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "जो सेवकहि रजायसु होई । पद शिरनाय करी प्रभू सोई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_4.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 263,
+            "x2": 1720,
+            "y2": 373
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "जो न करों आयसु रघुनाथा । तौ न धरों धनुशायक हाथा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_5.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 354,
+            "x2": 1718,
+            "y2": 477
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "जबलग जीव रहै तनस्वामी । तबलगमोहिंजान्योअनुगामी॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_6.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 452,
+            "x2": 1713,
+            "y2": 563
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "सेवक धर्म्म स्वामि सेवकाई । करियसदातनमन चितलाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_7.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 546,
+            "x2": 1716,
+            "y2": 658
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जो प्रभुकहों कपट छल राखी । ईश सजाय देहिंशिव साखी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_8.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 637,
+            "x2": 1716,
+            "y2": 753
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "दो० अनुज वचन सुन्दर सलिल विगत मोहमदमान ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_9.png",
+        "bounding_box": {
+            "x1": 157,
+            "y1": 736,
+            "x2": 1622,
+            "y2": 847
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "दो० पुनि धरिधीरज लक्ष्मण हाथजोरि शिरनाय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_10.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 1763,
+            "x2": 1521,
+            "y2": 1886
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सुनि हरषे रघुकुल कमल बोले वचन प्रमान ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_11.png",
+        "bounding_box": {
+            "x1": 291,
+            "y1": 824,
+            "x2": 1620,
+            "y2": 940
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "तुम सब लायक शीलनिधाना । बीर धुरीण तात मैं जाना ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_12.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 920,
+            "x2": 1713,
+            "y2": 1033
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "कस न नीति राखो तुम भाई । दीन सबै बिधि ईश बड़ाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_13.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1009,
+            "x2": 1718,
+            "y2": 1132
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अस प्रण कीन्ह सुनो मैं ताता । गवनहिंबनसिय होतप्रभाता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_14.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1108,
+            "x2": 1713,
+            "y2": 1220
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "विपिनत्यागि मिथिलेशकुमारी । आवहु तात जाउँ बलिहारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_15.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 1201,
+            "x2": 1713,
+            "y2": 1321
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "सुनत वचन रघुवंश खरारी । लक्ष्मणउर असमञ्जसभारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_16.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 1305,
+            "x2": 1711,
+            "y2": 1407
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "भई दशा लक्ष्मणकी कैसी । पङ्ख बिहीन बिहँगगतिजैसी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_17.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 1383,
+            "x2": 1716,
+            "y2": 1502
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "जो सियको आवों बन त्यागी । मोहिंसमानकोअधमअभागी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_18.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 1492,
+            "x2": 1713,
+            "y2": 1597
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "जो न राम आयसु अनुसरहूँ । कोटिनजन्मअयश शिरधरहूँ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_19.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 1571,
+            "x2": 1716,
+            "y2": 1694
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "दोउभांति दारुणदुख ब्यापा । बरणैको उर लषण कलापा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_20.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 1667,
+            "x2": 1716,
+            "y2": 1789
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "बोले सन्मुख अवधपति गिरा विनीतसुहाय ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_21.png",
+        "bounding_box": {
+            "x1": 299,
+            "y1": 1859,
+            "x2": 1524,
+            "y2": 1974
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "यदपिनाथअनुचितमहा त्यागनजनककुमारि ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_22.png",
+        "bounding_box": {
+            "x1": 304,
+            "y1": 1955,
+            "x2": 1524,
+            "y2": 2071
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "तदपि नाथ आयसुकरब सेवकधर्म विचारि ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_23.png",
+        "bounding_box": {
+            "x1": 306,
+            "y1": 2051,
+            "x2": 1529,
+            "y2": 2164
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "उठेत्वरित तजिसकल गलाना । कह्यो सारथी साज विमाना ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_24.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2142,
+            "x2": 1713,
+            "y2": 2252
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "सियपहँ गये विकलअति भारी । दोउकरजोरिविनयअनुसारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_25.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 2228,
+            "x2": 1720,
+            "y2": 2347
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "मातु विपिनकर साजहु साजा । आयसुमोहिं दीन्हरघुराजा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_26.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2325,
+            "x2": 1716,
+            "y2": 2442
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "चलहु विपिन आवहुँ पहुँचाई । सेवक उचितस्वामिसेवकाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_27.png",
+        "bounding_box": {
+            "x1": 114,
+            "y1": 2413,
+            "x2": 1716,
+            "y2": 2528
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "सिय समुझ्यो नहिं देवरबानी । सुनतवचनअतिशयहरषानी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_28.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 2509,
+            "x2": 1716,
+            "y2": 2627
+        }
+    },
+    {
+        "line_number": 29,
+        "text": "बहु भोजन पकवान मिठाई । भूषण वसन गिनाय न जाई ॥ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_10_textline_29.png",
+        "bounding_box": {
+            "x1": 106,
+            "y1": 2598,
+            "x2": 1721,
+            "y2": 2733
+        }
+    }
+]

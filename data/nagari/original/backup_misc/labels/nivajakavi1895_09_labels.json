@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "(९)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_1.png",
+        "bounding_box": {
+            "x1": 1130,
+            "y1": 304,
+            "x2": 1504,
+            "y2": 474
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "कीन्हो । शकुन्तला यह उत्तर दीन्हो ॥ ये द्रुम जे सब",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_2.png",
+        "bounding_box": {
+            "x1": 248,
+            "y1": 421,
+            "x2": 2432,
+            "y2": 642
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "देत दिखाई । मैं जानति येही मम भाई ॥ मुनि के कहे",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_3.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 593,
+            "x2": 2429,
+            "y2": 792
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नहीं मैं सींचति । मोहिं मया लागति इन की अति ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_4.png",
+        "bounding_box": {
+            "x1": 208,
+            "y1": 729,
+            "x2": 2444,
+            "y2": 942
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "हरिन चर्म की पहिरें आंगी । कसि बँधि गई गड़न",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_5.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 889,
+            "x2": 2432,
+            "y2": 1081
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "उर लागी ॥ कर सों अँगिया खुलत न खोली । अन-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_6.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 1041,
+            "x2": 2425,
+            "y2": 1236
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "सूया सों तब यों बोली ॥ प्रियम्बदा कसि बांधी छति-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_7.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 1178,
+            "x2": 2413,
+            "y2": 1387
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "या । अनसूया ढीली कर अंगिया ॥ अनसूया हंसि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_8.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 1342,
+            "x2": 2440,
+            "y2": 1539
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "अंगिया खोली । प्रियंबदा तब रिस करि बोली ॥ उस",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_9.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 1482,
+            "x2": 2435,
+            "y2": 1683
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "सति आवे छिन छिन छतिया । याते गाढ़ी ह्वैगइ अं-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_10.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 1630,
+            "x2": 2452,
+            "y2": 1837
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "गिया ॥ बढ़त जात जोबन की लीला । नाहक मेरो",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_11.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 1783,
+            "x2": 2425,
+            "y2": 1996
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "करतीं गीला ॥ शकुन्तला सुनि के शरमानी । सींचन",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_12.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 1939,
+            "x2": 2425,
+            "y2": 2151
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "लगी द्रुमन भरि पानी ४४ अलि यक छोड़ि कुसुम्भ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_13.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2099,
+            "x2": 2421,
+            "y2": 2295
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "उड़ानो । शकुन्तला मुख पर ठहरानो ॥ सुमुखि सुगंध",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_14.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 2255,
+            "x2": 2417,
+            "y2": 2436
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "पाय करि मधुकर । बैठ्यो जाय मधुर अधरन पर ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_15.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 2407,
+            "x2": 2422,
+            "y2": 2596
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "ससकि हाथ तबहीं झहरायो । उड़ि अलि गयो फेरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_16.png",
+        "bounding_box": {
+            "x1": 216,
+            "y1": 2536,
+            "x2": 2413,
+            "y2": 2751
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "फिरि आयो ॥ शकुन्तला ह्वांते टरिआई । पीछे भ्र-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_17.png",
+        "bounding_box": {
+            "x1": 194,
+            "y1": 2717,
+            "x2": 2430,
+            "y2": 2896
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "मर लग्यो दुखदाई ॥ शकुन्तला पुनि जित जित",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_18.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 2844,
+            "x2": 2401,
+            "y2": 3046
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "डोले । तित ति भ्रमर गुंजरत बोले ॥ राजा नि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_19.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 2996,
+            "x2": 2409,
+            "y2": 3192
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "रखत मन अनुरह्यो । मन मन मधुकर सो अस",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_20.png",
+        "bounding_box": {
+            "x1": 193,
+            "y1": 3144,
+            "x2": 2393,
+            "y2": 3340
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "कह्यो ४५ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_21.png",
+        "bounding_box": {
+            "x1": 193,
+            "y1": 3308,
+            "x2": 797,
+            "y2": 3472
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "बतकही की लगावत लगन हो । चंचल दृगनि की",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_22.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 3605,
+            "x2": 2389,
+            "y2": 3792
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "पलनि करी क्षोभित हूं छुओ फिर आनि कर कपोल",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_23.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 3741,
+            "x2": 2393,
+            "y2": 3951
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "फल कनीहो ॥ प्यारी ससकनि झहरावति करति तुम",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_24.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 3897,
+            "x2": 2420,
+            "y2": 4096
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "उड़ि उड़ि बैठत पियत अधरन हो । दुरि दुरि दूरिही",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_25.png",
+        "bounding_box": {
+            "x1": 185,
+            "y1": 4034,
+            "x2": 2393,
+            "y2": 4255
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "घनाक्षरी छन्द । ओठन समीप गुंजत मड़रातमनो",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_26.png",
+        "bounding_box": {
+            "x1": 361,
+            "y1": 3449,
+            "x2": 2397,
+            "y2": 3643
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "२",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_09_textline_27.png",
+        "bounding_box": {
+            "x1": 1254,
+            "y1": 4270,
+            "x2": 1400,
+            "y2": 4353
+        }
+    }
+]

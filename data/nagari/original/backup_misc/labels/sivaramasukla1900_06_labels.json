@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "६",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_1.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 140,
+            "x2": 177,
+            "y2": 224
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "मार्ग में दहिनावर्त करिके जाना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_2.png",
+        "bounding_box": {
+            "x1": 354,
+            "y1": 243,
+            "x2": 1076,
+            "y2": 352
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "मृदंगांदैवतंविप्रं घृतं मधु चतुष्पथम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_3.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 343,
+            "x2": 1105,
+            "y2": 461
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "शिवरत्नसंग्रह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_4.png",
+        "bounding_box": {
+            "x1": 553,
+            "y1": 133,
+            "x2": 881,
+            "y2": 239
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "प्रदक्षिणानिकुर्वीत प्रज्ञातांश्चवनस्पतीन् २१ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_5.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 442,
+            "x2": 1344,
+            "y2": 552
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "अर्थ ।। मट्टी का ढेर, गौ, पाषाण आदि से बनी देवता की",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_6.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 539,
+            "x2": 1328,
+            "y2": 647
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "मूर्ति, ब्राह्मण, घी, शहद, चौराहा, और बड़े प्रमाण से जातेहुये",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_7.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 613,
+            "x2": 1334,
+            "y2": 717
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "पीपलआदि वृक्ष इनसबको मार्ग में दहिनावर्त देकरचले २१ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_8.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 690,
+            "x2": 1330,
+            "y2": 788
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सर्वंचतिलसंबद्धं नाद्यादस्तमितेरवौ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_9.png",
+        "bounding_box": {
+            "x1": 94,
+            "y1": 860,
+            "x2": 1052,
+            "y2": 972
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "आयु अर्थात् शतायु को प्राप्त होताहै २३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_10.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1693,
+            "x2": 957,
+            "y2": 1784
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "रात्रिको तिलकी मिलीहुई कोई वस्तु न खाय ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_11.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 781,
+            "x2": 1229,
+            "y2": 882
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "नचनग्नःशयीतेह नचोच्छिष्टःक्वचिद्व्रजेत २२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_12.png",
+        "bounding_box": {
+            "x1": 88,
+            "y1": 958,
+            "x2": 1332,
+            "y2": 1072
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "को रात्रि में न खाय और इसलोक में नंगा होके न सोवै और",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_13.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1124,
+            "x2": 1322,
+            "y2": 1219
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अर्थ ।। जो कुछ तिलों से मिलेहुए पदार्थ लड्डू आदि हैं उन",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_14.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 1051,
+            "x2": 1328,
+            "y2": 1143
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "जूंठा होके कहीं न जाय २२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_15.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 1199,
+            "x2": 721,
+            "y2": 1287
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "गीले पैर होके भोजन करना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_16.png",
+        "bounding_box": {
+            "x1": 375,
+            "y1": 1274,
+            "x2": 1030,
+            "y2": 1377
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "आर्द्रपादस्तुभुञ्जीत नार्द्रपादस्तुसंविशेत् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_17.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1337,
+            "x2": 1216,
+            "y2": 1466
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "आर्द्रपादस्तुभुञ्जानो दीर्घमायुरवाप्नुयात् २३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_18.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1455,
+            "x2": 1332,
+            "y2": 1564
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "अर्थ ।। जल से गीले पैर होनेपर भोजन करे और गीले पैरों",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_19.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 1542,
+            "x2": 1320,
+            "y2": 1639
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "से सोवै नहीं और गीले पैर होनेसे भोजन करताहुआ पुरुषबडी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_20.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 1617,
+            "x2": 1358,
+            "y2": 1709
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "बहुत दिन जीने की चाह रखनेवाला मनुष्य इन",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_21.png",
+        "bounding_box": {
+            "x1": 190,
+            "y1": 1762,
+            "x2": 1188,
+            "y2": 1855
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "बातों को न करै ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_22.png",
+        "bounding_box": {
+            "x1": 490,
+            "y1": 1831,
+            "x2": 898,
+            "y2": 1925
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "अधितिष्ठेन्नकेशांस्तु नमस्मास्थिकपालिकाः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_23.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1891,
+            "x2": 1257,
+            "y2": 2024
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "नकर्प्पासास्थिन तुषान्दीर्घमायुर्जिजीविषुः २४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_24.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 2003,
+            "x2": 1332,
+            "y2": 2120
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "अर्थ ।। जो बहुत दिन जीनाचाहे तौ बाल, भस्म, हाड़, ख-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_25.png",
+        "bounding_box": {
+            "x1": 137,
+            "y1": 2103,
+            "x2": 1359,
+            "y2": 2195
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "परा, बिनौला भूसी इनपर न बैठे २४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_06_textline_26.png",
+        "bounding_box": {
+            "x1": 66,
+            "y1": 2172,
+            "x2": 890,
+            "y2": 2268
+        }
+    }
+]

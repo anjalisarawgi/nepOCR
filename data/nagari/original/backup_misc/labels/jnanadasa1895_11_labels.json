@@ -1,0 +1,244 @@
+[
+    {
+        "line_number": 1,
+        "text": "अपरोक्षानुभव स० ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_1.png",
+        "bounding_box": {
+            "x1": 695,
+            "y1": 172,
+            "x2": 1319,
+            "y2": 318
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "११",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_2.png",
+        "bounding_box": {
+            "x1": 1784,
+            "y1": 196,
+            "x2": 1909,
+            "y2": 308
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "उपादानंप्रपंचस्य ब्रह्मणोन्यन्नविद्यते ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_3.png",
+        "bounding_box": {
+            "x1": 235,
+            "y1": 338,
+            "x2": 1552,
+            "y2": 496
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तस्मात्सर्वप्रपंचोयंब्रह्मैवास्तिनचेतरत् ।। ४५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_4.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 483,
+            "x2": 1779,
+            "y2": 639
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "व्याप्यव्यापकतामिथ्या सर्वमात्मेतिशासनात् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_5.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 622,
+            "x2": 1764,
+            "y2": 777
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "इतिज्ञातेपरेतत्त्वे भेदस्यावसरःकुतः ।। ४६ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_6.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 764,
+            "x2": 1713,
+            "y2": 906
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "श्रुत्यानिवारितंनूनं नानात्वंस्वमुखेनहि ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_7.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 894,
+            "x2": 1555,
+            "y2": 1042
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "कथंभासोभवेदन्यः स्थितेचाद्वयकारणे ।। ४७ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_8.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 1021,
+            "x2": 1806,
+            "y2": 1173
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "दोषापिविहितःश्रुत्या मृत्योमृत्युंसगच्छति ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_9.png",
+        "bounding_box": {
+            "x1": 256,
+            "y1": 1163,
+            "x2": 1640,
+            "y2": 1309
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "इहपश्यतिनानात्वंमाययावंचितोनरः ।। ४८ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_10.png",
+        "bounding_box": {
+            "x1": 253,
+            "y1": 1305,
+            "x2": 1731,
+            "y2": 1447
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "ब्रह्मणःसर्वभूतानि जायंतेपरमात्मनः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_11.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 1438,
+            "x2": 1498,
+            "y2": 1583
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "तस्मादेतानिब्रह्मैव भवतीत्यवधारयेत् ।। ४९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_12.png",
+        "bounding_box": {
+            "x1": 259,
+            "y1": 1559,
+            "x2": 1791,
+            "y2": 1726
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "ब्रह्महि कारण जगको जानो । ताबिन कोई और न मानो ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_13.png",
+        "bounding_box": {
+            "x1": 232,
+            "y1": 1782,
+            "x2": 1903,
+            "y2": 1949
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "ताते यह प्रपंच सबजोई । ब्रह्महि है नहिं और जु कोई ४५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_14.png",
+        "bounding_box": {
+            "x1": 138,
+            "y1": 1921,
+            "x2": 1903,
+            "y2": 2065
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "व्याप्य औ व्यापक मिथ्या जानौ । सर्बमात्म इमि बचन सु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_15.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 2042,
+            "x2": 1909,
+            "y2": 2190
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "मानौ ।। ऐसे जान्यौ परम तत्त्व जब । भेद बुद्धि फिर कहों कहां",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_16.png",
+        "bounding_box": {
+            "x1": 129,
+            "y1": 2160,
+            "x2": 1915,
+            "y2": 2301
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "तब ४६ निज मुख निश्चय करिके जोई । श्रुति ना तत्त्वनिवा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_17.png",
+        "bounding_box": {
+            "x1": 126,
+            "y1": 2287,
+            "x2": 1912,
+            "y2": 2415
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "स्योसोई ।। कैसे द्वैत भासहै तबै । अद्वय ब्रह्म भयोथिर जबै ४७",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_18.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 2402,
+            "x2": 1903,
+            "y2": 2533
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "भेद दृष्टि श्रुति बिहित सुजानि । जन्म मरण तेहि होतहै मानि ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_19.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 2517,
+            "x2": 1912,
+            "y2": 2655
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "यह नानत्व बिलोकै जोई । माया करि वंचित नर सोई ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_20.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 2643,
+            "x2": 1909,
+            "y2": 2772
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "४८ परमात्मा अरु ब्रह्म सुजोई । सर्ब भूत ताते भये सोई ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_21.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 2752,
+            "x2": 1912,
+            "y2": 2892
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "ताते इनको ब्रह्महि जानौ । ब्रह्म बिना कछु और न मानौ ४९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jnanadasa1895_11_textline_22.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 2873,
+            "x2": 1912,
+            "y2": 3007
+        }
+    }
+]

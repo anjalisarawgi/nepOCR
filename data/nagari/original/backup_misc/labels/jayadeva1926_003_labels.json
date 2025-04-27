@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "गीतगोविन्दादर्श ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_1.png",
+        "bounding_box": {
+            "x1": 562,
+            "y1": 59,
+            "x2": 1110,
+            "y2": 201
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "सो० गोप गणेश मनाय, सुमिरि सरस्वति राधिका ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_2.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2126,
+            "x2": 1536,
+            "y2": 2264
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "यथाबुद्धि अनुमान, भावारथ भाषा करी १६",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_3.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 255,
+            "x2": 1666,
+            "y2": 384
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "सुनि हर्षे नरराज, बर्षे हित चित प्रीति करि ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_4.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 370,
+            "x2": 1587,
+            "y2": 502
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "याके दोष समाज, गुण करि लीन्हें मानि सब १७",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_5.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 498,
+            "x2": 1694,
+            "y2": 620
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "ऐसे जे पर बीन, पण्डित पुरुष नवीनमति ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_6.png",
+        "bounding_box": {
+            "x1": 150,
+            "y1": 607,
+            "x2": 1538,
+            "y2": 739
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "पढ़त सुनत रसलीन, होहु जबै या ग्रन्थ को १८",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_7.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 732,
+            "x2": 1684,
+            "y2": 865
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "लीजो चूक सुधारि, जान सुजान आजान लहि ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_8.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 850,
+            "x2": 1557,
+            "y2": 984
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "देखि दोष उरधारि, हांसी हर्ष न कीजियो १९",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_9.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 967,
+            "x2": 1666,
+            "y2": 1103
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "करत ग्रन्थ आरम्भ, अब सुनि ताको नाम शुभ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_10.png",
+        "bounding_box": {
+            "x1": 165,
+            "y1": 1095,
+            "x2": 1569,
+            "y2": 1220
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "रति रसरन जय खम्भ, गीतगोबिन्द्वादर्श कहि २०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_11.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 1209,
+            "x2": 1679,
+            "y2": 1337
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "इक दिशि गीतगोबिन्द, इक दिशि ताकी आरसी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_12.png",
+        "bounding_box": {
+            "x1": 165,
+            "y1": 1324,
+            "x2": 1565,
+            "y2": 1458
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सुगम अष्टपदछन्द, जहां लख्यो त्यों हीं रख्यो २१",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_13.png",
+        "bounding_box": {
+            "x1": 175,
+            "y1": 1449,
+            "x2": 1666,
+            "y2": 1575
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अथ ग्रन्थारम्भ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_14.png",
+        "bounding_box": {
+            "x1": 476,
+            "y1": 1791,
+            "x2": 1207,
+            "y2": 1944
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तत्र द्वितीयमङ्गलाचरणम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_15.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 2002,
+            "x2": 1295,
+            "y2": 2124
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "श्रीजयदेवहि ध्याय, करत ग्रन्थ रचना सरस २२",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_16.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 2255,
+            "x2": 1669,
+            "y2": 2384
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "श्लोकः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_17.png",
+        "bounding_box": {
+            "x1": 690,
+            "y1": 2388,
+            "x2": 987,
+            "y2": 2501
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "मेधैर्मेदुरमम्बरं वनभुवः श्यामास्तमालद्रुमै-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_18.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 2490,
+            "x2": 1645,
+            "y2": 2646
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "र्नक्तम्भीरुरयन्त्वमेव तदिमं राधे गृहं प्रापय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_19.png",
+        "bounding_box": {
+            "x1": 32,
+            "y1": 2638,
+            "x2": 1688,
+            "y2": 2794
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_003_textline_20.png",
+        "bounding_box": {
+            "x1": 1551,
+            "y1": 73,
+            "x2": 1637,
+            "y2": 189
+        }
+    }
+]

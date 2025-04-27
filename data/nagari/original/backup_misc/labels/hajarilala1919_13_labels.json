@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_1.png",
+        "bounding_box": {
+            "x1": 621,
+            "y1": 170,
+            "x2": 1191,
+            "y2": 338
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "नाहीं २२ जानकिबेष बनी सति जो, स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_2.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 342,
+            "x2": 1709,
+            "y2": 506
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "मुझी शिव सो मन खेद बढ़ाई । याकहँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_3.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 498,
+            "x2": 1704,
+            "y2": 656
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "त्यागिदियो तुरतै, भइ स्वामि बियोग हिये",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_4.png",
+        "bounding_box": {
+            "x1": 70,
+            "y1": 649,
+            "x2": 1755,
+            "y2": 807
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "बिकलाई ।। जाइ पिता के मखानल में,",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_5.png",
+        "bounding_box": {
+            "x1": 47,
+            "y1": 792,
+            "x2": 1709,
+            "y2": 961
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "जरि सो जनमी तुम्हरे गृह आई । शम्भु",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_6.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 931,
+            "x2": 1714,
+            "y2": 1105
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "प्रिया गिरिजा नितहीं, यह बूझि तजौ सब",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_7.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 1086,
+            "x2": 1768,
+            "y2": 1248
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "शोच बृथाई २३ ।। घनाक्षरी ।। सुनत नारद",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_8.png",
+        "bounding_box": {
+            "x1": 70,
+            "y1": 1247,
+            "x2": 1711,
+            "y2": 1399
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "बानी मिटी मन शोच ग्लानी, उमा जग-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_9.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 1389,
+            "x2": 1716,
+            "y2": 1546
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "दम्बा जानी सब हरषाये हैं । क्षणही में",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_10.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 1539,
+            "x2": 1723,
+            "y2": 1692
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "बात यह फैल गइ पुरमहँ, सुनि लोग जहाँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_11.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 1690,
+            "x2": 1770,
+            "y2": 1841
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "तहँ अति सुख पाये हैं ।। मैना हिमवन्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_12.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 1832,
+            "x2": 1730,
+            "y2": 1993
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मन अतिमुद तेहि छन, भयो पुलकित",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_13.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 1975,
+            "x2": 1764,
+            "y2": 2137
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "तन प्रेम अधिकाये हैं । उमा पद पुनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_14.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 2126,
+            "x2": 1728,
+            "y2": 2283
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "पुनि सेवित जो सिद्ध मुनि, दम्पति स्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_15.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 2272,
+            "x2": 1733,
+            "y2": 2432
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "भाग्य गुनि बन्दी शीश नाये हैं २४ नगर ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_16.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 2428,
+            "x2": 1723,
+            "y2": 2582
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "१३",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_13_textline_17.png",
+        "bounding_box": {
+            "x1": 1525,
+            "y1": 196,
+            "x2": 1704,
+            "y2": 344
+        }
+    }
+]

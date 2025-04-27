@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_1.png",
+        "bounding_box": {
+            "x1": 798,
+            "y1": 85,
+            "x2": 1470,
+            "y2": 271
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रन् ॥ विनावाक्योपदेशेनब्रह्मात्मैक्यं न",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_2.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 237,
+            "x2": 2172,
+            "y2": 457
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "भासते ४१ ब्रह्मात्मैकत्वविज्ञानादृतेमुक्ति",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_3.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 441,
+            "x2": 2181,
+            "y2": 646
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "र्नजायते ॥ नियमेनेहकथये तदहंयस्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_4.png",
+        "bounding_box": {
+            "x1": 89,
+            "y1": 630,
+            "x2": 2167,
+            "y2": 825
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "कस्यचित् ४२ स्वे स्वे कर्मणि निष्णातानु",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_5.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 805,
+            "x2": 2175,
+            "y2": 1030
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "त्तमानथमध्यमान् ॥ अधमानथमार्गस्था",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_6.png",
+        "bounding_box": {
+            "x1": 83,
+            "y1": 1008,
+            "x2": 2175,
+            "y2": 1197
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "न्नयामीहपराङ्गतिम् ४३ पण्डितोवापि मू",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_7.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 1186,
+            "x2": 2181,
+            "y2": 1413
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "र्खोवामुखजोवातथान्त्यजः ॥ अस्मिँल्लि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_8.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1366,
+            "x2": 2164,
+            "y2": 1591
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ङ्गेत्याजान्प्राणान् धर्मकृन्मोक्षमाप्नुयात्४४",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_9.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1561,
+            "x2": 2172,
+            "y2": 1765
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "निराश्रयमिदंलिङ्गं विश्वेशमाश्रयःपरम्॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_10.png",
+        "bounding_box": {
+            "x1": 89,
+            "y1": 1750,
+            "x2": 2185,
+            "y2": 1947
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "भवन्तावपिलिङ्गेस्मिन्स्थित्वातत्त्वमवाप्स्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_11.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 1942,
+            "x2": 2155,
+            "y2": 2142
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "थ ४५ भृगुरुवाच ॥ एवमुक्त्वासभगवान्विश्वे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_12.png",
+        "bounding_box": {
+            "x1": 63,
+            "y1": 2139,
+            "x2": 2181,
+            "y2": 2319
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "शोन्तर्हितोभवत् ॥ माधवःपद्मजश्चैव गतरो",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_13.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 2309,
+            "x2": 2167,
+            "y2": 2519
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "षौविचेरतुः ४६ भवद्भिर्यदहम्पृष्टो मोक्षहे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_14.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 2483,
+            "x2": 2167,
+            "y2": 2709
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तुंप्रतिद्विजाः ॥ तदुक्तंविश्वनाथस्य कथां",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_15.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 2687,
+            "x2": 2164,
+            "y2": 2881
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "कथयतामया ४७ यल्लिङ्गंदृष्टवान्तौहिनाराय",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_16.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 2867,
+            "x2": 2205,
+            "y2": 3070
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "७",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_07_textline_17.png",
+        "bounding_box": {
+            "x1": 2019,
+            "y1": 112,
+            "x2": 2185,
+            "y2": 259
+        }
+    }
+]

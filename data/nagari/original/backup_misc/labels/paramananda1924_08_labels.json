@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_1.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 130,
+            "x2": 185,
+            "y2": 233
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भ्रम-नाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_2.png",
+        "bounding_box": {
+            "x1": 899,
+            "y1": 135,
+            "x2": 1289,
+            "y2": 253
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "आदिकों की निंदा करके संयम-रूपी गुण को ही उत्तम कहते हैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_3.png",
+        "bounding_box": {
+            "x1": 71,
+            "y1": 288,
+            "x2": 2097,
+            "y2": 467
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "और यदि जाति से ही कल्याण होता, तो वेद में विधि और",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_4.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 436,
+            "x2": 2094,
+            "y2": 589
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "निषेध-वाक्य किसलिये कहे गए हैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_5.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 569,
+            "x2": 1221,
+            "y2": 720
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "ने भी कहा है --",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_6.png",
+        "bounding_box": {
+            "x1": 60,
+            "y1": 1317,
+            "x2": 648,
+            "y2": 1443
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "अहरह: संध्यामुपासीत ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_7.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 727,
+            "x2": 1130,
+            "y2": 882
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "प्रतिदिन ब्राह्मण संध्योपासन करे, यह विधि-वाक्य है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_8.png",
+        "bounding_box": {
+            "x1": 167,
+            "y1": 880,
+            "x2": 1915,
+            "y2": 1044
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ब्राह्मण: सुरां न पिबेत् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_9.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 1033,
+            "x2": 1127,
+            "y2": 1209
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "भी नहीं करता, वह संपूर्ण द्विज-कर्मों से बाहर करने योग्य है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_10.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 1928,
+            "x2": 2059,
+            "y2": 2095
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "ब्राह्मण मदिरा-पान न करे, यह निषेध-वाक्य है । और मनु",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_11.png",
+        "bounding_box": {
+            "x1": 162,
+            "y1": 1192,
+            "x2": 2122,
+            "y2": 1345
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "न तिष्ठति तु य: पूर्वां नोपास्ते यश्च पश्चिमाम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_12.png",
+        "bounding_box": {
+            "x1": 162,
+            "y1": 1453,
+            "x2": 2023,
+            "y2": 1639
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "स शुद्रवद्वहिष्कार्य: सर्वस्माद् द्विजकर्मण: ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_13.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 1623,
+            "x2": 1847,
+            "y2": 1797
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "निष्फल है और जैसे मूर्ख के प्रति दान निष्फल है, वैसे वेद से",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_14.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 2563,
+            "x2": 2072,
+            "y2": 2730
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "हीन ब्राह्मण निष्फल है । यदि जाति करके ही कल्याण होता,",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_15.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 2710,
+            "x2": 2054,
+            "y2": 2863
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "जो द्विज प्रातःकाल की संध्या नहीं करता और सायंकाल की",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_16.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 1792,
+            "x2": 2071,
+            "y2": 1971
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "यथा षंढोऽफल: स्त्रीषु यथा गौर्गवि चाफला ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_17.png",
+        "bounding_box": {
+            "x1": 147,
+            "y1": 2093,
+            "x2": 1902,
+            "y2": 2274
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "यथा चाज्ञेऽफलं दानं तथा विप्रोऽनृचोऽफल: ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_18.png",
+        "bounding_box": {
+            "x1": 150,
+            "y1": 2257,
+            "x2": 1896,
+            "y2": 2442
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "तो वेद-शास्त्र ब्राह्मण के लिये प्रतिदिन संध्या का क्यों विधान",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_19.png",
+        "bounding_box": {
+            "x1": 21,
+            "y1": 2840,
+            "x2": 2060,
+            "y2": 2997
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "जैसे नपुंसक पुरुष स्त्री पर निष्फल है, जैसे गौ गौ पर",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_08_textline_20.png",
+        "bounding_box": {
+            "x1": 147,
+            "y1": 2421,
+            "x2": 2075,
+            "y2": 2596
+        }
+    }
+]

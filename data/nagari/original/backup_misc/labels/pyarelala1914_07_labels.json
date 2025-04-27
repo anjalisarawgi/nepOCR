@@ -1,0 +1,178 @@
+[
+    {
+        "line_number": 1,
+        "text": "७",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_1.png",
+        "bounding_box": {
+            "x1": 1727,
+            "y1": 127,
+            "x2": 1861,
+            "y2": 235
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रागबिनोद ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_2.png",
+        "bounding_box": {
+            "x1": 740,
+            "y1": 90,
+            "x2": 1256,
+            "y2": 246
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "प्यारे अबहीं मन चेतौ नाम जपो घट घट",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_3.png",
+        "bounding_box": {
+            "x1": 170,
+            "y1": 286,
+            "x2": 1865,
+            "y2": 465
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "में जोई ।।४।। या जगमें नहिं आपन कोई।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_4.png",
+        "bounding_box": {
+            "x1": 163,
+            "y1": 434,
+            "x2": 1851,
+            "y2": 616
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दो० सुत बित नारी भवन में, है भूलो सब कोइ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_5.png",
+        "bounding_box": {
+            "x1": 219,
+            "y1": 655,
+            "x2": 1805,
+            "y2": 787
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "महिशिर जेहि अरि तासु प्रभु, मूढ़ बिसारेउ सोइ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_6.png",
+        "bounding_box": {
+            "x1": 370,
+            "y1": 788,
+            "x2": 1823,
+            "y2": 910
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "(भजन)",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_7.png",
+        "bounding_box": {
+            "x1": 784,
+            "y1": 944,
+            "x2": 1273,
+            "y2": 1079
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मोसम कौन कुटिल अघखानी ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_8.png",
+        "bounding_box": {
+            "x1": 359,
+            "y1": 1135,
+            "x2": 1726,
+            "y2": 1290
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "शम्भु श्यामकर नाम न लीन्हेउ बिष-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_9.png",
+        "bounding_box": {
+            "x1": 289,
+            "y1": 1330,
+            "x2": 1855,
+            "y2": 1474
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "यनके रससानी ।। १ ।। मोसम० ।। या मुख",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_10.png",
+        "bounding_box": {
+            "x1": 179,
+            "y1": 1479,
+            "x2": 1858,
+            "y2": 1629
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सों शुभ बात न कीन्हेउ जेहि तेहि कहेउँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_11.png",
+        "bounding_box": {
+            "x1": 179,
+            "y1": 1618,
+            "x2": 1851,
+            "y2": 1782
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "कटुक बहुबानी ।। २ ।। मोसम० ।। या कर",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_12.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 1788,
+            "x2": 1856,
+            "y2": 1936
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सों कछु दान न दीन्हेउ लेबो बहुबिधि",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_13.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 1918,
+            "x2": 1849,
+            "y2": 2083
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "जानी ।। ३ ।। मोसम० ।। कहै जन प्यारे",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_14.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 2079,
+            "x2": 1851,
+            "y2": 2226
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "रघुनाथ उबारे आपन शिशु मोहिंजानी",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_15.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 2221,
+            "x2": 1849,
+            "y2": 2379
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "।। ४ ।। मोसम कौन कुटिल अघखानी ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_07_textline_16.png",
+        "bounding_box": {
+            "x1": 186,
+            "y1": 2377,
+            "x2": 1863,
+            "y2": 2532
+        }
+    }
+]

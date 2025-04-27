@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_1.png",
+        "bounding_box": {
+            "x1": 689,
+            "y1": 108,
+            "x2": 1387,
+            "y2": 295
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "परिभ्रमतिसङ्कुले६९भृगुरुवाच ॥ इत्यङ्गना",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_2.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 260,
+            "x2": 2101,
+            "y2": 484
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "वचःशृण्वन्क्षुधितःसपिपासितः ॥ नकिञ्चि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_3.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 461,
+            "x2": 2137,
+            "y2": 666
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "त्प्रत्युवाचैनां स्वापराधंविचिन्तयन् ७० दम्प",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_4.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 653,
+            "x2": 2107,
+            "y2": 858
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "तीतौवनेभीमेभ्रमन्तौक्षुत्तृषार्द्दितौ ॥ पञ्चमि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_5.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 816,
+            "x2": 2112,
+            "y2": 1050
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "र्दिवसैःप्राप्तःशालङ्कायनमाश्रमम् ७१ पूजित",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_6.png",
+        "bounding_box": {
+            "x1": 23,
+            "y1": 1022,
+            "x2": 2109,
+            "y2": 1237
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "स्तेनविधिवत्फलमूलजलादिभिः । उवासत",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_7.png",
+        "bounding_box": {
+            "x1": 38,
+            "y1": 1209,
+            "x2": 2127,
+            "y2": 1422
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "त्रनिःशङ्कः कथितःस्वार्त्तिसाधनः७२एकरा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_8.png",
+        "bounding_box": {
+            "x1": 43,
+            "y1": 1412,
+            "x2": 2121,
+            "y2": 1599
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "त्रिंतत्रनीत्वा पुनर्बभ्रामतद्वने ॥ तथामृगदृ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_9.png",
+        "bounding_box": {
+            "x1": 38,
+            "y1": 1587,
+            "x2": 2124,
+            "y2": 1789
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "शासार्द्धं दिनानिसुबहून्यपि ७३ इत्येवंपरित",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_10.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 1759,
+            "x2": 2141,
+            "y2": 1972
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "प्तस्तु नैवप्रापफलादिकम् ॥ विशुष्यद्वदनोरा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_11.png",
+        "bounding_box": {
+            "x1": 66,
+            "y1": 1965,
+            "x2": 2132,
+            "y2": 2166
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "ज्ञासहितोविन्ध्यकानने७४तदातस्याभवद्",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_12.png",
+        "bounding_box": {
+            "x1": 46,
+            "y1": 2137,
+            "x2": 2132,
+            "y2": 2355
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "बुद्धिःकूरापापस्यराक्षसी ॥ भक्षणायविभाव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_13.png",
+        "bounding_box": {
+            "x1": 49,
+            "y1": 2334,
+            "x2": 2138,
+            "y2": 2545
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "र्य्यास्तदासातद्व्यजानत७५विभावर्युवाच ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_14.png",
+        "bounding_box": {
+            "x1": 46,
+            "y1": 2515,
+            "x2": 2149,
+            "y2": 2721
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "राजेन्द्रक्षुधयातेद्य पीडाप्राणविनाशिनी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_15.png",
+        "bounding_box": {
+            "x1": 55,
+            "y1": 2695,
+            "x2": 2155,
+            "y2": 2904
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "लक्ष्यतेतेनमृद्गात्रान्मांसमुत्कृत्यभुंक्ष्वच ७६॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_16.png",
+        "bounding_box": {
+            "x1": 63,
+            "y1": 2890,
+            "x2": 2138,
+            "y2": 3076
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "११",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_11_textline_17.png",
+        "bounding_box": {
+            "x1": 1899,
+            "y1": 111,
+            "x2": 2078,
+            "y2": 277
+        }
+    }
+]

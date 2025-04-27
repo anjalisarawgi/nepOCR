@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_1.png",
+        "bounding_box": {
+            "x1": 585,
+            "y1": 150,
+            "x2": 1124,
+            "y2": 301
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "बरके समीप जाइ पहुँची सुन्दरि जब,",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_2.png",
+        "bounding_box": {
+            "x1": 37,
+            "y1": 304,
+            "x2": 1675,
+            "y2": 468
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "बिकट स्वरूप लखि शोच उर छाइगै ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_3.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 462,
+            "x2": 1699,
+            "y2": 618
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "ब्याकुल शंकित होइ भागि भागि चलीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_4.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 613,
+            "x2": 1673,
+            "y2": 767
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "घर, तनकर सुधि सब काहुहिं भुलाइगै ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_5.png",
+        "bounding_box": {
+            "x1": 27,
+            "y1": 759,
+            "x2": 1723,
+            "y2": 916
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "भूषण खसत कहुँ हारहुँ टूटत कहुँ, बसन",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_6.png",
+        "bounding_box": {
+            "x1": 39,
+            "y1": 907,
+            "x2": 1685,
+            "y2": 1055
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "फटत कहुँ मुख कुम्हिलाइगै । काहू बिधि",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_7.png",
+        "bounding_box": {
+            "x1": 49,
+            "y1": 1060,
+            "x2": 1675,
+            "y2": 1203
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "गिरति पड़ति धाइ धाइ सब, निज निज",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_8.png",
+        "bounding_box": {
+            "x1": 39,
+            "y1": 1202,
+            "x2": 1694,
+            "y2": 1352
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "भवनमें आइकै लुकाइगै १४ शङ्कर समाज",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_9.png",
+        "bounding_box": {
+            "x1": 54,
+            "y1": 1350,
+            "x2": 1680,
+            "y2": 1485
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "निज लिये जनवासे गये, मैनाउर शोकभये",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_10.png",
+        "bounding_box": {
+            "x1": 23,
+            "y1": 1492,
+            "x2": 1675,
+            "y2": 1651
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "दुख अधिकायेहैं । गिरिजाहिं लीन्हीं सो",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_11.png",
+        "bounding_box": {
+            "x1": 46,
+            "y1": 1638,
+            "x2": 1698,
+            "y2": 1797
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "बुलाइसहप्रीति बड़ि,गोद बिठलाई दृगआँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_12.png",
+        "bounding_box": {
+            "x1": 41,
+            "y1": 1789,
+            "x2": 1731,
+            "y2": 1949
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सू भरि आये हैं॥कहती बिलखि पछताइ के",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_13.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 1930,
+            "x2": 1690,
+            "y2": 2091
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "सुताहिं लखि, जौन बिधि तोहिं असरूपहूं",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_14.png",
+        "bounding_box": {
+            "x1": 39,
+            "y1": 2076,
+            "x2": 1730,
+            "y2": 2242
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "बनाये हैं । तौन जड़कस बर किन्ह बउराह",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_15.png",
+        "bounding_box": {
+            "x1": 54,
+            "y1": 2234,
+            "x2": 1678,
+            "y2": 2384
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "फल, सुरतरु योग सो बबूरहिं लगाये हैं १५ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_16.png",
+        "bounding_box": {
+            "x1": 19,
+            "y1": 2373,
+            "x2": 1680,
+            "y2": 2537
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "९",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_09_textline_17.png",
+        "bounding_box": {
+            "x1": 1553,
+            "y1": 167,
+            "x2": 1694,
+            "y2": 303
+        }
+    }
+]

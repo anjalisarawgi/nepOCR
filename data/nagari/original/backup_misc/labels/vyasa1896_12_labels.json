@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "१२",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_1.png",
+        "bounding_box": {
+            "x1": 169,
+            "y1": 184,
+            "x2": 289,
+            "y2": 304
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "वेदस्तुति स० ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_2.png",
+        "bounding_box": {
+            "x1": 684,
+            "y1": 184,
+            "x2": 1155,
+            "y2": 320
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "णाउभये ।। तर्हिनसन्नचासदुभ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_3.png",
+        "bounding_box": {
+            "x1": 151,
+            "y1": 345,
+            "x2": 1690,
+            "y2": 531
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "यं न च कालजवः किमपि न तत्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_4.png",
+        "bounding_box": {
+            "x1": 151,
+            "y1": 529,
+            "x2": 1677,
+            "y2": 709
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "शास्त्रमवकृष्यशयीतयदा ।। ११ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_5.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 708,
+            "x2": 1690,
+            "y2": 900
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सिद्वंत्वां नु इति वितर्के अवरजन्मलयः पश्चाज्जन्मल",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_6.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 1001,
+            "x2": 1675,
+            "y2": 1144
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "सकाशादृषिर्ब्रह्मा उदगात् उत्पन्नोजात इत्यर्थः यमनु",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_7.png",
+        "bounding_box": {
+            "x1": 146,
+            "y1": 1243,
+            "x2": 1662,
+            "y2": 1373
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "ब्रह्माणमनु पश्चादुभये देवगणा आध्यात्मिकाधिदौवक",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_8.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1364,
+            "x2": 1667,
+            "y2": 1495
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "इन्द्रियदेवगणाः उत्पन्नाः यर्हिभगवान् सर्वमेवाकृष्य श",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_9.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1477,
+            "x2": 1665,
+            "y2": 1609
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "नच उभयं मनःकालवेगोपि न नवातत्र तस्मिन्समये",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_10.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 1709,
+            "x2": 1665,
+            "y2": 1845
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "किमपि शास्त्रंवेदपुराणादि ११ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_11.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 1823,
+            "x2": 1069,
+            "y2": 1961
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "नियेचभिदां विपणमृतंस्मरंत्युप",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_12.png",
+        "bounding_box": {
+            "x1": 151,
+            "y1": 2115,
+            "x2": 1690,
+            "y2": 2294
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "दिशंतितआरुपितैः ।। त्रिगुणम",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_13.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 2292,
+            "x2": 1647,
+            "y2": 2462
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "यः पुमानितिभिदा यदबोधकृता",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_14.png",
+        "bounding_box": {
+            "x1": 128,
+            "y1": 2461,
+            "x2": 1647,
+            "y2": 2647
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "इह संसारेबतेति खेदे अग्रसरं सर्वप्रमाणात्पूर्वमेव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_15.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 885,
+            "x2": 1675,
+            "y2": 1017
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "यश्च यस्य तादृशः को वेदजानाति नकोपीत्यर्थः यतः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_16.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 1117,
+            "x2": 1677,
+            "y2": 1257
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "यीत शयनं करोति तर्हि नसत्कार्यं न चासत् कारणं",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_17.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1593,
+            "x2": 1672,
+            "y2": 1729
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "जनिमसतःसतोमृतिमुतात्म",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_18.png",
+        "bounding_box": {
+            "x1": 252,
+            "y1": 1946,
+            "x2": 1683,
+            "y2": 2127
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "* भ्रांतिमूलतयासर्वसमयानामयुक्तितः ।। नतद्विरोधात्कृष्णास्व्यंपरंब्रह्मत्यजेद्बुधः १२ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_12_textline_19.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 2672,
+            "x2": 1647,
+            "y2": 2773
+        }
+    }
+]

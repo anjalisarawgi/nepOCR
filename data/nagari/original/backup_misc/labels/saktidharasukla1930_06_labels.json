@@ -1,0 +1,134 @@
+[
+    {
+        "line_number": 1,
+        "text": "च०",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_1.png",
+        "bounding_box": {
+            "x1": 67,
+            "y1": 241,
+            "x2": 236,
+            "y2": 354
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "६",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_2.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 391,
+            "x2": 259,
+            "y2": 518
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "यणीय । वहां मैत्रायणीयों के छःभेद होते हैं-मानव, वाराह, दु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_3.png",
+        "bounding_box": {
+            "x1": 472,
+            "y1": 167,
+            "x2": 3175,
+            "y2": 364
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "न्दुभ, छागलेय, हारिद्रवीय और श्यामायनीय उनका अध्ययन",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_4.png",
+        "bounding_box": {
+            "x1": 488,
+            "y1": 372,
+            "x2": 3159,
+            "y2": 543
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "मैत्रायणीयानां षड्भेदा भवन्ति ।। मा",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_5.png",
+        "bounding_box": {
+            "x1": 492,
+            "y1": 559,
+            "x2": 3176,
+            "y2": 793
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "नवावाराहादुन्दुभाश्छागलेया हारिद्र",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_6.png",
+        "bounding_box": {
+            "x1": 499,
+            "y1": 827,
+            "x2": 3175,
+            "y2": 1078
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "वीयाःश्यामायनीयाश्चेति ।। तेषामध्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_7.png",
+        "bounding_box": {
+            "x1": 511,
+            "y1": 1104,
+            "x2": 3175,
+            "y2": 1336
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "यनंद्वेसहस्रेशतेन्यूनेमन्त्रे वाजसनेयिके",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_8.png",
+        "bounding_box": {
+            "x1": 502,
+            "y1": 1356,
+            "x2": 3154,
+            "y2": 1606
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "अगणः परिसङ्ख्य़ातस्ततोन्यानियजू",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_9.png",
+        "bounding_box": {
+            "x1": 497,
+            "y1": 1658,
+            "x2": 3175,
+            "y2": 1878
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "(पढ़ना)एकसौसे कम दोहजार वाजसनेयिक मन्त्रों में अगण",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_10.png",
+        "bounding_box": {
+            "x1": 479,
+            "y1": 1937,
+            "x2": 3166,
+            "y2": 2110
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "का परिसंख्यान हुआ है तदनन्तर आठसौ अन्य यजु और",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_11.png",
+        "bounding_box": {
+            "x1": 497,
+            "y1": 2116,
+            "x2": 3197,
+            "y2": 2300
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "६",
+        "image_path": "datasetProcessed/cropped_textlines/images/saktidharasukla1930_06_textline_12.png",
+        "bounding_box": {
+            "x1": 3590,
+            "y1": 2199,
+            "x2": 3702,
+            "y2": 2299
+        }
+    }
+]

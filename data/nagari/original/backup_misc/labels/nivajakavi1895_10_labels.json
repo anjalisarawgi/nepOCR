@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "ते देखत खड़े रहत मानो हम कीने काज मधुप तुम",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_1.png",
+        "bounding_box": {
+            "x1": 390,
+            "y1": 375,
+            "x2": 2647,
+            "y2": 604
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "धन्य हो ४९ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_2.png",
+        "bounding_box": {
+            "x1": 408,
+            "y1": 542,
+            "x2": 1079,
+            "y2": 727
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "न टास्यो टरै ॥ बन में मधुकर बहुत सताई । शकुंतला",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_3.png",
+        "bounding_box": {
+            "x1": 396,
+            "y1": 850,
+            "x2": 2622,
+            "y2": 1048
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "यह टेर सुनाई ॥ सखियहु मोंढिग अरबर आवहु । या",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_4.png",
+        "bounding_box": {
+            "x1": 400,
+            "y1": 991,
+            "x2": 2623,
+            "y2": 1208
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "पापीते मोहिं छुड़ावहु ॥ काटत आप टरत नहिं टारे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_5.png",
+        "bounding_box": {
+            "x1": 373,
+            "y1": 1147,
+            "x2": 2648,
+            "y2": 1347
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "होतु नाहिं कछु हाथन झारे ॥ निरखि सखिन यहहास",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_6.png",
+        "bounding_box": {
+            "x1": 385,
+            "y1": 1307,
+            "x2": 2635,
+            "y2": 1488
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "बढ़ायो । हमको तो बिन काज बुलायो ॥ या गनीम सों",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_7.png",
+        "bounding_box": {
+            "x1": 385,
+            "y1": 1447,
+            "x2": 2634,
+            "y2": 1633
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "आनि बचावे । नृप दुःष्यन्तहि बेगि बुलावे ॥ तब नृप",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_8.png",
+        "bounding_box": {
+            "x1": 377,
+            "y1": 1591,
+            "x2": 2625,
+            "y2": 1795
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "निकसि द्रुमनते आयो । कहो कहो किहतुमहिं सतायो ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_9.png",
+        "bounding_box": {
+            "x1": 377,
+            "y1": 1744,
+            "x2": 2607,
+            "y2": 1939
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "निरखि नृपहि बिन मोल बिकानी । तीनों छकीं डरीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_10.png",
+        "bounding_box": {
+            "x1": 373,
+            "y1": 1888,
+            "x2": 2615,
+            "y2": 2080
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "अकुलानी ॥ ठाढ़ी रहि न सकीं नहिं डोलें । जकि सों",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_11.png",
+        "bounding_box": {
+            "x1": 381,
+            "y1": 2036,
+            "x2": 2591,
+            "y2": 2232
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सहाराजको उत्तर दीन्हो ४७ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_12.png",
+        "bounding_box": {
+            "x1": 373,
+            "y1": 2364,
+            "x2": 1654,
+            "y2": 2529
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "कहो पानी एक घाट में पियत सिंह गाय है । जप तप",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_13.png",
+        "bounding_box": {
+            "x1": 365,
+            "y1": 2637,
+            "x2": 2583,
+            "y2": 2839
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "करत तपसी निर्भय तपोबनमें दानव सकत नहिं आय",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_14.png",
+        "bounding_box": {
+            "x1": 377,
+            "y1": 2789,
+            "x2": 2576,
+            "y2": 2992
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "भ्रमरी भाजी भौन को डराय है । अति ही अभीत म-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_15.png",
+        "bounding_box": {
+            "x1": 389,
+            "y1": 3097,
+            "x2": 2591,
+            "y2": 3280
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "हाराज श्री दुष्यंत ताके राज में ऋषिन कौन सकत",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_16.png",
+        "bounding_box": {
+            "x1": 369,
+            "y1": 3238,
+            "x2": 2583,
+            "y2": 3441
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "सताय है ॥ ४८ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_17.png",
+        "bounding_box": {
+            "x1": 369,
+            "y1": 3382,
+            "x2": 1169,
+            "y2": 3558
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "दोहा । शकुन्तला सों ताकि तब पूछी यह महिपाल ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_18.png",
+        "bounding_box": {
+            "x1": 369,
+            "y1": 3538,
+            "x2": 2587,
+            "y2": 3739
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "रहीं कछु नहिं बोलें ॥ अनसूया तब मन दृढ़कीन्हो ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_19.png",
+        "bounding_box": {
+            "x1": 366,
+            "y1": 2198,
+            "x2": 2591,
+            "y2": 2397
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "है ॥ काहू न सताई यह भोरीसी शकुन्तला उड़िकेसो",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_20.png",
+        "bounding_box": {
+            "x1": 365,
+            "y1": 2934,
+            "x2": 2595,
+            "y2": 3142
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "चौपाई । शकुंतला केतो कछु करै । सँग ते मधुप",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_21.png",
+        "bounding_box": {
+            "x1": 557,
+            "y1": 686,
+            "x2": 2626,
+            "y2": 898
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "घनाक्षरी । जाके तेज होत न अनीति कहूं नीति",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_22.png",
+        "bounding_box": {
+            "x1": 525,
+            "y1": 2485,
+            "x2": 2595,
+            "y2": 2697
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "कहो तिहारे कुशलहैं छोटे द्रुम मृगबाल ४९ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_23.png",
+        "bounding_box": {
+            "x1": 670,
+            "y1": 3694,
+            "x2": 2591,
+            "y2": 3891
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "कम्प बढ़यो तन कंटकित मुखते कढ़तनबैन ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_24.png",
+        "bounding_box": {
+            "x1": 654,
+            "y1": 3843,
+            "x2": 2576,
+            "y2": 4032
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "जकिसीरहीशकुन्तलानिरखिनृपतिभरिनैन ५०",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_25.png",
+        "bounding_box": {
+            "x1": 666,
+            "y1": 3987,
+            "x2": 2552,
+            "y2": 4182
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "(१०)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_10_textline_26.png",
+        "bounding_box": {
+            "x1": 1338,
+            "y1": 257,
+            "x2": 1712,
+            "y2": 429
+        }
+    }
+]

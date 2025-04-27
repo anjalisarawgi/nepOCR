@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "भारतीभूषण ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_1.png",
+        "bounding_box": {
+            "x1": 1164,
+            "y1": 213,
+            "x2": 1839,
+            "y2": 357
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भुददानि ६३ ॥ शुद्धापह्नुतिलक्षण ॥ धर्मदुरावैऔरहीक",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_2.png",
+        "bounding_box": {
+            "x1": 297,
+            "y1": 346,
+            "x2": 2742,
+            "y2": 527
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "रिआरोपसुजान ॥ शुद्धापह्‌नुतिकहहिंतेहिअलंकारम",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_3.png",
+        "bounding_box": {
+            "x1": 274,
+            "y1": 528,
+            "x2": 2785,
+            "y2": 693
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तिमान ६४ ॥ उदाहरण ॥ पहिरेश्यामनपीतपटघनमैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_4.png",
+        "bounding_box": {
+            "x1": 301,
+            "y1": 681,
+            "x2": 2746,
+            "y2": 855
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "विज्जुविलास ॥ शिरसारीनहिंतासुकी इन्दुकलापरका",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_5.png",
+        "bounding_box": {
+            "x1": 305,
+            "y1": 850,
+            "x2": 2793,
+            "y2": 1021
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "स ६५ ॥ हेत्वपहुतिलक्षण ॥ सोइशुद्धापह्‌नुतिबिषेउक्ति",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_6.png",
+        "bounding_box": {
+            "x1": 289,
+            "y1": 1019,
+            "x2": 2746,
+            "y2": 1179
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "युक्तियुतयत्र ॥ गिरिधरदासबखानिये हेतुअपह्‌नुतित",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_7.png",
+        "bounding_box": {
+            "x1": 301,
+            "y1": 1181,
+            "x2": 2754,
+            "y2": 1355
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "त्र ६६ ॥ उदाहरण ॥ तियननिशाघनबनचलै हेमबेलि",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_8.png",
+        "bounding_box": {
+            "x1": 309,
+            "y1": 1366,
+            "x2": 2746,
+            "y2": 1517
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "नहिंजाय ॥ छटकिजलदतेजलदबहु दामिनिजातल",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_9.png",
+        "bounding_box": {
+            "x1": 297,
+            "y1": 1507,
+            "x2": 2754,
+            "y2": 1685
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "खाय ६७ ॥ पर्यस्तापह्नुतिलक्षण ॥ औरबिषेगुणऔर",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_10.png",
+        "bounding_box": {
+            "x1": 301,
+            "y1": 1676,
+            "x2": 2813,
+            "y2": 1839
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "को जबकीजैआरोप ॥ तबपर्यस्तापह्‌नुती इमिकविक",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_11.png",
+        "bounding_box": {
+            "x1": 321,
+            "y1": 1842,
+            "x2": 2819,
+            "y2": 2007
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "हहिंसचोप ६८ ॥ उदाहरण ॥ नहींशक्रसुरपतिअहै",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_12.png",
+        "bounding_box": {
+            "x1": 305,
+            "y1": 1995,
+            "x2": 2827,
+            "y2": 2187
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सुरपतिनन्दकुमार ॥ रतनाकरसागरनहीं मथुरानगर",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_13.png",
+        "bounding_box": {
+            "x1": 313,
+            "y1": 2176,
+            "x2": 2762,
+            "y2": 2347
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "बजार ६९ ॥ हेतुपर्यस्तापह्नुतिलक्षण ॥ पर्यस्तापह्‌नुति",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_14.png",
+        "bounding_box": {
+            "x1": 329,
+            "y1": 2329,
+            "x2": 2762,
+            "y2": 2509
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "बिषे हेतुसहितजोकोइ ॥ धर्मछपावैहेतुयुत वहीनामतब",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_15.png",
+        "bounding_box": {
+            "x1": 329,
+            "y1": 2495,
+            "x2": 2763,
+            "y2": 2673
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "होइ ७० ॥ उदाहरण ॥ तमहररविनहिंहरिभजन तमीहो",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_16.png",
+        "bounding_box": {
+            "x1": 292,
+            "y1": 2656,
+            "x2": 2805,
+            "y2": 2841
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "इरविलोक ॥ कहुँतमरहैनहरिभजै इमिवरणहिंमतिओ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_17.png",
+        "bounding_box": {
+            "x1": 321,
+            "y1": 2825,
+            "x2": 2762,
+            "y2": 3005
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "क ७१ ॥ भ्रांतापह्नुतिलक्षण ॥ भ्रान्तिऔरकीऔरजब",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_18.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 2990,
+            "x2": 2762,
+            "y2": 3165
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "बचनसोंनास ॥ भ्रान्तापह्‌नुतिकहहिंतेहि कविजन",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_19.png",
+        "bounding_box": {
+            "x1": 305,
+            "y1": 3160,
+            "x2": 2762,
+            "y2": 3337
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "गिरिधरदास ७२ ॥ उदाहरण ॥ जीवनदीन्होश्यामघन",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_20.png",
+        "bounding_box": {
+            "x1": 345,
+            "y1": 3325,
+            "x2": 2778,
+            "y2": 3497
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "सजनीरजनीआइ ॥ क्योंसखिबिनबरसातके नहिंनहिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_21.png",
+        "bounding_box": {
+            "x1": 321,
+            "y1": 3486,
+            "x2": 2778,
+            "y2": 3661
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "गोकुलराइ ७३ ॥ छेकापह्नुतिलक्षण ॥ शङ्कानाशैऔरकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_22.png",
+        "bounding_box": {
+            "x1": 317,
+            "y1": 3643,
+            "x2": 2782,
+            "y2": 3827
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "सांचीबातदुराइ ॥ छेकापह्‌नुतिकहतहैं ताहिकविनके",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_23.png",
+        "bounding_box": {
+            "x1": 341,
+            "y1": 3813,
+            "x2": 2778,
+            "y2": 3993
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "राइ ७४ ॥ उदाहरण ॥ ऐंचिचीरतनसछतकिय हरेशृँ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_24.png",
+        "bounding_box": {
+            "x1": 345,
+            "y1": 3990,
+            "x2": 2813,
+            "y2": 4151
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "गारसमक्ष ॥ कुंजनमेंक्योंश्यामसखि नहिंकरीलकोवृ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_25.png",
+        "bounding_box": {
+            "x1": 325,
+            "y1": 4143,
+            "x2": 2798,
+            "y2": 4321
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "क्ष ७५ ॥ कैतवापह्नुतिलक्षण ॥ औरहिवरणैऔरई मि",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_26.png",
+        "bounding_box": {
+            "x1": 350,
+            "y1": 4304,
+            "x2": 2790,
+            "y2": 4492
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "७",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_07_textline_27.png",
+        "bounding_box": {
+            "x1": 2583,
+            "y1": 185,
+            "x2": 2746,
+            "y2": 347
+        }
+    }
+]

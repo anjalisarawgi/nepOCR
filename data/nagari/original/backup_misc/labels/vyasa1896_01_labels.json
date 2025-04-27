@@ -1,0 +1,167 @@
+[
+    {
+        "line_number": 1,
+        "text": "वेदास्तुतिसाटीक",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_1.png",
+        "bounding_box": {
+            "x1": 525,
+            "y1": 1008,
+            "x2": 1276,
+            "y2": 1164
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रमिद्भागवत के दशमस्कन्ध के सत्तासी",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_2.png",
+        "bounding_box": {
+            "x1": 371,
+            "y1": 1354,
+            "x2": 1503,
+            "y2": 1484
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "अध्यायकी वेदोंकी कीहुई श्रीभगवान् की",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_3.png",
+        "bounding_box": {
+            "x1": 366,
+            "y1": 1465,
+            "x2": 1503,
+            "y2": 1592
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "स्तुति वर्णन कीगई है ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_4.png",
+        "bounding_box": {
+            "x1": 593,
+            "y1": 1555,
+            "x2": 1304,
+            "y2": 1697
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "महात्मावेदव्यासजीने ललितश्लोकों में",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_5.png",
+        "bounding_box": {
+            "x1": 361,
+            "y1": 1755,
+            "x2": 1508,
+            "y2": 1877
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "रचना किया था ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_6.png",
+        "bounding_box": {
+            "x1": 658,
+            "y1": 1858,
+            "x2": 1208,
+            "y2": 1986
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "उत्तम संस्कृतटीकासहित अत्यन्तशुद्धहोकर",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_7.png",
+        "bounding_box": {
+            "x1": 318,
+            "y1": 2045,
+            "x2": 1549,
+            "y2": 2165
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मुंशी नवलकिशोर (सी, आई, ई) के छापेख़ने छपी",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_8.png",
+        "bounding_box": {
+            "x1": 403,
+            "y1": 2400,
+            "x2": 1465,
+            "y2": 2520
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "जनवरी सन् १८९६ ई०",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_9.png",
+        "bounding_box": {
+            "x1": 704,
+            "y1": 2516,
+            "x2": 1175,
+            "y2": 2608
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "जिसमें",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_10.png",
+        "bounding_box": {
+            "x1": 858,
+            "y1": 1283,
+            "x2": 1032,
+            "y2": 1378
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जिसको",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_11.png",
+        "bounding_box": {
+            "x1": 835,
+            "y1": 1674,
+            "x2": 1044,
+            "y2": 1776
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "पहलीबार",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_12.png",
+        "bounding_box": {
+            "x1": 768,
+            "y1": 2188,
+            "x2": 1094,
+            "y2": 2297
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_13.png",
+        "bounding_box": {
+            "x1": 784,
+            "y1": 2292,
+            "x2": 1097,
+            "y2": 2409
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "वही",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_14.png",
+        "bounding_box": {
+            "x1": 875,
+            "y1": 1979,
+            "x2": 991,
+            "y2": 2065
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "181",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_01_textline_15.png",
+        "bounding_box": {
+            "x1": 1181,
+            "y1": 2324,
+            "x2": 1372,
+            "y2": 2448
+        }
+    }
+]

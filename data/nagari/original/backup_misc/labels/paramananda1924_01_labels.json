@@ -1,0 +1,123 @@
+[
+    {
+        "line_number": 1,
+        "text": "भ्रम-नाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_1.png",
+        "bounding_box": {
+            "x1": 425,
+            "y1": 719,
+            "x2": 1558,
+            "y2": 938
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "काशीं विश्वेश्वरं वंदे गंगां भागीरथीं तथा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_2.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 1416,
+            "x2": 1762,
+            "y2": 1617
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "अमरदासं गुरुं चैव सर्वतंत्रप्रवर्तकम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_3.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 1781,
+            "x2": 1499,
+            "y2": 1932
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "वादिनां भ्रमशीलानां मतिं धर्मेऽनुवर्तितुम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_4.png",
+        "bounding_box": {
+            "x1": 65,
+            "y1": 2093,
+            "x2": 1740,
+            "y2": 2271
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "श्लोक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_5.png",
+        "bounding_box": {
+            "x1": 847,
+            "y1": 1274,
+            "x2": 1110,
+            "y2": 1411
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सर्वान्साधूनहं वंदे पंडितांश्च विमत्सरान् ॥ १ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_6.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 1600,
+            "x2": 1907,
+            "y2": 1782
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "यत्कृपालवमात्रेण विद्या शुद्धा समागता ॥ २ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_7.png",
+        "bounding_box": {
+            "x1": 65,
+            "y1": 1945,
+            "x2": 1901,
+            "y2": 2109
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "कुर्वेऽहं परमानंदो भ्रमाणां तु विनाशकम् ॥ ३ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_8.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 2257,
+            "x2": 1935,
+            "y2": 2437
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "वर्णाश्रम जाती सकल कल्पित हैं जिहि माहिं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_9.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 2625,
+            "x2": 1708,
+            "y2": 2814
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "दोहा",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_10.png",
+        "bounding_box": {
+            "x1": 873,
+            "y1": 2475,
+            "x2": 1068,
+            "y2": 2619
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सो मैं परमानंद हूँ आदि अंत जिहि नाहिं ॥ १ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_01_textline_11.png",
+        "bounding_box": {
+            "x1": 60,
+            "y1": 2792,
+            "x2": 2009,
+            "y2": 2976
+        }
+    }
+]

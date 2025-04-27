@@ -2,7 +2,7 @@
   {
     "line_number": 4,
     "text": "रूलाईपनि·आफ्नादर्वारसँगैविहारवनाई·तेस् विहारमावसाया·ताहापछि·आफ्नादर्वारअगाडिचैत्यवनाई·प्रतिष्ठाग",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/11_nbhv_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/11_nbhv_textline_4.png",
     "bounding_box": {
       "x1": 664,
       "y1": 534,
@@ -13,7 +13,7 @@
   {
     "line_number": 7,
     "text": "ष्टगरी·सवैकोतहलगरी·कमाईगरीवचाईराष्याकाअन्न·सोहीराजालेदानगर्दा·सोवुढीलेदानगर्नगईर·दीपंकर",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/11_nbhv_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/11_nbhv_textline_7.png",
     "bounding_box": {
       "x1": 673,
       "y1": 899,
@@ -24,7 +24,7 @@
   {
     "line_number": 14,
     "text": "भनिमनमाराषि·अवक्याकामगर्नामाकष्टलाग्छभनिविचारगरीदुलदैरहदा·लोहाकारले·आफ्नाकपालवाट",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/11_nbhv_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/11_nbhv_textline_14.png",
     "bounding_box": {
       "x1": 629,
       "y1": 2320,
@@ -35,7 +35,7 @@
   {
     "line_number": 4,
     "text": "नंचलप्स्यसि॥योगिनांतथ्यमेवेति·वचःकृत्वागृहंययौ॥ ६ ॥संमंत्रासहभूपोसौ·वुद्धिक्षेमेनमंत्रिणा॥अभिषेकं",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/13_nbhv_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/13_nbhv_textline_4.png",
     "bounding_box": {
       "x1": 775,
       "y1": 564,
@@ -46,7 +46,7 @@
   {
     "line_number": 5,
     "text": "ददौसम्यक्·तद्राज्यंवलकेतवे॥ ७ ॥ययौपाशुपतंक्षत्रं·स्तेनाशुमंत्रिणासमं॥आप्राव्यवाग्मतीतोये·धर्म्मदत्तो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/13_nbhv_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/13_nbhv_textline_5.png",
     "bounding_box": {
       "x1": 788,
       "y1": 698,
@@ -57,7 +57,7 @@
   {
     "line_number": 8,
     "text": "सिध्रूवम्॥इतिलव्धावलंराजा·युयुधेतेनसंकुना॥ ११ ॥सोपिजित्वाकिराताम्वैकृत्वात्मसाज्जगन्नृपः॥अध्या",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/13_nbhv_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/13_nbhv_textline_8.png",
     "bounding_box": {
       "x1": 764,
       "y1": 1060,
@@ -68,7 +68,7 @@
   {
     "line_number": 19,
     "text": "पदेशदियार·भिक्षुकाआज्ञामानि·जापगर्दैरहदाभया·कतिचित् वर्षगयापनि·मालाउस्तैरह्याकोदेषि·अ-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/15_nbhv_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/15_nbhv_textline_19.png",
     "bounding_box": {
       "x1": 667,
       "y1": 2879,
@@ -79,7 +79,7 @@
   {
     "line_number": 7,
     "text": "षिप्रजाहरूलेदीपावतीमहाविहारभनि·तस् विहारकानामजाहेरगरी·सोहीदीपंकरमूर्त्ति·भगवानकासेवागरीतहीर·",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/12_nbhv_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/12_nbhv_textline_7.png",
     "bounding_box": {
       "x1": 782,
       "y1": 818,
@@ -90,7 +90,7 @@
   {
     "line_number": 8,
     "text": "दाभया॥औ·श्रावणशुक्लअष्टमीकादिन·प्रतिवर्षवुद्धकापूजागरी·भिक्षुसंगहरूलाई·दानपूजागर्दैरह्या॥  ॥ताहा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/12_nbhv_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/12_nbhv_textline_8.png",
     "bounding_box": {
       "x1": 798,
       "y1": 935,
@@ -101,7 +101,7 @@
   {
     "line_number": 18,
     "text": "राज्यंसधर्म्मदत्ताभिधानकः॥ततोदशात्मजास्तेषां·वभूवशृणुचाह्वयं॥ १ ॥धर्म्मकेतुस्तथासूर्य्यकेतुर्वलध्व",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/12_nbhv_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/12_nbhv_textline_18.png",
     "bounding_box": {
       "x1": 752,
       "y1": 2805,
@@ -112,7 +112,7 @@
   {
     "line_number": 1,
     "text": "उमेश्वर·पशुपतिज्योतिलिंगरूपभै·त्रिरत्नकाउपास् गरीलोकहरूकन·पालनागरी·पूजाभावली·लोकलाईभु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_1.png",
     "bounding_box": {
       "x1": 857,
       "y1": 157,
@@ -123,7 +123,7 @@
   {
     "line_number": 3,
     "text": "·आफैआफज्योतीलिंगरूपभै·कार्त्तिकशुक्ला८ष्टमीप्रतिउपासगरि·वडोआनन्दसंगविराजमानहुनभै·अतिउ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_3.png",
     "bounding_box": {
       "x1": 857,
       "y1": 390,
@@ -134,7 +134,7 @@
   {
     "line_number": 5,
     "text": "त्तमजग्गाभयाका॥फेरीविपश्वीवुद्धआदिवुद्धहरूले·अधिष्ठानगरीरह्याका·जातमात्रोच्च·ध्यानोच्च·फुल्लोच-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_5.png",
     "bounding_box": {
       "x1": 832,
       "y1": 514,
@@ -145,7 +145,7 @@
   {
     "line_number": 6,
     "text": "सिद्धिफुल्लोच्चभनिनामराषिगयाका·एस्ता२पर्वतले·परीवृतभयाका·औ·यस् क्षेत्रमा जलामयभैरह्याकोजल",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_6.png",
     "bounding_box": {
       "x1": 832,
       "y1": 630,
@@ -156,7 +156,7 @@
   {
     "line_number": 8,
     "text": "रहन्यालोकहरूलाई·सुवृष्टिगराउनुपर्छभनि·यस् क्षेत्रमाजत्तिद्रव्यछ·तिसवैतम्रैषुसिभयोभनिवुझा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_8.png",
     "bounding_box": {
       "x1": 827,
       "y1": 871,
@@ -167,7 +167,7 @@
   {
     "line_number": 10,
     "text": "क्यलेउत्पत्तिभयाकावाग्मति·फेरि·उनैवुद्धलेकेशोत्पातगर्दाउत्पत्तिभयाकाकेशावती·अरू·रूद्रजीलेउ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_10.png",
     "bounding_box": {
       "x1": 827,
       "y1": 1109,
@@ -178,7 +178,7 @@
   {
     "line_number": 14,
     "text": "ईचारगैरह·अनेकषोल् सोपनिभयाका·औ·देवदैत्यमनुष्यहरूतपस्यागरीउद्धारभैगयाका·जौनवाग्म",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_14.png",
     "bounding_box": {
       "x1": 796,
       "y1": 2321,
@@ -189,7 +189,7 @@
   {
     "line_number": 15,
     "text": "तीकासंगमनभैवडोतीर्थभैगयाका·पुंण्य·शांत·शंकर·राज·मनोरथ·निर्मल·निधि·ज्ञान·चिंतामणि·प्र-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/14_nbhv_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/14_nbhv_textline_15.png",
     "bounding_box": {
       "x1": 791,
       "y1": 2456,
@@ -200,7 +200,7 @@
   {
     "line_number": 3,
     "text": "रालेहान्नसक्दैनौ·भदां·त्योपुरूषलेभंछ·हेविरूपाक्ष·उसोताहोईन·वनचराले·हान्नामा·वडोपरिश्रमलाग्छ·यो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/16_nbhv_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/16_nbhv_textline_3.png",
     "bounding_box": {
       "x1": 839,
       "y1": 409,
@@ -211,7 +211,7 @@
   {
     "line_number": 7,
     "text": "पानि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/16_nbhv_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/16_nbhv_textline_7.png",
     "bounding_box": {
       "x1": 613,
       "y1": 921,
@@ -222,7 +222,7 @@
   {
     "line_number": 9,
     "text": "फ्नाचुंचीलेपानीउठाईलगी·जलनभयाकोपोषरीमाराष्दैरह्याकोदेषदा·त्योविरूपाक्षलेविचारगर्छ·क्या·त-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/16_nbhv_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/16_nbhv_textline_9.png",
     "bounding_box": {
       "x1": 836,
       "y1": 1003,
@@ -233,7 +233,7 @@
   {
     "line_number": 12,
     "text": "ला लीजापगर्नलाग्योर·फेरीअसमर्थमानि·जापमालाछाडीगयो·ताहापछि·वाटामाएकपुरूषले·आफ्नाअंगुछामा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/16_nbhv_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/16_nbhv_textline_12.png",
     "bounding_box": {
       "x1": 817,
       "y1": 2055,
@@ -244,7 +244,7 @@
   {
     "line_number": 5,
     "text": "उपदेशले·पाशुपत् क्षेत्रकामाहात्म्यसुनी·त्योराजाधर्म्मदत्तले·आफ्नुमंत्रीवुद्धिक्षेमसंगसल्हागरीआफ्ना १०",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/17_nbhv_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/17_nbhv_textline_5.png",
     "bounding_box": {
       "x1": 669,
       "y1": 675,
@@ -255,7 +255,7 @@
   {
     "line_number": 6,
     "text": "पुत्रमध्ये१पुत्रवलकेतुलाई·कांचीनगरकाराज्याभिषेकदी·आफु·पुत्रहरू·मंत्रीहरू·साथगरीनेपालक्षेत्रमाआ-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/17_nbhv_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/17_nbhv_textline_6.png",
     "bounding_box": {
       "x1": 661,
       "y1": 791,
@@ -266,7 +266,7 @@
   {
     "line_number": 12,
     "text": "धानगरी·वडोनेमगरी·देवालयठुलोलिंगाकारगरी·वनाई·प्रतिष्ठागरी·अनेकधनद्रव्यचढाई·ईश्वर",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/17_nbhv_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/17_nbhv_textline_12.png",
     "bounding_box": {
       "x1": 702,
       "y1": 2171,
@@ -277,7 +277,7 @@
   {
     "line_number": 13,
     "text": "षुसीगरीराषदाभया॥फेरीपशुपतिदेषी·वायुव्यदिशापट्टी·गणावरणसहीतगरी·सर्वदेवालयचैत्यव",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/17_nbhv_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/17_nbhv_textline_13.png",
     "bounding_box": {
       "x1": 691,
       "y1": 2293,
@@ -288,7 +288,7 @@
   {
     "line_number": 15,
     "text": "र्म्मगरी·प्रजापुत्रपरियारसहितभैसवैउद्धारभैगया॥  ॥यस् पछि१०००वर्षव्यतीतभयापछि·सोही-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/17_nbhv_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/17_nbhv_textline_15.png",
     "bounding_box": {
       "x1": 688,
       "y1": 2545,
@@ -299,7 +299,7 @@
   {
     "line_number": 6,
     "text": "गर्ननिमित्त·महाचीनवाटआईमंजुश्रीवोधिसत्वले·ह्रदकाजलशोषणगरीपठाउदा·त्योह्रदमा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/19_nbhv_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/19_nbhv_textline_6.png",
     "bounding_box": {
       "x1": 883,
       "y1": 752,
@@ -310,7 +310,7 @@
   {
     "line_number": 7,
     "text": "रह्याका·नागगैह्रजलचरसवै·जलकासाथह्रदवाटनिकलीजादा·कुलिकनागपनिगयाकोहो·पछि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/19_nbhv_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/19_nbhv_textline_7.png",
     "bounding_box": {
       "x1": 894,
       "y1": 894,
@@ -321,7 +321,7 @@
   {
     "line_number": 15,
     "text": "द्धभैगयो·ताहापछि·तिसमन्तभद्रवोधिसत्वले·आफ्नाअंसतेस् पर्वतमाराषी·कीलेश्वरवीतरा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/19_nbhv_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/19_nbhv_textline_15.png",
     "bounding_box": {
       "x1": 891,
       "y1": 2571,
@@ -332,7 +332,7 @@
   {
     "line_number": 2,
     "text": "दानासुरले·वर्स्यौंदै·चोरले·हरायाजस्तै·इन्द्रकाधनहरणगरिली·केहीदानपुण्यगरी·फेरै·धनवढाउ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/18_nbhv_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/18_nbhv_textline_2.png",
     "bounding_box": {
       "x1": 813,
       "y1": 309,
@@ -343,7 +343,7 @@
   {
     "line_number": 4,
     "text": "तीतहुदा·त्योकुराइन्द्रका·सुधर्म्मासभामाहुदा·इन्द्रले·आफ्नुधनद्रव्य·फिर्तालिनाकोइछागरी·तीर्थ·",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/18_nbhv_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/18_nbhv_textline_4.png",
     "bounding_box": {
       "x1": 799,
       "y1": 553,
@@ -354,7 +354,7 @@
   {
     "line_number": 8,
     "text": "हगरीदेउभनिभंदा·कर्कोटकनागले·आफ्नापरियारसवैमिलीगै·त्योदानासुरले·गुप्तसितगाडीरा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/18_nbhv_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/18_nbhv_textline_8.png",
     "bounding_box": {
       "x1": 816,
       "y1": 1062,
@@ -365,7 +365,7 @@
   {
     "line_number": 7,
     "text": "वाई·राष्योर·गरूडले·आफ्नास्वामिविष्णुलाई·पुकार्‍यो·तवविष्णुआई·तक्षकलाई·चक्रलेहाँनतयार",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/20_nbhv_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/20_nbhv_textline_7.png",
     "bounding_box": {
       "x1": 738,
       "y1": 888,
@@ -376,7 +376,7 @@
   {
     "line_number": 8,
     "text": "गर्दाभया·तेस् वषन् मा·सुखावतीभुवनमा·विराजमानभयाका·आर्यावलोकितेश्वर·पद्मपाणिवो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/20_nbhv_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/20_nbhv_textline_8.png",
     "bounding_box": {
       "x1": 733,
       "y1": 1011,
@@ -387,7 +387,7 @@
   {
     "line_number": 11,
     "text": "लोकेश्वरसँगविंतिगरि·लोकेश्वरलाई·आफ्नाकंदामाराषीवोक्यार·लोकेश्वरले·गरूडर·तक्षकनागका·मि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/20_nbhv_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/20_nbhv_textline_11.png",
     "bounding_box": {
       "x1": 708,
       "y1": 2066,
@@ -398,7 +398,7 @@
   {
     "line_number": 13,
     "text": "हलेगरूडवोकी·ताहावाट·सिंहलेउडीगै·तेस् पर्वतमापुग् नगया·ताहापुग्दा·हरिहरि`´वाहनलोकेश्वरभ-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/20_nbhv_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/20_nbhv_textline_13.png",
     "bounding_box": {
       "x1": 697,
       "y1": 2312,
@@ -409,7 +409,7 @@
   {
     "line_number": 8,
     "text": "रोपी·जातमात्रोच्चभनि·पर्वतकोनामअधिष्ठानगरि·आफ्नाशिष्यहरूलाई·भविष्यकथावताई·आफ्नाआ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_001_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_001_textline_8.png",
     "bounding_box": {
       "x1": 446,
       "y1": 581,
@@ -420,7 +420,7 @@
   {
     "line_number": 9,
     "text": "वली",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_001_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_001_textline_9.png",
     "bounding_box": {
       "x1": 2995,
       "y1": 593,
@@ -431,7 +431,7 @@
   {
     "line_number": 12,
     "text": "आश्विनशुदिपूर्णिमाकादिन",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_001_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_001_textline_12.png",
     "bounding_box": {
       "x1": 1715,
       "y1": 1203,
@@ -442,7 +442,7 @@
   {
     "line_number": 7,
     "text": "तिकादिन·वासदी·यस् क्षेत्रकाधनद्रव्यसवै·तम्राषुसिभयोभनि·कर्कोटकनागराजलाईवुझाई·ठुलोतलाउ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_002_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_002_textline_7.png",
     "bounding_box": {
       "x1": 793,
       "y1": 613,
@@ -453,7 +453,7 @@
   {
     "line_number": 18,
     "text": "रूमंजुश्रीकाभावगर्नानिमित्त·स्वायंभूज्योतीरूपकासमीप·लयनाकारगरी·माघशुदिपंचमीकोदिन·मंजु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_002_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_002_textline_18.png",
     "bounding_box": {
       "x1": 776,
       "y1": 2425,
@@ -464,7 +464,7 @@
   {
     "line_number": 3,
     "text": "मनगरवाटक्रकुछंदनामवुद्धप्राप्तभै·श्रीस्वयंभूज्योतीरूपकार·गुह्येश्वरीकादर्शनगरी·योषादलउत्तर",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_003_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_003_textline_3.png",
     "bounding_box": {
       "x1": 556,
       "y1": 162,
@@ -475,7 +475,7 @@
   {
     "line_number": 7,
     "text": "प्रवृत्तिनिवृत्तिमार्गकाराहदेषाई·गृहस्थधर्मकानेमपनिवताई·फेरी·भिक्षुधर्म्मकायोगज्ञानसवैवताउं-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_003_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_003_textline_7.png",
     "bounding_box": {
       "x1": 556,
       "y1": 539,
@@ -486,7 +486,7 @@
   {
     "line_number": 9,
     "text": "शिष्यहरूले·भिक्षुचर्यामारहनइछागरी·क्रकुछन्दवुद्धसंगविंतिगर्‍यार·वुद्धले·इन्हेरूलाइभिक्षुगरि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_003_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_003_textline_9.png",
     "bounding_box": {
       "x1": 545,
       "y1": 719,
@@ -497,7 +497,7 @@
   {
     "line_number": 10,
     "text": "दिया·औ·तिन्हेरूलाईअभिषेकदिनानिमित्त·तेसपर्वतमा·जलनभयाकोहेरी·स्वयंभूज्योतीरूपरगु-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_003_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_003_textline_10.png",
     "bounding_box": {
       "x1": 558,
       "y1": 813,
@@ -508,7 +508,7 @@
   {
     "line_number": 22,
     "text": "लाई·स्वयंभूज्योतीरूपर·गुह्येश्वरीकाभावपूजासेवा·गराउनामातत्परहुन्यागराई·पर्वतलाईपनि·सिद्धि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_003_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_003_textline_22.png",
     "bounding_box": {
       "x1": 573,
       "y1": 2126,
@@ -519,7 +519,7 @@
   {
     "line_number": 2,
     "text": "या·उस् जग्गाकानाउ·विष्णुगुप्तभनिनामप्रख्यातभैगयो॥औ·उस् दिनदेषिन्·महादेवजीकानामपशु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_005_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_005_textline_2.png",
     "bounding_box": {
       "x1": 873,
       "y1": 199,
@@ -530,7 +530,7 @@
   {
     "line_number": 8,
     "text": "वाकिछदाभनि·भंछन्॥  ॥परंतु·इनिविष्णुर·व्रह्मा·दुव़ैले·शिवजीका·ज्योतीको·अंतपायेनर·इनिदुव़ै·",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_005_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_005_textline_8.png",
     "bounding_box": {
       "x1": 838,
       "y1": 925,
@@ -541,7 +541,7 @@
   {
     "line_number": 10,
     "text": "पारगरीआयांभनिभन्यार·साछीकोछन् भनि·विष्णुलेआज्ञागर्दा·कामधेनुलाईव्रह्मजीलेपुकारी·इन् लेजान्याको-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_005_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_005_textline_10.png",
     "bounding_box": {
       "x1": 820,
       "y1": 2043,
@@ -552,7 +552,7 @@
   {
     "line_number": 11,
     "text": "छन् भनि·साछिलेवकाउदा·कामधेनुले·मुखवाटभन्याहोभनिदिया·पुछारवाटभन्या·होइन२भनिसंकेतवता",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_005_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_005_textline_11.png",
     "bounding_box": {
       "x1": 818,
       "y1": 2160,
@@ -563,7 +563,7 @@
   {
     "line_number": 12,
     "text": "या·र·विष्णुलेव्रह्माजीलाई·झुठसितकुरागर्न्या·तिमिलाई·मूर्त्तिस्थापनागरी·कोईनमानोस् भनिश्रापदिया·औ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_005_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_005_textline_12.png",
     "bounding_box": {
       "x1": 799,
       "y1": 2259,
@@ -574,7 +574,7 @@
   {
     "line_number": 16,
     "text": "तस् पछि·मंजुश्रीलेस्थापनागरीराष्याकाधर्माकरराजाकासंतानभयेनर·क्रकुछन्दवुद्धकासाथ·आईसो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_005_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_005_textline_16.png",
     "bounding_box": {
       "x1": 802,
       "y1": 2733,
@@ -585,7 +585,7 @@
   {
     "line_number": 5,
     "text": "पादहुनाले·चारखण्डकाएकखण्डपापचित्तहुनगया॥तस्कारण·मंजुपत्तनकादर्वारमावश्नुइ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_006_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_006_textline_5.png",
     "bounding_box": {
       "x1": 665,
       "y1": 608,
@@ -596,7 +596,7 @@
   {
     "line_number": 15,
     "text": "ताहांवाटफर्कीजादा·गौडदेशमागै·ताहाकोराजाप्रचण्डदेववर्म्मन् ले·वुद्धप्राप्तभयोभनि·अनेकसत्का·",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_006_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_006_textline_15.png",
     "bounding_box": {
       "x1": 596,
       "y1": 2432,
@@ -607,7 +607,7 @@
   {
     "line_number": 17,
     "text": "जाभावलीसक्यापछि·इनिकाश्यपवुद्धले·प्रचण्डदेववर्म्मन् राजाकन·आज्ञागर्‍या·हेराजन्·तिमि·स्व-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_006_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_006_textline_17.png",
     "bounding_box": {
       "x1": 602,
       "y1": 2676,
@@ -618,7 +618,7 @@
   {
     "line_number": 7,
     "text": "पनि·आफ्नुचिन्ह·तिस् जग्गामा·केहीराषी·तिस् जग्गाकानाम·विक्रमशीलविहारभनिनामराषि·ता",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_008_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_008_textline_7.png",
     "bounding_box": {
       "x1": 842,
       "y1": 845,
@@ -629,7 +629,7 @@
   {
     "line_number": 16,
     "text": "धनागर्दा·नागदहमारहन्या·कर्कोटकनागनआउंदा·शांतिकरआचार्य्यले·मंत्रगरीदुर्वाकुन्दपुष्पदी·गुणका",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_008_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_008_textline_16.png",
     "bounding_box": {
       "x1": 812,
       "y1": 2464,
@@ -640,7 +640,7 @@
   {
     "line_number": 18,
     "text": "नागलाईसमातील्यायार·वाटामाठकीगयोर·वाटामाविसायाकाजग्गामा·कर्कोटकनागकामूर्त्ति·स्वयंभूपर्व",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_008_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_008_textline_18.png",
     "bounding_box": {
       "x1": 823,
       "y1": 2693,
@@ -651,7 +651,7 @@
   {
     "line_number": 2,
     "text": "प्रणामगरी·घोडाचढी·समुद्रपारजादा·अरूवनीयाहरूले·राक्षस् नीहरूकामायाले·फर्कीहेर्‍यार·सिंहलसार्थवाह१",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_010_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_010_textline_2.png",
     "bounding_box": {
       "x1": 753,
       "y1": 219,
@@ -662,7 +662,7 @@
   {
     "line_number": 3,
     "text": "दपाई·चिरंजीवीभै·स्वयंभूकोदर्शनगरीवसभनि·यतिआज्ञागरी·तिकनकमुनिनामवुद्धआफ्ना-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_007_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_007_textline_3.png",
     "bounding_box": {
       "x1": 659,
       "y1": 193,
@@ -673,7 +673,7 @@
   {
     "line_number": 7,
     "text": "श्रीपाराजिका·धर्मशास्त्रकाप्रमाणले·पुनरावृत्यभै·तिप्रचण्डदेवराजाले·आचार्य्यपदली·शांतश्री",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_007_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_007_textline_7.png",
     "bounding_box": {
       "x1": 664,
       "y1": 673,
@@ -684,7 +684,7 @@
   {
     "line_number": 15,
     "text": "धर्म्मश्रीमित्रभन्याको १ पण्डितले·आफ्नाविहारमावसी·गृहस्थआचार्यहरूगैह्रशिष्यहरूलाईधर्मकथा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_007_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_007_textline_15.png",
     "bounding_box": {
       "x1": 626,
       "y1": 2061,
@@ -695,7 +695,7 @@
   {
     "line_number": 19,
     "text": "ध्यानदृष्टिलेदेखी",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_007_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_007_textline_19.png",
     "bounding_box": {
       "x1": 1903,
       "y1": 2565,
@@ -706,7 +706,7 @@
   {
     "line_number": 22,
     "text": "जोतीरही·सोहीधर्म्मश्रीमित्रलाईदेषायोर·धर्मश्रीमित्रकामनमावडोआश्चर्यमानी·यसैपुरूष",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_007_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_007_textline_22.png",
     "bounding_box": {
       "x1": 607,
       "y1": 2797,
@@ -717,7 +717,7 @@
   {
     "line_number": 23,
     "text": "कानगीचगै·हेमहापुरूष·तिमिकोहौ·महाचीनजान्यावाटकाहाहोभनिसोधदा·सोहीपुरूषलेभ·",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_007_textline_23.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_007_textline_23.png",
     "bounding_box": {
       "x1": 621,
       "y1": 2912,
@@ -728,7 +728,7 @@
   {
     "line_number": 5,
     "text": "राज्यगरीरहदा·तनैकासंतानमाढेरैकालगयापछि·सिंहकेतुनामराजाकासमयमा·सिंहलनाम १ सार्थवाहव",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_009_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_009_textline_5.png",
     "bounding_box": {
       "x1": 799,
       "y1": 539,
@@ -739,7 +739,7 @@
   {
     "line_number": 9,
     "text": "गुरूः",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_009_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_009_textline_9.png",
     "bounding_box": {
       "x1": 4101,
       "y1": 914,
@@ -750,7 +750,7 @@
   {
     "line_number": 13,
     "text": "मा·सार्थवाहसुतीरहदा·उस्काघरजाई·वत्तीवालीराष्याकावत्तीमापसी·आर्यावलोकितेश्वरले·आफ्नासरूपदेषाई·आज्ञाग",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_009_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_009_textline_13.png",
     "bounding_box": {
       "x1": 627,
       "y1": 2073,
@@ -761,7 +761,7 @@
   {
     "line_number": 4,
     "text": "थिया·इन्‌नागार्जुनपादआचार्य्यले·आफ्नुमंत्रसिद्धगर्नानिमित्त·जातमात्रोच्चपर्वतकावीचमा·एक·",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_021_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_021_textline_4.png",
     "bounding_box": {
       "x1": 763,
       "y1": 319,
@@ -772,7 +772,7 @@
   {
     "line_number": 7,
     "text": "तपगरिरह्याकोथिया·तेस्तावेलामा·तिदानासुरदैत्यलेपानिथुनिदियोर·फेरतलाउभैग",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_021_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_021_textline_7.png",
     "bounding_box": {
       "x1": 758,
       "y1": 558,
@@ -783,7 +783,7 @@
   {
     "line_number": 8,
     "text": "लाउमाषेलन्यानागलेजलवढाई·षेल्दैजांदा·नागार्जुनपादआचार्य्यवसीरह्याकागुफासम्मवढदै",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_021_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_021_textline_8.png",
     "bounding_box": {
       "x1": 760,
       "y1": 697,
@@ -794,7 +794,7 @@
   {
     "line_number": 14,
     "text": "पर्वतविषये·लोकहरूकापापपुण्यप्रत्यक्षदेषन्या·माटाकाचैत्यढेरैप्रसिद्धगरीवनाइराष्या·औइनैले·एस्तैप्र-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_021_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_021_textline_14.png",
     "bounding_box": {
       "x1": 727,
       "y1": 2100,
@@ -805,7 +805,7 @@
   {
     "line_number": 20,
     "text": "लाउमावसी·षेल्दैजलवढाई·आचार्य्यरह्याकोगुफामाजादा·आचार्य्यले·त्योनागलाईसमाई·उसैगुफामाप्र-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_021_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_021_textline_20.png",
     "bounding_box": {
       "x1": 725,
       "y1": 2826,
@@ -816,7 +816,7 @@
   {
     "line_number": 5,
     "text": "भैरहनानिमित्त·मृगकारूपभै·मंजुश्रीलेवनाईराष्याकोवनमा·दुल् दैरह्याकादेषीकन·क्रकुछंदवुद्ध",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_004_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_004_textline_5.png",
     "bounding_box": {
       "x1": 616,
       "y1": 570,
@@ -827,7 +827,7 @@
   {
     "line_number": 15,
     "text": "तस् पछि·मृगरूपभैआयाका·व्रह्मा·विष्णु·महेश्वरका·सल्लाहगरिसक्यापछि·जौनमहेश्वरमहादेवछन्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_004_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_004_textline_15.png",
     "bounding_box": {
       "x1": 569,
       "y1": 2325,
@@ -838,7 +838,7 @@
   {
     "line_number": 18,
     "text": "लोकदेषि ७ लोकमाथिसम्मगै·महादेवजीका·ज्योतीकापारगरीहेरीआउँभनि·माथिगया·विष्णुजी",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_004_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_004_textline_18.png",
     "bounding_box": {
       "x1": 576,
       "y1": 2695,
@@ -849,7 +849,7 @@
   {
     "line_number": 19,
     "text": "भन्या·रसातलदेषि ७ लोकसम्मगै·महादेवजीका·ज्योतीकापारगरीहेरीआउंभनि·रसातलमाग-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_004_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_004_textline_19.png",
     "bounding_box": {
       "x1": 573,
       "y1": 2819,
@@ -860,7 +860,7 @@
   {
     "line_number": 2,
     "text": "२२",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_022_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_022_textline_2.png",
     "bounding_box": {
       "x1": 524,
       "y1": 396,
@@ -871,7 +871,7 @@
   {
     "line_number": 10,
     "text": "ई·तहीपर्वतमा·स्वयंभूकापूजाभावगरी·तहीवस्‌दाभया·ताहापछियोनेपालपुरमामण्डलमा·पानीसु-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_022_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_022_textline_10.png",
     "bounding_box": {
       "x1": 825,
       "y1": 1112,
@@ -882,7 +882,7 @@
   {
     "line_number": 11,
     "text": "कीगयापछि·अगमभैरहदा·केहीकालपछि·सुप्रभानगरपनिउजरीगयोर·एकहज्जार१०००वर्ष-",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_022_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_022_textline_11.png",
     "bounding_box": {
       "x1": 835,
       "y1": 1228,
@@ -893,7 +893,7 @@
   {
     "line_number": 13,
     "text": "पछि·भातभत्यानीभन्याका·मातापिताभ्राताकारूपभै·व्रह्माविष्णुमहेश्वरदेवता·आकाशरूपभैआईकन·वि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/CA__The Cambridge Manuscript_Page_022_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/CA__The Cambridge Manuscript_Page_022_textline_13.png",
     "bounding_box": {
       "x1": 835,
       "y1": 1992,
@@ -904,7 +904,7 @@
   {
     "line_number": 2,
     "text": "स्वस्ति­श्रीमन्महाराजाधिराज",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 14_00000283_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 14_00000283_textline_2.png",
     "bounding_box": {
       "x1": 1527,
       "y1": 3395,
@@ -915,7 +915,7 @@
   {
     "line_number": 7,
     "text": "हल­गर्न्या­गोल्या­घासि­वाहीक­अरु­तेरा­कायेममा­नरह्याको­मोहिले­कमाया",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 14_00000283_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 14_00000283_textline_7.png",
     "bounding_box": {
       "x1": 1521,
       "y1": 3806,
@@ -926,7 +926,7 @@
   {
     "line_number": 8,
     "text": "को­षेत­षोसि­वर्षदीनमा­यक­पटक­पजनि­गर्नु­भनि­मोहिको­पजनि­फोइवक्स्यौँ­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 14_00000283_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 14_00000283_textline_8.png",
     "bounding_box": {
       "x1": 1508,
       "y1": 3877,
@@ -937,7 +937,7 @@
   {
     "line_number": 6,
     "text": "मल­पिठ­भयाको­•सवै­अंग­सावुद­१८­नष­भयाको­रहेछ­•पछिल्‌तिरवाट­हेर्दा­•सा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000054_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000054_textline_6.png",
     "bounding_box": {
       "x1": 1393,
       "y1": 2219,
@@ -948,7 +948,7 @@
   {
     "line_number": 14,
     "text": "भन्दा­ठुला­छन्­•पुछरको­चँदुवा­पनि­सावुद­छ­•इ­दुवै­मत्ता­हाति­¯ ¯१¯ ¯­का­•सव़ा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000054_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000054_textline_14.png",
     "bounding_box": {
       "x1": 1418,
       "y1": 3079,
@@ -959,7 +959,7 @@
   {
     "line_number": 15,
     "text": "रि­लायक्‌का­पक्रिया­भन्न्या­ठहरि­•सेवक्‌का­चित्तमा­वहुत्‌हर्ष­लागि­रहेछ­•अ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000054_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000054_textline_15.png",
     "bounding_box": {
       "x1": 1421,
       "y1": 3197,
@@ -970,7 +970,7 @@
   {
     "line_number": 16,
     "text": "व­प्रांत­पनि­हातिषेदा­गर्दै­छौं­•जस्‌­माफिक्‌का­हाति­•फेला­परि­पक्रिना‌न्‌‌­सो­•अ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000054_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000054_textline_16.png",
     "bounding_box": {
       "x1": 1424,
       "y1": 3289,
@@ -981,7 +981,7 @@
   {
     "line_number": 19,
     "text": "रि­•चाहिन्या­गैरह­संभारको­ताकिति­गर्दैछु­•हाम्रा­भाग्यैले­उस्तो­भया­मात्र­•नतर",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000054_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000054_textline_19.png",
     "bounding_box": {
       "x1": 1436,
       "y1": 3620,
@@ -992,7 +992,7 @@
   {
     "line_number": 25,
     "text": "हुँदैरह्या­वढिया­होला­•विज्ञप्रभुचरणकमलेषु­किमधिकम्­•इति­सम्वत्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000054_textline_25.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000054_textline_25.png",
     "bounding_box": {
       "x1": 1461,
       "y1": 4275,
@@ -1003,7 +1003,7 @@
   {
     "line_number": 8,
     "text": "व़ारि­माफिक्‌‌का­हातिहरू­पनि­पक्रि­हजूरमा­दाषिल­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000026_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000026_textline_8.png",
     "bounding_box": {
       "x1": 1965,
       "y1": 2913,
@@ -1014,7 +1014,7 @@
   {
     "line_number": 9,
     "text": "हुँदै­रहदा­हुन्‌­•जो­हुकुम्­•विज्ञप्रभुचरणकमलेषु­किमधिकम्‌­इति­सम्वत्‌­१८९४­सा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000026_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000026_textline_9.png",
     "bounding_box": {
       "x1": 951,
       "y1": 3034,
@@ -1025,7 +1025,7 @@
   {
     "line_number": 10,
     "text": "ल­मिति­चैत्र­शुदि­१५­रोज­२­मुकाम्‌­तानसेन्‌‌­शुभम्‌­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000026_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000026_textline_10.png",
     "bounding_box": {
       "x1": 951,
       "y1": 3187,
@@ -1036,7 +1036,7 @@
   {
     "line_number": 11,
     "text": "सदा­सेवकरणदल­पाँडेकस्य­कोटि­कोटि­कुर्नेस­साष्टांगदंडवत्‌­सेव़ा­सेव़ा­सेव़ा­सहस्रम्‌­शुभम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000026_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000026_textline_11.png",
     "bounding_box": {
       "x1": 967,
       "y1": 3491,
@@ -1047,7 +1047,7 @@
   {
     "line_number": 1,
     "text": "ऊप्रान्त­•ग्रहणमा­¯२¯ ¯नुहाव़न­जाँदा­•कहलुर्‍या­राजाले­•मछेउ­भन्याको­स्माचार­•रणजीत­सिं­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000116_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000116_textline_1.png",
     "bounding_box": {
       "x1": 1037,
       "y1": 1896,
@@ -1058,7 +1058,7 @@
   {
     "line_number": 5,
     "text": "ई­दिउँला­•काश्मेर­लिई­देऊ­भनि­•भन्न­लागीरहेछ­•य़ो­साव़न­भदौमा­•केही­भय़ो­त­भय़ो­•भयेन­भ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000116_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000116_textline_5.png",
     "bounding_box": {
       "x1": 966,
       "y1": 2270,
@@ -1069,7 +1069,7 @@
   {
     "line_number": 10,
     "text": "हरप­•हरप­हेरि­•शिर­चह्रायाँ­•वटौल­•सिऊराजमा­•फिरंगी­चढ्याको­•अघि­वुढाकाजीलाई­•आयाः",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000116_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000116_textline_10.png",
     "bounding_box": {
       "x1": 973,
       "y1": 2637,
@@ -1080,7 +1080,7 @@
   {
     "line_number": 14,
     "text": "अर्जि­जानि­नजानि­लेष्याको­•माफ्‌­भयाजाला­•ईति­सम्वत्­१",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000116_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000116_textline_14.png",
     "bounding_box": {
       "x1": 1847,
       "y1": 2914,
@@ -1091,7 +1091,7 @@
   {
     "line_number": 15,
     "text": "८७१­साल­मिति­श्राव़ण­सुदि­६­रोज­६­मोकाम­अर्कि­शुभम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000116_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000116_textline_15.png",
     "bounding_box": {
       "x1": 962,
       "y1": 3016,
@@ -1102,7 +1102,7 @@
   {
     "line_number": 3,
     "text": "सये­एक्‌‌­जति­भाडा­दिया­सुनका­फिक्‌‌दानि­समेत्‌‌­सुनका­दिया­•यो­सव­रक",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000137_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000137_textline_3.png",
     "bounding_box": {
       "x1": 1492,
       "y1": 2180,
@@ -1113,7 +1113,7 @@
   {
     "line_number": 18,
     "text": "ति­फागुण­शुदि­५रोज­७­मोकाम­अम्वर­सहर­आलुवालेके­कटरे­•शुभम्‌",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000137_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000137_textline_18.png",
     "bounding_box": {
       "x1": 1566,
       "y1": 3592,
@@ -1124,7 +1124,7 @@
   {
     "line_number": 4,
     "text": "प्रान्त­•वम्वैको­चीठी­¯ ¯ ¯१¯ ¯­लाई­•आउंदा­दर्सन्‌­पायाझैँ­मनमा­वहुत­•आनन्द­लाग्यो­•कहीले­•चरणको­दर्शन्‌­पाउंला­र­•सवै­दुःख­संताप­छुट्‌ला­•आनन्द­हो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000212_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000212_textline_4.png",
     "bounding_box": {
       "x1": 1003,
       "y1": 2956,
@@ -1135,7 +1135,7 @@
   {
     "line_number": 2,
     "text": "॥ स्वस्तिश्रीगिरिराजचक्रचूडामणिनरनारायणेत्यादि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_2.png",
     "bounding_box": {
       "x1": 1504,
       "y1": 1417,
@@ -1146,7 +1146,7 @@
   {
     "line_number": 3,
     "text": "विविधविरुदावलीविराजमानमानोन्नतश्रीमन्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_3.png",
     "bounding_box": {
       "x1": 1504,
       "y1": 1504,
@@ -1157,7 +1157,7 @@
   {
     "line_number": 10,
     "text": "के­चरणोमें­गुज़री­होगी­।बादमुलाहेज़ेअर्ज़ी",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_10.png",
     "bounding_box": {
       "x1": 1689,
       "y1": 2085,
@@ -1168,7 +1168,7 @@
   {
     "line_number": 12,
     "text": "की ­नज़रदौलतसे­क्रियापूर्वक",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_12.png",
     "bounding_box": {
       "x1": 1944,
       "y1": 2182,
@@ -1179,7 +1179,7 @@
   {
     "line_number": 13,
     "text": "परवरशनामेका­।और­टुकडे­रोटीका­उम्मैदवार­है ­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_13.png",
     "bounding_box": {
       "x1": 1507,
       "y1": 2267,
@@ -1190,7 +1190,7 @@
   {
     "line_number": 15,
     "text": "के­चरणमे ­हाज़र­कर्त्ता­हूँ­।सो­मुलाहेज़ेमे­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_15.png",
     "bounding_box": {
       "x1": 1685,
       "y1": 2441,
@@ -1201,7 +1201,7 @@
   {
     "line_number": 25,
     "text": "इस­ष़बरके­झूठ­सत्यका­हाल­।सिवाय­पर्चे­अष़बार­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_25.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_25.png",
     "bounding_box": {
       "x1": 1526,
       "y1": 3382,
@@ -1212,7 +1212,7 @@
   {
     "line_number": 30,
     "text": "के­नमकको­देषकर­।जैसा­ष़बर­सुनने­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_30.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_30.png",
     "bounding_box": {
       "x1": 1736,
       "y1": 3817,
@@ -1223,7 +1223,7 @@
   {
     "line_number": 33,
     "text": "कुसूर­माफ़­होवे­।सं­१९०२­जेष्ट­वदी­१३­रोज­२­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_33.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_33.png",
     "bounding_box": {
       "x1": 1541,
       "y1": 4120,
@@ -1234,7 +1234,7 @@
   {
     "line_number": 34,
     "text": "अर्जीं­भिक्षुकबालाशंकर­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000285_textline_34.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000285_textline_34.png",
     "bounding_box": {
       "x1": 1760,
       "y1": 4247,
@@ -1245,7 +1245,7 @@
   {
     "line_number": 1,
     "text": "श्रीदुर्गाज्यू­\\",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000316_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000316_textline_1.png",
     "bounding_box": {
       "x1": 1787,
       "y1": 1325,
@@ -1256,7 +1256,7 @@
   {
     "line_number": 6,
     "text": "सभै­कुसल­आनन्दसँग­चैत्र­वदि­६­रोज­२­मा­धनकुटा­आईपुग्यौं­ष",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000316_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000316_textline_6.png",
     "bounding_box": {
       "x1": 1221,
       "y1": 3539,
@@ -1267,7 +1267,7 @@
   {
     "line_number": 4,
     "text": "को­चिठि­र­तामापत्र­गराई­पठाईवक्सनुभयाको­•श्राँव़न­शु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000321_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000321_textline_4.png",
     "bounding_box": {
       "x1": 1254,
       "y1": 3317,
@@ -1278,7 +1278,7 @@
   {
     "line_number": 2,
     "text": "श्रीः\\­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000356_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000356_textline_2.png",
     "bounding_box": {
       "x1": 1987,
       "y1": 1107,
@@ -1289,7 +1289,7 @@
   {
     "line_number": 9,
     "text": "न्या­जस्तो­लाग्दैन­ मातवर्‌­सिंह­थापाहरू ­कामदेषि­ षारिज­भय़ाका­छन्­ ञाहा­सवै­साहवानहरूलाइ­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000404_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000404_textline_9.png",
     "bounding_box": {
       "x1": 1250,
       "y1": 3183,
@@ -1300,7 +1300,7 @@
   {
     "line_number": 10,
     "text": "छ­ कावुलमा­ राफिर ­गरि­ पठाव़नु­ भय़ादेषि­अरू­आदमि­जादा­हुन् ­कामवाट ­षारिज­भय़ाका­ आदमि­जा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000404_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000404_textline_10.png",
     "bounding_box": {
       "x1": 1266,
       "y1": 3274,
@@ -1311,7 +1311,7 @@
   {
     "line_number": 11,
     "text": "दैन­हुन्­•एस­वातले­पनि­अषवार व़ालाहरूले­झुठा­वात­छाप्याको ­होला­भन्या­जस्तो­लागछ­भनि­जव़ाव­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000404_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000404_textline_11.png",
     "bounding_box": {
       "x1": 1257,
       "y1": 3339,
@@ -1322,7 +1322,7 @@
   {
     "line_number": 12,
     "text": "दिञा ­अषवारको­प्रति­त­हामि­पनि­ मान्दौन­•दारजिलिं­भन्याका ­मोकाममा ­नेपालका­ फौजले ­सर्कार­कम्प",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000404_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000404_textline_12.png",
     "bounding_box": {
       "x1": 1263,
       "y1": 3431,
@@ -1333,7 +1333,7 @@
   {
     "line_number": 22,
     "text": "म­चित्‌पुर­शुभम्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000404_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000404_textline_22.png",
     "bounding_box": {
       "x1": 1282,
       "y1": 4146,
@@ -1344,7 +1344,7 @@
   {
     "line_number": 5,
     "text": "का­दिन­साहव­सिक्रिटरिकाँहाँ­दर्वार­भयो­हजूर",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000523_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000523_textline_5.png",
     "bounding_box": {
       "x1": 1343,
       "y1": 3127,
@@ -1355,7 +1355,7 @@
   {
     "line_number": 8,
     "text": "शुक्ल­१२­का­दिन­कावुल्‌का­किल्लामा­अंरेजको­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000523_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000523_textline_8.png",
     "bounding_box": {
       "x1": 1357,
       "y1": 3516,
@@ -1366,7 +1366,7 @@
   {
     "line_number": 11,
     "text": "ठायाका­छन्‌नजर्­फर्माइवक्स्यागया­कावुल्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000523_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000523_textline_11.png",
     "bounding_box": {
       "x1": 1377,
       "y1": 3950,
@@ -1377,7 +1377,7 @@
   {
     "line_number": 3,
     "text": "वीन्तीपत्र",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000496_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000496_textline_3.png",
     "bounding_box": {
       "x1": 1133,
       "y1": 2891,
@@ -1388,7 +1388,7 @@
   {
     "line_number": 4,
     "text": "उप्रान्त­•गरिपरव़र­•म­सव़ारिवाट­येसतर्फ­आय़ादेषी",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000496_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000496_textline_4.png",
     "bounding_box": {
       "x1": 1143,
       "y1": 2905,
@@ -1399,7 +1399,7 @@
   {
     "line_number": 5,
     "text": "का­गाथको­छेमकुसल­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000496_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000496_textline_5.png",
     "bounding_box": {
       "x1": 2380,
       "y1": 2909,
@@ -1410,7 +1410,7 @@
   {
     "line_number": 8,
     "text": "का­गाथको­जुलुमि­षवर­सुन्दा­•हामी­वेहोस­भै­रह्याँछु­हजुरवाट­मेहेरमा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000496_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000496_textline_8.png",
     "bounding_box": {
       "x1": 1272,
       "y1": 3039,
@@ -1421,7 +1421,7 @@
   {
     "line_number": 17,
     "text": "का­गाथमा­तेस्तो­केहि­परिआयेछ­भन्या­मैले­क्या­गर्न्या­हो­•हजुरका­सिक्ष्या",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000496_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000496_textline_17.png",
     "bounding_box": {
       "x1": 1379,
       "y1": 3521,
@@ -1432,7 +1432,7 @@
   {
     "line_number": 21,
     "text": "सिर्वाद",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000496_textline_21.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000496_textline_21.png",
     "bounding_box": {
       "x1": 1272,
       "y1": 3882,
@@ -1443,7 +1443,7 @@
   {
     "line_number": 1,
     "text": "॥श्री­॥",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000410_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000410_textline_1.png",
     "bounding_box": {
       "x1": 2153,
       "y1": 1581,
@@ -1454,7 +1454,7 @@
   {
     "line_number": 10,
     "text": "पापत्रका­।उम्मैदवार­है­।ज्यादा­अर्ज़­ये­है­।पहेले­।",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000410_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000410_textline_10.png",
     "bounding_box": {
       "x1": 1597,
       "y1": 2789,
@@ -1465,7 +1465,7 @@
   {
     "line_number": 25,
     "text": "से­मेरी­अर्जीका­।पहोँचनामा­।हमेशाँ­इनायत­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000410_textline_25.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000410_textline_25.png",
     "bounding_box": {
       "x1": 1754,
       "y1": 4003,
@@ -1476,7 +1476,7 @@
   {
     "line_number": 31,
     "text": "११­रोज­५­मुक़ाम­दिल्ली­शुभम्‌­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000410_textline_31.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000410_textline_31.png",
     "bounding_box": {
       "x1": 1646,
       "y1": 4509,
@@ -1487,7 +1487,7 @@
   {
     "line_number": 4,
     "text": "मिनिष्टरयान्डकम्यान्डर‌इनचिफ्‌देवेषु ­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_4.png",
     "bounding_box": {
       "x1": 1365,
       "y1": 2339,
@@ -1498,7 +1498,7 @@
   {
     "line_number": 6,
     "text": "र्वेदोक्तशुभाशीर्वादपूर्वकं­विज्ञप्तिपत्रमिदम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_6.png",
     "bounding_box": {
       "x1": 1383,
       "y1": 2588,
@@ -1509,7 +1509,7 @@
   {
     "line_number": 8,
     "text": "त्­१९१५­साल­वैशाख­वदि­११­रोज­७­का­दिनदेषि­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_8.png",
     "bounding_box": {
       "x1": 1383,
       "y1": 2844,
@@ -1520,7 +1520,7 @@
   {
     "line_number": 9,
     "text": "वनारसमा­वसि­हाम्रो­जय­मनाइ­मैह्नाको­क",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_9.png",
     "bounding_box": {
       "x1": 1380,
       "y1": 2962,
@@ -1531,7 +1531,7 @@
   {
     "line_number": 13,
     "text": "ट­लि­भोग्य­गर्नु­हाम्रो­जय­मनाउन­छोड्याको­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_13.png",
     "bounding_box": {
       "x1": 1368,
       "y1": 3407,
@@ -1542,7 +1542,7 @@
   {
     "line_number": 15,
     "text": "भनि­रुक्का­लेषिवक्स्यौँ­भनि­हुकुम­भयाको­हो­उ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_15.png",
     "bounding_box": {
       "x1": 1380,
       "y1": 3638,
@@ -1553,7 +1553,7 @@
   {
     "line_number": 18,
     "text": "हजूरको­जय­मनाउदै­छु­एस्‌­कुराका­साछि­¯",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_18.png",
     "bounding_box": {
       "x1": 1392,
       "y1": 3975,
@@ -1564,7 +1564,7 @@
   {
     "line_number": 20,
     "text": "हेर­भै­सतुवा­षर्च­भनि­वक्सीस्‌­भयाको­पनि­अट्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_20.png",
     "bounding_box": {
       "x1": 1380,
       "y1": 4179,
@@ -1575,7 +1575,7 @@
   {
     "line_number": 24,
     "text": "त­कहातक­विन्ति­गरु­सवको­हृदय­जान्न्या­ध",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 1_00000631_textline_24.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 1_00000631_textline_24.png",
     "bounding_box": {
       "x1": 1420,
       "y1": 4602,
@@ -1586,7 +1586,7 @@
   {
     "line_number": 2,
     "text": "उप्रांत­•देसवाट­षवर­ल्यायाको­•लषनौका­समाचारका­अर्थ­•वुढा­जा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000030_result_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000030_result_textline_2.png",
     "bounding_box": {
       "x1": 1047,
       "y1": 2011,
@@ -1597,7 +1597,7 @@
   {
     "line_number": 6,
     "text": "नि­•फिरंगीसित­पनि­मुन्नाय्यान्‌­गादिमा­वस्यापछि­षल्‌वल्‌­पार्ला­भंना­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000030_result_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000030_result_textline_6.png",
     "bounding_box": {
       "x1": 1041,
       "y1": 2550,
@@ -1608,7 +1608,7 @@
   {
     "line_number": 9,
     "text": "लाठसाहेव­पनि­९२­पल्टन्‌­ली­•इरान्‌­जान­भनि­गयो­भंन्या­गलवा­सु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000030_result_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000030_result_textline_9.png",
     "bounding_box": {
       "x1": 1047,
       "y1": 2942,
@@ -1619,7 +1619,7 @@
   {
     "line_number": 3,
     "text": "साहव ­सिकृटरि ­मुसाहवहरू­समेत्‌­ धुव़ाका­जहाजमा­सव़ार्­भय़ा­•१९।१९­फएर­तो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000036_result_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000036_result_textline_3.png",
     "bounding_box": {
       "x1": 1297,
       "y1": 2454,
@@ -1630,7 +1630,7 @@
   {
     "line_number": 9,
     "text": "लेषपढको­काम­एक­•इ­•दुवै­काम ­थोपि­प्रेन्सिप्‌­साहव­ जनरल­सिकृटरिका­सपुर्द­भय़ा­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000036_result_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000036_result_textline_9.png",
     "bounding_box": {
       "x1": 1312,
       "y1": 3089,
@@ -1641,7 +1641,7 @@
   {
     "line_number": 10,
     "text": "देसावर्का­व़कीलहरूसित­मुलाकात ­दर्वार­ उनै­गर्न्याछन्­•ज्युटिसिय़र ­इन्डिय़र­रिव्‌",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000036_result_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000036_result_textline_10.png",
     "bounding_box": {
       "x1": 1315,
       "y1": 3200,
@@ -1652,7 +1652,7 @@
   {
     "line_number": 12,
     "text": "एल­वंगालाका­ सिकृटरि­थिय़ा­ ईन्का­ जगहमा­ हलेडि­साहव­भर्ति­भय़ा­ अलक्‌जन्द",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000036_result_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000036_result_textline_12.png",
     "bounding_box": {
       "x1": 1324,
       "y1": 3440,
@@ -1663,7 +1663,7 @@
   {
     "line_number": 17,
     "text": "सेवक­लोकरमणोपाध्याय़को­वेदोक्तः­पु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000036_result_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000036_result_textline_17.png",
     "bounding_box": {
       "x1": 1774,
       "y1": 4213,
@@ -1674,7 +1674,7 @@
   {
     "line_number": 5,
     "text": "मिदम्•­ईत­निक­तांहां­चरण­छेमकुसल­भय़ा­हाम्रो­उद्धार­प्रतिपा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000051_result_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000051_result_textline_5.png",
     "bounding_box": {
       "x1": 1148,
       "y1": 2106,
@@ -1685,7 +1685,7 @@
   {
     "line_number": 6,
     "text": "ल­होला­आग्ये­ञांहांको­समाचार­भलो­छ­उप्रान्त­:भरतपुरको­षैष",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000051_result_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000051_result_textline_6.png",
     "bounding_box": {
       "x1": 1145,
       "y1": 2238,
@@ -1696,7 +1696,7 @@
   {
     "line_number": 12,
     "text": "ला­किल्लाभित्र­पसि­फयेर­वोलेछ­भरतपुरले­पनि­फयेर­वोलि­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000051_result_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000051_result_textline_12.png",
     "bounding_box": {
       "x1": 1161,
       "y1": 2969,
@@ -1707,7 +1707,7 @@
   {
     "line_number": 13,
     "text": "तरव़ार­हांल्दा­फिलंगिको­४।५­हजार­षेत्‌रह्याछन्­अरु­साहे",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000051_result_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000051_result_textline_13.png",
     "bounding_box": {
       "x1": 1164,
       "y1": 3098,
@@ -1718,7 +1718,7 @@
   {
     "line_number": 16,
     "text": "पुरको­लस्‌कर­डेढ­लाष­रहेछ­२।३­हजार­षेत्‌­येस्का­पनि­भय़ा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000051_result_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000051_result_textline_16.png",
     "bounding_box": {
       "x1": 1195,
       "y1": 3445,
@@ -1729,7 +1729,7 @@
   {
     "line_number": 17,
     "text": "छन्‌­लाडाई­भन्या­भर्तपुरले­जितेछ­फिलंगि­हटि­किल्लादेषि­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000051_result_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000051_result_textline_17.png",
     "bounding_box": {
       "x1": 1207,
       "y1": 3580,
@@ -1740,7 +1740,7 @@
   {
     "line_number": 6,
     "text": "हाँम्रो­प्रतिपाल­उद्धार­होला­•आगे­ञाहाको­समाचार­भलो­छ­•उप्रांत­•म­•",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000115_result_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000115_result_textline_6.png",
     "bounding_box": {
       "x1": 1198,
       "y1": 3542,
@@ -1751,7 +1751,7 @@
   {
     "line_number": 8,
     "text": "चार­भलो­छ­•उप्रान्त­•डि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000095_result_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000095_result_textline_8.png",
     "bounding_box": {
       "x1": 1337,
       "y1": 2488,
@@ -1762,7 +1762,7 @@
   {
     "line_number": 15,
     "text": "र्दैनन्­•ईनीहेरुलाई­वोलाई­वोलाईकन­•ना",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000095_result_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000095_result_textline_15.png",
     "bounding_box": {
       "x1": 1355,
       "y1": 2969,
@@ -1773,7 +1773,7 @@
   {
     "line_number": 16,
     "text": "च­गराउछन्­•ईन्‌‌को­नाच­हामिहेरुले­प",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000095_result_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000095_result_textline_16.png",
     "bounding_box": {
       "x1": 1369,
       "y1": 3104,
@@ -1784,7 +1784,7 @@
   {
     "line_number": 2,
     "text": "श्री­ः­\\",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000126_result_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000126_result_textline_2.png",
     "bounding_box": {
       "x1": 2013,
       "y1": 1491,
@@ -1795,7 +1795,7 @@
   {
     "line_number": 7,
     "text": "त्त्य­वादसाहवाट­आयाको­षिताप्‌­र­षिल्लत्‌­लाठ‌­अकलंट­साहेवले­वहूत­उत्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000126_result_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000126_result_textline_7.png",
     "bounding_box": {
       "x1": 1241,
       "y1": 3218,
@@ -1806,7 +1806,7 @@
   {
     "line_number": 14,
     "text": "पषानाको­कर्नेल्‌­गौन­साहेवलाइ­षुतम्‌­भयेछ­•साज­व्येहानमा­जा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000126_result_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000126_result_textline_14.png",
     "bounding_box": {
       "x1": 1260,
       "y1": 4105,
@@ -1817,7 +1817,7 @@
   {
     "line_number": 2,
     "text": "श्रीरामः",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_2.png",
     "bounding_box": {
       "x1": 2069,
       "y1": 1377,
@@ -1828,7 +1828,7 @@
   {
     "line_number": 5,
     "text": "मानमानोन्नतश्रीमन्महाराजाधिराजश्रीश्रीश्रीश्रीश्रीमहाराजराजेन्द्र",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_5.png",
     "bounding_box": {
       "x1": 1356,
       "y1": 3030,
@@ -1839,7 +1839,7 @@
   {
     "line_number": 7,
     "text": "शुभाशीर्वादपूर्वकपत्रममिदम्‌­•ञाहा­कुशल­छ•­हजूरको­सर्वदा­क्षेमकुश",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_7.png",
     "bounding_box": {
       "x1": 1365,
       "y1": 3166,
@@ -1850,7 +1850,7 @@
   {
     "line_number": 9,
     "text": "र्ग­वदि­१२­रोज­४­का­दिन­नानि­ञाहाँ­आइपुग्यो­­•हजूरको­क्षेमकुशल­र­•­ता",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_9.png",
     "bounding_box": {
       "x1": 1352,
       "y1": 3303,
@@ -1861,7 +1861,7 @@
   {
     "line_number": 13,
     "text": "जतक्‌­तरियानीमै­वसनु­पर्‍यो­मलाइ­चाँडो­¯१¯­पठाउन्या­काम­गर­भनि­ना",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_13.png",
     "bounding_box": {
       "x1": 1362,
       "y1": 3617,
@@ -1872,7 +1872,7 @@
   {
     "line_number": 15,
     "text": "हाल­नानीहरूले­भाइ­छुट्टिदा­मलाइ­घरहरूका­निमित्त­शिव­प्रसाद­हाति­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_15.png",
     "bounding_box": {
       "x1": 1359,
       "y1": 3774,
@@ -1883,7 +1883,7 @@
   {
     "line_number": 16,
     "text": "छुट्यायाछन्‌­सर्कारवाट­वडा­मेहरवानगीले­वक्स्याको­त्यो­चिज­सर्का",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_16.png",
     "bounding_box": {
       "x1": 1365,
       "y1": 3836,
@@ -1894,7 +1894,7 @@
   {
     "line_number": 21,
     "text": "लका­विन्तिले­जाहिर­होला­विज्ञप्रभुषु­किमधिकमिति­सम्वत्‌­१८८२­साल­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000141_result_textline_21.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000141_result_textline_21.png",
     "bounding_box": {
       "x1": 1359,
       "y1": 4213,
@@ -1905,7 +1905,7 @@
   {
     "line_number": 3,
     "text": "उपाध्यायस्यशुभाशीर्वादपूर्वकंपत्रंकृपाले­ञाहा­आनन्द­छ­ताँहाँको­आनन्द­मंगल­सर्वदा­चाहिये­आ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000327_result_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000327_result_textline_3.png",
     "bounding_box": {
       "x1": 1171,
       "y1": 1813,
@@ -1916,7 +1916,7 @@
   {
     "line_number": 4,
     "text": "गे­•ञाहाँको­समाचार­भलो­छ­उप्रान्त­•आषाढ­वदि­१२­रोज­३­को­ताँहावाट­रव़ाना­भयाको­पत्र­श्रावण­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000327_result_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000327_result_textline_4.png",
     "bounding_box": {
       "x1": 1171,
       "y1": 1884,
@@ -1927,7 +1927,7 @@
   {
     "line_number": 33,
     "text": "छि­विन्ति­लेषुला­•वाकि­•पल्‌पावाट­भक्तवीरहरु­षरीद­फरोकलाइ­ञाहाँ­आयाको­अघि­विन्ति­गरीपठायाको­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000327_result_textline_33.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000327_result_textline_33.png",
     "bounding_box": {
       "x1": 1189,
       "y1": 3817,
@@ -1938,7 +1938,7 @@
   {
     "line_number": 39,
     "text": "न्‌­•लिन­लागीरह्याछन्‌­१/२­दिनमा­•वालानगरवाट­पनि­कूच­गर्छ­ढील­भयो­रिसानी­हुन्छ­कि­भनि­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000327_result_textline_39.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000327_result_textline_39.png",
     "bounding_box": {
       "x1": 1189,
       "y1": 4228,
@@ -1949,7 +1949,7 @@
   {
     "line_number": 41,
     "text": "कुरा­गर्थ्या­अजीमावाद­पुगि­विन्तिपत्र­लेष्‌नन्‌­•विज्ञवरेषु­किमधिकमिति­श्रावण­वदि­८­रोज­७­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000327_result_textline_41.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000327_result_textline_41.png",
     "bounding_box": {
       "x1": 1186,
       "y1": 4352,
@@ -1960,7 +1960,7 @@
   {
     "line_number": 12,
     "text": "अलि­अलि­पानि­पर्‍यो­•स्युपुरी­चंदागिरिमा­•थोरो­हिउ­पनि­पर्‍यो­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000161_result_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000161_result_textline_12.png",
     "bounding_box": {
       "x1": 1269,
       "y1": 3153,
@@ -1971,7 +1971,7 @@
   {
     "line_number": 22,
     "text": "मधिकं­विज्ञचरणेषु­इति­संवत्­१९१४­साल­मिति­माघ­शु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000161_result_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000161_result_textline_22.png",
     "bounding_box": {
       "x1": 1303,
       "y1": 4197,
@@ -1982,7 +1982,7 @@
   {
     "line_number": 2,
     "text": "स्वस्तिश्रीगिरिराजचक्रचूडामणिनरनारायणेत्यादिविविधविरूदावलीविराज",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_2.png",
     "bounding_box": {
       "x1": 1357,
       "y1": 1284,
@@ -1993,7 +1993,7 @@
   {
     "line_number": 6,
     "text": "उप्रांत­।गरीब­पर्वर­मेरे­।अर्साव­होत­दिनका­।गुजरा­है­।",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_6.png",
     "bounding_box": {
       "x1": 1339,
       "y1": 1635,
@@ -2004,7 +2004,7 @@
   {
     "line_number": 22,
     "text": "से ।मेरी­अर्जी­का­उत्तरा­ नहीं­ इनायत­होता­है­।बन्दा­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_22.png",
     "bounding_box": {
       "x1": 1801,
       "y1": 2601,
@@ -2015,7 +2015,7 @@
   {
     "line_number": 31,
     "text": "कुम­का­।उम्मैदवार­है­।जिस­तौर­से­हुकुम­होवे­।उसी­तौर­से­।",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_31.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_31.png",
     "bounding_box": {
       "x1": 1330,
       "y1": 3210,
@@ -2026,7 +2026,7 @@
   {
     "line_number": 39,
     "text": "इनायत­हुवा­।इस­गडबड­के­होने­से­।रुपया­मेरा­बहोत­षर्च­मे­।पड­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_39.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_39.png",
     "bounding_box": {
       "x1": 1343,
       "y1": 3726,
@@ -2037,7 +2037,7 @@
   {
     "line_number": 45,
     "text": "श्रय­लिया­है­।चाहिये­।के",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_45.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_45.png",
     "bounding_box": {
       "x1": 1334,
       "y1": 4074,
@@ -2048,7 +2048,7 @@
   {
     "line_number": 50,
     "text": "से­।हजूर­के­मुलाहेजे़­मे­गुजरेगा­।ज्यादा­क्या­बिन्ती­करुँ­।",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000293_result_textline_50.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000293_result_textline_50.png",
     "bounding_box": {
       "x1": 1339,
       "y1": 4384,
@@ -2059,7 +2059,7 @@
   {
     "line_number": 1,
     "text": "नं­•१५३",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000224_result_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000224_result_textline_1.png",
     "bounding_box": {
       "x1": 913,
       "y1": 2208,
@@ -2070,7 +2070,7 @@
   {
     "line_number": 2,
     "text": "स्वस्ति­श्रीसर्वोपमानोपमेयशौर्योदार्यादिसकलसद्‍गुणगणालंकृतराजरा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000224_result_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000224_result_textline_2.png",
     "bounding_box": {
       "x1": 1167,
       "y1": 2661,
@@ -2081,7 +2081,7 @@
   {
     "line_number": 8,
     "text": "र­के­लडाई­मो­षेत­आय़ा­राजाभि­उसितर्फ­को­गये­ऐसा­षवर­सुन्ने­मो­आता­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000264_result_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000264_result_textline_8.png",
     "bounding_box": {
       "x1": 1074,
       "y1": 1995,
@@ -2092,7 +2092,7 @@
   {
     "line_number": 16,
     "text": "तारिफे­सव्‌­वयान­किय़ा­गुलाम­भि­साथै­था­आगे­गुलाम­के­षानगि­का­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000264_result_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000264_result_textline_16.png",
     "bounding_box": {
       "x1": 991,
       "y1": 3280,
@@ -2103,7 +2103,7 @@
   {
     "line_number": 22,
     "text": "डिट्ठाजि­सो­रोसन­होगा­सर‌­अपसर­गुलाम­का­छिमा­माफ­फुर्माया­जागा­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000264_result_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000264_result_textline_22.png",
     "bounding_box": {
       "x1": 945,
       "y1": 4194,
@@ -2114,7 +2114,7 @@
   {
     "line_number": 4,
     "text": "राजिराजितस्तूयमानकीर्तिराजभारोद्धरणसमर्थश्रीश्रीश्रीज",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_4.png",
     "bounding_box": {
       "x1": 1446,
       "y1": 2088,
@@ -2125,7 +2125,7 @@
   {
     "line_number": 5,
     "text": "नरलसाहवभीमसेनथापामहाँशयेषु­∙इतः­श्रीउमाकान्तउपा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_5.png",
     "bounding_box": {
       "x1": 1449,
       "y1": 2177,
@@ -2136,7 +2136,7 @@
   {
     "line_number": 8,
     "text": "छ­उप्रान्त­∙अरू­पाया­सुन्याको­विस्तार­∙प्रथम­श्रावण­सुदि­१०­रो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_8.png",
     "bounding_box": {
       "x1": 1458,
       "y1": 2440,
@@ -2147,7 +2147,7 @@
   {
     "line_number": 11,
     "text": "यत­नाँसाज­जो­थियो­सो­आराम­भै­∙एस्‌­तरफ्‌­फिरी­∙प्रथम­श्राव",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_11.png",
     "bounding_box": {
       "x1": 1461,
       "y1": 2690,
@@ -2158,7 +2158,7 @@
   {
     "line_number": 15,
     "text": "फिर्यापछि­∙वाटमा­भेट­नँगरी­∙येतै­आयी­हुगलीका­१०।८­कोस­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_15.png",
     "bounding_box": {
       "x1": 1461,
       "y1": 3061,
@@ -2169,7 +2169,7 @@
   {
     "line_number": 18,
     "text": "किल्लामा∙­६८­आवाज­तोप­र­∙दस्‌­येघार­सलक्‌­आवाज­वन्दु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_18.png",
     "bounding_box": {
       "x1": 1464,
       "y1": 3320,
@@ -2180,7 +2180,7 @@
   {
     "line_number": 26,
     "text": "कल­∙येसै­चिठीमा­जान्छ­∙पढाई­∙मोँफ्‌स्‌सील­∙जाहर­होला­∙का",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_26.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_26.png",
     "bounding_box": {
       "x1": 1483,
       "y1": 4031,
@@ -2191,7 +2191,7 @@
   {
     "line_number": 31,
     "text": "वुरुग्‌­साहेवले­सपुर्द­गर्‍याभन्न्या­सुनियोथ्यो­∙सो­अषवारले­प",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_31.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_31.png",
     "bounding_box": {
       "x1": 1486,
       "y1": 4448,
@@ -2202,7 +2202,7 @@
   {
     "line_number": 34,
     "text": "नाथ­राय़ले­∙आफना­वाग्‌मा­∙फ्‌ते­उल्ला­षाँलाई­लैगी­ज्याफ्‌",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_34.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_34.png",
     "bounding_box": {
       "x1": 1477,
       "y1": 4710,
@@ -2213,7 +2213,7 @@
   {
     "line_number": 41,
     "text": "दमी­छ­∙भरथपूरका­∙वकील्‌­∙मंगल­सिं­व्राह्मन्‌­∙ञाँहाँ­थिया­∙हा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA 2_00000394_result_textline_41.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA 2_00000394_result_textline_41.png",
     "bounding_box": {
       "x1": 1495,
       "y1": 5331,
@@ -2224,7 +2224,7 @@
   {
     "line_number": 4,
     "text": "स्वस्ति­श्रीमन्मेधावद्‍गुरूपशिक्षितनिर्मलसुमंत्रणकर्मचातुरीप्रवर्द्धितनिजक्षोणीनायकक्षो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_4.png",
     "bounding_box": {
       "x1": 461,
       "y1": 1035,
@@ -2235,7 +2235,7 @@
   {
     "line_number": 5,
     "text": "णीमण्डलसमृद्धिसंभावितराजात्मानुकूलप्रजानुरंजनादिसत्कर्मकुसुमावलीसुरभिसुवा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_5.png",
     "bounding_box": {
       "x1": 459,
       "y1": 1066,
@@ -2246,7 +2246,7 @@
   {
     "line_number": 7,
     "text": "थ­गजुर्‍यालको­शुभाशीर्वचनपूर्वकम्­पत्रमिदम्‌­ञाहा­कुशल­तपाञिका­चरणको­क्षेम­कौश",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_7.png",
     "bounding_box": {
       "x1": 459,
       "y1": 1128,
@@ -2257,7 +2257,7 @@
   {
     "line_number": 11,
     "text": "न­जय­मनाउनु­हाम्रो­कामै­हो­भनि­छोड्याको­छैन­‌अध्ययनका­अर्थकन­सिद्धान्तकौमुदी­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_11.png",
     "bounding_box": {
       "x1": 453,
       "y1": 1247,
@@ -2268,7 +2268,7 @@
   {
     "line_number": 14,
     "text": "ञाहा­आयापछि­सिद्धान्ततत्वविवेक­शव्देन्दुशेषर­मनोरमा­•सम्राट्‌सिद्धान्त­वशिष्ठसि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_14.png",
     "bounding_box": {
       "x1": 455,
       "y1": 1333,
@@ -2279,7 +2279,7 @@
   {
     "line_number": 17,
     "text": "ले­याचन्‌­गर्न्या­होइन­भनि­ऋण­गरी­पनि­आजसम्म­यथाकथंचित्‌­वर्त्तमान­गर्दा­ऋ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_17.png",
     "bounding_box": {
       "x1": 455,
       "y1": 1426,
@@ -2290,7 +2290,7 @@
   {
     "line_number": 19,
     "text": "फैल्याको­छ­तस्तै­हाम्रो­पनि­मनोरथ­तपाञिका­चरणवाट­हुन्यैछ­हामि­जस्ता­अनन्य­ग",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_19.png",
     "bounding_box": {
       "x1": 464,
       "y1": 1483,
@@ -2301,7 +2301,7 @@
   {
     "line_number": 20,
     "text": "तिका­शरण्य­हुनुहुंछ­‌आजतक्‌­तपाञिका­चरणवाट­पालना­भैआयाको­छ­•ज्यादा­२।४­अ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_20.png",
     "bounding_box": {
       "x1": 464,
       "y1": 1516,
@@ -2312,7 +2312,7 @@
   {
     "line_number": 21,
     "text": "पूर्व­ग्रंथको­संग्रह­गर्नु­छ­द्रव्य­विना­संग्रह­भैसकिदैन­•जो­आज्ञा­लेखनाको­न्यूनाधिक्य­क्ष",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0006_textline_21.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0006_textline_21.png",
     "bounding_box": {
       "x1": 459,
       "y1": 1540,
@@ -2323,7 +2323,7 @@
   {
     "line_number": 2,
     "text": "लिलाममा­विक्रि­हुन्याछ ­भन्न्या­षवर­सुनिन्छ ­उस्‌­दिन­लिलाम­हुदा­पाया­षरि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_2.png",
     "bounding_box": {
       "x1": 539,
       "y1": 187,
@@ -2334,7 +2334,7 @@
   {
     "line_number": 9,
     "text": "हो­• ञाहा­अंरेजहरुसित­मुलाकात­हुदा­ अवस्य­लडाइ­हुन्छ­भन्छन्­• कदाचि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_9.png",
     "bounding_box": {
       "x1": 547,
       "y1": 458,
@@ -2345,7 +2345,7 @@
   {
     "line_number": 11,
     "text": "अमीन्‌लाइ ­अभिन्तर­वुझ्न­भनि­लाञाथ्याँ ­उन्‌ले­कुराका­प्रसंगमा­सोधपुछ­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_11.png",
     "bounding_box": {
       "x1": 545,
       "y1": 540,
@@ -2356,7 +2356,7 @@
   {
     "line_number": 12,
     "text": "गर्दा­•नेपालका­तरफ्‌वाट­साह्रै­अचाकलि­हुन­लागिरहेछ­व़ल्‌किन्सन्­साहव­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_12.png",
     "bounding_box": {
       "x1": 547,
       "y1": 575,
@@ -2367,7 +2367,7 @@
   {
     "line_number": 25,
     "text": "एकै­तिरवाट­राषि­रहदैन­भनि­मैले­भन्दा­ तिमिहरूका­तरफ्‌वाट­अचाक्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_25.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_25.png",
     "bounding_box": {
       "x1": 560,
       "y1": 1075,
@@ -2378,7 +2378,7 @@
   {
     "line_number": 33,
     "text": "न­भनि­•मैले­जव़ाव­दिञा ­पाय़ाको­षवर­विन्ति­चह्राइपठाय़ाको­ साचो­झु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_33.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_33.png",
     "bounding_box": {
       "x1": 570,
       "y1": 1399,
@@ -2389,7 +2389,7 @@
   {
     "line_number": 34,
     "text": "ठो­•कसो­हो­को­जनि ­हजुर्मा­जाहेरै­होला ­हजुरवाट­केहि­लेषि­नआउदा­ञा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_34.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_34.png",
     "bounding_box": {
       "x1": 570,
       "y1": 1441,
@@ -2400,7 +2400,7 @@
   {
     "line_number": 35,
     "text": "हा­म­• साह्रै­अन्दाधुन्दमा­ परिरह्याछु­• लडाइको­षवर ­सुन्याका­दिनदेषि­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_35.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_35.png",
     "bounding_box": {
       "x1": 570,
       "y1": 1476,
@@ -2411,7 +2411,7 @@
   {
     "line_number": 44,
     "text": "अभिन्तर ­वंगालीहेरूसित­पेट­पसि­ वात­ वुझ्न­पठाउँ­भन्या­पनि­नाएवसित­मु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_44.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_44.png",
     "bounding_box": {
       "x1": 574,
       "y1": 1856,
@@ -2422,7 +2422,7 @@
   {
     "line_number": 46,
     "text": "ह्माका­मुलुकका ­सिव़ानामा ­मौल्मिन्‌का­छाउनीमा­रह्याका­लस्कर्मा­एक­पल्ट",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_46.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_46.png",
     "bounding_box": {
       "x1": 574,
       "y1": 1934,
@@ -2433,7 +2433,7 @@
   {
     "line_number": 47,
     "text": "न्‌­गोराले­• दानापुर­जानु­भन्न्या­कौसल्‌वाट­हुकुम्‌­गयो­• इति­सम्वत्­१८",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0368_textline_47.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0368_textline_47.png",
     "bounding_box": {
       "x1": 572,
       "y1": 1974,
@@ -2444,7 +2444,7 @@
   {
     "line_number": 3,
     "text": "सेवक­लोकरमणोपाध्यायको­वेदोक्तः­पु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0167_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0167_textline_3.png",
     "bounding_box": {
       "x1": 600,
       "y1": 1898,
@@ -2455,7 +2455,7 @@
   {
     "line_number": 4,
     "text": "राणोक्तः­सहश्रकोटि­सुभासीर्वाद­सुभम्­•",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0167_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0167_textline_4.png",
     "bounding_box": {
       "x1": 604,
       "y1": 1936,
@@ -2466,7 +2466,7 @@
   {
     "line_number": 8,
     "text": "य़ाका­रह्याछन्­•हिन्दुस्तानको­मुलुक­हेर्न­भनि­आफ्ना­वेलाइतवाट­कल्कत्ता­ मार्गसिर्ष­  दि­३०­रो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0167_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0167_textline_8.png",
     "bounding_box": {
       "x1": 481,
       "y1": 1174,
@@ -2477,7 +2477,7 @@
   {
     "line_number": 17,
     "text": "कमा­रव़ाना­गर्न­षोज्दा­हल्काराहरू­आइपुग्या­र­थामिय़ाको­हो­इन­हल्कारा­हस्ते­चह्राइपठाउला­•ञा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0167_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0167_textline_17.png",
     "bounding_box": {
       "x1": 481,
       "y1": 1518,
@@ -2488,7 +2488,7 @@
   {
     "line_number": 18,
     "text": "हाँ­अंरेजहरूसित­वुज्दा­नवाव­गवर्नर­जनरल­वानारसका­मोकाममा­छन्­वानारसवाट­कुँच­गर्‍या",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0167_textline_18.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0167_textline_18.png",
     "bounding_box": {
       "x1": 479,
       "y1": 1556,
@@ -2499,7 +2499,7 @@
   {
     "line_number": 22,
     "text": "गि­जहाज­वेला­व‌षत्मा­काम­चाहिएला­भनि­किल्लाका­सामने­लंगर­गरिराष्याका­छन्‌­इति­सम्व",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0167_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0167_textline_22.png",
     "bounding_box": {
       "x1": 484,
       "y1": 1710,
@@ -2510,7 +2510,7 @@
   {
     "line_number": 1,
     "text": "श्री­दुर्गाज्यू\\­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0177_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0177_textline_1.png",
     "bounding_box": {
       "x1": 730,
       "y1": 497,
@@ -2521,7 +2521,7 @@
   {
     "line_number": 6,
     "text": "नं.­३७",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0202_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0202_textline_6.png",
     "bounding_box": {
       "x1": 378,
       "y1": 747,
@@ -2532,7 +2532,7 @@
   {
     "line_number": 1,
     "text": "नं.­६८­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_1.png",
     "bounding_box": {
       "x1": 450,
       "y1": 346,
@@ -2543,7 +2543,7 @@
   {
     "line_number": 11,
     "text": "रह्याँछु­अरु­पाईय़ाको­छैन­पाउन्या­वित्तिकै­हजुर्मा­चह्राइपठाउला­•लाठ­सा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_11.png",
     "bounding_box": {
       "x1": 537,
       "y1": 814,
@@ -2554,7 +2554,7 @@
   {
     "line_number": 12,
     "text": "हवका­साथ­पन्छाहवाट­आय़ाको­सौगातको­असवाव­भाद्र­सुदि­८­का­दिन­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_12.png",
     "bounding_box": {
       "x1": 533,
       "y1": 856,
@@ -2565,7 +2565,7 @@
   {
     "line_number": 17,
     "text": "हका­मुलाकात­भयाका­वञान्को­किताव­ठोपि­प्रेन्सिप्‌­साहवले­वनाइ­छपा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_17.png",
     "bounding_box": {
       "x1": 539,
       "y1": 1051,
@@ -2576,7 +2576,7 @@
   {
     "line_number": 23,
     "text": "गर्दा­•नेपालका­तरफ्‌वाट­साह्रै­अचाकलि­हुन­लागिरहेछ­व़ल्‌किन्सन्­साहव­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_23.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_23.png",
     "bounding_box": {
       "x1": 544,
       "y1": 1276,
@@ -2587,7 +2587,7 @@
   {
     "line_number": 24,
     "text": "तिह्रउत्‌­जिल्लाका­कलक्‌टर्ले­एस­जिल्लाको­सिव़ाना­नेपाल्का­तरफ्‌वाट­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_24.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_24.png",
     "bounding_box": {
       "x1": 537,
       "y1": 1316,
@@ -2598,7 +2598,7 @@
   {
     "line_number": 44,
     "text": "न­भनि­•मैले­जव़ाव­दिञा­ पाय़ाको­षवर­विन्ति­चह्राइपठाय़ाको­साचो­झु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_44.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_44.png",
     "bounding_box": {
       "x1": 566,
       "y1": 2110,
@@ -2609,7 +2609,7 @@
   {
     "line_number": 45,
     "text": "श्री५सर्कार",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0001_0367_textline_45.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0001_0367_textline_45.png",
     "bounding_box": {
       "x1": 643,
       "y1": 388,
@@ -2620,7 +2620,7 @@
   {
     "line_number": 2,
     "text": "अर्जी­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0003_0551_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0003_0551_textline_2.png",
     "bounding_box": {
       "x1": 534,
       "y1": 639,
@@ -2631,7 +2631,7 @@
   {
     "line_number": 6,
     "text": "बादशाह­ने­हुक्म­दिया­कि­उस­हिन्दू­के­देवल­को­खोदकर­उस­देव",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0003_0551_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0003_0551_textline_6.png",
     "bounding_box": {
       "x1": 536,
       "y1": 807,
@@ -2642,7 +2642,7 @@
   {
     "line_number": 8,
     "text": "र्के­हजूर­मेँ­हाजिर­करो­उस­हुक्म­मुताविक­देवल­की­वर्बादी­हुइ­इस­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0003_0551_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0003_0551_textline_8.png",
     "bounding_box": {
       "x1": 533,
       "y1": 883,
@@ -2653,7 +2653,7 @@
   {
     "line_number": 20,
     "text": "हर­तशरीफ­न­लेजायँगे­और­इन­दिनौँ­मै­ख़र्च­वगैर­निहायत­दि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0003_0551_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0003_0551_textline_20.png",
     "bounding_box": {
       "x1": 557,
       "y1": 1406,
@@ -2664,7 +2664,7 @@
   {
     "line_number": 6,
     "text": "ई­चौकी­पहरा­राषी­चैत­वैसाषमा­किफायत्‌सित­विक्री­गरि­ष",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0010_0668_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0010_0668_textline_6.png",
     "bounding_box": {
       "x1": 528,
       "y1": 1516,
@@ -2675,7 +2675,7 @@
   {
     "line_number": 3,
     "text": "१८८",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0011_0647_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0011_0647_textline_3.png",
     "bounding_box": {
       "x1": 1045,
       "y1": 538,
@@ -2686,7 +2686,7 @@
   {
     "line_number": 5,
     "text": "आगे­महाकाली­पूर्व­मेची­पश्चिम­भरपाहाड­जगा­जगाका­ईजारादार­तहसील्‌दार­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0011_0647_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0011_0647_textline_5.png",
     "bounding_box": {
       "x1": 536,
       "y1": 1255,
@@ -2697,7 +2697,7 @@
   {
     "line_number": 7,
     "text": "रुले­मुषत्यार­भारादारहरुलाई­नजरनजराना­दैदस्तुर­•सर्सलामी­नगद­जि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0011_0647_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0011_0647_textline_7.png",
     "bounding_box": {
       "x1": 529,
       "y1": 1343,
@@ -2708,7 +2708,7 @@
   {
     "line_number": 9,
     "text": "मार्फत्­•दाषील­गर्न्या­गर­•जसले­ढाटि­दवाई­अघिका­मुषत्या",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0011_0647_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0011_0647_textline_9.png",
     "bounding_box": {
       "x1": 669,
       "y1": 1429,
@@ -2719,7 +2719,7 @@
   {
     "line_number": 11,
     "text": "रौन­सो­अप्सरिया­होला­ईति­सम्वत्­१८९४­साल­मिति­मार्ग­शुदी­१०­रो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0011_0647_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0011_0647_textline_11.png",
     "bounding_box": {
       "x1": 529,
       "y1": 1524,
@@ -2730,7 +2730,7 @@
   {
     "line_number": 12,
     "text": "ज­५­शुभम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0011_0647_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0011_0647_textline_12.png",
     "bounding_box": {
       "x1": 529,
       "y1": 1566,
@@ -2741,7 +2741,7 @@
   {
     "line_number": 4,
     "text": "राजमानमानोन्नतश्रीमन्महारजधिराजश्रीश्रीश्रीमहाराजसुरेन्द्रविक्रमसाह",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0006_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0006_textline_4.png",
     "bounding_box": {
       "x1": 578,
       "y1": 1115,
@@ -2752,7 +2752,7 @@
   {
     "line_number": 5,
     "text": "वहादूरसम्सेरजङ्गदेवानां­सदा­समरविजयिनाम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0006_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0006_textline_5.png",
     "bounding_box": {
       "x1": 578,
       "y1": 1158,
@@ -2763,7 +2763,7 @@
   {
     "line_number": 21,
     "text": "का­हुं­ताहापछि­निज­मोहन्दास­षस्दा­•निज­वालादास्­•सुषरामदास्­•रामजिवन्­दा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0006_textline_21.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0006_textline_21.png",
     "bounding_box": {
       "x1": 585,
       "y1": 1786,
@@ -2774,7 +2774,7 @@
   {
     "line_number": 29,
     "text": "दियापछि­अदालत­वन्दोवस्तका­५६­लंवरका­ऐन­मोतावीक­रोजरोज­हाजीर­भ",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0006_textline_29.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0006_textline_29.png",
     "bounding_box": {
       "x1": 594,
       "y1": 2095,
@@ -2785,7 +2785,7 @@
   {
     "line_number": 8,
     "text": "५६­लंवरका­ऐनले­जायेदात्‌­गर्नलाइ­•घरद्वार­केही­नहुँदा­•नीज­वाला•",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_8.png",
     "bounding_box": {
       "x1": 527,
       "y1": 277,
@@ -2796,7 +2796,7 @@
   {
     "line_number": 14,
     "text": "येस­मुद्दाको­जितापत्र­गर्दा­•तोक्‌मा­इजहारका­रुहले­तोक्­लेषीय़ो­तापनी­•",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_14.png",
     "bounding_box": {
       "x1": 528,
       "y1": 516,
@@ -2807,7 +2807,7 @@
   {
     "line_number": 16,
     "text": "षी­दीँदा­•घरायस्मा­मील्या­वमोजीमको­वेहोरा­स्मेत्‌­हाली­•नीज­रुपलाल­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_16.png",
     "bounding_box": {
       "x1": 528,
       "y1": 593,
@@ -2818,7 +2818,7 @@
   {
     "line_number": 23,
     "text": "ञी­मठ­म­पाउन्या­हुँ­भनी­वालादास्‌ले­इजहार­चह्राइ­महन्त­कासिदास्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_23.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_23.png",
     "bounding_box": {
       "x1": 536,
       "y1": 872,
@@ -2829,7 +2829,7 @@
   {
     "line_number": 24,
     "text": "सँग­पुर्पक्षे­हुँदैमा­•निज­महन्त­मर्दा­•नीज­महन्तका­चेला­रामदासले­•र­नी",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_24.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_24.png",
     "bounding_box": {
       "x1": 534,
       "y1": 908,
@@ -2840,7 +2840,7 @@
   {
     "line_number": 25,
     "text": "ज­वालादासले­•अदालत­वन्दोवस्तका­५६­लंवर­ऐन­मोतावीक्­•रोजरो",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_25.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_25.png",
     "bounding_box": {
       "x1": 534,
       "y1": 952,
@@ -2851,7 +2851,7 @@
   {
     "line_number": 26,
     "text": "ज­हाजीर­भये़नौं­र­१५­दीनसम्म­गैर­पर्यौं­भन्या­•जीत­हुन्या­भय़ा­पनी­हार­ग",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_26.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_26.png",
     "bounding_box": {
       "x1": 534,
       "y1": 992,
@@ -2862,7 +2862,7 @@
   {
     "line_number": 36,
     "text": "डीदीय़ाका­हुनाले­•सो­वमोजीम्­•तिम्रा­जिउताभर­नीज­मठ्को­महन्त्याञी­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_36.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_36.png",
     "bounding_box": {
       "x1": 530,
       "y1": 1414,
@@ -2873,7 +2873,7 @@
   {
     "line_number": 44,
     "text": "र­इनचिफ्­जनरल­रणउद्दीप­सींह­कुव़र­राणावाट­हाम्रा­हजुरमा­विन्ती­पा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_44.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_44.png",
     "bounding_box": {
       "x1": 534,
       "y1": 1730,
@@ -2884,7 +2884,7 @@
   {
     "line_number": 49,
     "text": "हामीवाट­पनी­तीमीलाई­नीज­वसहीय़ा­मठ्­अस्थानका­•महन्त्याञीको­ला",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0007_textline_49.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0007_textline_49.png",
     "bounding_box": {
       "x1": 538,
       "y1": 1941,
@@ -2895,7 +2895,7 @@
   {
     "line_number": 6,
     "text": "दुरसम्सेरजङ्गदेवानाँ­सदा­समरविजयिनाम्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0519_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0519_textline_6.png",
     "bounding_box": {
       "x1": 655,
       "y1": 1204,
@@ -2906,7 +2906,7 @@
   {
     "line_number": 10,
     "text": "देषी­चलीआयाको­रितिथिति­अपुताली­चाकचकुई­•",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0519_textline_10.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0519_textline_10.png",
     "bounding_box": {
       "x1": 628,
       "y1": 1414,
@@ -2917,7 +2917,7 @@
   {
     "line_number": 2,
     "text": "हाये­\\",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0638_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0638_textline_2.png",
     "bounding_box": {
       "x1": 823,
       "y1": 531,
@@ -2928,7 +2928,7 @@
   {
     "line_number": 4,
     "text": "विराजमानमानोन्नत्‌श्रीमन्महाराजाधिराजश्रीश्रीश्रीमहाराजेगिर्वा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0638_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0638_textline_4.png",
     "bounding_box": {
       "x1": 569,
       "y1": 1126,
@@ -2939,7 +2939,7 @@
   {
     "line_number": 6,
     "text": "यिनाम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0012_0638_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0012_0638_textline_6.png",
     "bounding_box": {
       "x1": 574,
       "y1": 1211,
@@ -2950,7 +2950,7 @@
   {
     "line_number": 1,
     "text": "श्रीदुर्गाज्यू­\\",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_1.png",
     "bounding_box": {
       "x1": 746,
       "y1": 266,
@@ -2961,7 +2961,7 @@
   {
     "line_number": 5,
     "text": "आगे­जयन्त­षत्रिके­सम्वत­१८७९­साल­मिति­माघ­वदि­५­रोज­४­का­दिन­फुलवारी­वनाउनाके­नित्य­नैमित्यक­साझ­व्यहान­पुजा­देवल­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_5.png",
     "bounding_box": {
       "x1": 306,
       "y1": 1064,
@@ -2972,7 +2972,7 @@
   {
     "line_number": 8,
     "text": "म­महभीरदेषि­पुर्वपटिको­पाषुर्या­डाडाको­काष­साध­लुहुकिल­उत्तर­महाभीर­डाडाको­काष­साध­लुहुकिल­दफे­¯ ¯ ¯ ¯ ¯ का­था",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_8.png",
     "bounding_box": {
       "x1": 315,
       "y1": 1169,
@@ -2983,7 +2983,7 @@
   {
     "line_number": 9,
     "text": "न­मनीको­वाझो­वगर­रोपनी­५­तस्को­साध­पुर्व­सुषथवा­षोलोको­ढिक­साध­लुहुकिल­दछिण­मुलवाटो­साध­लुहुकिल­पश्चिम­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_9.png",
     "bounding_box": {
       "x1": 311,
       "y1": 1206,
@@ -2994,7 +2994,7 @@
   {
     "line_number": 14,
     "text": "पाषो­जगा­षेत­रोपनी­१५­गुठी­राषि­वक्स्याको­मोहर­तांम्वांपत्र­गरिवक्स्यौं­•यो­जगा­आवाद­गुलजार­गरि­फुलवारी­वनाइ­नि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_14.png",
     "bounding_box": {
       "x1": 320,
       "y1": 1379,
@@ -3005,7 +3005,7 @@
   {
     "line_number": 15,
     "text": "त्य­निमित्येक­साझव्यहान­पुजा­गरि­देवल­छत्र­घाट­विग्रदा­वनाइ­हाम्रो­जै­मनाइ­सेष­रह्याको­पुजहारीले­भोग्य­गर्नु­•यो­गुठ­साध­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_15.png",
     "bounding_box": {
       "x1": 315,
       "y1": 1415,
@@ -3016,7 +3016,7 @@
   {
     "line_number": 16,
     "text": "लाउन्या­सधियार­•मोदनाथ­अर्ज्याल­•मर्दन­सिं­राना­•मजाकदेवल­टोलको­डंगोल­विलव़न्त­•टिंगल­टोलको­डंगोल­जगत­सिं­चिं",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_16.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_16.png",
     "bounding_box": {
       "x1": 318,
       "y1": 1450,
@@ -3027,7 +3027,7 @@
   {
     "line_number": 20,
     "text": "षोपासीको­वीरभद्र­थापा­•काठमाडौका­कृश्नदत्त­झा­•नैन­सिं­थापा­•अतिरुप­षत्रि­•उदै­सिं­षत्रि­•प्रधान­महादेउ­•वाका­वस्न्या",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0165_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0165_textline_20.png",
     "bounding_box": {
       "x1": 325,
       "y1": 1581,
@@ -3038,7 +3038,7 @@
   {
     "line_number": 12,
     "text": "।६­षेत­घड्यारि­ज्मा­मुरि­वाईस्­•पाथि­तेह्र­•माना­दुई­•मुठी­छका­पैदावारले­¯¯ ¯¯ ¯¯ को­गुठी­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0333_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0333_textline_12.png",
     "bounding_box": {
       "x1": 473,
       "y1": 1352,
@@ -3049,7 +3049,7 @@
   {
     "line_number": 14,
     "text": "संकल्प­हुदा­•संकल्प­वाक्य­पह्र्न्या­पुरोहित­•रघुनाथ­पंडित­अर्ज्याल­•पानी­हालन्या­काजी­द",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0333_textline_14.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0333_textline_14.png",
     "bounding_box": {
       "x1": 475,
       "y1": 1432,
@@ -3060,7 +3060,7 @@
   {
     "line_number": 17,
     "text": "नाईक्या­लाष्याँ­•जसराम­भागिदत्त­•पुन­सिरि­•भीमनारान्­•सिनामुगलका­•दामोदर­दाहा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0333_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0333_textline_17.png",
     "bounding_box": {
       "x1": 478,
       "y1": 1564,
@@ -3071,7 +3071,7 @@
   {
     "line_number": 2,
     "text": "क्का",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0365_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0365_textline_2.png",
     "bounding_box": {
       "x1": 865,
       "y1": 1155,
@@ -3082,7 +3082,7 @@
   {
     "line_number": 3,
     "text": "स्वस्ति­श्रीमन्महाराजाधि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0365_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0365_textline_3.png",
     "bounding_box": {
       "x1": 589,
       "y1": 1153,
@@ -3093,7 +3093,7 @@
   {
     "line_number": 6,
     "text": "प्रति­रंजीत­गिरीलाई­संन्यासि­महंतमंडली­वक्स्याको­छ­आफ्",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0365_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0365_textline_6.png",
     "bounding_box": {
       "x1": 573,
       "y1": 1251,
@@ -3104,7 +3104,7 @@
   {
     "line_number": 7,
     "text": "नाआफ्‌ना­अम्वलमा­पट्टा­वमोजीम­अमलमामुलको­रकमक",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0365_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0365_textline_7.png",
     "bounding_box": {
       "x1": 580,
       "y1": 1293,
@@ -3115,7 +3115,7 @@
   {
     "line_number": 9,
     "text": "त्­१८९८­साल­मिति­प्र•­आश्वीन­सुदी­१४­रोज­४­शुभ्म्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0365_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0365_textline_9.png",
     "bounding_box": {
       "x1": 587,
       "y1": 1369,
@@ -3126,7 +3126,7 @@
   {
     "line_number": 2,
     "text": "स्वस्ति­श्रीमन्महाराजाधिराजकस्य­रुक्का­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0376_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0376_textline_2.png",
     "bounding_box": {
       "x1": 613,
       "y1": 1236,
@@ -3137,7 +3137,7 @@
   {
     "line_number": 5,
     "text": "न­गयो­भनी­•तैले­हाम्रा­हजूरमा­विंति­गर्दा­जाहेर­भयो­त",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0376_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0376_textline_5.png",
     "bounding_box": {
       "x1": 617,
       "y1": 1350,
@@ -3148,7 +3148,7 @@
   {
     "line_number": 9,
     "text": "फागुन­वदि­९­रोज­७­शुभम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0376_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0376_textline_9.png",
     "bounding_box": {
       "x1": 624,
       "y1": 1512,
@@ -3159,7 +3159,7 @@
   {
     "line_number": 1,
     "text": "श्री\\",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0427_textline_1.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0427_textline_1.png",
     "bounding_box": {
       "x1": 816,
       "y1": 512,
@@ -3170,7 +3170,7 @@
   {
     "line_number": 3,
     "text": "विविधविरुदावलिविराजमानमानोन्नतश्रीमन्म",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0427_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0427_textline_3.png",
     "bounding_box": {
       "x1": 626,
       "y1": 1136,
@@ -3181,7 +3181,7 @@
   {
     "line_number": 7,
     "text": "तपसील",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0433_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0433_textline_7.png",
     "bounding_box": {
       "x1": 752,
       "y1": 1275,
@@ -3192,7 +3192,7 @@
   {
     "line_number": 9,
     "text": "8चाषुराको­वच्चा­मार्न्याके­डंड­रूपैया­¯¯¯¯¯२५­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0433_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0433_textline_9.png",
     "bounding_box": {
       "x1": 587,
       "y1": 1335,
@@ -3203,7 +3203,7 @@
   {
     "line_number": 6,
     "text": "को­फुल्­•येक­लाष­•अर्पं­भयाको­छ­•तिंम्रा­अंवलमहा­जति­शुकंदरा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0439_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0439_textline_6.png",
     "bounding_box": {
       "x1": 503,
       "y1": 1248,
@@ -3214,7 +3214,7 @@
   {
     "line_number": 7,
     "text": "आलि­र­वाटो­साध­लुहकिल­नुव़ाकोटका­अम्वल­मध्ये­अठाईसका­दरले­मुरि­।५।९।४­घड्यारि­मुरि­।२८­ज्मा­मुरि­।३३।९।४­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0522_textline_7.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0522_textline_7.png",
     "bounding_box": {
       "x1": 286,
       "y1": 996,
@@ -3225,7 +3225,7 @@
   {
     "line_number": 19,
     "text": "हान्या­अनिरुद्र­भडेल्‌­नुव़ाकोटका­द्वार्‍याको­मानिस्‌­हरदल­थापा­थरी­कान्तु­पाध्या­विश्वनाथ­पाध्या­षनालः­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0522_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0522_textline_19.png",
     "bounding_box": {
       "x1": 287,
       "y1": 1451,
@@ -3236,7 +3236,7 @@
   {
     "line_number": 20,
     "text": "पिताम्वर­पाडे­धामिको­छोरा­जितमान­चौधरि­वाका­नेव़ार­भन्सारि­विष्नुनारान्‌­नेव़ार­धनपति­पाध्या­रिमाल­पि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0522_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0522_textline_20.png",
     "bounding_box": {
       "x1": 289,
       "y1": 1487,
@@ -3247,7 +3247,7 @@
   {
     "line_number": 21,
     "text": "र्थिधर­पाध्या­कोईराला­सुरमर्दन­सिं­नेपाल्‌­विर्तवारले­किला­भन्दा­अर्घ्यालो­नचापनु­विना­तकसिर­जवद­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0522_textline_21.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0522_textline_21.png",
     "bounding_box": {
       "x1": 289,
       "y1": 1523,
@@ -3258,7 +3258,7 @@
   {
     "line_number": 22,
     "text": "नगर्नु­जो­यस­वन्देजमा­रहोईन­सो­यस­श्लोकमा­भन्याको­पातकि­होला­स्वदत्तां­परदत्ताम्वा­यो­हरेद्वै­वसुन्धरा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0013_0522_textline_22.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0013_0522_textline_22.png",
     "bounding_box": {
       "x1": 289,
       "y1": 1562,
@@ -3269,7 +3269,7 @@
   {
     "line_number": 6,
     "text": "आगे­हाम्रा­भर­मुलूकका­गुरूं­घले­लामा­चारजात­सोर्‍हजात­गैर्‍हके­•",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0135_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0135_textline_6.png",
     "bounding_box": {
       "x1": 588,
       "y1": 1249,
@@ -3280,7 +3280,7 @@
   {
     "line_number": 8,
     "text": "को­रहेछ­•आज­हामिवाट­पनी­तिमिहरूका­अघिदेषी­चलीआयाको­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0135_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0135_textline_8.png",
     "bounding_box": {
       "x1": 582,
       "y1": 1314,
@@ -3291,7 +3291,7 @@
   {
     "line_number": 9,
     "text": "रितिथिति­अपुताली­चाकचकुई­फर्नेऊलो­हाम्रा­दर्वारमा­पस्याका­प",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0135_textline_9.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0135_textline_9.png",
     "bounding_box": {
       "x1": 589,
       "y1": 1344,
@@ -3302,7 +3302,7 @@
   {
     "line_number": 11,
     "text": "ट­गराऊनु­व्रार्ह्मणवाट­गराऊनु­पार्न्या­काम­ऊपाध्या­व्रार्ह्मणवाट­गरा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0135_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0135_textline_11.png",
     "bounding_box": {
       "x1": 582,
       "y1": 1407,
@@ -3313,7 +3313,7 @@
   {
     "line_number": 2,
     "text": "श्रीवावा­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_2.png",
     "bounding_box": {
       "x1": 973,
       "y1": 393,
@@ -3324,7 +3324,7 @@
   {
     "line_number": 3,
     "text": "नरनारायेणेत्यादिवि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_3.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_3.png",
     "bounding_box": {
       "x1": 960,
       "y1": 973,
@@ -3335,7 +3335,7 @@
   {
     "line_number": 5,
     "text": "विधविरूदावलिविराजमानमानोन्नतश्रीमन्महाराजाधि",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_5.png",
     "bounding_box": {
       "x1": 532,
       "y1": 1007,
@@ -3346,7 +3346,7 @@
   {
     "line_number": 13,
     "text": "समाचार­भलो­छ­•उप्रांत­•अघिदेषि­¯ ¯ ¯ज्युलाइ­•र",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_13.png",
     "bounding_box": {
       "x1": 538,
       "y1": 1348,
@@ -3357,7 +3357,7 @@
   {
     "line_number": 15,
     "text": "को­दवाउ­भयो­र­मंसिरका­दिन­६­जाँदो­•सोमवार­विहा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_15.png",
     "bounding_box": {
       "x1": 538,
       "y1": 1437,
@@ -3368,7 +3368,7 @@
   {
     "line_number": 19,
     "text": "न्यात­जना­६­वस्याका­छन्­•ताँहाँ­पनि­जुठो­वार्नुहवस्‌­सु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_19.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_19.png",
     "bounding_box": {
       "x1": 536,
       "y1": 1598,
@@ -3379,7 +3379,7 @@
   {
     "line_number": 20,
     "text": "द्धसांति­भयापछि­आफुहरुलाइ­चलावन­थरघर­भला­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0242_textline_20.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0242_textline_20.png",
     "bounding_box": {
       "x1": 531,
       "y1": 1643,
@@ -3390,7 +3390,7 @@
   {
     "line_number": 6,
     "text": "तापसिंहसाहवहादूर्सम्सेर्जङ्‌देवानाम्‌­सदा­समरविजयिनाम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296 zuschn_textline_6.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296 zuschn_textline_6.png",
     "bounding_box": {
       "x1": 44,
       "y1": 702,
@@ -3401,7 +3401,7 @@
   {
     "line_number": 8,
     "text": "इउँ­•हाम्रा­मुलुक्‌भरिका­•उमरा­•द्वार्‍या•अमालिदार­•सभैले­•माझि­कु",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296 zuschn_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296 zuschn_textline_8.png",
     "bounding_box": {
       "x1": 47,
       "y1": 763,
@@ -3412,7 +3412,7 @@
   {
     "line_number": 13,
     "text": "सावले­अमालिदारले­तिराइदिनु­•वितलपका­कुरियामाहा­पनि­ति",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296 zuschn_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296 zuschn_textline_13.png",
     "bounding_box": {
       "x1": 50,
       "y1": 916,
@@ -3423,7 +3423,7 @@
   {
     "line_number": 15,
     "text": "साल‌­अगहन­शुदि­८­रोज­४­मुकाम­•कांतिपूर­शुभम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296 zuschn_textline_15.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296 zuschn_textline_15.png",
     "bounding_box": {
       "x1": 51,
       "y1": 995,
@@ -3434,7 +3434,7 @@
   {
     "line_number": 4,
     "text": "लिविराजमानमानोन्नतश्रीमन्महाराजाधिराजश्रीश्रीश्रीमहाराजेप्र",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296_textline_4.png",
     "bounding_box": {
       "x1": 575,
       "y1": 1275,
@@ -3445,7 +3445,7 @@
   {
     "line_number": 5,
     "text": "तापसिंहसाहवहादूर्सम्सेर्जङ्‌देवानाम्‌­सदा­समरविजयिनाम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296_textline_5.png",
     "bounding_box": {
       "x1": 575,
       "y1": 1309,
@@ -3456,7 +3456,7 @@
   {
     "line_number": 12,
     "text": "सावले­अमालिदारले­तिराइदिनु­•वितलपका­कुरियामाहा­पनि­ति",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296_textline_12.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296_textline_12.png",
     "bounding_box": {
       "x1": 584,
       "y1": 1525,
@@ -3467,7 +3467,7 @@
   {
     "line_number": 13,
     "text": "राइदिनु­•जो­छेक्‌थुन्‌­गर्ला­सो­अप्सरिया­होला­•इति­सम्वत्­१८३३­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0014_0296_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0014_0296_textline_13.png",
     "bounding_box": {
       "x1": 579,
       "y1": 1562,
@@ -3478,7 +3478,7 @@
   {
     "line_number": 2,
     "text": "स्वस्ति­श्रीगिरिराजचक्रचूडामणिनरनारायणेत्यादिविविधविरुदावलीविराजमान",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_015_033___1_textline_2.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_015_033___1_textline_2.png",
     "bounding_box": {
       "x1": 510,
       "y1": 1804,
@@ -3489,7 +3489,7 @@
   {
     "line_number": 4,
     "text": "रजङ्गदेवानां­सदा­समरविजयीनाम्­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_015_033___1_textline_4.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_015_033___1_textline_4.png",
     "bounding_box": {
       "x1": 498,
       "y1": 2021,
@@ -3500,7 +3500,7 @@
   {
     "line_number": 5,
     "text": "आगे­सहर­काठमाडौका­व्यासेभुटोल­वस्न्या­गोसाञी­रंजीत­गिरिके­सहर­काठमा",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_015_033___1_textline_5.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_015_033___1_textline_5.png",
     "bounding_box": {
       "x1": 488,
       "y1": 2115,
@@ -3511,7 +3511,7 @@
   {
     "line_number": 11,
     "text": "सि­हायु­•दनुव़ार­दरैं­कुह्माल­•चेपां­पहरि­माझिछेउ­परापूर्वदेषि­लाग्‍याको­•दै",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_015_033___1_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_015_033___1_textline_11.png",
     "bounding_box": {
       "x1": 504,
       "y1": 2764,
@@ -3522,7 +3522,7 @@
   {
     "line_number": 13,
     "text": "को­परिआयाको­चंन्‍द्रायन­चलाउनु­•वर्ष­१को­सावीक­रुपैया­१८७।।­साल­९७­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_015_033___1_textline_13.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_015_033___1_textline_13.png",
     "bounding_box": {
       "x1": 498,
       "y1": 3000,
@@ -3533,7 +3533,7 @@
   {
     "line_number": 17,
     "text": "न्यासिमंडलीका­ठाऊमा­हेमायेत्‌­गर्नामा­पस्या­डंड­पर्ला‌­इति­सम्वत्­१८९८",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_015_033___1_textline_17.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_015_033___1_textline_17.png",
     "bounding_box": {
       "x1": 495,
       "y1": 3442,
@@ -3544,7 +3544,7 @@
   {
     "line_number": 8,
     "text": "ट­दुइ­दुइ­आना­दाम­तहसिल­गरिदिनु­भंन्या­•सालवसाली­लालमोहर­भय़ाको­•तहसिल­भै­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0015_0290_textline_8.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0015_0290_textline_8.png",
     "bounding_box": {
       "x1": 622,
       "y1": 1558,
@@ -3555,7 +3555,7 @@
   {
     "line_number": 11,
     "text": "नमा­दाषील­गरि­•सालसालका­रसिद­ली­जान्या­गर­भंन्या­वंदेजको­मोहर­गरि­वक्स्यौं­",
-    "image_path": "oldNepaliDataCombinedAugmented_3/test/images/DNA_0015_0290_textline_11.png",
+    "image_path": "data/oldNepali/augmented3/test/images/DNA_0015_0290_textline_11.png",
     "bounding_box": {
       "x1": 618,
       "y1": 1666,

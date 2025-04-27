@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "६",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_1.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 96,
+            "x2": 183,
+            "y2": 211
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भ्रम-नाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_2.png",
+        "bounding_box": {
+            "x1": 910,
+            "y1": 130,
+            "x2": 1306,
+            "y2": 250
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "न जातिकारणं तात गुणा: कल्याणकारणम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_3.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 288,
+            "x2": 1969,
+            "y2": 490
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "व्रतस्थमपि चांडालं तं देवा ब्राह्मणं विदु: ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_4.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 458,
+            "x2": 1870,
+            "y2": 660
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "ही कल्याण का कारण है । यदि चांडाल भी इंद्रियों के संयम-रूपी",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_5.png",
+        "bounding_box": {
+            "x1": 71,
+            "y1": 767,
+            "x2": 2077,
+            "y2": 940
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "व्रत में स्थित होवे, तो उसे भी देवता लोग ब्राह्मण ही समझते हैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_6.png",
+        "bounding_box": {
+            "x1": 62,
+            "y1": 903,
+            "x2": 2071,
+            "y2": 1081
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "है । स्वायंभुव मनु के वंश में ऋषभदेव नामक बड़ा धर्मात्मा राजा",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_7.png",
+        "bounding_box": {
+            "x1": 51,
+            "y1": 1186,
+            "x2": 2063,
+            "y2": 1363
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "था । उसके सौ पुत्र हुए । उनमें इक्यासी पुत्र कर्मों के द्वारा ब्राह्मण",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_8.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 1322,
+            "x2": 2077,
+            "y2": 1495
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "हो गए; शेष सब क्षत्रिय रहे । देखिए, यहाँ पर भी गुण की",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_9.png",
+        "bounding_box": {
+            "x1": 22,
+            "y1": 1452,
+            "x2": 2068,
+            "y2": 1635
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "प्रधानता सिद्ध हुई, क्योंकि कर्म-रूपी गुण करके क्षत्रिय से ब्राह्मण",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_10.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 1591,
+            "x2": 2066,
+            "y2": 1762
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "हो गए । यदि जाति का प्राधान्य होता, तो कर्मों के द्वारा ब्राह्मण",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_11.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 1730,
+            "x2": 2063,
+            "y2": 1894
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "न होते । विश्वामित्र तप करके क्षत्रिय से ब्राह्मण हुए और",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_12.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 1852,
+            "x2": 2051,
+            "y2": 2025
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "शृंगीऋषि मृगी के उदर से उत्पन्न हुए । वे भी तप करके बड़ी पदवी",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_13.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 1988,
+            "x2": 2061,
+            "y2": 2155
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "को प्राप्त हुए । और वशिष्ठजी वेश्या के गर्भ से उत्पन्न होकर तप",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_14.png",
+        "bounding_box": {
+            "x1": 34,
+            "y1": 2121,
+            "x2": 2085,
+            "y2": 2290
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "के प्रभाव से बड़ी पदवी को प्राप्त हुए । इसी से साबित होता है",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_15.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2249,
+            "x2": 2049,
+            "y2": 2419
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "कि गुणा ही मुख्य है, जाति आदि केवल व्यवहार की सिद्धि के",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_16.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2393,
+            "x2": 2092,
+            "y2": 2548
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "लिये हैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_17.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2503,
+            "x2": 370,
+            "y2": 2668
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "बड़ाई क्यों की गई है ?",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_18.png",
+        "bounding_box": {
+            "x1": 26,
+            "y1": 2801,
+            "x2": 801,
+            "y2": 2959
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "हे तात युधिष्ठिर! जाति कल्याण का कारण नहीं है किंतु गुण",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_19.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 637,
+            "x2": 2083,
+            "y2": 814
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "भागवत के एकादश स्कंध में राजा ऋषभदेव की कथा प्रसिद्ध",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_20.png",
+        "bounding_box": {
+            "x1": 153,
+            "y1": 1065,
+            "x2": 2066,
+            "y2": 1239
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "प्रश्न ---- यदि गुण ही प्रधान है, तो शास्त्रों में उत्तम जाति की",
+        "image_path": "datasetProcessed/cropped_textlines/images/paramananda1924_06_textline_21.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 2685,
+            "x2": 2051,
+            "y2": 2841
+        }
+    }
+]

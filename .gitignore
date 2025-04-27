@@ -6,3 +6,4 @@ models/
 wandb/
 __pycache__/
 *.py[cod]
+data/IIIT_HW/

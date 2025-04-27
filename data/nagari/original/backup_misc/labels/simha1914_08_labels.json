@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_1.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 177,
+            "x2": 265,
+            "y2": 306
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "जगत् उपदेश ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_2.png",
+        "bounding_box": {
+            "x1": 757,
+            "y1": 162,
+            "x2": 1401,
+            "y2": 331
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "कुछ हवा लगे. प्रातःकाल ठण्ढे जलसे स्नान न करना",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_3.png",
+        "bounding_box": {
+            "x1": 137,
+            "y1": 371,
+            "x2": 2047,
+            "y2": 528
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "सबे रे भोजनके पहले कुछ घूमना. और मादकद्रव्यों",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_4.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 525,
+            "x2": 2001,
+            "y2": 678
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "से बचना चाहिये. क्योंकि उनसे नुक़सान होताहै.",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_5.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 669,
+            "x2": 2022,
+            "y2": 829
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "जिस कमरेमें रहतेहो पालतू जानवर मत आने दो,",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_6.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 818,
+            "x2": 2005,
+            "y2": 978
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "क्योंकि उनसे बीमारी के कीड़े होजातेहैं. शहरसे",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_7.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 970,
+            "x2": 1979,
+            "y2": 1125
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "देहातका रहना अच्छा होताहै. पीनेका पानी, नमी,",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_8.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 1127,
+            "x2": 2000,
+            "y2": 1275
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "औरपानी बहनेकी मोरियोंका ज़ियादा ख़्याल रक्खो",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_9.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 1271,
+            "x2": 1997,
+            "y2": 1423
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "एकही कामको बराबर न करो और २ कामोंको किया",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_10.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 1420,
+            "x2": 1979,
+            "y2": 1575
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "करो, और कुछ आराम करने को कामोंसे सावकाश",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_11.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 1569,
+            "x2": 1995,
+            "y2": 1720
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "भी लियाकरो. अपने मिज़ाजको शान्त रक्खो, इतना",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_12.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 1721,
+            "x2": 1997,
+            "y2": 1870
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "ज़ियादा काम न करो जिससे जी घबड़ाजाय. दिन",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_13.png",
+        "bounding_box": {
+            "x1": 158,
+            "y1": 1872,
+            "x2": 1992,
+            "y2": 2016
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "में थोड़ा २ तीनबेर भोजन करो ईश्वर को यादकरो",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_14.png",
+        "bounding_box": {
+            "x1": 142,
+            "y1": 2014,
+            "x2": 2000,
+            "y2": 2167
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "अपनी स्त्रीका ख़्याल रक्खो, जिसका क़र्ज़ लेव उस",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_15.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 2168,
+            "x2": 1992,
+            "y2": 2314
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "से नम्र रहो. अपनी पाचनशक्तिको ठीक रक्खो; और",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_16.png",
+        "bounding_box": {
+            "x1": 137,
+            "y1": 2309,
+            "x2": 2013,
+            "y2": 2464
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "धीरे २ आरामके साथ चलो. अगर ज़ियादे ज़िन्दगी",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_08_textline_17.png",
+        "bounding_box": {
+            "x1": 150,
+            "y1": 2464,
+            "x2": 2005,
+            "y2": 2614
+        }
+    }
+]

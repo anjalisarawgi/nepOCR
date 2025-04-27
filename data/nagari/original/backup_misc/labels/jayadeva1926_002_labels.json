@@ -1,0 +1,255 @@
+[
+    {
+        "line_number": 1,
+        "text": "२",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_1.png",
+        "bounding_box": {
+            "x1": 59,
+            "y1": 66,
+            "x2": 158,
+            "y2": 149
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गीतगोविन्दादर्श ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_2.png",
+        "bounding_box": {
+            "x1": 579,
+            "y1": 41,
+            "x2": 1117,
+            "y2": 177
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सुजन सजनता सार, जे जन तिनसों कहत अब ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_3.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 228,
+            "x2": 1580,
+            "y2": 352
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "ग्रन्थ लियो अवतार, तासु प्रयोजनहेतु हित ६",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_4.png",
+        "bounding_box": {
+            "x1": 178,
+            "y1": 346,
+            "x2": 1660,
+            "y2": 473
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "नगर मुरशिदाबाद, आदि सुरिसरी तीर शुभ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_5.png",
+        "bounding_box": {
+            "x1": 185,
+            "y1": 470,
+            "x2": 1567,
+            "y2": 590
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सुबस बसैं अबिषाद, जहां आशरम बरण सब ७",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_6.png",
+        "bounding_box": {
+            "x1": 193,
+            "y1": 593,
+            "x2": 1668,
+            "y2": 703
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "तिहिं पुर अन्तर माहिं, महिमापुर महिमा महत ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_7.png",
+        "bounding_box": {
+            "x1": 174,
+            "y1": 706,
+            "x2": 1570,
+            "y2": 827
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "महीमाहिं, सरि नाहिं, जाके पर एकौ कहूं ८",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_8.png",
+        "bounding_box": {
+            "x1": 183,
+            "y1": 827,
+            "x2": 1675,
+            "y2": 945
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सज्जनगन जनराज, लाज समाज जहाज नृप ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_9.png",
+        "bounding_box": {
+            "x1": 180,
+            "y1": 952,
+            "x2": 1611,
+            "y2": 1071
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "ऐसो और न आज, शोधी बसुधा बसत तहँ ९",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_10.png",
+        "bounding_box": {
+            "x1": 177,
+            "y1": 1058,
+            "x2": 1645,
+            "y2": 1187
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "गुणगाहक गुणवान, गुणथापक मो निगुण के ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_11.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 1191,
+            "x2": 1597,
+            "y2": 1307
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सुन्दर सुघर सुजान, सुखद सुबुधि सुबचन सुहृद १०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_12.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 1312,
+            "x2": 1692,
+            "y2": 1441
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "आनँदकन्द अमन्द, सजन कुमुदकुलचन्दनृप ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_13.png",
+        "bounding_box": {
+            "x1": 191,
+            "y1": 1427,
+            "x2": 1573,
+            "y2": 1552
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "डालचन्द कुलचन्द, रायचन्द प्रतिपाल प्रभु ११",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_14.png",
+        "bounding_box": {
+            "x1": 188,
+            "y1": 1546,
+            "x2": 1692,
+            "y2": 1668
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "इकदिन सुनि यह गीत, गोबिन्दगुणगणमणिजटित ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_15.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 1666,
+            "x2": 1667,
+            "y2": 1790
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "बाढ़ी प्रीति प्रतीत, सरसरहस रसरीति प्रति १२",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_16.png",
+        "bounding_box": {
+            "x1": 191,
+            "y1": 1784,
+            "x2": 1692,
+            "y2": 1905
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "यद्यपि समुझि सुजान, परम अरथ समुदित भये ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_17.png",
+        "bounding_box": {
+            "x1": 191,
+            "y1": 1908,
+            "x2": 1614,
+            "y2": 2027
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "तदपि अल्प मति जान, मोसे मूरख नरन की १३",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_18.png",
+        "bounding_box": {
+            "x1": 203,
+            "y1": 2021,
+            "x2": 1692,
+            "y2": 2153
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "जिन्हैं संसकृत ज्ञान, स्वपनेहूं सम्भव नहीं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_19.png",
+        "bounding_box": {
+            "x1": 206,
+            "y1": 2136,
+            "x2": 1575,
+            "y2": 2273
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "तिनहित जान सुजान, चह्यो ग्रन्थ भाषा करन १४",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_20.png",
+        "bounding_box": {
+            "x1": 211,
+            "y1": 2267,
+            "x2": 1692,
+            "y2": 2387
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "मोसे परम अजान, तासों यह आज्ञा दई ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_21.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 2380,
+            "x2": 1580,
+            "y2": 2510
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "सरसछन्द मन आन, सुगम करो भाषा रचन १५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_22.png",
+        "bounding_box": {
+            "x1": 198,
+            "y1": 2514,
+            "x2": 1692,
+            "y2": 2627
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "यद्यपि अज्ञ अजान, आयसु बल मैं हूं तबै ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_002_textline_23.png",
+        "bounding_box": {
+            "x1": 191,
+            "y1": 2627,
+            "x2": 1580,
+            "y2": 2758
+        }
+    }
+]

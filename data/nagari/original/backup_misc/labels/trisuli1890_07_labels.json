@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "पीयूषलहरी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_1.png",
+        "bounding_box": {
+            "x1": 1129,
+            "y1": 93,
+            "x2": 1855,
+            "y2": 317
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "मानि चितकौं ॥ मंगल करनवारी मूरतितुम्हारीताकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_2.png",
+        "bounding_box": {
+            "x1": 140,
+            "y1": 281,
+            "x2": 2898,
+            "y2": 511
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "बरनैको लोकमाहिं महिमाकीगतिकौं । जाकेनेक दर-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_3.png",
+        "bounding_box": {
+            "x1": 118,
+            "y1": 487,
+            "x2": 2889,
+            "y2": 683
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "शन करतेही जीवनके दूरिहोत भवभय पावैंशुभमति",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_4.png",
+        "bounding_box": {
+            "x1": 100,
+            "y1": 661,
+            "x2": 2880,
+            "y2": 869
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "कौं १२ निंदित जेकीने हैं उन्नत उनमत्तनिहू संसकार",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_5.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 849,
+            "x2": 2916,
+            "y2": 1053
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "हीननिहूँ नेकनाहिं आदरे । जिनके सुनेतैं हिंसक निहू",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_6.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1045,
+            "x2": 2880,
+            "y2": 1242
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "के रोमहोत हेमके हरैया आदि तेऊतिनतैं डरे ॥ जिन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_7.png",
+        "bounding_box": {
+            "x1": 140,
+            "y1": 1211,
+            "x2": 2880,
+            "y2": 1433
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "हूँकेतारन मैं आलस न लावतहौ पातकीनहूँतैं महापा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_8.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1403,
+            "x2": 2876,
+            "y2": 1603
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "पनके आगरे । अधिक सबहीते तो महिमाकहांलौकहौं",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_9.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 1577,
+            "x2": 2919,
+            "y2": 1801
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "तैंने गंगलोकनके पातक परैंकरे १३ सकल महीतल",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_10.png",
+        "bounding_box": {
+            "x1": 124,
+            "y1": 1770,
+            "x2": 2867,
+            "y2": 1977
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "को शोकदूरिकरिबेको आओ सुरलोकतैं बिचारिकैदया",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_11.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 1948,
+            "x2": 2894,
+            "y2": 2163
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "हिये । बांधी जटाधरने जटाकेजूट ग्रंथमाहिं यतैंहीरहैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_12.png",
+        "bounding_box": {
+            "x1": 158,
+            "y1": 2136,
+            "x2": 2898,
+            "y2": 2347
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "हमउरमैं बिचार किये ॥ करैनिरलोभनके मनकोसदाई",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_13.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 2319,
+            "x2": 2898,
+            "y2": 2537
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "लोभ सो तौ याप्रकारके तुम्हारे गुण मानिये । तिनही",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_14.png",
+        "bounding_box": {
+            "x1": 162,
+            "y1": 2494,
+            "x2": 2894,
+            "y2": 2720
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "गुननको सकलभांतिही सों यह एहो मात मंदाकिनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_15.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 2682,
+            "x2": 2880,
+            "y2": 2903
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "फैल्यो दोष जानिये १४ नैननतैं अंध और पावनतैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_16.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 2865,
+            "x2": 2894,
+            "y2": 3080
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "पंगुजे सुभावकरि बहैरे जिनकी जड़मति है । उक्तिनतैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_17.png",
+        "bounding_box": {
+            "x1": 140,
+            "y1": 3048,
+            "x2": 2889,
+            "y2": 3269
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "बिकल ग्रसेजेभूतप्रेतनिहूँ त्यागे देवतानि तिनपाई नर्क",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_18.png",
+        "bounding_box": {
+            "x1": 162,
+            "y1": 3236,
+            "x2": 2889,
+            "y2": 3453
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "गतिहै ॥ अस्तभये जिनके सुकृत पापमोचन जे सबै",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_19.png",
+        "bounding_box": {
+            "x1": 136,
+            "y1": 3428,
+            "x2": 2885,
+            "y2": 3627
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "आधि ब्याधिनतैं पीड़ित पतितहै । ऐसे मानवनहूको",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_20.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 3602,
+            "x2": 2903,
+            "y2": 3825
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "रक्षाकरिबेको गंग औषध प्रसिद्ध तोसी तूही दरशति",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_21.png",
+        "bounding_box": {
+            "x1": 154,
+            "y1": 3781,
+            "x2": 2898,
+            "y2": 4005
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "है १५ सहजही शीतल सुभाव करि निरमल ऐसेगंग",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_22.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 3969,
+            "x2": 2930,
+            "y2": 4177
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "तेरेजल तिनकी महिमाअपार । बानीमनकरिकैहूँ कह",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_23.png",
+        "bounding_box": {
+            "x1": 158,
+            "y1": 4157,
+            "x2": 2907,
+            "y2": 4378
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "तैं बनत नाहिं फैलिरही अवनीपै सबहिन तैं उदार ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_24.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 4335,
+            "x2": 2938,
+            "y2": 4565
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "ताही महिमाको सुत सगर महीपति के उज्ज्वलअनूप",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_25.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 4528,
+            "x2": 2916,
+            "y2": 4729
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "द्युति दिव्यरूप धारिधार । अंग अंग पुलकैं ते आनँद",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_26.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 4711,
+            "x2": 2907,
+            "y2": 4925
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "७",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_07_textline_27.png",
+        "bounding_box": {
+            "x1": 2714,
+            "y1": 102,
+            "x2": 2894,
+            "y2": 330
+        }
+    }
+]

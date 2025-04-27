@@ -1,0 +1,277 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_1.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 107,
+            "x2": 221,
+            "y2": 189
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "निष्फल नहीं जाता है २९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_2.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 649,
+            "x2": 739,
+            "y2": 743
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "का, पराई स्त्रीका कभी सेवन न करे ३० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_3.png",
+        "bounding_box": {
+            "x1": 115,
+            "y1": 1102,
+            "x2": 987,
+            "y2": 1198
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तक नरकमें रहताहै ३२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_4.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 2115,
+            "x2": 670,
+            "y2": 2204
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अधर्म्म निष्फल नहीं जाता ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_5.png",
+        "bounding_box": {
+            "x1": 425,
+            "y1": 211,
+            "x2": 1074,
+            "y2": 310
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "यदिनात्मनिपुत्रेषु नचेत्पुत्रेषुनप्तृषु ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_6.png",
+        "bounding_box": {
+            "x1": 206,
+            "y1": 302,
+            "x2": 1147,
+            "y2": 425
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "बैरी आदिकों को सेवन न करे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_7.png",
+        "bounding_box": {
+            "x1": 397,
+            "y1": 730,
+            "x2": 1086,
+            "y2": 839
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "लक्ष्मी को यत्न करना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_8.png",
+        "bounding_box": {
+            "x1": 480,
+            "y1": 1207,
+            "x2": 997,
+            "y2": 1292
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "नात्मानमवमन्येत पूर्वाभिरसमृद्धिभिः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_9.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1289,
+            "x2": 1145,
+            "y2": 1398
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "शिवरत्नसंग्रह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_10.png",
+        "bounding_box": {
+            "x1": 578,
+            "y1": 97,
+            "x2": 920,
+            "y2": 196
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "आमृत्योःश्रियमन्विच्छेन्नैनमन्येतदुर्लभम् ३१ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_11.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 1380,
+            "x2": 1365,
+            "y2": 1494
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "नत्वेवतुकृतोऽधर्म्म: कर्तुर्भुवतिनिष्फल: २९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_12.png",
+        "bounding_box": {
+            "x1": 204,
+            "y1": 401,
+            "x2": 1367,
+            "y2": 510
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "को नहीं करताहै तौ उसके पुत्रों में नहीं तो पौत्रों में करताहै",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_13.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 572,
+            "x2": 1369,
+            "y2": 679
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अर्थ ।। जो अधर्म्मकरनेवाले की देह धनके नाशआदि फलों",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_14.png",
+        "bounding_box": {
+            "x1": 194,
+            "y1": 497,
+            "x2": 1377,
+            "y2": 606
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "वैरिणंनोपसेवेत साहय्यञ्चैववैरिण: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_15.png",
+        "bounding_box": {
+            "x1": 206,
+            "y1": 822,
+            "x2": 1137,
+            "y2": 941
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "अधर्मिकंतस्करंच परस्यैवचयोषितम् ३० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_16.png",
+        "bounding_box": {
+            "x1": 190,
+            "y1": 919,
+            "x2": 1308,
+            "y2": 1037
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "अर्थ ।। बैरी का और उसके मित्रका और अधर्म्मी का, चौर",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_17.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 1017,
+            "x2": 1359,
+            "y2": 1128
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "हूं ऐसा कहकर अपनी निन्दा न करै किन्तु मरने तक लक्ष्मीकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_18.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1550,
+            "x2": 1361,
+            "y2": 1648
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "सिद्धिके लिये यत्न करै उसको दुर्लभ न जानै ३१ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_19.png",
+        "bounding_box": {
+            "x1": 115,
+            "y1": 1615,
+            "x2": 1149,
+            "y2": 1716
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "अर्थ ।। उद्यम करनेपर जो धन न मिलै तो मैं मन्दभागी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_20.png",
+        "bounding_box": {
+            "x1": 206,
+            "y1": 1481,
+            "x2": 1361,
+            "y2": 1576
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "ब्राह्मणके ताड़नेका फल ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_21.png",
+        "bounding_box": {
+            "x1": 452,
+            "y1": 1709,
+            "x2": 1007,
+            "y2": 1798
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "अवगूर्यत्वब्दशतं सहस्रमभिहत्यच ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_22.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 1786,
+            "x2": 1125,
+            "y2": 1896
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "जिघांसयाब्राह्मणस्य नरकंप्रतिपद्यते ३२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_23.png",
+        "bounding_box": {
+            "x1": 200,
+            "y1": 1875,
+            "x2": 1294,
+            "y2": 1991
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "अर्थ ।। ब्राह्मणके मारने की इच्छासे डण्डेको उठायकै सौवर्ष",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_24.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 1963,
+            "x2": 1365,
+            "y2": 2069
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "तक नरकमें रहताहै और दण्ड आदिसे ताड़ना करके हजार वर्ष",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_08_textline_25.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 2042,
+            "x2": 1393,
+            "y2": 2140
+        }
+    }
+]

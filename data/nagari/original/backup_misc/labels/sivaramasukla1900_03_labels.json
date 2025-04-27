@@ -1,0 +1,277 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवरत्नसंग्रह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_1.png",
+        "bounding_box": {
+            "x1": 539,
+            "y1": 136,
+            "x2": 879,
+            "y2": 233
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "अतिथि के लक्षण ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_2.png",
+        "bounding_box": {
+            "x1": 492,
+            "y1": 253,
+            "x2": 926,
+            "y2": 344
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "एकरात्रंतुनिवसन्नतिथिर्ब्राह्मणःस्मृत: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_3.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 336,
+            "x2": 1131,
+            "y2": 455
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अनित्यंहिस्थितो यस्मात्तस्मादतिथिरुच्यते ९।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_4.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 434,
+            "x2": 1338,
+            "y2": 544
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अर्थ ।। केवल एकरात्रि पराये घर में बसताहुवा ब्राह्मण",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_5.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 529,
+            "x2": 1336,
+            "y2": 625
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सदा न रहने से अतिथि होता है नहीं है दूसरी तिथि जिसकी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_6.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 594,
+            "x2": 1330,
+            "y2": 697
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "वह अतिथि कहाजाता है ९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_7.png",
+        "bounding_box": {
+            "x1": 80,
+            "y1": 678,
+            "x2": 713,
+            "y2": 767
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "को गरुके सोने के पीछे सोवै ११ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_8.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1749,
+            "x2": 790,
+            "y2": 1846
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ब्रह्मचारी के लक्षण ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_9.png",
+        "bounding_box": {
+            "x1": 472,
+            "y1": 787,
+            "x2": 946,
+            "y2": 875
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "गाना बजाना इन सबों को ब्रह्मचारी वर्जितकरे १० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_10.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1220,
+            "x2": 1164,
+            "y2": 1307
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "और उनसे वार्तालाप न करे १२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_11.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 2190,
+            "x2": 820,
+            "y2": 2277
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "अभ्यङ्गमञ्जनंचाक्ष्णोरुपानच्छत्रधारणम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_12.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 891,
+            "x2": 1273,
+            "y2": 978
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "कामंक्रोधंचलोभंच नर्तनं गीतवादनम् १० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_13.png",
+        "bounding_box": {
+            "x1": 159,
+            "y1": 972,
+            "x2": 1324,
+            "y2": 1076
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अर्थ ।। तिल आदि का लगाना आंखों को आंजना जूता",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_14.png",
+        "bounding_box": {
+            "x1": 157,
+            "y1": 1069,
+            "x2": 1330,
+            "y2": 1166
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "छातेको धारण करना और काम क्रोध लोभ लालच नाचना",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_15.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1151,
+            "x2": 1336,
+            "y2": 1236
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "अथ शिष्यके धर्म्म ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_16.png",
+        "bounding_box": {
+            "x1": 492,
+            "y1": 1289,
+            "x2": 930,
+            "y2": 1404
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "हीनान्नवस्त्रवेष:स्यात् सर्वदागुरुसंनिधौ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_17.png",
+        "bounding_box": {
+            "x1": 163,
+            "y1": 1402,
+            "x2": 1184,
+            "y2": 1511
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "उतिष्ठेत्प्रथमंचास्य चरमंचैव संविशेत् ११ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_18.png",
+        "bounding_box": {
+            "x1": 160,
+            "y1": 1494,
+            "x2": 1312,
+            "y2": 1608
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "पहिरै और सबेरे दो घड़ी रातिरहे गरु से पहिले उठे और सन्ध्या",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_19.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 1672,
+            "x2": 1332,
+            "y2": 1771
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "अर्थ ।। गुरु के समीप सदा गुरु से हीन अन्न वस्त्र खाय",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_20.png",
+        "bounding_box": {
+            "x1": 146,
+            "y1": 1605,
+            "x2": 1336,
+            "y2": 1701
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "प्रतिश्रवणसंभाषे शयानोनसमाचरेत् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_21.png",
+        "bounding_box": {
+            "x1": 155,
+            "y1": 1849,
+            "x2": 1171,
+            "y2": 1950
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "रताहुवा मुंह फेरे खड़ाहुवा ब्रह्मचारी गुरुकी आज्ञा का स्वीकार",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_22.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 2113,
+            "x2": 1326,
+            "y2": 2208
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "नासीनोनचभुञ्जानो नतिष्ठन्नपराङ्मुख: १२ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_23.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 1942,
+            "x2": 1340,
+            "y2": 2049
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "अर्थ ।। शय्यापर पड़ाहुवा आसनपर बैठा हुवा भोजन क-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_24.png",
+        "bounding_box": {
+            "x1": 145,
+            "y1": 2044,
+            "x2": 1330,
+            "y2": 2135
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_03_textline_25.png",
+        "bounding_box": {
+            "x1": 1252,
+            "y1": 121,
+            "x2": 1338,
+            "y2": 228
+        }
+    }
+]

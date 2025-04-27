@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "गीतगोविन्दादर्श ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_1.png",
+        "bounding_box": {
+            "x1": 501,
+            "y1": 149,
+            "x2": 1071,
+            "y2": 293
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "त्रिभुवनभवननिधान ।। जय जय देव हरे ५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_2.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 347,
+            "x2": 1567,
+            "y2": 488
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "जनकसुताकृतभूषण जितदूषणए ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_3.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 501,
+            "x2": 1339,
+            "y2": 641
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "समरशमितदशकण्ठ ।। जय जय देव हरे ६",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_4.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 656,
+            "x2": 1567,
+            "y2": 795
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अभिनवजलधरसुन्दरधृतमन्दरए ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_5.png",
+        "bounding_box": {
+            "x1": 62,
+            "y1": 819,
+            "x2": 1316,
+            "y2": 934
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "श्रीमुखचन्द्रचकोर ।। जय जय देव हरे ७",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_6.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 945,
+            "x2": 1570,
+            "y2": 1090
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "श्रीजयदेवकवेरिदं कुरुते मुदम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_7.png",
+        "bounding_box": {
+            "x1": 71,
+            "y1": 1068,
+            "x2": 1353,
+            "y2": 1248
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मङ्गलमुज्ज्वलगीतम् ।। जय जय देव हरे ८",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_8.png",
+        "bounding_box": {
+            "x1": 65,
+            "y1": 1249,
+            "x2": 1554,
+            "y2": 1390
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "आश्रित श्रीकुचमण्डल श्रुतिकुण्डल ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_9.png",
+        "bounding_box": {
+            "x1": 45,
+            "y1": 1521,
+            "x2": 1126,
+            "y2": 1674
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "रबिद्युतिदीपतिभूषणभवदूषण ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_10.png",
+        "bounding_box": {
+            "x1": 35,
+            "y1": 1786,
+            "x2": 944,
+            "y2": 1912
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "जनकसुताकृतभूषण जितदूषण ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_11.png",
+        "bounding_box": {
+            "x1": 49,
+            "y1": 2771,
+            "x2": 968,
+            "y2": 2904
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "प्रतिबिम्ब ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_12.png",
+        "bounding_box": {
+            "x1": 573,
+            "y1": 1412,
+            "x2": 893,
+            "y2": 1533
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "लसित ललित बनमाल ।। जय जय देव हरे १ ध्रु॰",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_13.png",
+        "bounding_box": {
+            "x1": 63,
+            "y1": 1658,
+            "x2": 1498,
+            "y2": 1794
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "मुनिजनमनकलहंस ।। जय जय देव हरे २",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_14.png",
+        "bounding_box": {
+            "x1": 60,
+            "y1": 1909,
+            "x2": 1375,
+            "y2": 2044
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "नट नाथन अहिकाली जनपाली ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_15.png",
+        "bounding_box": {
+            "x1": 55,
+            "y1": 2037,
+            "x2": 1043,
+            "y2": 2163
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "यदुकुल अम्बुजमानु ।। जय जय देव हरे ३",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_16.png",
+        "bounding_box": {
+            "x1": 55,
+            "y1": 2144,
+            "x2": 1353,
+            "y2": 2279
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "मधुमुरनरकविनाशन गरुड़ासन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_17.png",
+        "bounding_box": {
+            "x1": 52,
+            "y1": 2272,
+            "x2": 963,
+            "y2": 2406
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "सुरकुल के सुखहेतु ।। जय जय देव हरे ४",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_18.png",
+        "bounding_box": {
+            "x1": 55,
+            "y1": 2392,
+            "x2": 1361,
+            "y2": 2534
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "मञ्जुकञ्जद्दगरञ्जन भवभञ्जन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_19.png",
+        "bounding_box": {
+            "x1": 31,
+            "y1": 2528,
+            "x2": 907,
+            "y2": 2649
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "त्रिभुवनभवन निधान ।। जय जय देव हरे ५",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_20.png",
+        "bounding_box": {
+            "x1": 44,
+            "y1": 2643,
+            "x2": 1361,
+            "y2": 2774
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "११",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_011_textline_21.png",
+        "bounding_box": {
+            "x1": 1434,
+            "y1": 170,
+            "x2": 1594,
+            "y2": 297
+        }
+    }
+]

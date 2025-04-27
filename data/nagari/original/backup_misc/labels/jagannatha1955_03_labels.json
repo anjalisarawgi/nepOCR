@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "तवालम्बादम्ब स्फुरदलघुगर्वेण सहसा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_1.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 517,
+            "x2": 1545,
+            "y2": 655
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "मया सर्वेऽवज्ञासरणिमथ नीता: सुरगण: ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_2.png",
+        "bounding_box": {
+            "x1": 152,
+            "y1": 653,
+            "x2": 1793,
+            "y2": 784
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "इदानीमौदास्यं यदि भजसि भागीरथि तदा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_3.png",
+        "bounding_box": {
+            "x1": 165,
+            "y1": 770,
+            "x2": 1727,
+            "y2": 922
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "निराधारो हा रोदिमि कथय केषामिहपुर: ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_4.png",
+        "bounding_box": {
+            "x1": 157,
+            "y1": 906,
+            "x2": 1789,
+            "y2": 1038
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "अम्बे, पा अवलम्ब तुम्हारा अहंकार चित में लीना ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_5.png",
+        "bounding_box": {
+            "x1": 247,
+            "y1": 1170,
+            "x2": 1792,
+            "y2": 1278
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सुधातः स्वादीयः सलिलमिदमातृप्ति पिबतां",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_6.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 2052,
+            "x2": 1773,
+            "y2": 2188
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "सब देवों का मैंने एकदम तिरस्कार ही कर दीना ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_7.png",
+        "bounding_box": {
+            "x1": 261,
+            "y1": 1293,
+            "x2": 1792,
+            "y2": 1402
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "भागीरथी, समय ऐसे पर जो निराश मैं होऊँगा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_8.png",
+        "bounding_box": {
+            "x1": 255,
+            "y1": 1404,
+            "x2": 1809,
+            "y2": 1524
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "तुम्हीं बताओ, मा, फिर जाकर किसके आगे रोऊँगा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_9.png",
+        "bounding_box": {
+            "x1": 258,
+            "y1": 1530,
+            "x2": 1803,
+            "y2": 1647
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "[३]",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_10.png",
+        "bounding_box": {
+            "x1": 863,
+            "y1": 215,
+            "x2": 1182,
+            "y2": 342
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "(४)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_11.png",
+        "bounding_box": {
+            "x1": 863,
+            "y1": 383,
+            "x2": 1174,
+            "y2": 506
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "अपि प्राज्यं राज्यं तृणमिव परित्यज्य सहसा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_12.png",
+        "bounding_box": {
+            "x1": 151,
+            "y1": 1796,
+            "x2": 1822,
+            "y2": 1927
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "विलोलद्वानीरं तव जननि तीरं श्रितवताम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_13.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 1922,
+            "x2": 1822,
+            "y2": 2065
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "जनानामानन्द: परिहसति निर्वाणपदवीम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_14.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 2183,
+            "x2": 1820,
+            "y2": 2317
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "जननी, छोड़ बड़े राज्यों को बड़भागी जो तट सेवें ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_15.png",
+        "bounding_box": {
+            "x1": 282,
+            "y1": 2447,
+            "x2": 1822,
+            "y2": 2559
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "मोक्ष-सुखों की क्या बिसात जो उसके आगे मन भर दे ॥ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_16.png",
+        "bounding_box": {
+            "x1": 285,
+            "y1": 2806,
+            "x2": 1825,
+            "y2": 2920
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "(४)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_17.png",
+        "bounding_box": {
+            "x1": 884,
+            "y1": 1053,
+            "x2": 1155,
+            "y2": 1167
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "(५)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_18.png",
+        "bounding_box": {
+            "x1": 871,
+            "y1": 1660,
+            "x2": 1193,
+            "y2": 1778
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "काँसादिक लहराते जिसमें उत्तम अमृत जल पीवें ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_19.png",
+        "bounding_box": {
+            "x1": 274,
+            "y1": 2567,
+            "x2": 1836,
+            "y2": 2682
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "उनके आनन्दों की सीमा कहो, कौन वर्णन कर दे ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_20.png",
+        "bounding_box": {
+            "x1": 274,
+            "y1": 2687,
+            "x2": 1828,
+            "y2": 2799
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "(५)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_03_textline_21.png",
+        "bounding_box": {
+            "x1": 920,
+            "y1": 2335,
+            "x2": 1182,
+            "y2": 2439
+        }
+    }
+]

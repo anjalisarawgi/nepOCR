@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "वेदस्तुति स० ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_1.png",
+        "bounding_box": {
+            "x1": 681,
+            "y1": 161,
+            "x2": 1142,
+            "y2": 293
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रीकृताः आशयगुणाः अन्तःकरणगुणाः कामादयः काल",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_2.png",
+        "bounding_box": {
+            "x1": 154,
+            "y1": 322,
+            "x2": 1692,
+            "y2": 455
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "गुणाजरादयोयैस्ते ।। ३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_3.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 443,
+            "x2": 898,
+            "y2": 568
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तेनुविधामहदहमादयोण्डमसृज",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_4.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 715,
+            "x2": 1687,
+            "y2": 896
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "न्यदनुग्रहतः ।। पुरुषविधोन्वयो",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_5.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 902,
+            "x2": 1682,
+            "y2": 1061
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "त्रचरमोन्नमयादिषुयःसदसतःप",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_6.png",
+        "bounding_box": {
+            "x1": 144,
+            "y1": 1071,
+            "x2": 1682,
+            "y2": 1214
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "रंत्वमथयदेष्ववशेषमृत ।। ४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_7.png",
+        "bounding_box": {
+            "x1": 144,
+            "y1": 1222,
+            "x2": 1612,
+            "y2": 1408
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "न्मुखास्तदा ते एव असुभृतः सफलप्राणाः अन्यथा दृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_8.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1529,
+            "x2": 1662,
+            "y2": 1655
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "यइव भस्त्राइव श्वसंति परोपद्रवार्थमेवजीवंतीत्यर्थः य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_9.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 1640,
+            "x2": 1665,
+            "y2": 1771
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "दनुग्रहतः महदहमादयः ब्रह्माण्डमसृजन् अन्नमयादि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_10.png",
+        "bounding_box": {
+            "x1": 136,
+            "y1": 1764,
+            "x2": 1670,
+            "y2": 1896
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "षुयश्चरमः अन्त्यः आनन्दमयः सः अत्र देहेषुपुरुषविधः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_11.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1882,
+            "x2": 1665,
+            "y2": 2012
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "अन्वयश्च सदसतः परं कार्यकारणतः परं यत् तत्त्वमेव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_12.png",
+        "bounding_box": {
+            "x1": 123,
+            "y1": 2003,
+            "x2": 1662,
+            "y2": 2129
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "अथ यत् एषु कार्यकारणात्मकसर्ववस्तुषु अवशेषं ऋतंस",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_13.png",
+        "bounding_box": {
+            "x1": 118,
+            "y1": 2109,
+            "x2": 1644,
+            "y2": 2247
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "त्यंतत्त्वमेवेत्यर्थः ।। ४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_14.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 2227,
+            "x2": 882,
+            "y2": 2357
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "* कृष्णएवसदासेव्योनिर्णीतःपंचधावुधैः ।। शरीरदःप्रेरकश्चसुखदःशेषसत्पदः ४ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_15.png",
+        "bounding_box": {
+            "x1": 169,
+            "y1": 2565,
+            "x2": 1652,
+            "y2": 2663
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "* दृतयइवश्वसंत्यसुभृतोयदि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_16.png",
+        "bounding_box": {
+            "x1": 313,
+            "y1": 554,
+            "x2": 1692,
+            "y2": 717
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "यदि ये जीवाः तेनुविधास्त्वदनुविधास्त्वत्सेवायां स",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_17.png",
+        "bounding_box": {
+            "x1": 239,
+            "y1": 1398,
+            "x2": 1672,
+            "y2": 1537
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "+ उदरमुपासतेयऋषिवर्त्मसुकू",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_18.png",
+        "bounding_box": {
+            "x1": 257,
+            "y1": 2361,
+            "x2": 1655,
+            "y2": 2533
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "+ कर्मरूपंहरिंकेचित्सेवंतेयोगरूपिणम् ।। तेभ्योप्यक्षररूपस्यमेषकाःसंमताःसताम् ५",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_19.png",
+        "bounding_box": {
+            "x1": 169,
+            "y1": 2623,
+            "x2": 1655,
+            "y2": 2743
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_05_textline_20.png",
+        "bounding_box": {
+            "x1": 1584,
+            "y1": 176,
+            "x2": 1697,
+            "y2": 298
+        }
+    }
+]

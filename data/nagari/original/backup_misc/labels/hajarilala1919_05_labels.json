@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_1.png",
+        "bounding_box": {
+            "x1": 560,
+            "y1": 168,
+            "x2": 1094,
+            "y2": 329
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गिरि निज नगर में नाना भाँति, अतिही",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_2.png",
+        "bounding_box": {
+            "x1": 2,
+            "y1": 334,
+            "x2": 1645,
+            "y2": 506
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "बिचित्र सुबितान रचवाये हैं । घर घर",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_3.png",
+        "bounding_box": {
+            "x1": 11,
+            "y1": 504,
+            "x2": 1696,
+            "y2": 652
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तोरण पताका ध्वज रङ्गराङ्ग, मण्डप अनेक",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_4.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 651,
+            "x2": 1650,
+            "y2": 798
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "भाँति शुचि बनवाये हैं ।। बनबाग उपबन",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_5.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 797,
+            "x2": 1650,
+            "y2": 944
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "बापिकातङागकूप,सुन्दरअनूपरम्भाथम्भ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_6.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 958,
+            "x2": 1648,
+            "y2": 1094
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "लगवाये हैं । जहां तहां गृह बहु राखे सँव-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_7.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1087,
+            "x2": 1658,
+            "y2": 1246
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "राइ भल, सजल हाटक घट द्वारे धरवाये",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_8.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 1241,
+            "x2": 1681,
+            "y2": 1396
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "हैं ६ सकल जगतमहँ लघु औ बिशाल",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_9.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1385,
+            "x2": 1687,
+            "y2": 1535
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "शैल, सागर तलाव नद नदी बन जितनै ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_10.png",
+        "bounding_box": {
+            "x1": 4,
+            "y1": 1536,
+            "x2": 1663,
+            "y2": 1693
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सब कहँ हिमवन्त नेवता पठाइ दिये,",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_11.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1683,
+            "x2": 1697,
+            "y2": 1833
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सुनत चले हैं हरषित सब तितनै ।। सुन्दर",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_12.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 1826,
+            "x2": 1693,
+            "y2": 1975
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सुहावन समाज निज लेइ लेइ, नारिन स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_13.png",
+        "bounding_box": {
+            "x1": 1,
+            "y1": 1978,
+            "x2": 1665,
+            "y2": 2125
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "हित तन धरि धरि कितनै । पहुँचे हिमाचल",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_14.png",
+        "bounding_box": {
+            "x1": 6,
+            "y1": 2117,
+            "x2": 1660,
+            "y2": 2281
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "नगर माहँ आइ सब, टिके यथायोग्य ठौर",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_15.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2268,
+            "x2": 1665,
+            "y2": 2422
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "ठौर जाको मितनै ७ उतते बरात आइ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_16.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 2414,
+            "x2": 1687,
+            "y2": 2573
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_05_textline_17.png",
+        "bounding_box": {
+            "x1": 1523,
+            "y1": 212,
+            "x2": 1674,
+            "y2": 326
+        }
+    }
+]

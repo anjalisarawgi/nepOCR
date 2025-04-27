@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीरामस्तवराजः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_1.png",
+        "bounding_box": {
+            "x1": 520,
+            "y1": 325,
+            "x2": 1268,
+            "y2": 471
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गद्गुरुम् ॥ २९ ॥ सत्यं सत्यप्रियं श्रेष्ठं जा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_2.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 515,
+            "x2": 1698,
+            "y2": 682
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "नकीवल्लभं विभुम् ।। सौमित्रिपूर्वजं शान्तं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_3.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 660,
+            "x2": 1690,
+            "y2": 815
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "कामदं कमलेक्षणाम् ।। ३० ।। आदित्यं र-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_4.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 798,
+            "x2": 1696,
+            "y2": 950
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "विमीशानं घृणिं सूर्यमनामयम् ।। आन-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_5.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 939,
+            "x2": 1705,
+            "y2": 1091
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "न्दरूपिणं सोम्यं राघवं करुणामयम्।। ३१ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_6.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1078,
+            "x2": 1753,
+            "y2": 1218
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "जामदग्न्यं तपोमूर्तिं रामं परशुधारिणम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_7.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 1210,
+            "x2": 1723,
+            "y2": 1362
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "वाक्पतिं वरदं वाच्यं श्रीपतिं पक्षिवाहनम्",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_8.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1351,
+            "x2": 1705,
+            "y2": 1494
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "।। ३२ ।। श्रीशार्ङ्गधारिणं रामं चिन्मयान-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_9.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 1484,
+            "x2": 1716,
+            "y2": 1637
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "न्दविग्रहम् ।। हलधृग्विष्णुमीशानं बलरामं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_10.png",
+        "bounding_box": {
+            "x1": 110,
+            "y1": 1617,
+            "x2": 1705,
+            "y2": 1772
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "कृपानिधिम् ।। ३३ ।। श्रीवल्लभं कृपानाथं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_11.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 1755,
+            "x2": 1728,
+            "y2": 1908
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "जगन्मोहनमच्युतम् ।। मत्स्यकूर्मवराहादि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_12.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1899,
+            "x2": 1722,
+            "y2": 2038
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "रूपधारिणमव्ययम् ।। ३४ ।। वासुदेवं ज-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_13.png",
+        "bounding_box": {
+            "x1": 122,
+            "y1": 2026,
+            "x2": 1731,
+            "y2": 2172
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "गद्योनिमनादिनिधनं हरिम्।। गोविन्दं गो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_14.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 2161,
+            "x2": 1731,
+            "y2": 2311
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "पतिं विष्णुं गोपीजनमनोहरम्।। ३५ ।। गो",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_15.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 2297,
+            "x2": 1739,
+            "y2": 2443
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "गोपालपरीवारं गोपकन्यासमावृतम् ।। वि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_16.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 2447,
+            "x2": 1762,
+            "y2": 2583
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "द्युत्पुञ्जप्रतीकाशं रामं कृष्णं जगन्मयम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_17.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 2576,
+            "x2": 1774,
+            "y2": 2720
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "।। ३६ ।। गोगोपिकासमाकीर्णं वेणुवादनत-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_18.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 2706,
+            "x2": 1728,
+            "y2": 2856
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "त्परम् ।। कामरूपं कलावन्तं कामिनीकाम-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_19.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 2843,
+            "x2": 1757,
+            "y2": 2991
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_05_textline_20.png",
+        "bounding_box": {
+            "x1": 1554,
+            "y1": 322,
+            "x2": 1684,
+            "y2": 463
+        }
+    }
+]

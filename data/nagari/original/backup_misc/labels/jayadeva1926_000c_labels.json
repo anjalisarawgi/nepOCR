@@ -1,0 +1,134 @@
+[
+    {
+        "line_number": 1,
+        "text": "गीतगोविन्दादर्श",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_1.png",
+        "bounding_box": {
+            "x1": 332,
+            "y1": 870,
+            "x2": 1269,
+            "y2": 1055
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रायचन्द नागर-कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_2.png",
+        "bounding_box": {
+            "x1": 431,
+            "y1": 1254,
+            "x2": 1165,
+            "y2": 1368
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "गतिगोविन्द संस्कृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_3.png",
+        "bounding_box": {
+            "x1": 429,
+            "y1": 1379,
+            "x2": 1181,
+            "y2": 1501
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अर्थात्",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_4.png",
+        "bounding_box": {
+            "x1": 593,
+            "y1": 1076,
+            "x2": 896,
+            "y2": 1243
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "भाषा-प्रतिबिंब ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_5.png",
+        "bounding_box": {
+            "x1": 588,
+            "y1": 1624,
+            "x2": 1029,
+            "y2": 1738
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "केसरीदास सेठ द्वारा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_6.png",
+        "bounding_box": {
+            "x1": 520,
+            "y1": 2114,
+            "x2": 1050,
+            "y2": 2232
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "दसवीं बार",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_7.png",
+        "bounding_box": {
+            "x1": 616,
+            "y1": 1778,
+            "x2": 985,
+            "y2": 1875
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_8.png",
+        "bounding_box": {
+            "x1": 598,
+            "y1": 1963,
+            "x2": 993,
+            "y2": 2080
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "नवलकिशोर प्रेस में मुद्रित और प्रकाशित",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_9.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 2232,
+            "x2": 1371,
+            "y2": 2371
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "सन् १९२६ ई०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_10.png",
+        "bounding_box": {
+            "x1": 564,
+            "y1": 2380,
+            "x2": 1047,
+            "y2": 2485
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "का ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_11.png",
+        "bounding_box": {
+            "x1": 718,
+            "y1": 1520,
+            "x2": 857,
+            "y2": 1616
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सर्वाधिकार रक्षित ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_000c_textline_12.png",
+        "bounding_box": {
+            "x1": 541,
+            "y1": 2761,
+            "x2": 1084,
+            "y2": 2859
+        }
+    }
+]

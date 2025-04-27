@@ -1,0 +1,134 @@
+[
+    {
+        "line_number": 1,
+        "text": "(२)",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_1.png",
+        "bounding_box": {
+            "x1": 1248,
+            "y1": 143,
+            "x2": 1725,
+            "y2": 373
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "कि इसपुस्तकमें जोकुछ लेखक प्रमाद आदिकसे भूलचूक देखैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_2.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 312,
+            "x2": 2904,
+            "y2": 517
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "वहक्षमाकरैं और बनादें और इसश्लोकके आशयको यादकरैं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_3.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 478,
+            "x2": 2804,
+            "y2": 669
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "गुणायन्तेदोषास्सुजनवदनेदुर्ज्जनमुखे",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_4.png",
+        "bounding_box": {
+            "x1": 516,
+            "y1": 809,
+            "x2": 2168,
+            "y2": 977
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "गुणादोषायन्तेतदिदमितिनोविस्मयपदम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_5.png",
+        "bounding_box": {
+            "x1": 516,
+            "y1": 947,
+            "x2": 2442,
+            "y2": 1159
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "यथाजीमूतास्येलवणजलधेर्वारिमधुरं",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_6.png",
+        "bounding_box": {
+            "x1": 512,
+            "y1": 1139,
+            "x2": 2146,
+            "y2": 1298
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "फणिःपीत्वाक्षीरंवमतिगरलंदुस्सहतरम् १ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_7.png",
+        "bounding_box": {
+            "x1": 516,
+            "y1": 1282,
+            "x2": 2504,
+            "y2": 1475
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "सत्सङ्गाद्भवतिहिसाधुताखलानां",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_8.png",
+        "bounding_box": {
+            "x1": 521,
+            "y1": 1443,
+            "x2": 1998,
+            "y2": 1617
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "साधूनांनचखलसंगमात्‌खलत्वम् ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_9.png",
+        "bounding_box": {
+            "x1": 512,
+            "y1": 1604,
+            "x2": 2083,
+            "y2": 1787
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "आमोदंकुसुमभवंमृदेवधत्ते",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_10.png",
+        "bounding_box": {
+            "x1": 543,
+            "y1": 1761,
+            "x2": 1685,
+            "y2": 1937
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "मृद्गन्धंनहिकुसुमानिधारयंति २ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_11.png",
+        "bounding_box": {
+            "x1": 525,
+            "y1": 1917,
+            "x2": 2088,
+            "y2": 2109
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "श्लोक ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_02_textline_12.png",
+        "bounding_box": {
+            "x1": 1250,
+            "y1": 643,
+            "x2": 1703,
+            "y2": 821
+        }
+    }
+]

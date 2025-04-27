@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "१६",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_1.png",
+        "bounding_box": {
+            "x1": 243,
+            "y1": 296,
+            "x2": 420,
+            "y2": 437
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "प्रातर्निवेदनकारिकाः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_2.png",
+        "bounding_box": {
+            "x1": 598,
+            "y1": 279,
+            "x2": 1477,
+            "y2": 449
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "र्गमस्तिष्ठन्मध्ये मरणजन्मनोः ।। ६ ।। विह्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_3.png",
+        "bounding_box": {
+            "x1": 223,
+            "y1": 469,
+            "x2": 1837,
+            "y2": 664
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "लश्च विषण्णश्च विमृशन्स्वामिमां दशाम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_4.png",
+        "bounding_box": {
+            "x1": 234,
+            "y1": 619,
+            "x2": 1832,
+            "y2": 784
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "चिन्तयेत्प्रथमं चैवमाचरन्प्रियमात्मनः।। ७ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_5.png",
+        "bounding_box": {
+            "x1": 231,
+            "y1": 760,
+            "x2": 1832,
+            "y2": 918
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "संसारचक्रमारोप्य बलिभिः कर्मरज्जुभिः ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_6.png",
+        "bounding_box": {
+            "x1": 231,
+            "y1": 887,
+            "x2": 1865,
+            "y2": 1051
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "कालेनाकृष्यमाणस्य जङ्गमस्थावरात्मनः ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_7.png",
+        "bounding_box": {
+            "x1": 229,
+            "y1": 1023,
+            "x2": 1826,
+            "y2": 1183
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "।। ८ ।। अहो मे महती याता निष्कला ज-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_8.png",
+        "bounding_box": {
+            "x1": 234,
+            "y1": 1164,
+            "x2": 1826,
+            "y2": 1311
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "न्मसंततिः ।। अनाराधितगोविन्दचरणाम्भो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_9.png",
+        "bounding_box": {
+            "x1": 217,
+            "y1": 1302,
+            "x2": 1829,
+            "y2": 1441
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "रुहद्वया ।। ९ ।। अनास्वादितसत्कर्मज्ञानभ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_10.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 1432,
+            "x2": 1826,
+            "y2": 1579
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "क्तिसुधारसा।। अदृष्टानन्तसंसारसागरोत्ता-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_11.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 1565,
+            "x2": 1826,
+            "y2": 1720
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "रणप्लवा ।। १० ।। श्रुतिस्मृत्युदिताशेष-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_12.png",
+        "bounding_box": {
+            "x1": 211,
+            "y1": 1700,
+            "x2": 1823,
+            "y2": 1847
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "सदाचारपराङ्मुखी ।। त्यक्तवर्णसमाचारा",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_13.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 1830,
+            "x2": 1817,
+            "y2": 1988
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "भ्रष्टा वैदिकवर्त्मनः ।। ११ ।। अनुपासित-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_14.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 1960,
+            "x2": 1823,
+            "y2": 2120
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "सद्वृद्धा स्वीकृतासत्समागमा ।। असम्पादि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_15.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 2101,
+            "x2": 1837,
+            "y2": 2252
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "तशुश्रूषा गुर्वाचार्यपितृष्वपि ।। १२ ।। नि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_16.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 2233,
+            "x2": 1826,
+            "y2": 2388
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "जकर्मजदेवादिदेहाध्यस्तात्मभावना ।। तद्भा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_17.png",
+        "bounding_box": {
+            "x1": 226,
+            "y1": 2363,
+            "x2": 1823,
+            "y2": 2524
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "वनानुगोद्भूतसुखटुःखव्यवस्थितिः ।। १३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_18.png",
+        "bounding_box": {
+            "x1": 217,
+            "y1": 2510,
+            "x2": 1820,
+            "y2": 2661
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "असंभूतस्वयाथात्म्यज्ञानजोत्तमनिर्तृतिः ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_19.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 2631,
+            "x2": 1823,
+            "y2": 2791
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "पशुवत्प्राकृतैरेव गुणैरधिकनिर्वृता ।। १४ ।। ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_16_textline_20.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 2767,
+            "x2": 1820,
+            "y2": 2930
+        }
+    }
+]

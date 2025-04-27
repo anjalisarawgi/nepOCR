@@ -1,0 +1,145 @@
+[
+    {
+        "line_number": 1,
+        "text": "जगत् उपदेश",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_1.png",
+        "bounding_box": {
+            "x1": 822,
+            "y1": 755,
+            "x2": 1663,
+            "y2": 942
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "ज़िला आजमगढ़ बाँसगांवनिवासी जगत्सिंह",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_2.png",
+        "bounding_box": {
+            "x1": 630,
+            "y1": 1223,
+            "x2": 1880,
+            "y2": 1351
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "ने सर्व साधारण जनों के अवलोकनार्थ बड़े",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_3.png",
+        "bounding_box": {
+            "x1": 677,
+            "y1": 1320,
+            "x2": 1827,
+            "y2": 1455
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "सुपरिटेंडेंट बाबू मनोहरलाल मार्गव बी. ए., के प्रबन्ध से",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_4.png",
+        "bounding_box": {
+            "x1": 660,
+            "y1": 1943,
+            "x2": 1883,
+            "y2": 2065
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "श्रम से निर्मित किया ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_5.png",
+        "bounding_box": {
+            "x1": 901,
+            "y1": 1429,
+            "x2": 1604,
+            "y2": 1554
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "मुंशी नवलकिशोर सी आई. ई., के छापेख़ाने में छपा",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_6.png",
+        "bounding_box": {
+            "x1": 654,
+            "y1": 2067,
+            "x2": 1889,
+            "y2": 2185
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "हक़ तसनीफ़ महफूज़ है बहक इस छापेख़ने के ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_7.png",
+        "bounding_box": {
+            "x1": 724,
+            "y1": 2293,
+            "x2": 1847,
+            "y2": 2418
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जिसको",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_8.png",
+        "bounding_box": {
+            "x1": 1098,
+            "y1": 1096,
+            "x2": 1389,
+            "y2": 1219
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "दूसरी बार",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_9.png",
+        "bounding_box": {
+            "x1": 1083,
+            "y1": 1588,
+            "x2": 1433,
+            "y2": 1722
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_10.png",
+        "bounding_box": {
+            "x1": 1104,
+            "y1": 1808,
+            "x2": 1442,
+            "y2": 1930
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सन् १३१४ ई० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_11.png",
+        "bounding_box": {
+            "x1": 1039,
+            "y1": 2190,
+            "x2": 1527,
+            "y2": 2296
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "५ जुज़ ४ र्वक़",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_12.png",
+        "bounding_box": {
+            "x1": 1042,
+            "y1": 2729,
+            "x2": 1507,
+            "y2": 2839
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "545",
+        "image_path": "datasetProcessed/cropped_textlines/images/simha1914_0000_a_textline_13.png",
+        "bounding_box": {
+            "x1": 1780,
+            "y1": 2849,
+            "x2": 2027,
+            "y2": 2995
+        }
+    }
+]

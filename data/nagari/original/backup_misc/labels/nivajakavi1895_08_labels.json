@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "शशिकला । यह रूपसों श्रम मुनिन के सो करत बल",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_1.png",
+        "bounding_box": {
+            "x1": 518,
+            "y1": 331,
+            "x2": 2724,
+            "y2": 528
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "शाकुन्तला ३८ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_2.png",
+        "bounding_box": {
+            "x1": 510,
+            "y1": 491,
+            "x2": 1275,
+            "y2": 647
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "ही रहे मौरी तौ गिरीश अर्द्धंग में लगाई है । कमला",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_3.png",
+        "bounding_box": {
+            "x1": 486,
+            "y1": 764,
+            "x2": 2704,
+            "y2": 976
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "न कान्हके हियेते उतरति अरु रमाके सरूप में न ए-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_4.png",
+        "bounding_box": {
+            "x1": 502,
+            "y1": 924,
+            "x2": 2708,
+            "y2": 1110
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "ती अधिकाईहै ॥ रति कहिये तो यह बिरोध अतिहीहै",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_5.png",
+        "bounding_box": {
+            "x1": 506,
+            "y1": 1065,
+            "x2": 2701,
+            "y2": 1267
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "अरु याके तो अंगलगि कछुकलरिकाई है । फेरि फेरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_6.png",
+        "bounding_box": {
+            "x1": 498,
+            "y1": 1217,
+            "x2": 2701,
+            "y2": 1428
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "बेरि लगि हेरि हेरि हास्यो नृप जानि नाहिंपरी यह को",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_7.png",
+        "bounding_box": {
+            "x1": 494,
+            "y1": 1353,
+            "x2": 2685,
+            "y2": 1579
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "है कहां आई है ३९ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_8.png",
+        "bounding_box": {
+            "x1": 478,
+            "y1": 1517,
+            "x2": 1458,
+            "y2": 1702
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "रह्यो आपु तो महीपति निछावरिसोकीन्होसो । भयो है",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_9.png",
+        "bounding_box": {
+            "x1": 482,
+            "y1": 1822,
+            "x2": 2710,
+            "y2": 2020
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "अचंभो रतिरंभोहै न ऐसी आसरूपकोबखानको भयो",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_10.png",
+        "bounding_box": {
+            "x1": 482,
+            "y1": 1962,
+            "x2": 2677,
+            "y2": 2179
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "है बुधिहीनो सो ॥ सो कबि नेवाज शोभासिंधुमें समाने",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_11.png",
+        "bounding_box": {
+            "x1": 463,
+            "y1": 2118,
+            "x2": 2669,
+            "y2": 2331
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "नैन मनु जन मैन के हवाले करि दीन्हो सो । बाढ़यो",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_12.png",
+        "bounding_box": {
+            "x1": 439,
+            "y1": 2278,
+            "x2": 2667,
+            "y2": 2481
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "उरप्रेम गहि चित्र लिखि काढ़यो मनो ठाढ़यो नृप ह्‌वै",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_13.png",
+        "bounding_box": {
+            "x1": 455,
+            "y1": 2419,
+            "x2": 2658,
+            "y2": 2634
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "रह्यो ठग्यो सो मोल लीन्हो सो ४० ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_14.png",
+        "bounding_box": {
+            "x1": 427,
+            "y1": 2579,
+            "x2": 2122,
+            "y2": 2771
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "प्यारे कहि तेते ॥ मुनिकें तो प्राणनतें प्यारी । करी द्रुम-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_15.png",
+        "bounding_box": {
+            "x1": 432,
+            "y1": 3624,
+            "x2": 2611,
+            "y2": 3828
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "निकी सींचनिहारी ॥ बिधिअतिहो सुकुमारि सम्हारी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_16.png",
+        "bounding_box": {
+            "x1": 420,
+            "y1": 3769,
+            "x2": 2607,
+            "y2": 3992
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "श्रमलायक नहिं देह तिहारी ॥ बतकहाव यों सखियन",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_17.png",
+        "bounding_box": {
+            "x1": 416,
+            "y1": 3932,
+            "x2": 2599,
+            "y2": 4129
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "दोहा । शकुन्तला को रूप लखि सुफल भयोनृपनैन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_18.png",
+        "bounding_box": {
+            "x1": 518,
+            "y1": 2723,
+            "x2": 2615,
+            "y2": 2934
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "घनाक्षरी छन्द । बानी कहिये तो वह बीन को लिये",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_19.png",
+        "bounding_box": {
+            "x1": 670,
+            "y1": 612,
+            "x2": 2724,
+            "y2": 826
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "घनाक्षरी । निरखि शकुंतला को नखशिख रीझि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_20.png",
+        "bounding_box": {
+            "x1": 635,
+            "y1": 1673,
+            "x2": 2677,
+            "y2": 1887
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "चौपाई । राजहि ये देखहि नहिं कोऊ । पूछन लगीं",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_21.png",
+        "bounding_box": {
+            "x1": 588,
+            "y1": 3328,
+            "x2": 2611,
+            "y2": 3516
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "सहेली दोऊ ॥ शकुन्तलाजो सींचत जेते । मुनिके द्रुम",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_22.png",
+        "bounding_box": {
+            "x1": 435,
+            "y1": 3480,
+            "x2": 2618,
+            "y2": 3670
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "श्रवणसुफलचाहतभयो सुनिसुनिमीठेबैन ४१ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_23.png",
+        "bounding_box": {
+            "x1": 771,
+            "y1": 2883,
+            "x2": 2654,
+            "y2": 3102
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "सघन द्रुमनकी ओटह्‌वै दृग निमेष बिसराय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_24.png",
+        "bounding_box": {
+            "x1": 752,
+            "y1": 3031,
+            "x2": 2622,
+            "y2": 3238
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "दुरें दुरें देखन लग्यो शकुन्तला के भाय ४२ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_25.png",
+        "bounding_box": {
+            "x1": 760,
+            "y1": 3175,
+            "x2": 2682,
+            "y2": 3394
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "(८)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_08_textline_26.png",
+        "bounding_box": {
+            "x1": 1439,
+            "y1": 187,
+            "x2": 1814,
+            "y2": 350
+        }
+    }
+]

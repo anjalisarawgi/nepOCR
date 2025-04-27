@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "भारतीभूषण ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_1.png",
+        "bounding_box": {
+            "x1": 1225,
+            "y1": 241,
+            "x2": 1896,
+            "y2": 415
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "तोऐसीतियकामकी तोमुखसोयेकेश ॥ नवपल्लवतवअ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_2.png",
+        "bounding_box": {
+            "x1": 342,
+            "y1": 395,
+            "x2": 2802,
+            "y2": 583
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "घरसे कम्बुकण्ठसमवेश ३९ ॥ द्वितीयप्रतीपलक्षण ॥ ज",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_3.png",
+        "bounding_box": {
+            "x1": 346,
+            "y1": 604,
+            "x2": 2768,
+            "y2": 739
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "हँप्रतीउपमानको गर्बहरैउपमेय ॥ दूजोकहहिंप्रतीप",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_4.png",
+        "bounding_box": {
+            "x1": 342,
+            "y1": 725,
+            "x2": 2780,
+            "y2": 913
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "तेहि जिनकीबुद्धिअमेय ४० ॥ उदाहरण ॥ कहाकरति",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_5.png",
+        "bounding_box": {
+            "x1": 297,
+            "y1": 910,
+            "x2": 2776,
+            "y2": 1075
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "निजरूपको गरबगहेअविवेक ॥ रमाउमाशचिशारदा",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_6.png",
+        "bounding_box": {
+            "x1": 342,
+            "y1": 1072,
+            "x2": 2784,
+            "y2": 1235
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "तोसीतीयअनेक ४१ ॥ तृतीयप्रतीपलक्षण ॥ अनआदरउ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_7.png",
+        "bounding_box": {
+            "x1": 312,
+            "y1": 1233,
+            "x2": 2780,
+            "y2": 1405
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "पमेयसों जबपावैउपमान ॥ तीजोकहहिंप्रतीपतेहि कवि",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_8.png",
+        "bounding_box": {
+            "x1": 350,
+            "y1": 1382,
+            "x2": 2772,
+            "y2": 1571
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "अवनीपसुजान ४२ ॥ उदाहरण ॥ नीचपनेकोक्योंकरत",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_9.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 1563,
+            "x2": 2776,
+            "y2": 1729
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "तूउरबीचगुमान ॥ अन्त्यजतोसेअधिकजग हरिद्वेषीप",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_10.png",
+        "bounding_box": {
+            "x1": 346,
+            "y1": 1725,
+            "x2": 2788,
+            "y2": 1905
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "हिचान ४३ ॥ चतुर्थप्रतीपलक्षण ॥ समतालायकहोयनहिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_11.png",
+        "bounding_box": {
+            "x1": 328,
+            "y1": 1894,
+            "x2": 2830,
+            "y2": 2059
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "जबजाहिरउपमान ॥ गिरिधरदासप्रतीपसोहैचतुर्थमति",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_12.png",
+        "bounding_box": {
+            "x1": 338,
+            "y1": 2055,
+            "x2": 2776,
+            "y2": 2226
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मान ४४॥ उदाहरण ॥ तोमुखऐसोपंकसुतअरुसशंकयह",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_13.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 2216,
+            "x2": 2784,
+            "y2": 2391
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "बात॥ वरणहिवृथाअशंककविबुद्दिरंकबिख्यात४५ ॥ पंच",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_14.png",
+        "bounding_box": {
+            "x1": 326,
+            "y1": 2386,
+            "x2": 2776,
+            "y2": 2559
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "मप्रतीपलक्षण ॥ व्यर्थहोइउपमानजबवरउपमेयसमीप ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_15.png",
+        "bounding_box": {
+            "x1": 346,
+            "y1": 2551,
+            "x2": 2788,
+            "y2": 2731
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "गिरिधरदासबखानियेपंचमताहिप्रतीप ४६ ॥ उदाहरण ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_16.png",
+        "bounding_box": {
+            "x1": 350,
+            "y1": 2716,
+            "x2": 2788,
+            "y2": 2879
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "देखिरूपवतकामिनी कहाउरबशीनारि ॥ कहामैनकामैन",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_17.png",
+        "bounding_box": {
+            "x1": 342,
+            "y1": 2882,
+            "x2": 2853,
+            "y2": 3045
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "तियकमलाशैलकुमारि ४७ ॥ द्विविधरूपकलक्षण ॥ बिष",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_18.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 3043,
+            "x2": 2776,
+            "y2": 3219
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "यीबिषयहिवरणियेकरि अभेदतद्रूप ॥ अधिकन्यूनसमक",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_19.png",
+        "bounding_box": {
+            "x1": 346,
+            "y1": 3208,
+            "x2": 2772,
+            "y2": 3383
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "रिसोईषटविधिरूपकरूप४८॥ अधिकोक्तिअभेदरूपकउदाह-",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_20.png",
+        "bounding_box": {
+            "x1": 342,
+            "y1": 3365,
+            "x2": 2776,
+            "y2": 3538
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "रण ॥ धनगजचढ़िआकाशमगचलेइन्द्रअरिजोइ ॥ सुधा",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_21.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 3543,
+            "x2": 2780,
+            "y2": 3699
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "स्रवतशशिछत्रशिरमोतिनजगमगहोइ४९ ॥ न्यूनोक्तिरूप",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_22.png",
+        "bounding_box": {
+            "x1": 354,
+            "y1": 3696,
+            "x2": 2772,
+            "y2": 3887
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "कउदाहरण ॥ कुसुमधनुषबिनुकुसुमधनुदेखोकुंजगलीन॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_23.png",
+        "bounding_box": {
+            "x1": 330,
+            "y1": 3857,
+            "x2": 2788,
+            "y2": 4031
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "चलीजातजगअमलयहकमलाकमलविहीन ५० ॥ समो",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_24.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 4038,
+            "x2": 2796,
+            "y2": 4197
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "क्तिअभेदरूपकउदाहरण ॥ तुवआननशशिदुखहरन सुधाव",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_25.png",
+        "bounding_box": {
+            "x1": 358,
+            "y1": 4196,
+            "x2": 2792,
+            "y2": 4359
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "रनछबिखानि ॥ रजनीरंजनरसिकप्रिय तमहरआनँददा",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_26.png",
+        "bounding_box": {
+            "x1": 332,
+            "y1": 4361,
+            "x2": 2788,
+            "y2": 4529
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_05_textline_27.png",
+        "bounding_box": {
+            "x1": 2578,
+            "y1": 261,
+            "x2": 2780,
+            "y2": 408
+        }
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "line_number": 1,
+        "text": "वेदस्तुतिसटीक",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_1.png",
+        "bounding_box": {
+            "x1": 540,
+            "y1": 493,
+            "x2": 1289,
+            "y2": 697
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीगणेशायनमः ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_2.png",
+        "bounding_box": {
+            "x1": 648,
+            "y1": 330,
+            "x2": 1231,
+            "y2": 480
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "गृभीतगुणांत्वमसियदात्मना स",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_3.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 1008,
+            "x2": 1655,
+            "y2": 1207
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "चिदजयात्मना च चरतोऽनुचरे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_4.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 1509,
+            "x2": 1650,
+            "y2": 1743
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "यजयसर्वोत्कर्षेणविराजमानोभव अथ च अजांनिद्रांज",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_5.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 1988,
+            "x2": 1627,
+            "y2": 2159
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "हित्यज अथवा अगजगदोकसांजीवानांअजांमायांजहि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_6.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 2096,
+            "x2": 1617,
+            "y2": 2268
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "ज्ञानांर्थगृहीतागुणाः सत्वरजस्तमोरूपाययातं कथंभूत",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_7.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 2338,
+            "x2": 1624,
+            "y2": 2504
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "* प्राकृत्यःश्रुतयःसर्वाभगवंतंमधोक्षजम् ।। स्तुवंतिदोषनाशायतत्राविष्टोभवेद्यथा १ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_8.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 2640,
+            "x2": 1604,
+            "y2": 2789
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "श्रमिथुरेशोजयति ।। हे अजितनकेनाऽपिजितस्त्वंज",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_9.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 1859,
+            "x2": 1632,
+            "y2": 2040
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "जयजयजह्यजामजितदोष",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_10.png",
+        "bounding_box": {
+            "x1": 323,
+            "y1": 844,
+            "x2": 1657,
+            "y2": 1047
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "मवरुद्धसमस्तभगः ।। अगजगदो",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_11.png",
+        "bounding_box": {
+            "x1": 108,
+            "y1": 1194,
+            "x2": 1660,
+            "y2": 1393
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "कसामखिलशक्त्यवबोधकते क्व",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_12.png",
+        "bounding_box": {
+            "x1": 118,
+            "y1": 1338,
+            "x2": 1652,
+            "y2": 1551
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "न्निगमः ।। १ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_13.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 1683,
+            "x2": 893,
+            "y2": 1877
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "कथंभूतां दोषगृभीतगुणांअगजगदोकसांजीवानांस्वरूपा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_14.png",
+        "bounding_box": {
+            "x1": 98,
+            "y1": 2217,
+            "x2": 1642,
+            "y2": 2388
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "स्त्वं यद्यस्मात्कारणात्त्वंआत्मनैवस्वरूपेणैवसमवरुद्धाः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_02_textline_15.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 2451,
+            "x2": 1614,
+            "y2": 2630
+        }
+    }
+]

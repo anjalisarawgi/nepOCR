@@ -1,0 +1,200 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्री गुरुचरणकमलेभ्यो नम: ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_1.png",
+        "bounding_box": {
+            "x1": 851,
+            "y1": 775,
+            "x2": 1931,
+            "y2": 920
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "शकुन्तला उपाख्यान ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_2.png",
+        "bounding_box": {
+            "x1": 768,
+            "y1": 981,
+            "x2": 2067,
+            "y2": 1177
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "श्रीयुत कबिकुलकमलप्राभाकर कालिदासबिरचित",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_3.png",
+        "bounding_box": {
+            "x1": 575,
+            "y1": 1423,
+            "x2": 2282,
+            "y2": 1577
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "निवाज कबि ने अनेक मनोहर छंदों में",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_4.png",
+        "bounding_box": {
+            "x1": 711,
+            "y1": 1765,
+            "x2": 2147,
+            "y2": 1961
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "संस्कृत नाटक से उल्था किया",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_5.png",
+        "bounding_box": {
+            "x1": 864,
+            "y1": 1940,
+            "x2": 2060,
+            "y2": 2085
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "प्रथम चौधरी अयोध्याप्रसाद व पंडित लालमन",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_6.png",
+        "bounding_box": {
+            "x1": 580,
+            "y1": 2142,
+            "x2": 2325,
+            "y2": 2331
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "ने छपवाकर रसिकजनों के बिनोदार्थ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_7.png",
+        "bounding_box": {
+            "x1": 742,
+            "y1": 2308,
+            "x2": 2124,
+            "y2": 2467
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "अब श्री पण्डित लालमन जी की",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_8.png",
+        "bounding_box": {
+            "x1": 799,
+            "y1": 2786,
+            "x2": 2041,
+            "y2": 2979
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "प्रकाशित किया था",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_9.png",
+        "bounding_box": {
+            "x1": 1053,
+            "y1": 2444,
+            "x2": 1774,
+            "y2": 2595
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "मुंशी नवलकिशोर (सी, आई, ई) के छापेखाने में छपी",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_10.png",
+        "bounding_box": {
+            "x1": 610,
+            "y1": 3535,
+            "x2": 2217,
+            "y2": 3691
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "फ़रवरी सन् १८९५ ई० ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_11.png",
+        "bounding_box": {
+            "x1": 996,
+            "y1": 3684,
+            "x2": 1840,
+            "y2": 3825
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "हक़तसनीफ़ महफ़ूज़है बहक़ नवलकिशोर प्रेस",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_12.png",
+        "bounding_box": {
+            "x1": 746,
+            "y1": 3828,
+            "x2": 2089,
+            "y2": 4001
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "जिसको कि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_13.png",
+        "bounding_box": {
+            "x1": 1215,
+            "y1": 1585,
+            "x2": 1620,
+            "y2": 1765
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "आज्ञानुसार",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_14.png",
+        "bounding_box": {
+            "x1": 1215,
+            "y1": 2957,
+            "x2": 1686,
+            "y2": 3121
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "लखनऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_15.png",
+        "bounding_box": {
+            "x1": 1206,
+            "y1": 3320,
+            "x2": 1612,
+            "y2": 3489
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "३ जुज़ २ वर्क़",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_16.png",
+        "bounding_box": {
+            "x1": 1233,
+            "y1": 4288,
+            "x2": 1695,
+            "y2": 4427
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "और",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_17.png",
+        "bounding_box": {
+            "x1": 1345,
+            "y1": 2649,
+            "x2": 1596,
+            "y2": 2779
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "प्रथमबार",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_00a_textline_18.png",
+        "bounding_box": {
+            "x1": 1294,
+            "y1": 3167,
+            "x2": 1626,
+            "y2": 3291
+        }
+    }
+]

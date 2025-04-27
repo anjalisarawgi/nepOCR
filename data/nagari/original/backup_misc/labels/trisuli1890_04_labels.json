@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "अर्थात् गङ्गालहरी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_1.png",
+        "bounding_box": {
+            "x1": 846,
+            "y1": 1792,
+            "x2": 2036,
+            "y2": 2037
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "पीयूषलहरी",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_2.png",
+        "bounding_box": {
+            "x1": 985,
+            "y1": 1443,
+            "x2": 1889,
+            "y2": 1721
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "अखिलरच्यो है जग ऐसेत्रिपुरारिजूको बैभवउदारहै ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_3.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 2503,
+            "x2": 2848,
+            "y2": 2718
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "नित पादपअमंगलको काटन कुठारहै १ दारिदजनित",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_4.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 3070,
+            "x2": 2840,
+            "y2": 3265
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "दीनताईकेबिदारनके कारणहै जिनको ते दृष्टि तैं निहारै",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_5.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 3241,
+            "x2": 2820,
+            "y2": 3445
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "पापनको हारै हैं ॥ मनकी अविद्यादीह द्रुमताहि काटन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_6.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 3611,
+            "x2": 2801,
+            "y2": 3809
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "के हमैंनीके मात गंगतेरे वारिके प्रवाह चाह सकल सु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_7.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 3982,
+            "x2": 2805,
+            "y2": 4182
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "बिनायककी कोपके कटाक्ष संग । बारबार तिनको चला-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_8.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 4340,
+            "x2": 2824,
+            "y2": 4547
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "तेईवे अपारसब सुखके भँडार सदा करत बिहार ईश",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_9.png",
+        "bounding_box": {
+            "x1": 100,
+            "y1": 4711,
+            "x2": 2839,
+            "y2": 4921
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "क० ॥ सकल मही को परिपूरण सौभाग्य यही वेद",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_10.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 2114,
+            "x2": 2810,
+            "y2": 2351
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "औ पुराणनको सरबससारहै । लीलाही करिकै जिन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_11.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 2315,
+            "x2": 2832,
+            "y2": 2529
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "देवनकोसुकृत अमोघप्रकट्योहैसही सुधातैंसरिससुतौ",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_12.png",
+        "bounding_box": {
+            "x1": 48,
+            "y1": 2684,
+            "x2": 2823,
+            "y2": 2891
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "शोभाको अगारहै । सलिलतुम्हारो गंग मंगलहमारो",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_13.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 2874,
+            "x2": 2814,
+            "y2": 3079
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "हैं । जिनकेहृदय दुरबासनानहूतैं युक्त ऐसे पावरनहूँ के",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_14.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 3424,
+            "x2": 2828,
+            "y2": 3636
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "को शिक्षाके करनहार तिनहि उचारै हैं । दायक हैं श्री",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_15.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 3795,
+            "x2": 2801,
+            "y2": 4001
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "धारै हैं २ उदयमत्सर तातैं प्रकट्यो कपट जाके जननी",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_16.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 4161,
+            "x2": 2846,
+            "y2": 4363
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "इकै निहारैं तुम्हैं यातेई विदित कढ़ैंक्षोभके भरेतरंग ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_04_textline_17.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 4514,
+            "x2": 2828,
+            "y2": 4735
+        }
+    }
+]

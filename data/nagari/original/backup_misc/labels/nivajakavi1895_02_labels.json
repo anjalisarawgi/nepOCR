@@ -1,0 +1,288 @@
+[
+    {
+        "line_number": 1,
+        "text": "(२)",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_1.png",
+        "bounding_box": {
+            "x1": 1403,
+            "y1": 211,
+            "x2": 1767,
+            "y2": 368
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "मीन अरु मृगनैन की । मुनिमैन के बश करन को उ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_2.png",
+        "bounding_box": {
+            "x1": 392,
+            "y1": 3651,
+            "x2": 2608,
+            "y2": 3859
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "यों रहत जल सोइबैठि रहत नदीमें गरे लों जल भरि",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_3.png",
+        "bounding_box": {
+            "x1": 509,
+            "y1": 308,
+            "x2": 2702,
+            "y2": 538
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "कें ॥ देखि विश्वामित्रको बिशालनेम संयमयों अतिही",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_4.png",
+        "bounding_box": {
+            "x1": 497,
+            "y1": 456,
+            "x2": 2730,
+            "y2": 696
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "सुरेश सो सरल भयो डरिकें । मन को प्रपंच करिबेकों",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_5.png",
+        "bounding_box": {
+            "x1": 497,
+            "y1": 612,
+            "x2": 2686,
+            "y2": 844
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "मघवाने तब मेनका बुलाई सन्मान बड़ों करिकें १० ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_6.png",
+        "bounding_box": {
+            "x1": 486,
+            "y1": 772,
+            "x2": 2694,
+            "y2": 992
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "मोह में ठहरि सको छिन भरि ऐसो तिहूंलोक में मैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_7.png",
+        "bounding_box": {
+            "x1": 470,
+            "y1": 1521,
+            "x2": 2667,
+            "y2": 1735
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "संयम घरी में खोइ आऊं नेक अवसु करिपाऊं सो ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_8.png",
+        "bounding_box": {
+            "x1": 478,
+            "y1": 1818,
+            "x2": 2690,
+            "y2": 2038
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "मैं न मैनका कहाऊं सो १२ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_9.png",
+        "bounding_box": {
+            "x1": 455,
+            "y1": 2122,
+            "x2": 1804,
+            "y2": 2334
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "चढ़ि बिमान असमान लोकतें भूमि सिधारी ॥ सोरह",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_10.png",
+        "bounding_box": {
+            "x1": 444,
+            "y1": 2434,
+            "x2": 2704,
+            "y2": 2655
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "की ज्योति गये छिपि शशि अरुपूषण ॥ तप भंग कर-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_11.png",
+        "bounding_box": {
+            "x1": 447,
+            "y1": 2742,
+            "x2": 2635,
+            "y2": 2946
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "निज मोहनी मुनिके मनहिं मोहन चली १३ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_12.png",
+        "bounding_box": {
+            "x1": 427,
+            "y1": 3047,
+            "x2": 2366,
+            "y2": 3262
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "खि ज्योति जा मुखचंदकी । लरिव चरनकर सुखमा भजी",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_13.png",
+        "bounding_box": {
+            "x1": 419,
+            "y1": 3343,
+            "x2": 2628,
+            "y2": 3555
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "दोहा । आदर देखि सुरेशको हरषति हिरदयखोलि ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_14.png",
+        "bounding_box": {
+            "x1": 568,
+            "y1": 916,
+            "x2": 2698,
+            "y2": 1140
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "याविधितबमघवानसों उठीमेनकाबोलि ११ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_15.png",
+        "bounding_box": {
+            "x1": 821,
+            "y1": 1076,
+            "x2": 2706,
+            "y2": 1289
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "जो कहो तो मन्मथ बश काम करि आऊं सो । मेरेमहा",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_16.png",
+        "bounding_box": {
+            "x1": 474,
+            "y1": 1377,
+            "x2": 2678,
+            "y2": 1597
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "योगी ठहराऊं सो ॥ विश्वामित्र जू को जप तप नेम",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_17.png",
+        "bounding_box": {
+            "x1": 470,
+            "y1": 1673,
+            "x2": 2663,
+            "y2": 1891
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "मुनि के जो मेनकेत नाच गान चाउ महाराजकी दुहाई",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_18.png",
+        "bounding_box": {
+            "x1": 451,
+            "y1": 1978,
+            "x2": 2695,
+            "y2": 2211
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "करि शृंगार पहरि द्वादश आभूषण । लखि जु अंग",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_19.png",
+        "bounding_box": {
+            "x1": 443,
+            "y1": 2590,
+            "x2": 2659,
+            "y2": 2794
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "न की बेलि सी फुरसति सी फूलीफली । मूरति बनाइ",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_20.png",
+        "bounding_box": {
+            "x1": 419,
+            "y1": 2891,
+            "x2": 2643,
+            "y2": 3109
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "सुखमा सरोरुहचंदकी ॥ लखि नैन जाके ललित खंजन",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_21.png",
+        "bounding_box": {
+            "x1": 412,
+            "y1": 3499,
+            "x2": 2628,
+            "y2": 3712
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "तरी तपोबन मेन की १४ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_22.png",
+        "bounding_box": {
+            "x1": 419,
+            "y1": 3804,
+            "x2": 1562,
+            "y2": 3996
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "घनाक्षरी छन्द । और की कहाहै ब्रह्म हरिहरहू कों",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_23.png",
+        "bounding_box": {
+            "x1": 630,
+            "y1": 1229,
+            "x2": 2678,
+            "y2": 1462
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "छप्पै । गहिकर बीन प्रवीन निपटपरवीन पियारी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_24.png",
+        "bounding_box": {
+            "x1": 603,
+            "y1": 2274,
+            "x2": 2651,
+            "y2": 2499
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "हरिगीत छन्द । सुखिचंद की नहिं होति अब ल-",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_25.png",
+        "bounding_box": {
+            "x1": 564,
+            "y1": 3207,
+            "x2": 2639,
+            "y2": 3400
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "हरिगीत छंद । फहरात अंचल नैन चंचल निपट",
+        "image_path": "datasetProcessed/cropped_textlines/images/nivajakavi1895_02_textline_26.png",
+        "bounding_box": {
+            "x1": 560,
+            "y1": 3944,
+            "x2": 2608,
+            "y2": 4168
+        }
+    }
+]

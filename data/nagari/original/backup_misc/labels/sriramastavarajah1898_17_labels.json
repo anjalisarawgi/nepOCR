@@ -1,0 +1,233 @@
+[
+    {
+        "line_number": 1,
+        "text": "प्रातर्निवेदनकारिकाः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_1.png",
+        "bounding_box": {
+            "x1": 494,
+            "y1": 291,
+            "x2": 1358,
+            "y2": 443
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "न कर्मनिष्ठा नात्मज्ञानापि भक्तियुता हरौ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_2.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 492,
+            "x2": 1705,
+            "y2": 658
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "नोद्युक्ता भक्तिहीनत्वात्तत्क्रियास्वर्चनादिषु।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_3.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 639,
+            "x2": 1713,
+            "y2": 797
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "१५ ।। कर्मभिः पुण्यपापाख्यैरविद्यापरनाम",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_4.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 786,
+            "x2": 1696,
+            "y2": 929
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "भिः ।। धूमैरिवार्चिराग्नेयं ज्ञानमावृत्यदेहि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_5.png",
+        "bounding_box": {
+            "x1": 110,
+            "y1": 907,
+            "x2": 1722,
+            "y2": 1071
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "नः ।। १६ ।। भूषयित्वा स्वकं देहं शब्दा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_6.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1054,
+            "x2": 1707,
+            "y2": 1202
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "द्यैः स्वार्जितैर्गुणैः ।। दर्शयित्वा स्वसौन्दर्य-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_7.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1178,
+            "x2": 1705,
+            "y2": 1330
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मात्मने तिष्ठमानया ।। १७ ।। निरस्ताति-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_8.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1325,
+            "x2": 1702,
+            "y2": 1467
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "शयाह्लादसुखभावैकलक्षणम् ।। संच्छाद्यस्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_9.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 1472,
+            "x2": 1708,
+            "y2": 1601
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "गुणै एवं स्वरूपं परमात्मनः ।। १८ ।। गुण-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_10.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1599,
+            "x2": 1724,
+            "y2": 1737
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "मुय्या प्रकृत्याख्यभगवन्माययानया ।। स्व-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_11.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1746,
+            "x2": 1713,
+            "y2": 1874
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सँल्लीनानन्तजीवकृतकर्मानुरूपया।। १९ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_12.png",
+        "bounding_box": {
+            "x1": 125,
+            "y1": 1876,
+            "x2": 1713,
+            "y2": 2018
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "गुणत्रयाश्रयानन्तविचित्रपरिणामया ।। अ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_13.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2011,
+            "x2": 1710,
+            "y2": 2145
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "तिदुस्तरयादेव प्रपत्तिरहितात्मभिः ।। २० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_14.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 2141,
+            "x2": 1730,
+            "y2": 2285
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "प्रलोभ्यमाना सततं तयैवात्यन्तनिर्वृता ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_15.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 2277,
+            "x2": 1745,
+            "y2": 2424
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "अजानतीव स्वहितं मूकस्वप्नानुकारिणी ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_16.png",
+        "bounding_box": {
+            "x1": 119,
+            "y1": 2409,
+            "x2": 1749,
+            "y2": 2561
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "।। २१ ।। निष्पानीये निरालम्बे निच्छाये",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_17.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 2545,
+            "x2": 1719,
+            "y2": 2695
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "निरुपाश्रये ।। द्राघीयस्यशुभेमार्गे यमस्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_18.png",
+        "bounding_box": {
+            "x1": 130,
+            "y1": 2686,
+            "x2": 1713,
+            "y2": 2822
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "सदनं प्रति ।। २२ ।। गच्छतो मेसहायस्य ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_19.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 2821,
+            "x2": 1726,
+            "y2": 2964
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "१७",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_20.png",
+        "bounding_box": {
+            "x1": 1519,
+            "y1": 322,
+            "x2": 1713,
+            "y2": 451
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_17_textline_21.png",
+        "bounding_box": {
+            "x1": 865,
+            "y1": 2983,
+            "x2": 971,
+            "y2": 3056
+        }
+    }
+]

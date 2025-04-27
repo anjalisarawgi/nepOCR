@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "१२",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_1.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 114,
+            "x2": 348,
+            "y2": 228
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रागबिनोद ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_2.png",
+        "bounding_box": {
+            "x1": 750,
+            "y1": 83,
+            "x2": 1284,
+            "y2": 244
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "करत जासु पद ख्याल ।। १ ।। सुनोरे० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_3.png",
+        "bounding_box": {
+            "x1": 175,
+            "y1": 293,
+            "x2": 1859,
+            "y2": 448
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तमअरितनया बढ़ीं चरणहित कञ्च",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_4.png",
+        "bounding_box": {
+            "x1": 177,
+            "y1": 451,
+            "x2": 1871,
+            "y2": 594
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "पाँव छुइ भईहैं निहाल ।। २ ।। सुनोरे० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_5.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 586,
+            "x2": 1863,
+            "y2": 754
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सृष्टिरचन अरु धनद धर्म शशि नाम ज-",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_6.png",
+        "bounding_box": {
+            "x1": 193,
+            "y1": 753,
+            "x2": 1855,
+            "y2": 889
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "पत यमकाल ।। ३ ।। सुनोरे० ।। प्यारे",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_7.png",
+        "bounding_box": {
+            "x1": 177,
+            "y1": 905,
+            "x2": 1848,
+            "y2": 1047
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "रसना जपु हरिके पद निशिदिन श्री",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_8.png",
+        "bounding_box": {
+            "x1": 179,
+            "y1": 1044,
+            "x2": 1866,
+            "y2": 1192
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "गोपाल ।। ४ ।। सुनोरे मन कस बिसरे",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_9.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 1184,
+            "x2": 1859,
+            "y2": 1353
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "नँदलाल ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_10.png",
+        "bounding_box": {
+            "x1": 184,
+            "y1": 1344,
+            "x2": 676,
+            "y2": 1489
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "दो० मीम नून ते वाव सुन, पूछों तोसों बात ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_11.png",
+        "bounding_box": {
+            "x1": 231,
+            "y1": 1510,
+            "x2": 1701,
+            "y2": 1639
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "रेअल्लिफ़ अरु मीमको, छोड़तहौ कहि भांत ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_12.png",
+        "bounding_box": {
+            "x1": 387,
+            "y1": 1626,
+            "x2": 1748,
+            "y2": 1762
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "(भजन प्रभाती)",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_13.png",
+        "bounding_box": {
+            "x1": 631,
+            "y1": 1770,
+            "x2": 1435,
+            "y2": 1909
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "जागो श्री रघुनन्दनप्यारे ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_14.png",
+        "bounding_box": {
+            "x1": 482,
+            "y1": 1903,
+            "x2": 1619,
+            "y2": 2066
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "निज दलनपसारे ।। १ ।। जागो श्री० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_15.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 2201,
+            "x2": 1908,
+            "y2": 2359
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "कोक शोक पङ्कज कर संपुट मिटि",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_16.png",
+        "bounding_box": {
+            "x1": 340,
+            "y1": 2052,
+            "x2": 1871,
+            "y2": 2212
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "शशिकी किरण मलिन तारे छिपि रबि",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_12_textline_17.png",
+        "bounding_box": {
+            "x1": 200,
+            "y1": 2354,
+            "x2": 1892,
+            "y2": 2514
+        }
+    }
+]

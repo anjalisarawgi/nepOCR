@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_1.png",
+        "bounding_box": {
+            "x1": 709,
+            "y1": 140,
+            "x2": 1407,
+            "y2": 310
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "क्षपितंवेत्सितत्त्वतः ९७ भृगुरुवाच ॥ इति",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_2.png",
+        "bounding_box": {
+            "x1": 29,
+            "y1": 295,
+            "x2": 2112,
+            "y2": 513
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "श्रुत्वावचस्तस्यभूरिद्युम्नोविधायतत् ॥ जगा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_3.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 495,
+            "x2": 2106,
+            "y2": 696
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "मकाशींविप्रेन्द्रन्नत्वातम्मुनिपुङ्गवम् ॥ सस",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_4.png",
+        "bounding_box": {
+            "x1": 18,
+            "y1": 673,
+            "x2": 2101,
+            "y2": 897
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "प्तदिवसैः काशीमपश्यद्दुष्टमानसः ९८ सुरु",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_5.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 870,
+            "x2": 2092,
+            "y2": 1063
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "चिरभवनेन विश्वभर्तुर्मणिमयकुट्टिमचञ्चदं",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_6.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 1034,
+            "x2": 2086,
+            "y2": 1258
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "शुजालैः ॥ रविकरनिकरप्रभाभिभूतिंविर",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_7.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 1229,
+            "x2": 2081,
+            "y2": 1459
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "चयतानिचितान्नितान्तरम्याम् ९९ कलिम",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_8.png",
+        "bounding_box": {
+            "x1": 3,
+            "y1": 1423,
+            "x2": 2086,
+            "y2": 1635
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "लकुलकालकालराजक्षपितनिवासिजनान्त",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_9.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1615,
+            "x2": 2081,
+            "y2": 1826
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "रायरम्याम् ॥ हरवृषभपिनद्धकिङ्किणीनां",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_10.png",
+        "bounding_box": {
+            "x1": 9,
+            "y1": 1813,
+            "x2": 2096,
+            "y2": 2007
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "क्वणमुखरीकृतदिव्यदिग्विभागाम् १०० भ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_11.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 1982,
+            "x2": 2069,
+            "y2": 2175
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "वभयपरिभीतिनाशहेतुः सुरनरकिन्नरसेवि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_12.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2154,
+            "x2": 2066,
+            "y2": 2385
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "तांसमन्तात् ॥ विविधलिङ्गसमर्चनतत्परैः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_13.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2345,
+            "x2": 2089,
+            "y2": 2561
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "शिवशिवेतिमुहुः प्रतिजल्पनैः १०१ वदन",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_14.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2524,
+            "x2": 2063,
+            "y2": 2742
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "वाद्यविधानविचक्षणैर्म्मुनिगणैरभितोरुचिरा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_15.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2716,
+            "x2": 2061,
+            "y2": 2955
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "चिरम् ॥ शुकपिककुलकूजितस्वनद्भिःपनस",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_16.png",
+        "bounding_box": {
+            "x1": 0,
+            "y1": 2895,
+            "x2": 2063,
+            "y2": 3123
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "१५",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_15_textline_17.png",
+        "bounding_box": {
+            "x1": 1925,
+            "y1": 183,
+            "x2": 2104,
+            "y2": 322
+        }
+    }
+]

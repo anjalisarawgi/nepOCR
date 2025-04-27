@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "४",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_1.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 112,
+            "x2": 207,
+            "y2": 219
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गीतगोविन्दादर्श ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_2.png",
+        "bounding_box": {
+            "x1": 637,
+            "y1": 86,
+            "x2": 1183,
+            "y2": 225
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "इत्थं नन्दनिदेशतश्चलितयोः प्रत्यध्वकुञ्जद्रुमं",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_3.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 276,
+            "x2": 1713,
+            "y2": 425
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "राधामाधवयोर्जयन्ति यमुनाकूले रहःकेलयः १",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_4.png",
+        "bounding_box": {
+            "x1": 105,
+            "y1": 419,
+            "x2": 1772,
+            "y2": 579
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "घन घेरि आयो बन सघन तिमिर छायो,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_5.png",
+        "bounding_box": {
+            "x1": 196,
+            "y1": 758,
+            "x2": 1415,
+            "y2": 896
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "नन्दजू कहत बृषभानुनन्दिनी सों नन्द-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_6.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 998,
+            "x2": 1483,
+            "y2": 1131
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "गुरु क बचन पाइ प्रेम की रचन भरे,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_7.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 1254,
+            "x2": 1449,
+            "y2": 1375
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "यमुना के कूल मैं रहसि रस केलिमयी,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_8.png",
+        "bounding_box": {
+            "x1": 199,
+            "y1": 1483,
+            "x2": 1447,
+            "y2": 1614
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "वाग्देवताचरितचित्रितचित्तसद्मा",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_9.png",
+        "bounding_box": {
+            "x1": 233,
+            "y1": 1903,
+            "x2": 1366,
+            "y2": 2060
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "श्रीवासुदेवरतिकेलिकथासमेत-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_10.png",
+        "bounding_box": {
+            "x1": 233,
+            "y1": 2190,
+            "x2": 1340,
+            "y2": 2347
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "यदि हरिस्मरणे सरसं मनो",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_11.png",
+        "bounding_box": {
+            "x1": 222,
+            "y1": 2500,
+            "x2": 1235,
+            "y2": 2649
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "रैनि को डरैंगे लेखि देखि यों दृगनतैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_12.png",
+        "bounding_box": {
+            "x1": 478,
+            "y1": 873,
+            "x2": 1648,
+            "y2": 1020
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "नन्दनहिं घरै जाहु लैकै बेगि बनतैं ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_13.png",
+        "bounding_box": {
+            "x1": 470,
+            "y1": 1113,
+            "x2": 1640,
+            "y2": 1259
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "चले कुञ्जतीर तरु देखि क बिपिनतैं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_14.png",
+        "bounding_box": {
+            "x1": 476,
+            "y1": 1361,
+            "x2": 1637,
+            "y2": 1502
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "ऐसे राधा माधो बाधा हरो मेरे मनतैं १",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_15.png",
+        "bounding_box": {
+            "x1": 483,
+            "y1": 1598,
+            "x2": 1628,
+            "y2": 1734
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "पद्मावतीचरणचारणचक्रवर्ती ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_16.png",
+        "bounding_box": {
+            "x1": 455,
+            "y1": 2057,
+            "x2": 1556,
+            "y2": 2202
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "यदि विलासकलासु कुतूहलम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_17.png",
+        "bounding_box": {
+            "x1": 468,
+            "y1": 2667,
+            "x2": 1580,
+            "y2": 2815
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "कवित्त ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_18.png",
+        "bounding_box": {
+            "x1": 784,
+            "y1": 620,
+            "x2": 1048,
+            "y2": 741
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "श्लोकः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_19.png",
+        "bounding_box": {
+            "x1": 750,
+            "y1": 1765,
+            "x2": 1048,
+            "y2": 1880
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "मेतं करोति जयदेवकविः प्रबन्धम् २",
+        "image_path": "datasetProcessed/cropped_textlines/images/jayadeva1926_004_textline_20.png",
+        "bounding_box": {
+            "x1": 463,
+            "y1": 2349,
+            "x2": 1745,
+            "y2": 2496
+        }
+    }
+]

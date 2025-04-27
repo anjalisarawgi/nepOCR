@@ -1,0 +1,321 @@
+[
+    {
+        "line_number": 1,
+        "text": "१४",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_1.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 53,
+            "x2": 235,
+            "y2": 168
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "रामाश्वमेध ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_2.png",
+        "bounding_box": {
+            "x1": 694,
+            "y1": 60,
+            "x2": 1080,
+            "y2": 198
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "जबप्रभुजीति समरदशशीशा । अवधचलनचाह्योजगदीशा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_3.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 149,
+            "x2": 1693,
+            "y2": 310
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "देव सबै तेहि अवसर आई । विनयविनयजकोकसिधाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_4.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 247,
+            "x2": 1688,
+            "y2": 395
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "ताहि समय दशेरथ नृप आये । रामहिं देखि नयन जल छाये ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_5.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 344,
+            "x2": 1688,
+            "y2": 496
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "पितहि प्रणाम कीन्ह रघुराई । सीता अनुजसहितखगराई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_6.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 435,
+            "x2": 1693,
+            "y2": 597
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "अस अभिलाष नरेश खगेशा । मोहिंलै चलैं अवधअवधेशा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_7.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 528,
+            "x2": 1688,
+            "y2": 673
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "पितहि प्रेमवशलख्यो कृपाला । समुझायो कहिबचनरसाला ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_8.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 617,
+            "x2": 1683,
+            "y2": 772
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "वर्ष सहस्र राव प्रभुताई । रह्यो सो भोग करबमैं जाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_9.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 715,
+            "x2": 1683,
+            "y2": 858
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "असकहि रामपितहि शिरनावा । दीन्हज्ञान निजधाम पठावा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_10.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 802,
+            "x2": 1683,
+            "y2": 964
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "दो० सुनि असबचनबिनीतबहु भयोज्ञानखगराय ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_11.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 910,
+            "x2": 1480,
+            "y2": 1052
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "दो० पाछिलकथापुनीत अति सुनहु खगेशसुजान ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_12.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 1474,
+            "x2": 1460,
+            "y2": 1602
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "प्रभु मूरति उर राखिनृप गेसुरपुर हरषाय ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_13.png",
+        "bounding_box": {
+            "x1": 266,
+            "y1": 1009,
+            "x2": 1473,
+            "y2": 1138
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "पिता राज्यके भोगहित असकौतुक प्रभुकीन ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_14.png",
+        "bounding_box": {
+            "x1": 266,
+            "y1": 1098,
+            "x2": 1470,
+            "y2": 1224
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "रहैं सिया कछुदिनअनतत्यहिकारणबनदीन ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_15.png",
+        "bounding_box": {
+            "x1": 263,
+            "y1": 1199,
+            "x2": 1470,
+            "y2": 1327
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "सो० गयो शोच खगनाथ सुनिप्रभुचरितभुशुण्डिमुख ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_16.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 1280,
+            "x2": 1572,
+            "y2": 1431
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "परसि चरणपरमाथ अति नाथकृतारथ कीन्ह मोहिं ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_17.png",
+        "bounding_box": {
+            "x1": 263,
+            "y1": 1386,
+            "x2": 1579,
+            "y2": 1517
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "ज्यहि प्रकार रोदनकरैं सीता जगतभवान ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_18.png",
+        "bounding_box": {
+            "x1": 253,
+            "y1": 1563,
+            "x2": 1455,
+            "y2": 1693
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "महा बिलाप करति बैदेही । शोकबिकलतनुसुधिनहिंतेही ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_19.png",
+        "bounding_box": {
+            "x1": 38,
+            "y1": 1649,
+            "x2": 1655,
+            "y2": 1797
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "भे खग मृग बन जीव दुखारी । देखिजानकी चकित निहारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_20.png",
+        "bounding_box": {
+            "x1": 40,
+            "y1": 1750,
+            "x2": 1650,
+            "y2": 1895
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "स्रवतनयन जलदुखअधिकारी । बोले वचन समय अनुहारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_21.png",
+        "bounding_box": {
+            "x1": 30,
+            "y1": 1839,
+            "x2": 1660,
+            "y2": 1994
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "तजहु शोच सुनु राजकुमारी । विधिके अङ्क सकै को टारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_22.png",
+        "bounding_box": {
+            "x1": 23,
+            "y1": 1935,
+            "x2": 1645,
+            "y2": 2087
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "बन देवत धरि धरि मुनि नारी । समुझावें मृदु बैन उचारी ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_23.png",
+        "bounding_box": {
+            "x1": 28,
+            "y1": 2031,
+            "x2": 1650,
+            "y2": 2176
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "अवधते सरिस जानु बन माता । होइहैं सब विधि मंगलदाता ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_24.png",
+        "bounding_box": {
+            "x1": 30,
+            "y1": 2127,
+            "x2": 1640,
+            "y2": 2272
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "काहू दोष न लाइय रानी । जग जननी तुममातुभवानी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_25.png",
+        "bounding_box": {
+            "x1": 20,
+            "y1": 2223,
+            "x2": 1632,
+            "y2": 2365
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "करि प्रबोध मुख धोय सयानी । कन्दमूल लाईं मधुजानी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_26.png",
+        "bounding_box": {
+            "x1": 12,
+            "y1": 2314,
+            "x2": 1637,
+            "y2": 2456
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "धरि आगेसिय पुन समुझाई । हाथ जोरि करि विनयखबाई ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_27.png",
+        "bounding_box": {
+            "x1": 15,
+            "y1": 2403,
+            "x2": 1632,
+            "y2": 2562
+        }
+    },
+    {
+        "line_number": 28,
+        "text": "छन्द ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_28.png",
+        "bounding_box": {
+            "x1": 698,
+            "y1": 2516,
+            "x2": 934,
+            "y2": 2633
+        }
+    },
+    {
+        "line_number": 29,
+        "text": "करजोरि विनय खवाय सीतहि बिदाह्वै गृह को गईं ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/dudhadasa1900_14_textline_29.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2580,
+            "x2": 1536,
+            "y2": 2739
+        }
+    }
+]

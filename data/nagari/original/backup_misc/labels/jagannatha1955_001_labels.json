@@ -1,0 +1,200 @@
+[
+    {
+        "line_number": 1,
+        "text": "टीकाकार की विनय",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_1.png",
+        "bounding_box": {
+            "x1": 577,
+            "y1": 471,
+            "x2": 1376,
+            "y2": 618
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "पैसा हूँ गँवायो अरु हाथ पाँय तोरे तोऊ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_2.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1985,
+            "x2": 1468,
+            "y2": 2110
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "करि प्रणाम श्रीजगन्नाथ को चरणचिह्न उनके पाये ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_3.png",
+        "bounding_box": {
+            "x1": 212,
+            "y1": 808,
+            "x2": 1783,
+            "y2": 952
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "मूल सहारा ले तिनका ही भाषा छन्द स्वयं गाये ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_4.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 947,
+            "x2": 1773,
+            "y2": 1071
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "राधेलाल त्रिवेदी ने जब गंगाजी का ध्यान धरा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_5.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 1070,
+            "x2": 1763,
+            "y2": 1192
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "काम आयो बैद ना हकीम कोऊ डाक्टर",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_6.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 1503,
+            "x2": 1466,
+            "y2": 1624
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "धन्य है उदार, गंगधार, पापी तार तोहिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_7.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 2238,
+            "x2": 1479,
+            "y2": 2358
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "हुआ अनुग्रह तरनतारिनी चर्मरोग घनघोर हरा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_8.png",
+        "bounding_box": {
+            "x1": 220,
+            "y1": 1198,
+            "x2": 1760,
+            "y2": 1324
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "जाबे जोग कहूँ नाहिं, घृणा दृष्टि देखे जाहिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_9.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 1745,
+            "x2": 1455,
+            "y2": 1872
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "कलि काल के बीच प्रतच्छ है मात,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_10.png",
+        "bounding_box": {
+            "x1": 304,
+            "y1": 2663,
+            "x2": 1463,
+            "y2": 2790
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सात आठ वर्ष बीते झेलते मुसीबतें",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_11.png",
+        "bounding_box": {
+            "x1": 517,
+            "y1": 1617,
+            "x2": 1792,
+            "y2": 1756
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "छाँड़ि गंगतीर ठौर कोऊ ना सुनावतें ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_12.png",
+        "bounding_box": {
+            "x1": 530,
+            "y1": 1862,
+            "x2": 1822,
+            "y2": 2001
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "चर्मरोग बाढ़्यो सुनी कैसी का कहावतें ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_13.png",
+        "bounding_box": {
+            "x1": 522,
+            "y1": 2102,
+            "x2": 1857,
+            "y2": 2239
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "कर गहि खैंच्यो दुःख-सागर के डूबतें ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_14.png",
+        "bounding_box": {
+            "x1": 522,
+            "y1": 2352,
+            "x2": 1822,
+            "y2": 2488
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "जो नीच कपूत को आदर देति है ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_15.png",
+        "bounding_box": {
+            "x1": 506,
+            "y1": 2777,
+            "x2": 1685,
+            "y2": 2914
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "(१)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_16.png",
+        "bounding_box": {
+            "x1": 882,
+            "y1": 694,
+            "x2": 1107,
+            "y2": 809
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "(२)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_17.png",
+        "bounding_box": {
+            "x1": 882,
+            "y1": 1358,
+            "x2": 1123,
+            "y2": 1483
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "(३)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_001_textline_18.png",
+        "bounding_box": {
+            "x1": 873,
+            "y1": 2524,
+            "x2": 1106,
+            "y2": 2634
+        }
+    }
+]

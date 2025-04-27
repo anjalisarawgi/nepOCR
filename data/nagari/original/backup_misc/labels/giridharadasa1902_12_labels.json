@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "१२",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_1.png",
+        "bounding_box": {
+            "x1": 271,
+            "y1": 160,
+            "x2": 450,
+            "y2": 321
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "भारतीभूषण ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_2.png",
+        "bounding_box": {
+            "x1": 1103,
+            "y1": 117,
+            "x2": 1771,
+            "y2": 294
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "दर्शनालक्षण ॥ जहँसदर्थअसदर्थकोबोधक्रियाकरिहोइ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_3.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 273,
+            "x2": 2642,
+            "y2": 474
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "तीजीतहांनिदर्शना वरणहिंकविसबकोइ १२५ ॥ सद",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_4.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 449,
+            "x2": 2686,
+            "y2": 648
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "र्थउदाहरण ॥ गुरुपादोदकशिरधरिय सदाजतावतएहु ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_5.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 609,
+            "x2": 2652,
+            "y2": 799
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "शिरधारतहैंगंगको महादेवकरिनेहु १२६ ॥ असदर्थउ",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_6.png",
+        "bounding_box": {
+            "x1": 186,
+            "y1": 777,
+            "x2": 2690,
+            "y2": 960
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "दाहरण ॥ निडरपनोकरिबड़ेनको नाशजनावतजाति ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_7.png",
+        "bounding_box": {
+            "x1": 205,
+            "y1": 945,
+            "x2": 2650,
+            "y2": 1125
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "करतमशालमुकाबिले बातीतुरतबुझाति १२७ ॥ व्यति",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_8.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 1109,
+            "x2": 2657,
+            "y2": 1291
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "रेकलक्षण ॥ वरणियबर्ण्यअवर्ण्यमें जहँविशेषकविराइ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_9.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 1265,
+            "x2": 2657,
+            "y2": 1450
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "अधिकन्यूनसमभेदकरि सोव्यतिरेककहाइ १२८ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_10.png",
+        "bounding_box": {
+            "x1": 236,
+            "y1": 1437,
+            "x2": 2669,
+            "y2": 1615
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "अधिकउदाहरण ॥ भूपकल्पतरुसेअहौ वैभवबुद्धिविशे",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_11.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 1585,
+            "x2": 2696,
+            "y2": 1791
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "खि॥तियपल्लवसेतोअधरअधिकअमृतरसपेखि १२९ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_12.png",
+        "bounding_box": {
+            "x1": 179,
+            "y1": 1777,
+            "x2": 2657,
+            "y2": 1950
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "न्यूनउदाहरण ॥ हरिसेहरिजनजानुपै हरिघटघटबिश्रा",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_13.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 1925,
+            "x2": 2653,
+            "y2": 2115
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "म ॥ कुटिलसर्पसेपैसरप डसतहिकरततमाम १३० ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_14.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 2109,
+            "x2": 2686,
+            "y2": 2278
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "समउदाहरण ॥ जोनिजधेरेमेंपरत चूरकरतदलिताहि ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_15.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 2265,
+            "x2": 2669,
+            "y2": 2446
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "पथ्यसंगपैगहतनहिं खलखलवृन्दसदाहि १३१ ॥ सहो",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_16.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 2429,
+            "x2": 2657,
+            "y2": 2607
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "क्तिलक्षण ॥ जहँमनरंजनवरणिये एकसंगबहुबात ॥ सो",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_17.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 2609,
+            "x2": 2657,
+            "y2": 2773
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "सहोक्तिआभरणहैग्रन्थनमेंविख्यात १३२ ॥ उदाहरण ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_18.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 2757,
+            "x2": 2665,
+            "y2": 2949
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "आईचतुराईलियेतरुणाईतोअंग ॥ मनमोहनसोंमन",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_19.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 2921,
+            "x2": 2657,
+            "y2": 3117
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "मिल्योइननैननकेसंग१३३ ॥ विनोक्तिलक्षण॥द्वैविधिकह",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_20.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 3085,
+            "x2": 2721,
+            "y2": 3273
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "हिंबिनोक्तिकोसुकविबुद्धिकेऐन ॥ प्रस्तुतकछुबिनन्यून",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_21.png",
+        "bounding_box": {
+            "x1": 217,
+            "y1": 3241,
+            "x2": 2657,
+            "y2": 3444
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "अरुकछुबिनशोभादैन १३४ ॥ प्रथमबिनोक्तिउदाहरण ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_22.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 3437,
+            "x2": 2665,
+            "y2": 3612
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "कविबिननहिंसोहैसभा निशिबिनसुधानिवास ॥ फबत",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_23.png",
+        "bounding_box": {
+            "x1": 228,
+            "y1": 3597,
+            "x2": 2657,
+            "y2": 3774
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "नगिरिधरदासबिनगिरिधरगिरिधरदास १३५ ॥ द्विती",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_24.png",
+        "bounding_box": {
+            "x1": 221,
+            "y1": 3761,
+            "x2": 2669,
+            "y2": 3936
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "यबिनोक्तिउदाहरण ॥ धन्यधन्यतोकोधनी बिनागरबसर",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_25.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 3925,
+            "x2": 2653,
+            "y2": 4095
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "सात ॥रामराजतवसुयशकरतसकरपुनिदरशात १३६ ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_26.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 4101,
+            "x2": 2714,
+            "y2": 4273
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "समासोक्तिलक्षण ॥ प्रस्तुतमेंजबहींफुरैं अप्रस्तुतवृत्ता",
+        "image_path": "datasetProcessed/cropped_textlines/images/giridharadasa1902_12_textline_27.png",
+        "bounding_box": {
+            "x1": 201,
+            "y1": 4245,
+            "x2": 2672,
+            "y2": 4434
+        }
+    }
+]

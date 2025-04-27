@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीरामस्तवराजः । ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_1.png",
+        "bounding_box": {
+            "x1": 506,
+            "y1": 319,
+            "x2": 1257,
+            "y2": 483
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "मारसंहितायां नारदोक्तश्रीरामचन्द्रस्तवरा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_2.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 521,
+            "x2": 1681,
+            "y2": 684
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "जस्तोत्रं सम्पूर्णम् ।। श्रीसीतारामाभ्यांनमः ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_3.png",
+        "bounding_box": {
+            "x1": 87,
+            "y1": 674,
+            "x2": 1693,
+            "y2": 816
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अथ प्रातर्निवेदनकारिकाः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_4.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 818,
+            "x2": 1606,
+            "y2": 1025
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "शाय नमः ।। ।। उत्थाय शयने तस्मिन्ना-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_5.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 1214,
+            "x2": 1695,
+            "y2": 1339
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सीनो नियतेन्द्रियः ।। त्रस्तनिर्विण्णहृदयो",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_6.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1323,
+            "x2": 1699,
+            "y2": 1478
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "व्यर्थं वीक्ष्य गतं वयः ।। १ ।। तापत्रयेण",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_7.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 1470,
+            "x2": 1696,
+            "y2": 1607
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "चाक्रगन्तस्तीव्रेणाध्यात्मिकादिना ।। दाव-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_8.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1605,
+            "x2": 1694,
+            "y2": 1746
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "जेनाग्निनालीढो भ्राम्यन्निववनेमृगः ।। २ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_9.png",
+        "bounding_box": {
+            "x1": 89,
+            "y1": 1729,
+            "x2": 1693,
+            "y2": 1893
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "संसारवागुरान्तस्थो लूनपक्ष इवाण्डजः ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_10.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 1888,
+            "x2": 1766,
+            "y2": 2015
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "अपश्यन्निर्गमोपायमागामिष्वपि जन्मसु ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_11.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2006,
+            "x2": 1697,
+            "y2": 2142
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "।। ३ ।। अकार्यैरतिबीभत्सैः क्रियमाणैः कृतै-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_12.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 2133,
+            "x2": 1696,
+            "y2": 2281
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "रपि ।। लज्जितश्च विषण्णश्च स्मर्यमाणैः",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_13.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2265,
+            "x2": 1699,
+            "y2": 2406
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "स्वकर्मभिः ।। ४ ।। अविनीतमशिक्षार्हमस-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_14.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 2404,
+            "x2": 1720,
+            "y2": 2544
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "द्रुणगणाकरम्।। अवधार्य स्वमात्मानमचि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_15.png",
+        "bounding_box": {
+            "x1": 74,
+            "y1": 2542,
+            "x2": 1699,
+            "y2": 2678
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "कित्स्याशुभाश्रयम् ।। ५ ।। दह्यमानेन्धना",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_16.png",
+        "bounding_box": {
+            "x1": 87,
+            "y1": 2677,
+            "x2": 1693,
+            "y2": 2812
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "न्तस्थो विस्फुरन्निव कीटकः ।। अलब्धनि-  ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_17.png",
+        "bounding_box": {
+            "x1": 93,
+            "y1": 2801,
+            "x2": 1693,
+            "y2": 2943
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "श्रीमते रामानुजाय नमः ।। ।। श्रीगणे-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_18.png",
+        "bounding_box": {
+            "x1": 240,
+            "y1": 1060,
+            "x2": 1710,
+            "y2": 1204
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "१५",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_15_textline_19.png",
+        "bounding_box": {
+            "x1": 1476,
+            "y1": 343,
+            "x2": 1664,
+            "y2": 476
+        }
+    }
+]

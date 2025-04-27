@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "वेदस्तुति स० ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_1.png",
+        "bounding_box": {
+            "x1": 691,
+            "y1": 194,
+            "x2": 1160,
+            "y2": 318
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "योपिययुःस्मरणात् ।। स्त्रियउरगे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_2.png",
+        "bounding_box": {
+            "x1": 169,
+            "y1": 342,
+            "x2": 1682,
+            "y2": 540
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "न्द्रभोगभुजदंडविशक्तधियो वय",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_3.png",
+        "bounding_box": {
+            "x1": 156,
+            "y1": 529,
+            "x2": 1695,
+            "y2": 709
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "मपितेसमाः समदृशोंघ्रिसरोजसु",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_4.png",
+        "bounding_box": {
+            "x1": 161,
+            "y1": 693,
+            "x2": 1670,
+            "y2": 890
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "धाः ।। १० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_5.png",
+        "bounding_box": {
+            "x1": 149,
+            "y1": 885,
+            "x2": 814,
+            "y2": 1055
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "देव भगवत्स्वरूपं तदरयोपि शिशुपालादयोपि स्मरणात्",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_6.png",
+        "bounding_box": {
+            "x1": 144,
+            "y1": 1180,
+            "x2": 1672,
+            "y2": 1337
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "ययुः कथंभूतामुनयः नितरांभृतः मस्द्वायुःमनः अक्षाणि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_7.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1318,
+            "x2": 1677,
+            "y2": 1448
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "दृक् सर्वानेवस्वकीयान्समत्वेनमन्यते कथंभूताः सर्वे अं",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_8.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 2022,
+            "x2": 1672,
+            "y2": 2150
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ग्रसरं यतउदगादृषिर्यमनु देवग",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_9.png",
+        "bounding_box": {
+            "x1": 131,
+            "y1": 2456,
+            "x2": 1683,
+            "y2": 2623
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "* ज्ञानमार्गोभ्रांतिरूपस्ततःकृष्णंभजेद्बुधः ।। प्रवर्त्तकंज्ञानकांडंचित्तुशद्ध्यैयतोभजेत् ११",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_10.png",
+        "bounding_box": {
+            "x1": 121,
+            "y1": 2675,
+            "x2": 1652,
+            "y2": 2801
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "मुनयः यत् भगवंतं त्दृदिमानसपूजादिनाउपासते",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_11.png",
+        "bounding_box": {
+            "x1": 247,
+            "y1": 1076,
+            "x2": 1677,
+            "y2": 1216
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "इंद्रियाणिचतैः कृत्वा ये दृढं योगं युंजंति ते अथच स्त्रियः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_12.png",
+        "bounding_box": {
+            "x1": 154,
+            "y1": 1424,
+            "x2": 1682,
+            "y2": 1565
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "गोप्योपि तदेव भगवंतं ययुः कथंभूताः स्त्रियः उरगेंद्रस्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_13.png",
+        "bounding_box": {
+            "x1": 146,
+            "y1": 1538,
+            "x2": 1677,
+            "y2": 1690
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "शेषस्य भोगइव कायइव यौबाहू तत्र विशक्ता धीर्यासां",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_14.png",
+        "bounding_box": {
+            "x1": 144,
+            "y1": 1656,
+            "x2": 1680,
+            "y2": 1803
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "तादृश्यः वयंचश्रुतयः सर्वादरणीयाः तदेवत्वांप्रापुः एवं",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_15.png",
+        "bounding_box": {
+            "x1": 139,
+            "y1": 1785,
+            "x2": 1677,
+            "y2": 1920
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "स्त्रियः पुरुषाश्च सर्वएवतेतवसमाः यतो भगवान् सम",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_16.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1893,
+            "x2": 1680,
+            "y2": 2038
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "घ्रिसरोजसुधा: अंघ्रिसरोजं सुष्टु धारयंतीति तथा १० ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_17.png",
+        "bounding_box": {
+            "x1": 136,
+            "y1": 2130,
+            "x2": 1652,
+            "y2": 2273
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "* कइहनुवेदबतावरजन्मलयो",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_18.png",
+        "bounding_box": {
+            "x1": 272,
+            "y1": 2284,
+            "x2": 1675,
+            "y2": 2460
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "११",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_11_textline_19.png",
+        "bounding_box": {
+            "x1": 1567,
+            "y1": 226,
+            "x2": 1697,
+            "y2": 338
+        }
+    }
+]

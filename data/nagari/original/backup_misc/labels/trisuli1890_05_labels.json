@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "पीयूषलहरी ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_1.png",
+        "bounding_box": {
+            "x1": 1093,
+            "y1": 102,
+            "x2": 1864,
+            "y2": 315
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "शीशपै लिये उमंग । सकलहमारेते दुरित भरभंगकरो",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_2.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 281,
+            "x2": 2831,
+            "y2": 503
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "निकसे तो अंगते तरंगजे उतंगगंग ३ कबहूंही सुकृत न",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_3.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 478,
+            "x2": 2826,
+            "y2": 687
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "कीनो जिनतेऊतुम्हैं सुमिरैं त्यों तिनहूँकी तंद्राको हरत",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_4.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 657,
+            "x2": 2849,
+            "y2": 881
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "हाल । जैसे मारतंडकी प्रचंडने मयूष सदा सबै अंधकार",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_5.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 844,
+            "x2": 2844,
+            "y2": 1061
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "को बिदारतहैं ततकाल॥सेवत सकल सुरनिशिदिन जल",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_6.png",
+        "bounding_box": {
+            "x1": 91,
+            "y1": 1019,
+            "x2": 2860,
+            "y2": 1241
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "जाको ऐसी तेरी मूरतिसोचूरति अघबिशाल । सोई त्रय",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_7.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 1211,
+            "x2": 2844,
+            "y2": 1425
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "ताप मेरीब्याधि व्यथा अंतरकी एहोमातगंग तिन्हैं भंग",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_8.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 1403,
+            "x2": 2853,
+            "y2": 1603
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "करो ह्वै दयाल ४ तेरे आसरेते बलपायकै बिशाल गंग",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_9.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 1568,
+            "x2": 2849,
+            "y2": 1789
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "बढ़योगर्वजाकूँ सोमैं तुमसों कहतसब । याही तैं वृंदारक",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_10.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 1761,
+            "x2": 2835,
+            "y2": 1983
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "वृन्दनकी अवज्ञाकरी काहूकी न अबलगिमानी कछू",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_11.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 1944,
+            "x2": 2849,
+            "y2": 2179
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "दाहदब ॥ जोपै कहूँ यासमै उदासता गहौगी अंब तो",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_12.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 2141,
+            "x2": 2850,
+            "y2": 2349
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मैं निराधारनाहिं दूसरो अधार भव । मुख बिलखाय",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_13.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 2302,
+            "x2": 2826,
+            "y2": 2541
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "अति दीनता दिखाय कहौ कौनके अगारी जाइ रुदन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_14.png",
+        "bounding_box": {
+            "x1": 100,
+            "y1": 2480,
+            "x2": 2849,
+            "y2": 2728
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "करूंगो अब ५ तृण ज्यों तुरंत निजराज त्यागितेईनृप",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_15.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 2668,
+            "x2": 2831,
+            "y2": 2905
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "तेरे तीरहीको आय आसरो चितैधरैं । बैतकीलताबि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_16.png",
+        "bounding_box": {
+            "x1": 60,
+            "y1": 2856,
+            "x2": 2858,
+            "y2": 3080
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "लोल चैत चांदनीसे गंग तेरे वे तरंगनकी शोभाजे मनै",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_17.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 3035,
+            "x2": 2844,
+            "y2": 3263
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "हरैं ॥ तिनको दरसकरैं सरस पियूषहू ते स्वादित तु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_18.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 3240,
+            "x2": 2835,
+            "y2": 3455
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "म्हारो जल पेट तृप्ति ह्वै भरैं । ऐसेजे सदाईजन आनँद",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_19.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 3406,
+            "x2": 2871,
+            "y2": 3641
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "उमंगभरे तुच्छ जाति मुक्तिकीहू हाँसीते कस्यो करैं ६",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_20.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 3589,
+            "x2": 2813,
+            "y2": 3807
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "तेरे वे प्रवाह में प्रभात काल न्हात आय रमणीनरेशन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_21.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 3772,
+            "x2": 2822,
+            "y2": 3997
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "की आनँदको छायकै । तिनहीं के कुच लपटानो हुतो",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_22.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 3955,
+            "x2": 2822,
+            "y2": 4193
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "मृगमद सोवह पखरिपस्यो तेरेजलआइकै ॥ जिनजिन",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_23.png",
+        "bounding_box": {
+            "x1": 68,
+            "y1": 4143,
+            "x2": 2836,
+            "y2": 4365
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "कौ हुतौ सुतेई वे कुरंगयूथ अतिही अनूप दिव्यरूप",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_24.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 4340,
+            "x2": 2804,
+            "y2": 4549
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "को बनायकै । सेवितहैं वृंदारक वृंदनसों चहूंओर की-",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_25.png",
+        "bounding_box": {
+            "x1": 64,
+            "y1": 4501,
+            "x2": 2826,
+            "y2": 4737
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "नो तिननंदन उद्यानबास जाइकै ७ एकबार सुमिरण",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_26.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 4700,
+            "x2": 2818,
+            "y2": 4909
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "५",
+        "image_path": "datasetProcessed/cropped_textlines/images/trisuli1890_05_textline_27.png",
+        "bounding_box": {
+            "x1": 2687,
+            "y1": 147,
+            "x2": 2849,
+            "y2": 320
+        }
+    }
+]

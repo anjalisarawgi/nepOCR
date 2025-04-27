@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीमते रामकृष्णाय नमः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_1.png",
+        "bounding_box": {
+            "x1": 379,
+            "y1": 530,
+            "x2": 1384,
+            "y2": 675
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_2.png",
+        "bounding_box": {
+            "x1": 751,
+            "y1": 322,
+            "x2": 1003,
+            "y2": 463
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "अथ श्रीरामस्तवराजप्रारम्भः ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_3.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 709,
+            "x2": 1670,
+            "y2": 914
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "श्रीरङ्गेशाय नमः ।। ॐ अस्य श्रीरामच-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_4.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1092,
+            "x2": 1670,
+            "y2": 1261
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "न्द्रस्तवराजस्तोत्रमन्त्रस्य ।। सनत्कुमारऋ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_5.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1245,
+            "x2": 1670,
+            "y2": 1400
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "षिः ।। अनुष्टुप्छन्दः ।। श्रीरामो देवता ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_6.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 1380,
+            "x2": 1687,
+            "y2": 1537
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "सीताबीजम् ।। हनूमान् शक्ति: ।। श्रीराम-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_7.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1513,
+            "x2": 1673,
+            "y2": 1675
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "प्रीत्यर्थे जपे विनियोगः ।। १ ।। सूत उवाच।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_8.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1654,
+            "x2": 1679,
+            "y2": 1808
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "सर्वशास्त्रार्थतत्वज्ञं व्यासं सत्यवतीसुतम् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_9.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 1787,
+            "x2": 1687,
+            "y2": 1948
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "धर्मपुत्रः प्रहृष्टात्मा प्रत्युवाच मुनीश्वर-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_10.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1931,
+            "x2": 1673,
+            "y2": 2077
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "म् ।। २ ।। युधिष्ठिर उवाच ।। भगवन् यो-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_11.png",
+        "bounding_box": {
+            "x1": 87,
+            "y1": 2058,
+            "x2": 1684,
+            "y2": 2214
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "गिनां श्रेष्ठ सर्वशास्त्रविशारद ।। किं तत्त्वं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_12.png",
+        "bounding_box": {
+            "x1": 76,
+            "y1": 2184,
+            "x2": 1693,
+            "y2": 2349
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "किं परं जाप्यं किं ध्यानं मुक्तिसाधनम् ।। ३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_13.png",
+        "bounding_box": {
+            "x1": 79,
+            "y1": 2332,
+            "x2": 1679,
+            "y2": 2488
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "श्रोतुमिच्छामि तत्सर्वं ब्रूहि मे मुनिसत्तम ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_14.png",
+        "bounding_box": {
+            "x1": 96,
+            "y1": 2464,
+            "x2": 1679,
+            "y2": 2624
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "वेदव्यास उवाच ।। धर्म्मराज महाभाग",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_15.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2611,
+            "x2": 1673,
+            "y2": 2752
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "शृणु वक्ष्यामि तत्त्वतः ।। ४ ।। यत्परं यद्गु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_16.png",
+        "bounding_box": {
+            "x1": 84,
+            "y1": 2729,
+            "x2": 1679,
+            "y2": 2908
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "णातीतं यज्ज्योतिरमलं शिवम् ।। तदेव प-  ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_01_textline_17.png",
+        "bounding_box": {
+            "x1": 87,
+            "y1": 2873,
+            "x2": 1687,
+            "y2": 3022
+        }
+    }
+]

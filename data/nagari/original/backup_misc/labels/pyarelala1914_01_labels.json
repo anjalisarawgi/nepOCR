@@ -1,0 +1,90 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीगणेशाय नम: ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_1.png",
+        "bounding_box": {
+            "x1": 701,
+            "y1": 288,
+            "x2": 1272,
+            "y2": 399
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "अथ रागबिनोद ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_2.png",
+        "bounding_box": {
+            "x1": 470,
+            "y1": 1107,
+            "x2": 1509,
+            "y2": 1292
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "(भजन)",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_3.png",
+        "bounding_box": {
+            "x1": 759,
+            "y1": 1516,
+            "x2": 1246,
+            "y2": 1684
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "जै जै जै जगदम्बभवानी ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_4.png",
+        "bounding_box": {
+            "x1": 438,
+            "y1": 1700,
+            "x2": 1586,
+            "y2": 1861
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "करमे खप्पर शूल लियेहैं रथकी ध्वजा",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_5.png",
+        "bounding_box": {
+            "x1": 321,
+            "y1": 1896,
+            "x2": 1842,
+            "y2": 2040
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "फहरानी ।। १ ।। जैजै ० ।। केहरिपर सवार",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_6.png",
+        "bounding_box": {
+            "x1": 172,
+            "y1": 2045,
+            "x2": 1847,
+            "y2": 2200
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "माता ह्वै करत शत्रु की हानी ।। २ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_7.png",
+        "bounding_box": {
+            "x1": 154,
+            "y1": 2205,
+            "x2": 1837,
+            "y2": 2350
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जै जै ० ।। तुमहीं हौ सब काम संवारनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/pyarelala1914_01_textline_8.png",
+        "bounding_box": {
+            "x1": 177,
+            "y1": 2347,
+            "x2": 1837,
+            "y2": 2500
+        }
+    }
+]

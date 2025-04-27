@@ -1,0 +1,222 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्रीरामस्तवराजः। ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_1.png",
+        "bounding_box": {
+            "x1": 546,
+            "y1": 296,
+            "x2": 1295,
+            "y2": 449
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "तं ब्रह्मपुत्रेण वेदानां सारमुत्तमम् ।। गुह्याद्गु",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_2.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 478,
+            "x2": 1696,
+            "y2": 681
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "ह्यतमंदिव्यं तवस्नेहात्प्रकीर्तितम् ।। ८८ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_3.png",
+        "bounding_box": {
+            "x1": 116,
+            "y1": 645,
+            "x2": 1705,
+            "y2": 793
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "यः पठेच्छणुयाद्वापि त्रिसन्ध्यं श्रद्धयान्वि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_4.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 772,
+            "x2": 1702,
+            "y2": 924
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "तः ।। ब्रह्महत्यादिपापानि तत्समानि बहूनि",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_5.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 913,
+            "x2": 1721,
+            "y2": 1059
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "च ।। ८९ ।। स्वर्णस्तेयसुरापानगुरुतल्पयु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_6.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1054,
+            "x2": 1721,
+            "y2": 1184
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "तानि च ।। गोवधाद्युपपापानि ह्यनृतादिभ-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_7.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1181,
+            "x2": 1707,
+            "y2": 1323
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "वानि च ।। ९० ।। सर्वैः प्रमुच्यते पापैः क-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_8.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1311,
+            "x2": 1702,
+            "y2": 1454
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "ल्पायुतशतोद्भवैः ।। मानसं वाचिकं पापं क-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_9.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1444,
+            "x2": 1696,
+            "y2": 1596
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "र्मणा समुपार्जितम् ।। ९१ ।। श्रीरामस्मरणे-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_10.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 1585,
+            "x2": 1722,
+            "y2": 1725
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "नैव तत्क्षणान्नश्यति ध्रुवम् ।। इदं सत्यमिदं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_11.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 1717,
+            "x2": 1723,
+            "y2": 1864
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सत्यं सत्यमेतदिहोच्यते ।। ९२ ।। रामः स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_12.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 1859,
+            "x2": 1702,
+            "y2": 1991
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "त्यं परं ब्रह्म रामात्किंचिन्नविद्यते ।। तस्मा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_13.png",
+        "bounding_box": {
+            "x1": 82,
+            "y1": 1986,
+            "x2": 1696,
+            "y2": 2133
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "द्रामस्वत्वरूपात् सत्यं सत्यमिदं जगत् ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_14.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 2135,
+            "x2": 1696,
+            "y2": 2276
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "।। ९३ ।। श्रीरामचन्द्र रघुपुंगव राजवर्य रा-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_15.png",
+        "bounding_box": {
+            "x1": 102,
+            "y1": 2256,
+            "x2": 1693,
+            "y2": 2395
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "जेन्द्र रामरघुनायक राघवेश ।। राजाधि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_16.png",
+        "bounding_box": {
+            "x1": 73,
+            "y1": 2395,
+            "x2": 1713,
+            "y2": 2530
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "राज रघुनन्दन रामभद्र दासोहमद्य भवतः",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_17.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2530,
+            "x2": 1705,
+            "y2": 2665
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "शरणागतोऽस्मि ।। ९४ ।। वैदेहीसहितं स-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_18.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 2657,
+            "x2": 1702,
+            "y2": 2801
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "रद्रुमतले हैमे महामण्डपे मध्ये पुष्पकमा- ",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_19.png",
+        "bounding_box": {
+            "x1": 99,
+            "y1": 2790,
+            "x2": 1707,
+            "y2": 2927
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "१३",
+        "image_path": "datasetProcessed/cropped_textlines/images/sriramastavarajah1898_13_textline_20.png",
+        "bounding_box": {
+            "x1": 1512,
+            "y1": 311,
+            "x2": 1711,
+            "y2": 461
+        }
+    }
+]

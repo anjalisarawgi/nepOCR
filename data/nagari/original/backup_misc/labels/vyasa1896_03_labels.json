@@ -1,0 +1,211 @@
+[
+    {
+        "line_number": 1,
+        "text": "वेदस्तुति स०",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_1.png",
+        "bounding_box": {
+            "x1": 737,
+            "y1": 123,
+            "x2": 1196,
+            "y2": 252
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "समस्ताऐश्वर्यादयोभगायेन एतादृशोऽसि अगजगदोक",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_2.png",
+        "bounding_box": {
+            "x1": 189,
+            "y1": 289,
+            "x2": 1739,
+            "y2": 415
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सांहेअखिलशक्त्यवबोधकस्थावरंजगमजीवानांअखिला",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_3.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 416,
+            "x2": 1741,
+            "y2": 533
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "निइंद्रियाणितेषांशक्त्यवबोधकशक्तिप्रकाशकइत्यर्थः आ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_4.png",
+        "bounding_box": {
+            "x1": 192,
+            "y1": 529,
+            "x2": 1736,
+            "y2": 650
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "त्मनाचरतःस्वरूपेणैवक्रीडतस्तेतवनिगमःअनुचरेत् से",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_5.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 650,
+            "x2": 1762,
+            "y2": 766
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "वनंकरोतीत्यर्थः कयंभूतस्यतवक्वचिदजयाचचरतः ।। १ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_6.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 769,
+            "x2": 1744,
+            "y2": 889
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "षतयायतउदयास्तमयौ विकृतेर्मृ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_7.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 1074,
+            "x2": 1734,
+            "y2": 1232
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "बृहदुपलब्धमेतदवयंत्यवशे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_8.png",
+        "bounding_box": {
+            "x1": 371,
+            "y1": 906,
+            "x2": 1736,
+            "y2": 1055
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "दिवाविकृतात् ।। अतऋषयोदधु",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_9.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 1243,
+            "x2": 1739,
+            "y2": 1411
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "स्त्वयिमनो वचनाचरितं कथम",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_10.png",
+        "bounding_box": {
+            "x1": 209,
+            "y1": 1417,
+            "x2": 1736,
+            "y2": 1565
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "यथाभवंति भुवि दत्तपदानि नृ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_11.png",
+        "bounding_box": {
+            "x1": 214,
+            "y1": 1588,
+            "x2": 1746,
+            "y2": 1749
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "णाम् ।। २ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_12.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 1780,
+            "x2": 865,
+            "y2": 1903
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "अवशेषतयाउपलब्यंप्राप्तंएतत्चराचरं जगत्ब्रह्मवि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_13.png",
+        "bounding_box": {
+            "x1": 315,
+            "y1": 1949,
+            "x2": 1731,
+            "y2": 2079
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "दःवेदाश्चबृहदित्येवअवयंतिअक्षरब्रह्मत्वेन जानंतीत्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_14.png",
+        "bounding_box": {
+            "x1": 202,
+            "y1": 2075,
+            "x2": 1741,
+            "y2": 2193
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "र्थः यतः ब्रह्मणःसकाशादुदयास्तमयौजगतउत्पत्तिप्रल",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_15.png",
+        "bounding_box": {
+            "x1": 207,
+            "y1": 2191,
+            "x2": 1739,
+            "y2": 2309
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "यौभवतःतत्रदृष्टांतःविकृतेर्मृदिवाविकृतात् घटशरावादे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_16.png",
+        "bounding_box": {
+            "x1": 217,
+            "y1": 2307,
+            "x2": 1739,
+            "y2": 2435
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "र्थदाप्रलयस्तदाअविकृतात्हेतोः मृदेवाऽवशिष्यते अव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_17.png",
+        "bounding_box": {
+            "x1": 224,
+            "y1": 2430,
+            "x2": 1736,
+            "y2": 2549
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "*सत्योहरिःसमस्तेषुभ्रमभातेष्वपिस्थिरः ।। अतःअंतःसमस्तार्थेकृष्णमेवविजानते २ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_18.png",
+        "bounding_box": {
+            "x1": 275,
+            "y1": 2614,
+            "x2": 1746,
+            "y2": 2709
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "३",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1896_03_textline_19.png",
+        "bounding_box": {
+            "x1": 1651,
+            "y1": 148,
+            "x2": 1741,
+            "y2": 254
+        }
+    }
+]

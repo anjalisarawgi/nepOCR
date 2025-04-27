@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "८",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_1.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 126,
+            "x2": 228,
+            "y2": 247
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "काशीमाहात्म्य ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_2.png",
+        "bounding_box": {
+            "x1": 760,
+            "y1": 88,
+            "x2": 1455,
+            "y2": 236
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "णपितामहौ ॥ तदेवेलोकेवेच काशीतिप",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_3.png",
+        "bounding_box": {
+            "x1": 63,
+            "y1": 237,
+            "x2": 2152,
+            "y2": 434
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "रिगीयते ४८ अत्रमुक्तिस्तुसुलभापाणौफल",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_4.png",
+        "bounding_box": {
+            "x1": 63,
+            "y1": 435,
+            "x2": 2167,
+            "y2": 633
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "मिवाहितम् ॥ तस्यादर्शनमात्रेण पापंयाति",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_5.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 624,
+            "x2": 2158,
+            "y2": 805
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सहस्रधा ४९ इत्येतत्सर्वमाख्यातं भूयः",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_6.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 813,
+            "x2": 2161,
+            "y2": 999
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "किंनिगदामिवः ५० ऋषयऊचुः ॥ भृगोसर्व",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_7.png",
+        "bounding_box": {
+            "x1": 40,
+            "y1": 982,
+            "x2": 2178,
+            "y2": 1178
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मुनिश्रेष्ठ अस्माभिस्तपसःफलम् ॥ लब्धम",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_8.png",
+        "bounding_box": {
+            "x1": 78,
+            "y1": 1186,
+            "x2": 2211,
+            "y2": 1372
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "द्यैव यत्काशीप्रभावस्त्वन्मुखाच्छुतः ५१",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_9.png",
+        "bounding_box": {
+            "x1": 66,
+            "y1": 1383,
+            "x2": 2175,
+            "y2": 1557
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "काश्याएवमहाबाहोभूयः कथयसत्कथाः ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_10.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 1564,
+            "x2": 2202,
+            "y2": 1743
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "विस्तरेणसमासेन सर्वेषांहितकाम्यया ५२",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_11.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 1736,
+            "x2": 2181,
+            "y2": 1939
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "किंमाहात्म्यंकथंवेद्यं सेव्याकैश्चद्विजोत्तमा ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_12.png",
+        "bounding_box": {
+            "x1": 55,
+            "y1": 1916,
+            "x2": 2181,
+            "y2": 2129
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "परिणामंचतस्याःकिं केनोपायेनलभ्यते ५३",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_13.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 2111,
+            "x2": 2176,
+            "y2": 2290
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "एतत्सर्वंसुनिश्चित्य कथयाथविशेषतः ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_14.png",
+        "bounding_box": {
+            "x1": 58,
+            "y1": 2297,
+            "x2": 2187,
+            "y2": 2470
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "श्रोत्रपात्राणिचास्माकं काङ्क्षन्तित्वद्वचोमृत",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_15.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 2478,
+            "x2": 2181,
+            "y2": 2657
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "म् ५४ भृगुरुवाच ॥ सावधानाः शृणुध्वंमे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_16.png",
+        "bounding_box": {
+            "x1": 86,
+            "y1": 2675,
+            "x2": 2178,
+            "y2": 2852
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "वचःकाशीगुणार्थकम् ॥ यच्छ्रुत्वासर्वपापे",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_08_textline_17.png",
+        "bounding_box": {
+            "x1": 75,
+            "y1": 2859,
+            "x2": 2181,
+            "y2": 3013
+        }
+    }
+]

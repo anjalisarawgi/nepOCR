@@ -1,0 +1,145 @@
+[
+    {
+        "line_number": 1,
+        "text": "श्री गणेशाय नमः",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_1.png",
+        "bounding_box": {
+            "x1": 818,
+            "y1": 953,
+            "x2": 1303,
+            "y2": 1050
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "श्रीमान् मुंशीनवलकिशोरजीको ",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_2.png",
+        "bounding_box": {
+            "x1": 213,
+            "y1": 1091,
+            "x2": 2037,
+            "y2": 1306
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "जीवनचरित्र प्रारम्भ: ॥ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_3.png",
+        "bounding_box": {
+            "x1": 441,
+            "y1": 1311,
+            "x2": 1783,
+            "y2": 1518
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "षट्पदछंद ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_4.png",
+        "bounding_box": {
+            "x1": 812,
+            "y1": 1723,
+            "x2": 1397,
+            "y2": 1891
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "न । अशरन शरन कृपाल विकट संकट हठि",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_5.png",
+        "bounding_box": {
+            "x1": 262,
+            "y1": 2096,
+            "x2": 2026,
+            "y2": 2232
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "रन ॥ सुर सरदार उदार दार चारहु फल",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_6.png",
+        "bounding_box": {
+            "x1": 244,
+            "y1": 2222,
+            "x2": 2020,
+            "y2": 2373
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "लंबोदर गजबदन कदन घन विघन पगा",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_7.png",
+        "bounding_box": {
+            "x1": 338,
+            "y1": 1934,
+            "x2": 2021,
+            "y2": 2088
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "को । यश अपार शुचिसार वेद विस्तारत",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_8.png",
+        "bounding_box": {
+            "x1": 268,
+            "y1": 2362,
+            "x2": 2026,
+            "y2": 2511
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "को ॥ ध्याय ताहि लवलाय पग चाहि दया",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_9.png",
+        "bounding_box": {
+            "x1": 286,
+            "y1": 2500,
+            "x2": 2030,
+            "y2": 2653
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "कोरको । बरणहुं जीवन चरित कछु श्रीम",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_10.png",
+        "bounding_box": {
+            "x1": 366,
+            "y1": 2640,
+            "x2": 2024,
+            "y2": 2787
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "लकिशोरको ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_11.png",
+        "bounding_box": {
+            "x1": 320,
+            "y1": 2769,
+            "x2": 948,
+            "y2": 2940
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "सोरठा ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_12.png",
+        "bounding_box": {
+            "x1": 887,
+            "y1": 2944,
+            "x2": 1339,
+            "y2": 3115
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "ऋषिते उत्पत्ति ज्यहिकुलकीभइजगतमहँ ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/diksita1895_01_textline_13.png",
+        "bounding_box": {
+            "x1": 348,
+            "y1": 3087,
+            "x2": 2038,
+            "y2": 3262
+        }
+    }
+]

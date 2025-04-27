@@ -1,0 +1,255 @@
+[
+    {
+        "line_number": 1,
+        "text": "आवश्यक सूचना",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_1.png",
+        "bounding_box": {
+            "x1": 656,
+            "y1": 163,
+            "x2": 1332,
+            "y2": 313
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "की अन्य निम्नाङ्कित पुस्तकें भी हमारे यहाँ मिलती हैं:--",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_2.png",
+        "bounding_box": {
+            "x1": 138,
+            "y1": 446,
+            "x2": 1724,
+            "y2": 576
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "बड़ी ही आनन्ददायिनी कविताएँ हैं । मूल्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_3.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1402,
+            "x2": 1517,
+            "y2": 1552
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "अल --- इसमें ब्रह्माक्षर ॐ से शॉर्टहैंड का सम्बन्ध बड़े मनोरंजक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_4.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 1655,
+            "x2": 1839,
+            "y2": 1797
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "सुगम इस विषय पर दूसरी पुस्तक नहीं है । मूल्य ४)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_5.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 2151,
+            "x2": 1610,
+            "y2": 2283
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "पंडित राधेलाल त्रिवेदी भूतपूर्व इन्सपेक्टर शॉर्टहैंड रिपोर्टर",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_6.png",
+        "bounding_box": {
+            "x1": 250,
+            "y1": 315,
+            "x2": 1847,
+            "y2": 466
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "एकादश प्रश्न और उनके उतर, श्रीराम न क्यों फिर मिल",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_7.png",
+        "bounding_box": {
+            "x1": 141,
+            "y1": 678,
+            "x2": 1850,
+            "y2": 822
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "रासलीला, गीतासार, हरिस्थापना, गुरु उपदेश, त्रिवेणी-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_8.png",
+        "bounding_box": {
+            "x1": 124,
+            "y1": 1173,
+            "x2": 1852,
+            "y2": 1311
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "हाईस्कूल और इन्टर के कोर्स में स्वीकृत है । इससे सुन्दर और",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_9.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 2028,
+            "x2": 1836,
+            "y2": 2160
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "विद्यार्थी बिना अध्यापक के भी हिन्दी शॅार्टहैंड सीख लेता",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_10.png",
+        "bounding_box": {
+            "x1": 112,
+            "y1": 2370,
+            "x2": 1836,
+            "y2": 2530
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "१ - कीर्तनमाहात्म्य --- इसमें राम नाम माहात्म्य,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_11.png",
+        "bounding_box": {
+            "x1": 345,
+            "y1": 561,
+            "x2": 1852,
+            "y2": 705
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "जायँ ? नाम जाप श्रीराम बाण औषधि है आदि अनेक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_12.png",
+        "bounding_box": {
+            "x1": 133,
+            "y1": 808,
+            "x2": 1855,
+            "y2": 945
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "भक्तिभाव पूर्ण कविताएँ बड़ी मनोहर हैं । मूल्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_13.png",
+        "bounding_box": {
+            "x1": 124,
+            "y1": 923,
+            "x2": 1566,
+            "y2": 1056
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "ढंग से दिखलाकर बड़ी ही सुगमता से पिटमैन सिस्टम पर",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_14.png",
+        "bounding_box": {
+            "x1": 124,
+            "y1": 1781,
+            "x2": 1842,
+            "y2": 1921
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "है । मूल्य १ ॥)",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_15.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 2500,
+            "x2": 594,
+            "y2": 2628
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "२ --- अमृत गुटका --- इसमें बंसीधर की घर घर में",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_16.png",
+        "bounding_box": {
+            "x1": 296,
+            "y1": 1051,
+            "x2": 1844,
+            "y2": 1186
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "स्नान, बेलौन भवानी, शिवदर्शन, और शिवाष्टक शीर्षक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_17.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 1282,
+            "x2": 1850,
+            "y2": 1440
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "३ --- श्री ब्रह्माक्षरप्रकाश अथवा हिन्दी शोर्टहैंड मैनु-",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_18.png",
+        "bounding_box": {
+            "x1": 320,
+            "y1": 1525,
+            "x2": 1850,
+            "y2": 1680
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "हिन्दा शॉर्टहैंड सिखाने की सुन्दर विधि बतलाई है । पुस्तक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_19.png",
+        "bounding_box": {
+            "x1": 135,
+            "y1": 1903,
+            "x2": 1863,
+            "y2": 2046
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "४ --- कुंजी श्रीब्रह्माक्षरप्रकाश --- इसकी सहायता से",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_20.png",
+        "bounding_box": {
+            "x1": 323,
+            "y1": 2271,
+            "x2": 1831,
+            "y2": 2407
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "(राजा) रामकुमार-प्रेस, बुकडिपो,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_21.png",
+        "bounding_box": {
+            "x1": 677,
+            "y1": 2608,
+            "x2": 1667,
+            "y2": 2754
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "उत्तराधिकारी -- नवलकिशोर-प्रेस, बुकडिपो",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_22.png",
+        "bounding_box": {
+            "x1": 609,
+            "y1": 2731,
+            "x2": 1787,
+            "y2": 2860
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "पोस्टबक्स नं० १५२, हजरतगंज लखनऊ,",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_004_textline_23.png",
+        "bounding_box": {
+            "x1": 688,
+            "y1": 2832,
+            "x2": 1716,
+            "y2": 2952
+        }
+    }
+]

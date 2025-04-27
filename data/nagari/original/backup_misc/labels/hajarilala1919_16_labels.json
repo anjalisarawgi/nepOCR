@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "१६",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_1.png",
+        "bounding_box": {
+            "x1": 197,
+            "y1": 210,
+            "x2": 384,
+            "y2": 359
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "शिवविवाह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_2.png",
+        "bounding_box": {
+            "x1": 739,
+            "y1": 196,
+            "x2": 1270,
+            "y2": 364
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "सहीं २८ ब्याहको मण्डप बर रचना बि-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_3.png",
+        "bounding_box": {
+            "x1": 178,
+            "y1": 366,
+            "x2": 1824,
+            "y2": 529
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "चित्रतर,सकल मनोहर जो परम सहावनै ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_4.png",
+        "bounding_box": {
+            "x1": 190,
+            "y1": 517,
+            "x2": 1859,
+            "y2": 674
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "बने हैं सुन्दराकार जस श्रुति ब्यवहार,",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_5.png",
+        "bounding_box": {
+            "x1": 181,
+            "y1": 668,
+            "x2": 1826,
+            "y2": 824
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "बेदिका सँवार तस रुचिर सुपावनै ।। गज",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_6.png",
+        "bounding_box": {
+            "x1": 183,
+            "y1": 819,
+            "x2": 1824,
+            "y2": 967
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "मणिमय रूरी रचि रचि चौकपूरी, ललित",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_7.png",
+        "bounding_box": {
+            "x1": 171,
+            "y1": 962,
+            "x2": 1826,
+            "y2": 1122
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "जो शोभाभूरी अति मनभावनै । कंचन",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_8.png",
+        "bounding_box": {
+            "x1": 190,
+            "y1": 1111,
+            "x2": 1848,
+            "y2": 1258
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "कलशधारी दीपहुँ अनेक बारी, ब्याहगीत",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_9.png",
+        "bounding_box": {
+            "x1": 175,
+            "y1": 1257,
+            "x2": 1829,
+            "y2": 1416
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "गावें नारी आनँद बढ़ावनै २९ सुन्दर",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_10.png",
+        "bounding_box": {
+            "x1": 183,
+            "y1": 1410,
+            "x2": 1854,
+            "y2": 1557
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "सिंहासन जो मणिन प्रकाशन सो, जड़ित",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_11.png",
+        "bounding_box": {
+            "x1": 181,
+            "y1": 1551,
+            "x2": 1848,
+            "y2": 1711
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "कंजासनसों करते सँवारे हैं । सकल सुदिब्य",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_12.png",
+        "bounding_box": {
+            "x1": 183,
+            "y1": 1698,
+            "x2": 1850,
+            "y2": 1860
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "बर शोभा रङ्ग मनोहर, रतनन द्युति तर",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_13.png",
+        "bounding_box": {
+            "x1": 181,
+            "y1": 1851,
+            "x2": 1841,
+            "y2": 2011
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "मण्डप सो धारे हैं ।। ताहीपर बैठे ईश",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_14.png",
+        "bounding_box": {
+            "x1": 173,
+            "y1": 1978,
+            "x2": 1824,
+            "y2": 2153
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "बिप्रन को नाइ शीश, सुमिरिकै जगदीश",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_15.png",
+        "bounding_box": {
+            "x1": 176,
+            "y1": 2138,
+            "x2": 1858,
+            "y2": 2297
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "जो निजेष्टप्यारे हैं । बेदधुनि बिप्रगन क-",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_16.png",
+        "bounding_box": {
+            "x1": 181,
+            "y1": 2289,
+            "x2": 1855,
+            "y2": 2446
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "रहिं मुदितमन, बार बार बन्दीजन सुयश ",
+        "image_path": "datasetProcessed/cropped_textlines/images/hajarilala1919_16_textline_17.png",
+        "bounding_box": {
+            "x1": 188,
+            "y1": 2450,
+            "x2": 1864,
+            "y2": 2596
+        }
+    }
+]

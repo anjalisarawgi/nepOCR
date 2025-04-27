@@ -1,0 +1,112 @@
+[
+    {
+        "line_number": 1,
+        "text": "पद्यात्मक टीका सहिता",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_1.png",
+        "bounding_box": {
+            "x1": 613,
+            "y1": 929,
+            "x2": 1771,
+            "y2": 1098
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गङ्गालहरी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_2.png",
+        "bounding_box": {
+            "x1": 875,
+            "y1": 692,
+            "x2": 1555,
+            "y2": 865
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "श्रीः",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_3.png",
+        "bounding_box": {
+            "x1": 1102,
+            "y1": 518,
+            "x2": 1255,
+            "y2": 604
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "टीकाकार-राधेलाल त्रिवेदी",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_4.png",
+        "bounding_box": {
+            "x1": 689,
+            "y1": 2156,
+            "x2": 1732,
+            "y2": 2316
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "कविरत्न-पं० रूपनारायण पाण्डेय द्वारा संशोधित",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_5.png",
+        "bounding_box": {
+            "x1": 434,
+            "y1": 2309,
+            "x2": 1978,
+            "y2": 2443
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "सन् १९५५ ई०",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_6.png",
+        "bounding_box": {
+            "x1": 413,
+            "y1": 2903,
+            "x2": 898,
+            "y2": 3031
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "(राजा) रामकुमार-प्रेस, बुकडिपो",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_7.png",
+        "bounding_box": {
+            "x1": 710,
+            "y1": 2687,
+            "x2": 1717,
+            "y2": 2808
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "मुद्रक तथा प्रकाशक",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_8.png",
+        "bounding_box": {
+            "x1": 908,
+            "y1": 2603,
+            "x2": 1528,
+            "y2": 2697
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "उत्तराधिकारी--नवलकिशोर-प्रेस बुकडिपो लखनऊ.",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_9.png",
+        "bounding_box": {
+            "x1": 509,
+            "y1": 2795,
+            "x2": 1912,
+            "y2": 2914
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "मूल्य ",
+        "image_path": "datasetProcessed/cropped_textlines/images/jagannatha1955_0000a_textline_10.png",
+        "bounding_box": {
+            "x1": 1733,
+            "y1": 2930,
+            "x2": 2014,
+            "y2": 3038
+        }
+    }
+]

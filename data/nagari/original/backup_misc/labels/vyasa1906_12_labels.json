@@ -1,0 +1,189 @@
+[
+    {
+        "line_number": 1,
+        "text": "१२",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_1.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 154,
+            "x2": 294,
+            "y2": 296
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "काशीमाहात्म्य । ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_2.png",
+        "bounding_box": {
+            "x1": 795,
+            "y1": 148,
+            "x2": 1490,
+            "y2": 303
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "माविलम्बंकुरुविभोनमेदुःखंभविष्यति॥स्त्री",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_3.png",
+        "bounding_box": {
+            "x1": 83,
+            "y1": 303,
+            "x2": 2201,
+            "y2": 503
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "णामतःपरोधर्मोनास्त्येवपृथिवीपते ७७ सू",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_4.png",
+        "bounding_box": {
+            "x1": 98,
+            "y1": 507,
+            "x2": 2211,
+            "y2": 694
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "र्येनैवोपचारंस्यात्तत्कार्यमविशङ्कया॥ अत्रा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_5.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 676,
+            "x2": 2210,
+            "y2": 873
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "पिगाथांगायन्तियेपुराणविदोजनाः७८ आ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_6.png",
+        "bounding_box": {
+            "x1": 81,
+            "y1": 868,
+            "x2": 2211,
+            "y2": 1065
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "पदर्थेधनंरक्षेद्दारान्रक्षेद्धनैरपि॥आत्मानंसत",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_7.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 1065,
+            "x2": 2211,
+            "y2": 1257
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "तंरक्षेद्दारैरपिधनैरपि ७९ भृगुरुवाच ॥ इत्ये",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_8.png",
+        "bounding_box": {
+            "x1": 69,
+            "y1": 1243,
+            "x2": 2175,
+            "y2": 1433
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "वंवादिनींतान्तुजघानतरसाबली॥हत्वाभक्षि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_9.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 1435,
+            "x2": 2211,
+            "y2": 1618
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "तुमारेभे प्रियामांसंसपापभाक् ८० तदैवसिं",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_10.png",
+        "bounding_box": {
+            "x1": 83,
+            "y1": 1618,
+            "x2": 2175,
+            "y2": 1815
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "हाःखेलन्तस्तत्राजग्मुरितस्ततः॥ तान्दृष्ट्वा",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_11.png",
+        "bounding_box": {
+            "x1": 72,
+            "y1": 1816,
+            "x2": 2175,
+            "y2": 1987
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "तद्विहायसः प्रायात्प्राणपरिप्सया ८१ पलाय",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_12.png",
+        "bounding_box": {
+            "x1": 104,
+            "y1": 1996,
+            "x2": 2195,
+            "y2": 2188
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "मानःसहसायोजनानन्तरंद्विजान् ॥ चतुरोप",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_13.png",
+        "bounding_box": {
+            "x1": 95,
+            "y1": 2188,
+            "x2": 2182,
+            "y2": 2362
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "श्यदलग्नान्नीदारान्गृह्यगच्छतः ८२ ",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_14.png",
+        "bounding_box": {
+            "x1": 49,
+            "y1": 2369,
+            "x2": 2211,
+            "y2": 2556
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "दाङ्गसम्पन्नान् ब्रह्मचारिव्रतेस्थितान् ॥ दृष्ट्वैव",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_15.png",
+        "bounding_box": {
+            "x1": 61,
+            "y1": 2552,
+            "x2": 2172,
+            "y2": 2724
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "खद्गमुद्यम्य न्यवधीत्तान्सकिल्बि",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_16.png",
+        "bounding_box": {
+            "x1": 69,
+            "y1": 2744,
+            "x2": 2207,
+            "y2": 2919
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "हत्वानीवारकान्भोक्तुमुपविष्टः सकानने ॥",
+        "image_path": "datasetProcessed/cropped_textlines/images/vyasa1906_12_textline_17.png",
+        "bounding_box": {
+            "x1": 52,
+            "y1": 2919,
+            "x2": 2175,
+            "y2": 3094
+        }
+    }
+]

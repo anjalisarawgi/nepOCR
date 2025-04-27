@@ -1,0 +1,299 @@
+[
+    {
+        "line_number": 1,
+        "text": "४",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_1.png",
+        "bounding_box": {
+            "x1": 127,
+            "y1": 144,
+            "x2": 220,
+            "y2": 231
+        }
+    },
+    {
+        "line_number": 2,
+        "text": "गुरुकी निन्दा न सुनना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_2.png",
+        "bounding_box": {
+            "x1": 465,
+            "y1": 245,
+            "x2": 1023,
+            "y2": 352
+        }
+    },
+    {
+        "line_number": 3,
+        "text": "गुरोर्यत्रपरीवादो निन्दावापिप्रवर्तते ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_3.png",
+        "bounding_box": {
+            "x1": 162,
+            "y1": 333,
+            "x2": 1175,
+            "y2": 446
+        }
+    },
+    {
+        "line_number": 4,
+        "text": "शिवरत्नसंग्रह ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_4.png",
+        "bounding_box": {
+            "x1": 582,
+            "y1": 140,
+            "x2": 942,
+            "y2": 243
+        }
+    },
+    {
+        "line_number": 5,
+        "text": "कर्णौतत्रपिधातव्यौ गन्तव्यंवाततोऽन्यत: १३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_5.png",
+        "bounding_box": {
+            "x1": 160,
+            "y1": 424,
+            "x2": 1377,
+            "y2": 545
+        }
+    },
+    {
+        "line_number": 6,
+        "text": "जहां होतीहों वहां स्थित शिष्यको कान मूंदलेने चाहिये अथवा",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_6.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 662,
+            "x2": 1362,
+            "y2": 767
+        }
+    },
+    {
+        "line_number": 7,
+        "text": "न्निहितेगुरुवद्वृतिमाचरेत् ।। नचानिसृष्टो गुरुणा",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_7.png",
+        "bounding_box": {
+            "x1": 109,
+            "y1": 1068,
+            "x2": 1356,
+            "y2": 1195
+        }
+    },
+    {
+        "line_number": 8,
+        "text": "अर्थात् रथ छकड़ा आदि में महल के ऊपर गचपर चटाई पर",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_8.png",
+        "bounding_box": {
+            "x1": 97,
+            "y1": 1326,
+            "x2": 1348,
+            "y2": 1435
+        }
+    },
+    {
+        "line_number": 9,
+        "text": "शिलापर तख्त पर और नाव में गुरु के साथ बैठे १४ जो गुरु",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_9.png",
+        "bounding_box": {
+            "x1": 111,
+            "y1": 1399,
+            "x2": 1350,
+            "y2": 1501
+        }
+    },
+    {
+        "line_number": 10,
+        "text": "करै और गुरुके घर में बसता हुआ शिष्य गुरुकी आज्ञा विना",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_10.png",
+        "bounding_box": {
+            "x1": 97,
+            "y1": 1541,
+            "x2": 1352,
+            "y2": 1646
+        }
+    },
+    {
+        "line_number": 11,
+        "text": "अर्थ ।। जहां गुरुकी परिवाद अर्थात् उन में वर्तमान दोषों",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_11.png",
+        "bounding_box": {
+            "x1": 186,
+            "y1": 521,
+            "x2": 1364,
+            "y2": 622
+        }
+    },
+    {
+        "line_number": 12,
+        "text": "को कहना और निन्दा अर्थात् झूंठे दोष लगाना ये दोनों बातैं",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_12.png",
+        "bounding_box": {
+            "x1": 113,
+            "y1": 590,
+            "x2": 1360,
+            "y2": 693
+        }
+    },
+    {
+        "line_number": 13,
+        "text": "वहां से अन्यत्र चलाजाना चाहिये १३ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_13.png",
+        "bounding_box": {
+            "x1": 117,
+            "y1": 743,
+            "x2": 940,
+            "y2": 833
+        }
+    },
+    {
+        "line_number": 14,
+        "text": "स्वान्गुरूनभिवादयेत् १५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_14.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 1165,
+            "x2": 848,
+            "y2": 1274
+        }
+    },
+    {
+        "line_number": 15,
+        "text": "गुरु के साथ बराबर बैठना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_15.png",
+        "bounding_box": {
+            "x1": 428,
+            "y1": 802,
+            "x2": 1035,
+            "y2": 906
+        }
+    },
+    {
+        "line_number": 16,
+        "text": "तगुरुणासार्धं शिलाफलकनौषुच ।। १४ ।। गुरोर्गुरौस",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_16.png",
+        "bounding_box": {
+            "x1": 107,
+            "y1": 980,
+            "x2": 1350,
+            "y2": 1097
+        }
+    },
+    {
+        "line_number": 17,
+        "text": "के गुरु घर आवैं तौ गुरु के समान उनका भी आदर सत्कारादि",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_17.png",
+        "bounding_box": {
+            "x1": 101,
+            "y1": 1470,
+            "x2": 1346,
+            "y2": 1576
+        }
+    },
+    {
+        "line_number": 18,
+        "text": "अपने पिता चाचा आदि को प्रणाम न करै १५ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_18.png",
+        "bounding_box": {
+            "x1": 92,
+            "y1": 1610,
+            "x2": 1114,
+            "y2": 1716
+        }
+    },
+    {
+        "line_number": 19,
+        "text": "दुःखी होती हैं वह कुल शीघ्रही निर्धन होजाताहै और देवता",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_19.png",
+        "bounding_box": {
+            "x1": 97,
+            "y1": 2018,
+            "x2": 1344,
+            "y2": 2122
+        }
+    },
+    {
+        "line_number": 20,
+        "text": "तथा राजा आदि करि पीड़ित होता है और जहां ये नहीं शोच-",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_20.png",
+        "bounding_box": {
+            "x1": 77,
+            "y1": 2091,
+            "x2": 1346,
+            "y2": 2191
+        }
+    },
+    {
+        "line_number": 21,
+        "text": "ती हैं वह कुल धन आदि से सदा वृद्धि को प्राप्त होताहै १६ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_21.png",
+        "bounding_box": {
+            "x1": 90,
+            "y1": 2162,
+            "x2": 1354,
+            "y2": 2265
+        }
+    },
+    {
+        "line_number": 22,
+        "text": "गोऽश्वोष्ट्रयानप्रासादप्रस्तरेषुकटेषुच । आसी",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_22.png",
+        "bounding_box": {
+            "x1": 186,
+            "y1": 881,
+            "x2": 1364,
+            "y2": 995
+        }
+    },
+    {
+        "line_number": 23,
+        "text": "अर्थ ।। बैल घोड़ा ऊंट जिनमें जुते होयँ ऐसी सवारियों में",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_23.png",
+        "bounding_box": {
+            "x1": 168,
+            "y1": 1257,
+            "x2": 1354,
+            "y2": 1360
+        }
+    },
+    {
+        "line_number": 24,
+        "text": "स्त्रीआदिकों को दुख न देना ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_24.png",
+        "bounding_box": {
+            "x1": 389,
+            "y1": 1681,
+            "x2": 1041,
+            "y2": 1787
+        }
+    },
+    {
+        "line_number": 25,
+        "text": "शोचन्तिजामयोयत्र विनश्यत्याशुतत्कुलम् ।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_25.png",
+        "bounding_box": {
+            "x1": 178,
+            "y1": 1760,
+            "x2": 1354,
+            "y2": 1890
+        }
+    },
+    {
+        "line_number": 26,
+        "text": "न शोचंति तु यत्रैता वर्धते तद्धि सर्वदा १६ ।।",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_26.png",
+        "bounding_box": {
+            "x1": 180,
+            "y1": 1860,
+            "x2": 1324,
+            "y2": 1977
+        }
+    },
+    {
+        "line_number": 27,
+        "text": "अर्थ ।। जिसकुल में बहिन स्त्री पुत्री और पुत्र की बहू आदि",
+        "image_path": "datasetProcessed/cropped_textlines/images/sivaramasukla1900_04_textline_27.png",
+        "bounding_box": {
+            "x1": 164,
+            "y1": 1953,
+            "x2": 1346,
+            "y2": 2052
+        }
+    }
+]
