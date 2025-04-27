@@ -28,21 +28,21 @@ def main(args):
 
     # dataset
     if args.dataset_name == "oldNepaliSynthetic":
-        dataset = load_dataset("data/oldNepaliSynthetic/10k/labels_processed_new.json")
+        dataset = load_dataset("data/oldNepaliSynthetic10k/labelss.json")
         split_dataset = dataset.train_test_split(test_size=0.1, seed=42)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
     elif args.dataset_name == "oldNepaliSynthetic30k":
-        dataset = load_dataset("data/oldNepaliSynthetic30k/labels_processed.json")
+        dataset = load_dataset("data/oldNepaliSynthetic30k/labels.json")
         split_dataset = dataset.train_test_split(train_size=30000, seed=42)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
     elif args.dataset_name == "nagari":
-        train_dataset = load_dataset("data/nagari/augmented3/train/labels_processed_new.json")
-        eval_dataset = load_dataset("data/nagari/augmented3/test/labels_processed_new.json")
+        train_dataset = load_dataset("data/nagari/augmented3/train/labels.json")
+        eval_dataset = load_dataset("data/nagari/augmented3/test/labels.json")
     elif args.dataset_name == "oldNepali":
-        train_dataset = load_dataset("data/oldNepali/augmented3/train/labels_processed.json")
-        eval_dataset = load_dataset("data/oldNepali/augmented3/test/labels_processed.json")
+        train_dataset = load_dataset("data/oldNepali/augmented3/train/labels.json")
+        eval_dataset = load_dataset("data/oldNepali/augmented3/test/labels.json")
     else:
         raise ValueError(f"Unknown dataset name: {args.dataset_name}")
 
