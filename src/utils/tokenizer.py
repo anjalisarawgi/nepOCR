@@ -1,14 +1,21 @@
 import os 
 from transformers import PreTrainedTokenizerFast
-from tokenizers import CharBPETokenizer, SentencePieceBPETokenizer
+from tokenizers import CharBPETokenizer, SentencePieceBPETokenizer, ByteLevelBPETokenizer, BertWordPieceTokenizer
 
 def train_tokenizer(corpus_path, tokenizer_type, vocab_size, output_dir):
     with open(corpus_path, "r", encoding="utf-8") as f:
         corpus = f.readlines()
 
-        tokenizer_obj = (
-            CharBPETokenizer() if tokenizer_type == "char" else SentencePieceBPETokenizer()
-        )
+        if tokenizer_type == "charBPE":
+            tokenizer_obj = CharBPETokenizer()
+        elif tokenizer_type == "byteBPE":
+            tokenizer_obj = ByteLevelBPETokenizer()
+        elif tokenizer_type == "sentencepieceBPE":
+            tokenizer_obj = SentencePieceBPETokenizer()
+        elif tokenizer_type == "wordpiece":
+            tokenizer_obj = BertWordPieceTokenizer()
+        else:
+            raise ValueError(f"Unknown tokenizer_type: {tokenizer_type}")
 
         tokenizer_obj.train_from_iterator(corpus, vocab_size = vocab_size)
         os.makedirs(output_dir, exist_ok=True)
