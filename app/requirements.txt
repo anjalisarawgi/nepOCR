@@ -1,8 +1,10 @@
-numpy==2.3.1
-Pillow
-plotly==6.2.0
-streamlit==1.46.1
-torch
-transformers
-kraken==3.3.1
+numpy==1.26.4
+plotly==5.21.0
+streamlit==1.46.0
+torch==2.7.1  # Latest that supports 3.13, but works with 3.10 too
+torchmetrics==1.4.0
+tqdm==4.66.4
+transformers==4.40.0
+Pillow==10.3.0
+kraken==3.0.13
 click==8.1.3
