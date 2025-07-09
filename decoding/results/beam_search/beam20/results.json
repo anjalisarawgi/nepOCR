@@ -1,0 +1,1004 @@
+[
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_003/eSc_line_c539e2c4.png",
+    "ground_truth": "मनगरवाटक्रकुछंदनामवुद्धप्राप्तभै.श्रीस्वयंभूज्योतीरूपकार.गुह्येश्वरीकादर्शनगरी.योषादलउत्तर",
+    "pred_text": "मनगरवाटकुछंदनामवुद्धप्राप्तभै.श्रीस्वयंभूज्योतीरूपकार.गुह्येश्वरीकादर्शनगरी.योषादलउत्तर",
+    "cer": 0.03333333507180214
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0007/eSc_line_3cd0a031.png",
+    "ground_truth": "चलाइ.रामदासलाइकरोवारितुल्याइमहन्तमोहन्दास्ले.चर्चीआया",
+    "pred_text": "चलाइ.रामदासलाइकारोवारिजुल्याइमहन्तमोहन्दास्लेचर्चीआया",
+    "cer": 0.056603774428367615
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_ce78f8da.png",
+    "ground_truth": "श्री\\",
+    "pred_text": "श्रील्",
+    "cer": 0.4000000059604645
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000054/eSc_line_c3b06a9d.png",
+    "ground_truth": "चह्राइपठायाकोछ.नजरभैविस्तारजाहेरहोला.सिक्षाअर्त्तिमेहरवान्गि",
+    "pred_text": "चह्राइपठायाकोछ.नजरभैविस्तारजाहेरहोला.सिक्षाअर्तिमेहरवान्गि",
+    "cer": 0.03333333507180214
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/20/eSc_line_10f1f218.png",
+    "ground_truth": "उद्धारभैगयाको.गोकर्णतीर्थमागै.तपस्यागर्नजाउँभनिमनमाचिंतनागरी.उन्तीर्थमागै.त्योतक्ष",
+    "pred_text": "उद्धारभैगयाको.गोकर्णतीर्थमागै.तपस्यागर्नजाउँभनिमनमाचिंतुनागरी.उन्तीर्थमागै.त्योतक्ष",
+    "cer": 0.012195121496915817
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0368/eSc_line_78a84a60.png",
+    "ground_truth": "नभनि.मैलेजवावदिञापायाकोषवरविन्तिचह्राइपठायाकोसाचोझु",
+    "pred_text": "नभनि.मैलेजवावदिञापायाकोषवरविन्तिचह्राइपठायाको.साघोहु",
+    "cer": 0.05882352963089943
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0015_0290/eSc_line_e6979dc9.png",
+    "ground_truth": "छालादिननसक्न्याकाघरमासार्किकामीकाघरवाट.आठआठआना.अरूजातकाघरवा",
+    "pred_text": "छालादिननक्न्याकाघरमासार्किकामीकाघरवाट.आठआठआनाअरुजातकाघरवा",
+    "cer": 0.050847455859184265
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_268bc19d.png",
+    "ground_truth": "इनायतहुवा।इसगडबडकेहोनेसे।रुपयामेराबहोतषर्चमे।पड",
+    "pred_text": "इनापतहुवा।इसगडवडकेहोनेसे।रुपयामेरा।बहोतषर्चमे।पड",
+    "cer": 0.06382978707551956
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000410/eSc_line_32ed68b3.png",
+    "ground_truth": "॥स्वस्तिश्रीसर्वोपमानोपमेयशौर्य्योदार्यादिसकलस",
+    "pred_text": "॥स्वस्तिश्रीसर्वोपमानोपमेपशौर्योदार्यादिसकलस",
+    "cer": 0.06521739065647125
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0006/eSc_line_71b86d70.png",
+    "ground_truth": "गर्नुभनि1वाटकामवक्सनुभयामाफिक्ञाहाआईनिरंतरअनुष्ठानपनीअध्ययन",
+    "pred_text": "गर्नुभनि1वाटकामवक्सनुभयामाफिक्ञाहाआईनिरंतरअचुद्धानपनीअध्ययन",
+    "cer": 0.050847455859184265
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0006/eSc_line_a98054da.png",
+    "ground_truth": "धुरिवविधुरेकःकुमुदिनीनाम्॥",
+    "pred_text": "धुरिवविधुरेकःकुमुदिनीनाम्ा",
+    "cer": 0.03846153989434242
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0522/eSc_line_407e0c54.png",
+    "ground_truth": "कम्यान्डरइनचिफभीमसेनथापासाधलाउन्यासधियारथरघरगणपतिपंथगोकुलषनालजयदेवपंथडगोलना",
+    "pred_text": "कम्यान्डरंड्नचिफ्रभीमसेनथापासाधलाउन्यासंधियारथरघरगणपतिपंथगोकुलषनालजयदेवपंधउगोलना",
+    "cer": 0.1066666692495346
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000137/eSc_line_abd0a4ba.png",
+    "ground_truth": "म्हाथिसमेत्.आफ्नाहवेलिदेषि.वाहिर.फिजिदियाचारैतर्फसिपाहिरा",
+    "pred_text": "म्हाथिसमेत्.आफ्नाहवेलिदेषि.वाहिर.फिजिदियाचारैतर्फसिपाहिरा",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000356/eSc_line_36727847.png",
+    "ground_truth": "उप्रान्त.सल्ल्यानकादसैकोप्रसादअघिचर्हाईपठायाकोपु",
+    "pred_text": "उप्रान्त.सल्ल्यानकादसैकोप्रसादअघिचह्राईपठायाकोपु",
+    "cer": 0.0416666679084301
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000030_result/eSc_line_3b81bca8.png",
+    "ground_truth": "इतसेवकदरियावसिंवस्न्यातकोकुर्नसदंडवत्सेवा3शुभम",
+    "pred_text": "इतसेतकदरियावसिंहवह्यांतकोकुर्नसंडवत्सेवा3शुभम्",
+    "cer": 0.17391304671764374
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000316/eSc_line_fc6e9879.png",
+    "ground_truth": "सभैकुसलआनन्दसँगचैत्रवदि6रोज2माधनकुटाआईपुग्यौंष",
+    "pred_text": "सभैक्सलआनन्दसँगचैत्रवदि6राज2माधनकुटाआईपुग्यौंष",
+    "cer": 0.043478261679410934
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000410/eSc_line_b1c5038e.png",
+    "ground_truth": "आवनेसे।कामकिसतौरसेचलेगा।इसीवास्ते।हजूर",
+    "pred_text": "आवनेसे।कामकिसतौरसेचलेगा।इसीवास्ते।हजूर",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_003/eSc_line_4946f907.png",
+    "ground_truth": "ह्येश्वरीकानामपुकारी.यस्पर्वतवाटजलनिर्गमनहवस्भनिएतिवाक्यगरी.आफ्नावुढिअंगुलीले.तेस्पर्व",
+    "pred_text": "ह्येश्वरीकानामपुकारी.यस्पर्वतवाटजलनिर्गमनहवस्भनिएतिवाक्यगरी.आफ्नावुटिअगुलीले.तेस्पर्व",
+    "cer": 0.023255813866853714
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0014_0135/eSc_line_86d45e02.png",
+    "ground_truth": "लीविराजमानमानोन्नतश्रीमन्महाराजाधिराजश्रीश्रीश्रीमहाराजरा.",
+    "pred_text": "लीविराजमानमानोन्नतश्रीमन्महाराजाधिराजश्रीश्रीश्रीमहाराजरा.",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000137/eSc_line_f5df72da.png",
+    "ground_truth": "हालसिंलाईभन्यायोसवकार्षानामैलेहजुरलाईचह्रायाँभन्या.नौनि",
+    "pred_text": "हालसिंलाईभन्यायोसवकार्षानामैलेहतुरलाईचहुँायाँभन्या.नौनि",
+    "cer": 0.05454545468091965
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_60a64711.png",
+    "ground_truth": "अर्जि",
+    "pred_text": "अर्जि",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0333/eSc_line_7814c697.png",
+    "ground_truth": "छिन.उत्तर.सिद्धपुरिकोविर्त्ताषेतकोआलीसाँधलुहुकील.पश्चिम.सानुवाटोसाँधलुहुकी",
+    "pred_text": "छिन.उत्तर.सिद्रपुरिकोविर्त्ताषेतकोआलीमाँधलुहुकील.पश्चिम.सानुवाटोसाँधलुहकी",
+    "cer": 0.04054053872823715
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0011_0647/eSc_line_99c71441.png",
+    "ground_truth": "39",
+    "pred_text": "31",
+    "cer": 0.5
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0382/eSc_line_053ba3a0.png",
+    "ground_truth": "धंसीभंडारि1",
+    "pred_text": "धंसीभंडारि1",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/15/eSc_line_ce366a0c.png",
+    "ground_truth": "अष्टवीतरागादि.अनेकदेवताहरूपनि.प्रत्यक्षभै.विराजमानभैरहनुभयाका.फेरी.जोगिनी4मूर्त्तिभैरहनुभया-",
+    "pred_text": "अष्टवीतरागादि.अनेकदेवताहरूपनि.प्रत्यक्षभै.विराजमानभैरहनुभयाका.फेरी.जोगिनी4मूर्त्तिभैरहनुभया-",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0368/eSc_line_3a3608fb.png",
+    "ground_truth": "ठो.कसोहोकोजनिहजुर्माजाहेरैहोलाहजुरवाटकेहिलेषिनआउदाञा",
+    "pred_text": "टो.कसोहोकोजनिहजुर्माजाहेरैहोलाहजुरवाटकेहिलेषिनआउदाञा",
+    "cer": 0.01923076994717121
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0368/eSc_line_6ef606dc.png",
+    "ground_truth": "अमीन्लाइअभिन्तरवुझ्नभनिलाञाथ्याँउन्लेकुराकाप्रसंगमासोधपुछ",
+    "pred_text": "अमीन्लाइअभिन्तरवुझ्नभनिलाञाथ्याँउन्लेकुराकाप्रसंगमासोधपुछ",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000110_result/eSc_line_0c36b432.png",
+    "ground_truth": "अर्जि",
+    "pred_text": "अर्जि",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_23ab474e.png",
+    "ground_truth": "उद्दारकर्नेकोसमर्थहैँ।मेरेबिगडनेमेकुछबाकीनहीँरही",
+    "pred_text": "समर्थहै।मेरेबिगडनेमेकुछबाकीनहीरही",
+    "cer": 0.3125
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_004/eSc_line_0d73ae5f.png",
+    "ground_truth": "या.तसर्थ.उस्दिनदेषि.जौनविष्णुजी.उस्वषत्.रसातलमाजाउंभनिगै.जस्ठाउवाटगुप्तभैग.",
+    "pred_text": "या.तसर्थ.उस्दिनदेषि.जौनविष्णुजी.उस्वषत्.रसातलमाजाउंभनिगै.जस्ठाउवाटगुप्तभैग.",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000110_result/eSc_line_fefebea5.png",
+    "ground_truth": "र्जिवाटजाहेरहोला.मलाइलेष्याकाचिठिमांकार्त्तिकवदि2।3कादिनभयाकोलडाँइमा",
+    "pred_text": "र्जिवाटजाहेरहोला.मलाइलेष्याकाचिठिमाकार्त्तिकवदि2।3कादिनभयाकोलडंडमा",
+    "cer": 0.05882352963089943
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000327_result/eSc_line_4202ed15.png",
+    "ground_truth": "कासामिल्गराइ.यमदिग्वर्त्तितिरवढाइ.निस्कंटक्गर्नालाइहो.ऐल्हेषुल्याकोछैनजैल्हेषुलासागरी",
+    "pred_text": "कालामिल्गरार.पमुदिगर्वतितिरवेछाइ.निस्कंटक्गर्नासाइहो.रंक्तेमल्याकोछैन.जैल्हेषुलासागरी",
+    "cer": 0.21176470816135406
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_96ceac53.png",
+    "ground_truth": "न्।औरपरेशान्है।जिसमजमूनकीअर्जी",
+    "pred_text": "न्।औरपरेशान्है।जिसमजम्नकीअर्जी",
+    "cer": 0.03333333507180214
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000356/eSc_line_a38a0f51.png",
+    "ground_truth": "र्हाईपठायाकोछदाषिलहोला.ईतिसंवत्1877साल.मिती",
+    "pred_text": "ह्राईपठायाकोछदाषिलहोला.ईतिसंवत्187साल.मिती",
+    "cer": 0.06976744532585144
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/20/eSc_line_aa683317.png",
+    "ground_truth": "पर्वतभनिनामभयाको.जिस्पर्वतलाई.लोहेकेरूले.अपभ्रंशसित.चांगुभनिनामगरीराष्याको.जोचां",
+    "pred_text": "पर्वतभनिनामभयाको.तिस्पर्वतलाई.लोहकैरूले.अपभंशसित.चांगुभनिनामगरीराव्याको.जोचां",
+    "cer": 0.07500000298023224
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0472/eSc_line_0987d07d.png",
+    "ground_truth": "स्वस्तिश्रीगिरिराजचक्रचूडामणिनरनारायणेत्यादिविविधविरूदावलीविराजमानमानोन्नतश्रीमन्महाराजाधिराजश्रीश्री",
+    "pred_text": "स्वस्तिश्रीगिरिराजचक्रचूडामणिनरनाण्यणेपादिनिविधविरूदावलीविराजमानमानोन्नतश्रीमन्महाराजाधिराजश्रीश्री",
+    "cer": 0.059405941516160965
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000356/eSc_line_9626168a.png",
+    "ground_truth": "श्रीः\\",
+    "pred_text": "श्रीः\\",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000410/eSc_line_7a52bc2f.png",
+    "ground_truth": "शमेशाँ।1केचरणो।मे।चढायभेजतारहूँ।0।",
+    "pred_text": "श्रमेशाँ।1के।चरणेमे।चढायभेजतारह्नँ।0",
+    "cer": 0.23529411852359772
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/15/eSc_line_6c0890e4.png",
+    "ground_truth": "का.प्रथममणिचूडराजानिमित्तउत्पत्तिभयाका.मणियोगिनी.ओडियाचार्य्यकानिमित्त.उत्पत्तिभयाका.वज्र",
+    "pred_text": "का.प्रथसममणिचूडराजानिमित्तउत्पत्तिभयाका.मणियोगिनी.औडियाचार्य्यकानिमित्त.उत्पत्तिभयाका.वज्",
+    "cer": 0.033707864582538605
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_006/eSc_line_c061213c.png",
+    "ground_truth": "माचलाई.आफ्नुविहारमाजानुभयो॥॥ताहापछि.तेहीयुगमा.वाराणसीनगरदेषिं.काश्यपनामवु",
+    "pred_text": "माचलाई.आफ्नुविहारमाजानुभयो॥॥ताहापछि.तेहीयुगमा.वाराणसीनगरदेषिं.काश्यपनामवु",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000394_result/eSc_line_e03f77cb.png",
+    "ground_truth": "क्काभया.क्याहोभनितहकीतगर्दा.मालवाकार.राजपूता",
+    "pred_text": "क्काभया.क्याहोभनितहकीतगर्दा.मालवाकार.राजपूता",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0015_0290/eSc_line_9ab4d0d3.png",
+    "ground_truth": "कारषेल्न्यासिनुषान्याजातकोघरहि1।1डिँगाभैसीवाघभालु.मृगकाछालाउघाइदिनु",
+    "pred_text": "कारषेल्न्यासिनुषान्याजातकोघरहि1।1डिगाभैसीवाघभालुमृगकाछालाउघाइदिनु",
+    "cer": 0.02985074557363987
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0007/eSc_line_4ceb9aa6.png",
+    "ground_truth": "56लंवरकाऐनलेजायेदात्गर्नलाइ.घरद्वारकेहीनहुँदा.नीजवाला.",
+    "pred_text": "56लंवरकाऐनले.जायेदात्गर्नलाइ.घरद्वारकेहीनहुँदा.नीजवाला.",
+    "cer": 0.018518518656492233
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0522/eSc_line_761e4fd1.png",
+    "ground_truth": "आलिरवाटोसाधलुहकिलनुवाकोटकाअम्वलमध्येअठाईसकादरलेमुरि।5।9।4घड्यारिमुरि।28ज्मामुरि।33।9।4",
+    "pred_text": "आलिरवाटोसाधलुहकिलनुवाकोटकाअम्वलमध्येअठाईसकादरलेमुरि।50द्धपारिसुरि।28ज्मामुरी314",
+    "cer": 0.1744185984134674
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000115_result/eSc_line_70f26fa5.png",
+    "ground_truth": "ज्ञवीरवरेषु.किम्धीकं.मितिआश्वीनशुदि10रोज7मुकांसिलगढिशुभं",
+    "pred_text": "ज्ञीरवरेषु.किम्धीकंमितिआश्वीनशुदि10रोज7मुकासिलगढिशुभं",
+    "cer": 0.0535714291036129
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_001/eSc_line_83b6c6f1.png",
+    "ground_truth": "काशभयाकाजोसच्चित्तरूपवुद्धवाटउत्पत्तिभयाका.आदिवुद्धपरमेश्वरदेषिन्प्रकाशभयाकाईश्वरले.यथा",
+    "pred_text": "काशभयाकाजोसच्चित्तरूपवुद्धवाटउत्पत्तिभयाका.आदिवुद्धपरमेश्वरदेषिनप्रकाशभयाकाईश्वरले.यथा",
+    "cer": 0.01149425283074379
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0439/eSc_line_7f2ce926.png",
+    "ground_truth": "कोफुल्.येकलाष.अर्पंभयाकोछ.तिंम्राअंवलमहाजतिशुकंदरा",
+    "pred_text": "कोफुल्.येकलाष.अर्पभयाकोछ.तिम्राअंवलमहाजतिशुकंदरा",
+    "cer": 0.03999999910593033
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0003_0551/eSc_line_e3b33def.png",
+    "ground_truth": "तकरारमौकूफहुइलेकिनहिन्दूलोगअभीँतकविगडेहैँआइन्दे",
+    "pred_text": "तकरारमौकूफहुरलेकिन्हिन्दूलोगअर्भीँतकविगडेहैँआरने",
+    "cer": 0.1489361673593521
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0160/eSc_line_d193b6ab.png",
+    "ground_truth": "ल.औभुतिषेतमुरि।4तस्कोसाधपूर्वदक्षिणपश्चिमप्रजाकासुनाषेतकोआलिसाधलुहकिल.उत्तररैकरषेतकोआलिसाधलुहकिल.येतिसिमानाभित्रवाटो",
+    "pred_text": "ले.औसुतिषेतमुरि।4तस्कोसाधपूर्वदकिणपश्चिमप्चाकासुनाषेतकोआलिसाधलुहकिलउत्तरैकरषेतकोआलिसाधलुहकिल.येतिमिमानाभिष्ठगो",
+    "cer": 0.12068965286016464
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/20/eSc_line_5568b30b.png",
+    "ground_truth": "निपुग्याकोछैन.दक्षिणकालीपनिपुग्याकोछैन.कछपालपर्वतपनिवुर्याकोछैन॥औ.पशुपति-",
+    "pred_text": "निपुग्याकोछैन.दक्षिणकालीपनिपुग्याकोछैन.कछपालपर्वतपनिवुर्याकोछैना।औ.पशुपति-",
+    "cer": 0.027397260069847107
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000327_result/eSc_line_00972282.png",
+    "ground_truth": "वाटकूचगर्याकोषवरदेवरिषिपाध्यावाटपुगिजाहरभयोहो.गोरषपुरदेषिञाँहासमवीचमाकतैनाववाटपनि",
+    "pred_text": "वाटकूचगर्माकोघवरदेवरिषिपाध्यावाटप्गिजाहरभयोहो.तोरषपुरदोषेञाहासंखावमाकतैनाववाटपनि",
+    "cer": 0.1358024626970291
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_2bb9f6bf.png",
+    "ground_truth": "मितिआश्विनशुक्ल10रोज6मोका",
+    "pred_text": "मितिआश्विनशुक्ल10रोज6मोका",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_021/eSc_line_71c6ab0d.png",
+    "ground_truth": "काज्योतिपनिवुर्याकोछैन॥॥परन्तु.त्योदानसुरलेपानीथुनि.अघि.नागार्जुनपादनामआचार्य्य.एक",
+    "pred_text": "काज्योतिपनिवुर्याकोछैन॥॥परन्तु.त्योदानसुरलेपानिथुनि.अघि.नागार्जुनपादनामआचार्य्य.एक",
+    "cer": 0.012195121496915817
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_1da5f010.png",
+    "ground_truth": "शाहबहादुरसंशेरजङ्गदेवानांसदासमरविजयेषु।इत:बालाशंकरस्यकोटि2",
+    "pred_text": "श्राहबहादुरसंशेरजङ्गदेवानांसदासमरविजयेषु।इत:वालाशंकरस्यकोदि2",
+    "cer": 0.06896551698446274
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0014_0135/eSc_line_8fdab100.png",
+    "ground_truth": "रितिथितिअपुतालीचाकचकुईफर्नेऊलोहाम्रादर्वारमापस्याकाप",
+    "pred_text": "रितिथितिअपुतालीचाकचकुईफर्नेऊलोहाम्रादर्वारमापस्याकाप",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000327_result/eSc_line_ac08e6d2.png",
+    "ground_truth": "त्रैठुलोछरकिमिलालेठुलाजानवरलाइघिच्यायाझैगर्छ.लोहामाभंन्या.दृढछैन.उसभन्दात.धेरै",
+    "pred_text": "ऐठुलोछरकिमिलालेवुलाजानवरलाइघिन्यायामैगर्छ.लोहामाभन्या.द्छछैनउस्भन्दाताथैरै",
+    "cer": 0.19230769574642181
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0522/eSc_line_afdd918d.png",
+    "ground_truth": "1।तस्कोसरहवमोजीमघड्यारिसमेत्विर्तागरिवक्स्याकोमोहरताम्वापत्रगरिवक्स्यौंचागुकारभादगाउकाअम्वलम",
+    "pred_text": "1।नस्कोसरहवमोजीमकोघड्यारिसमेत्विर्तागरिवक्स्याकोमोहेरताम्वापत्रगरिवक्स्यौंचागुकारभारदगाउकाशुभ्वलम",
+    "cer": 0.08695652335882187
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/12/eSc_line_523ebf30.png",
+    "ground_truth": "परयुगका16हजारवर्षवाकिमा.नेपालपश्चिमदिशामादेवतालेवनाईराष्याकासुप्रभानामनगरमा.पूर्वदिशावा",
+    "pred_text": "परयुगका16हज्जारवर्षवाकिमा.नेपालपश्चिमदिशामादेवतालेवनाईराष्याकासुप्रभानामगरमा.पूर्वदिशावा",
+    "cer": 0.03448275849223137
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000410/eSc_line_c26bc6a5.png",
+    "ground_truth": "के।दफ्तरसे।मेरीअर्जीका।उत्तररसीदअष",
+    "pred_text": "के।दस्तरसे।मेरीअर्जीका।उत्तर।रसीदअष",
+    "cer": 0.05882352963089943
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/12/eSc_line_f82cb691.png",
+    "ground_truth": "ग्मतीकोरकेशावतीका.संगममध्यस्थानविषयेवसी.नेमुनीले.तपस्यागर्दा.श्रीस्वयंभूकाप्रसादले.श्रीवज्रयोगिनी-",
+    "pred_text": "ग्मनीकोरकेशावतीका.संगमध्यस्थानविषयेवसी.नेमुनीले.तपस्याहार्दा.श्रीस्वयंभूकाप्रसादले.श्रीवनुयोगिनी-",
+    "cer": 0.0714285746216774
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_010/eSc_line_4738ac1b.png",
+    "ground_truth": "राक्षसीपनि.सिंहलकापछि2आईसिंहलकाघरकादर्वाजावाहीरसंमवसीरहनआयेरपनि.सिंहललेपुछपा-",
+    "pred_text": "राक्षसीपनि.सिंहलकापछि2आईसिंहलकाघरकादर्वाजावाहीरसमवसीरहनआयेरपनि.सिंहललेपुछपा-",
+    "cer": 0.012987012974917889
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000410/eSc_line_af1e2515.png",
+    "ground_truth": "परक्रिपाकर्के।वास्तेमेरीदिलजमैकेएकपर्वाना",
+    "pred_text": "परक्रिपाककै।वास्तेमेरीदिलजमैके।राकपर्वाना",
+    "cer": 0.1463414579629898
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_006/eSc_line_a058c687.png",
+    "ground_truth": "हरूप्रकाशगराईगयाकापनिछन्.वस्याकापनिछन्॥॥ताहांपछि.तिधर्मपालराजाकासन्तानले.राज",
+    "pred_text": "हरूप्रकाशगराईगयाकापनिछन्.वस्याकापनिछन्॥॥ताहांपछि.तिधर्मपालराजाकासन्तानले.राज",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_007/eSc_line_8eb16da8.png",
+    "ground_truth": "भूज्योतीरूपप्रकाशभैरह्याकाज्योतीरूप.शिलाले.आछादितगरि.पात्राकारगरी.ठुलोसर्वदेवाल",
+    "pred_text": "भूज्योतीरूपप्रकाशभैरह्याकाज्योतीरूप.शिलाले.आछादितगरि.पात्राकारगरी.दुलोसर्वदैवाल",
+    "cer": 0.025316456332802773
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0427/eSc_line_719e77fe.png",
+    "ground_truth": "हवहादूरसम्सेरजङ्ग्देवानांसदासमरविजयिनाः",
+    "pred_text": "हवहादूरसम्सेरजङ्गदेवानांसदासमरविजयिनाः",
+    "cer": 0.025641025975346565
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/18/eSc_line_814a313d.png",
+    "ground_truth": "तीतहुदा.त्योकुराइन्द्रका.सुधर्म्मासभामाहुदा.इन्द्रले.आफ्नुधनद्रव्य.फिर्तालिनाकोइछागरी.तीर्थ.",
+    "pred_text": "तीतहुदा.त्योकुराइन्द्रका.सुधर्म्मासंमाहुदा.इन्द्रले.आफ्नुधनद्रव्य.फिर्तालिनाकोइकागरी.तीर्थ-",
+    "cer": 0.043478261679410934
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_003/eSc_line_fdf0e1f2.png",
+    "ground_truth": "माउच्चोभैरह्याकोपर्वतकनदेषि.अघिगयाकावुद्धहरूले.तीनपर्वत.अधिस्थानगरीगयाकाथिया.अ",
+    "pred_text": "माउच्चोभैरह्याकोपर्वतकनदेषि.अघिगयाकावुद्धहरूले.तानपर्वत.अधिस्थानगरीगयाकाथिया.अ",
+    "cer": 0.012820512987673283
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/14/eSc_line_727b43d5.png",
+    "ground_truth": "एस्तावडोउत्तमनदी4भयाका.फेरीवडोनामीखोल्सोपनि4प्रभावती.हनुमती.दानावती.ईक्षुमती-",
+    "pred_text": "एस्तावडोउत्तमनदी4भयाका.फेरीवडोनामीखोल्सोपनि4प्रभावती.हुनुमती.दानावती.ईक्षुमती-",
+    "cer": 0.012987012974917889
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0519/eSc_line_6afac64e.png",
+    "ground_truth": "विरुदावलीविराजमानमानोन्नत्श्रीमन्महा",
+    "pred_text": "निरुदावलीविराजमानमानोन्नत्श्रीमन्महा",
+    "cer": 0.02777777798473835
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_001/eSc_line_8ee81107.png",
+    "ground_truth": "वंशा",
+    "pred_text": "वंशा",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000285/eSc_line_c26134b7.png",
+    "ground_truth": "कर।जनरलमौसूफको।कतलफर्माया।वाहेर",
+    "pred_text": "कर।जनरलमौस्फको।कतलफर्माया।वारु",
+    "cer": 0.12903225421905518
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0433/eSc_line_f01aefc6.png",
+    "ground_truth": "याफुलपनिनफोर्नुजसलेचाषुरामाउरवच्चामार्न्याफुलफोर्न्यालाइवमो",
+    "pred_text": "याफुलपनिनफोर्नुजसलेवाषुरामाउरवचामार्न्याफुलफोर्न्यालाइवमो",
+    "cer": 0.050847455859184265
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0382/eSc_line_8a3eb5b3.png",
+    "ground_truth": "कमलुभडारि1",
+    "pred_text": "कम्लुभडारि1",
+    "cer": 0.10000000149011612
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000054/eSc_line_11640de7.png",
+    "ground_truth": "सन्देह1मापर्नजाला.मैले.पाल्हितप्पाकोवंजरियामा.हातिसारैमाडेराग",
+    "pred_text": "सन्देह1मापर्नजाला.मैले.पाहितप्याकोवंजरियामा.हातिसारैमाडेराग",
+    "cer": 0.04918032884597778
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0160/eSc_line_5d818ce8.png",
+    "ground_truth": "स्वस्तिश्रीगिरिराजचक्रचुडामणिनरनारायणेत्यादिविविधविरुदावलीविराजमानोन्नतश्रीमन्महाराजाधिराजश्रीश्रीश्रीमहाराजराजेन्द्रविक्रमसाहवहादुरसम्सेरजङ्गदेवानांस",
+    "pred_text": "म्वस्तिश्रीगिरिराजचकुडामणिनरनारायोग्यारिविधविरावलन्तिमानित्याकिन्याम्रीमन्महाराजाधिरानुश्रीकोश्रीमहाराजालेन्दिक्रमसाहवहादूरहदेवानदेव",
+    "cer": 0.3400000035762787
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000036_result/eSc_line_f38d2bf1.png",
+    "ground_truth": "राणोक्तःसहश्रकोटिसुभासिर्वादशुभम्",
+    "pred_text": "राणोक्तःसहश्रकोटिसुभासिर्वादशुभम्.",
+    "cer": 0.03030303120613098
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000051_result/eSc_line_35393549.png",
+    "ground_truth": "लहोलाआग्येञांहांकोसमाचारभलोछउप्रान्त:भरतपुरकोषैष",
+    "pred_text": "लहोलाआग्येञांहांकोसमवारभलोछउप्रात्त.भरतपुरकोषैष",
+    "cer": 0.0833333358168602
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000321/eSc_line_f3eff00e.png",
+    "ground_truth": "पाउकैछ.भौतिविंतिक्यागरूवारम्वारसिक्ष्याअर्तिव",
+    "pred_text": "पाउकैद्.भौतिविंतिक्यागरुवारम्वारिघाअर्तिव",
+    "cer": 0.20000000298023224
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0165/eSc_line_9d25e992.png",
+    "ground_truth": "त1879सालमितीचैत्रसुदि13रोज4सुभम्म्",
+    "pred_text": "त1879सालमितीचैत्रसुदि13रोज4सुभम्",
+    "cer": 0.05882352963089943
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0368/eSc_line_e719874c.png",
+    "ground_truth": "न्गोराले.दानापुरजानुभन्न्याकौसल्वाटहुकुम्गयो.इतिसम्वत्18",
+    "pred_text": "न्गोराले.दानापुरजानुभन्न्याकौसल्वाटहुकुम्गयो.इतिसम्वत्18",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/12/eSc_line_429ce9d5.png",
+    "ground_truth": "षिप्रजाहरूलेदीपावतीमहाविहारभनि.तस्विहारकानामजाहेरगरी.सोहीदीपंकरमूर्त्ति.भगवानकासेवागरीतहीर.",
+    "pred_text": "घिप्रजाहरूलेदीपावनीमहाविहारभनि.तस्विहारकानामजाहेरगरी.सोहीदीपंकरमूर्त्ति.भगवानकासेवागरीतहीर.",
+    "cer": 0.021978022530674934
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0015_0290/eSc_line_9e25fd18.png",
+    "ground_truth": "सर्दारसुवा.सुवेदारडिट्ठा.नजिकिजेठावुढा.विर्तवारवितलप्पामोहरिया.छाप्छप्पाली",
+    "pred_text": "सर्दारसुवा.सुवेदारडिट्ठा.नजिकिजेलावुढा.विर्तवारवितलप्यामोहरियाकाप्रछप्याली",
+    "cer": 0.0810810774564743
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_022/eSc_line_5cdba9de.png",
+    "ground_truth": "स्थानमाजाईवस्ताभया.ञाहाँदेषिं.ईनेपालपुरी.फेरीअगमभैगयो॥॥जौनवषत्.दानासुरदैत्य",
+    "pred_text": "स्थानमाजाईवस्ताभया.ञाहाँदेषी.ईनेपालपुरी.षेतीफेरीअगमभैगय॥॥जौनवषत्.दानासुरदैत्",
+    "cer": 0.1066666692495346
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000026/eSc_line_e645e303.png",
+    "ground_truth": "अर्जि",
+    "pred_text": "आजि",
+    "cer": 0.6000000238418579
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0638/eSc_line_66b1a7c0.png",
+    "ground_truth": "विराजमानमानोन्नत्श्रीमन्महाराजाधिराजश्रीश्रीश्रीमहाराजेगिर्वा",
+    "pred_text": "विराजमानमानोन्नत्श्रीमंन्महाराजाधिराजश्रीश्रीश्रीमहाराजेगिर्वा",
+    "cer": 0.016393441706895828
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0367/eSc_line_940decf3.png",
+    "ground_truth": "रसितभन्याकाकुराउनलेमसितषसोषासवञानगर्या.कल्कत्ताकापुलि",
+    "pred_text": "रसितभन्याकाकुराउनलेमसितषसोषासवञानगर्या.कल्कत्ताकापुलि",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_003/eSc_line_371b0c2a.png",
+    "ground_truth": "वली",
+    "pred_text": "वली",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0006/eSc_line_623e9566.png",
+    "ground_truth": "काहुंताहापछिनिजमोहन्दासषस्दा.निजवालादास्.सुषरामदास्.रामजिवन्दा",
+    "pred_text": "काहुं.ताहापछिनिजमोहन्दासषस्दा.निजवालादास्लुषरामदास्.रामजिवन्दा",
+    "cer": 0.04838709533214569
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0177/eSc_line_11f521cd.png",
+    "ground_truth": "त्1895सालमितिश्रावणवदि1रोज1मोकाम्कल्कत्तामीतपूरशुभम्",
+    "pred_text": "त्1895सालमितिआवणवदि1रोज1मोकाम्कल्कश्ताश्रीसपूरशुभम्",
+    "cer": 0.17307692766189575
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0472/eSc_line_61842f4b.png",
+    "ground_truth": "री5वुवाज्यू",
+    "pred_text": "श्री5वुवाज्यू",
+    "cer": 0.1818181872367859
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000394_result/eSc_line_b9d14a46.png",
+    "ground_truth": "स्याकोछ.तसले.राजगीकाषेतावकोजिकरसदरमागर्याको",
+    "pred_text": "स्याकोछ.तसले.राजगीकाषेतावकोजिकरसदरमा.गर्याको",
+    "cer": 0.023255813866853714
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_27906391.png",
+    "ground_truth": "कादिनसाहवसिक्रिटरिकाँहाँदर्वारभयोहजूर",
+    "pred_text": "कादिनसाहवसिक्रिटरिकाँहाँदर्वारभयोरुज्ञाव",
+    "cer": 0.1621621549129486
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/18/eSc_line_187b369b.png",
+    "ground_truth": "भैआई.जाहादैत्यपत्नीलेतपस्यागरीरह्याका.वाग्मतीमा.मिल्नआइन्र.दैत्यपत्नीकाजयपदप्राप्तिभयो",
+    "pred_text": "भैआई.जाहादैत्यपत्रीलेतपस्यागरीरह्याका.वाग्मतीमा.मिल्नआईन्र.दैत्यपत्नीकाजयपदप्राप्तिभयो",
+    "cer": 0.023255813866853714
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000321/eSc_line_0d3a72d4.png",
+    "ground_truth": "दि11रोज4मा.आईपुक्यो.तामापत्ररसिक्ष्याअर्तिको",
+    "pred_text": "दि1रोज4मा.अईपुक्यो.तामापत्रसिद्याअर्तिको",
+    "cer": 0.13636364042758942
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_010/eSc_line_96ddffb7.png",
+    "ground_truth": "षाईदिया.ताहापछि.भोलिकादिनसोहीषवरसुनी.तिसिंहलसार्थवाहजाईहेर्दा.सवैलोकहरूहाहाकारगरी",
+    "pred_text": "षाईदिया.ताहापछि.भोलिकादिनसोहीषवरसुनी.तिसिंहलसार्थवाहजाईहेर्दा.सवैलोकहरूहाहाकारगरी",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000054/eSc_line_b9d1aad5.png",
+    "ground_truth": "हुँदैरह्यावढियाहोला.विज्ञप्रभुचरणकमलेषुकिमधिकम्.इतिसम्वत्",
+    "pred_text": "र्हुँदैरह्यावढियाहोला.विज्ञप्रभुचरणकमलेषुकिमधिकम्.इतिसम्वत्",
+    "cer": 0.035087719559669495
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000137/eSc_line_926ba090.png",
+    "ground_truth": "वस्नुजोआज्ञाआउछसोगरूलाजानाजानमाफविंति.ईतिसम्वत्1893सालमि",
+    "pred_text": "वह्मुजोआज्ञाआउसोराफलाजानाजानमाफ्विंतिईतिसम्वत्1893सालाम",
+    "cer": 0.1785714328289032
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0522/eSc_line_f6d4cdff.png",
+    "ground_truth": "जयनारायनप्रधान्भाजुदेवप्रधान्जोगधरप्रधान्जसिवन्तप्रधान्धमनारांप्रधान्गंगाधरषनालहरिलाल",
+    "pred_text": "जयनारापनपुधान्भाजुदेवप्रधान्जोगधरपुधान्जसिवनप्रधान्धान्धसमाराप्रधान्गाधरषनाल्हरिलाल",
+    "cer": 0.1882352977991104
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000116/eSc_line_b57c265c.png",
+    "ground_truth": "भयेछ.सिकस्तषाई.लस्कर.वरसरिरहेछ.आजकालरनजीतसिं.आफ्नागोल्दार.सिपाहिका",
+    "pred_text": "भयेछ.सिकस्तषाई.लस्कर.वरसरिरहेछ.आजकालरनजीतसिं.आफ्नागोल्दार.सिपाहिका",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000285/eSc_line_02f4bb0c.png",
+    "ground_truth": "या।झूठसत्यकाबातईश्वरजाने।जानअजान",
+    "pred_text": "या।झूठसत्यकाबातईश्वरजाने।जानअजान",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0367/eSc_line_256ca5e8.png",
+    "ground_truth": "तिह्रउत्जिल्लाकाकलक्टर्लेएसजिल्लाकोसिवानानेपाल्कातरफ्वाट",
+    "pred_text": "तिह्रउत्जिल्लाकाकलक्टर्लेएसजिल्लाकोसिवानानेपाल्कातरफ्वाट",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000264_result/eSc_line_8cf2b037.png",
+    "ground_truth": "हजुरमोतारिफहोताहैउपाध्याजिनेभिउसिमोताविक्चरणका",
+    "pred_text": "हजुरमोतारिफ्होताहैउपाध्याजिनेभिउसिमोताविकचरणका",
+    "cer": 0.043478261679410934
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_022/eSc_line_60e25e8e.png",
+    "ground_truth": "रिमापानीषोली.मध्यदेशतरफपठाया.प्रभावतीकनहरनगरी.विष्णुवैकुंठमाजादाभया.दैवतासवैस्व",
+    "pred_text": "ल्सिमापानीषोली.मध्यदेष्मतरफपठाया.प्रभावतीकनहरनगरी.विष्णुवैकुठमाजादाभया.दैवतासवैस्व",
+    "cer": 0.08860759437084198
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_348e7b35.png",
+    "ground_truth": "कामिजाजमुवारक्कोषैरआफियत्सोध्याव",
+    "pred_text": "नामिजाजभुवारक्कोषैरल्आफियत्सोचाव",
+    "cer": 0.21875
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0007/eSc_line_bce9a999.png",
+    "ground_truth": "इसाधक्हाल्दाजाहेरभयोतसर्थ.सोसाधक्माहुकुम्मर्जीकोसदरग",
+    "pred_text": "द्धसाधक्हान्दाजाहेरभयोतसर्थ.सौसाधक्माहुकुम्मजीकोसदरग",
+    "cer": 0.13461539149284363
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_33bb25de.png",
+    "ground_truth": "याकोछफारसिअषवार2हजूर्माचढाईप",
+    "pred_text": "याकोछफ्कारसिअषवा2हजूर्माचढाईप",
+    "cer": 0.1071428582072258
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000410/eSc_line_976a1d84.png",
+    "ground_truth": "को।अपना।मुरब्बीसमुझके।अर्जकर्त्ताहूँ।मेरेहाल",
+    "pred_text": "को।अपना।मुरब्हीसमुफके।अर्जकर्ताहूँ।मेरेहाल",
+    "cer": 0.09090909361839294
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_006/eSc_line_df4a0b9e.png",
+    "ground_truth": "जाभावलीसक्यापछि.इनिकाश्यपवुद्धले.प्रचण्डदेववर्म्मन्राजाकन.आज्ञागर्या.हेराजन्.तिमि.स्व-",
+    "pred_text": "जाभावलीसक्यापछि.इनिकाश्यपवुद्धले.प्रचण्डदेववर्म्मनराजाकन्.आज्ञागर्या.हेराजन्.तिमिस्व-",
+    "cer": 0.03488372266292572
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000404/eSc_line_c6d04768.png",
+    "ground_truth": "राणोक्तःसहस्रकोटिसुभासीर्वादशुभम्",
+    "pred_text": "राणोक्रःसदश्रकोटिसुभासीर्वादशुभम्",
+    "cer": 0.09090909361839294
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0006/eSc_line_6115d686.png",
+    "ground_truth": "ञीचलाउदामैले1काहजुरमाविन्तीपारिभयाभरकावेहोराको",
+    "pred_text": "ञीचलाउदामैले1काहजुरमाविन्तीपारिभयाभरकावेहोराको",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/11/eSc_line_eba28e0a.png",
+    "ground_truth": "निस्क्याकापसीनापाउमापारीवडोकष्टलेकामगरीरह्याकादेष्यार.येहीकामगर्नामावडोकष्टलाग्छभनिवुझी",
+    "pred_text": "निस्क्याकापसीनापाउमापारीवडोकषुलेकामगरीरह्याकादेष्यार.येहीकामगर्नामावडोकष्टलाग्छभनिवुझी",
+    "cer": 0.02298850566148758
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_005/eSc_line_92846528.png",
+    "ground_truth": "या.र.विष्णुलेव्रह्माजीलाई.झुठसितकुरागर्न्या.तिमिलाई.मूर्त्तिस्थापनागरी.कोईनमानोस्भनिश्रापदिया.औ",
+    "pred_text": "यार.विष्णुलेवुह्याजीलाई.शुठसितकुरागर्न्या.तिमिलाई.मूर्त्तिस्थापनागरी.कोईनमानोस्भनिश्रापदिया.औ",
+    "cer": 0.05263157933950424
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_004/eSc_line_52acc85d.png",
+    "ground_truth": "फुल्लोच्चनामअधिष्ठानगरी.तिस्पर्वतवाटउतरी.फेरिगुह्येश्वरीकासंनिधानमापुग्दा.गुह्येश्वरीकादर्श",
+    "pred_text": "फ्नुल्लोच्चनामअधिष्ठानगरी.तिस्पर्वतवाटउतरी.फेरीगुह्येश्वरीकासंनिधानमापुग्दा.गुह्येश्वरीकादर्श",
+    "cer": 0.032967034727334976
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_008/eSc_line_65317b7d.png",
+    "ground_truth": "धनागर्दा.नागदहमारहन्या.कर्कोटकनागनआउंदा.शांतिकरआचार्य्यले.मंत्रगरीदुर्वाकुन्दपुष्पदी.गुणका",
+    "pred_text": "धनागर्दा.नागदहमारहन्या.कर्कोटकनागनआउंदा.शांतिकरआचार्य्यले.मंत्रगरीदुनाकुन्दपुष्यदी.गुणका",
+    "cer": 0.04444444552063942
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000631/eSc_line_c1e453d6.png",
+    "ground_truth": "अनाथमाथीकरुणानिगाहवस्भनिदिनप्रति",
+    "pred_text": "अनाथमाथीकरूणानिगाहवस्भनिदिनप्रति",
+    "cer": 0.03125
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0638/eSc_line_fbf558b7.png",
+    "ground_truth": "स्वस्तिश्रीगिरिराज",
+    "pred_text": "स्वस्तिश्रीगिरिराज",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_008/eSc_line_b1d35cf5.png",
+    "ground_truth": "उत्नैषेर.वडोसुंदरविहार1वनाईउसैविहारमालैगयार.रातकाचमत्कारदेषी.कोठाभित्र.तिकृषि",
+    "pred_text": "उत्तैषेर.वडोसुंदरविहार1वनाईउसैविहारमालैगयार.रातकाचमत्कारदेषी.कोठाभित्र.तिकृषि",
+    "cer": 0.012987012974917889
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000327_result/eSc_line_f5706f3a.png",
+    "ground_truth": "गे.ञाहाँकोसमाचारभलोछउप्रान्त.आषाढवदि12रोज3कोताँहावाटरवानाभयाकोपत्रश्रावण",
+    "pred_text": "गो.ञाहाँकोसमाचारभलोछउप्तान्त.आषाढवदि12रोज3मोताँहावाट2षानाभयोकोपश्रावपा",
+    "cer": 0.1527777761220932
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0382/eSc_line_ad351e13.png",
+    "ground_truth": "जिवासारै1",
+    "pred_text": "जिवासारै",
+    "cer": 0.1111111119389534
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/15/eSc_line_0e9c5d70.png",
+    "ground_truth": "वलिंगपशुपति.करवीश्मशान.यतिचारसंयुक्तहुनालेशुद्धपीठभयाकाहो॥॥ज्योतीरूपौसमौलिंगौ.वाग्मतीच",
+    "pred_text": "वलिंगपशुपनि.करवीअशान.यतिचारसंयुक्लहुनालेशुद्धपीठभयाकाहो॥॥ज्योतीरूपौसमौलिगौ.वाग्मतीच",
+    "cer": 0.06976744532585144
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/18/eSc_line_9cf1f290.png",
+    "ground_truth": "आज्ञागर्या.हेकर्कोटकनागराज.दुष्टदानासुरदैत्यले.मेराधन.हराईली.दानप्रदानपनिगरेनगु.",
+    "pred_text": "आज्ञागर्या.हेकर्कोटकनागराज.दुष्टदानासुरदैत्यले.मेराधन.हराईली.दानप्रदानपनिगरेनगु.",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0638/eSc_line_362365cc.png",
+    "ground_truth": "णजुद्धविक्रमसाहवहादुरसमसेरजंङ्देवानाम्सदासमरविज",
+    "pred_text": "राजुद्रविक्रमसाह.वहादूरसमसेरजंडदेवानाम्सदासमरविज",
+    "cer": 0.1489361673593521
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0014_0242/eSc_line_44d89cea.png",
+    "ground_truth": "मारश्रीश्रीश्रीमद्दलमर्दनसाहदेवेषुतथाश्रीश्रीश्री",
+    "pred_text": "मारश्रीश्रीश्रीमदलमर्दनसाहदेवेअतथाश्रीश्रीश्री",
+    "cer": 0.08163265138864517
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000224_result/eSc_line_1e641614.png",
+    "ground_truth": "स्वस्तिश्रीसर्वोपमानोपमेयशौर्योदार्यादिसकलसद्गुणगणालंकृतराजरा",
+    "pred_text": "स्वस्तिश्रीसर्वोपमाकोपमेषशौर्वादार्यादिमकलसहुणगणालकेतराजरा",
+    "cer": 0.16393442451953888
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000523/eSc_line_5a77832a.png",
+    "ground_truth": "अमलभयोभन्याषवरयाँहाँअषवारमाछापि",
+    "pred_text": "अमलभयोभन्न्याषवरयाँहाँअषवारमाछाघि",
+    "cer": 0.09677419066429138
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000631/eSc_line_0420559b.png",
+    "ground_truth": "र्मयुधिष्ठिरहजूरहोइवक्सनुहुन्छ.मितिसम्व",
+    "pred_text": "र्मयुधिष्टिरहजूरहोइवक्सनुहुन्छ.मितिसम्व",
+    "cer": 0.025641025975346565
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000285/eSc_line_703da233.png",
+    "ground_truth": "वान्छामि।उप्रान्त।गरीबपरवरमेरे।वैशाषसुदी14",
+    "pred_text": "वान्छामि।उप्रान्म।गरीबपरवुरमेरे।वैशाषसुदी14",
+    "cer": 0.0476190485060215
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/16/eSc_line_3b1f7e45.png",
+    "ground_truth": "सुईलेउद्योगसितगर्या.परिश्रमलाग्दैनभनिपुरूषले.भन्योर.सोकुरासुनि.आफ्नुमनमाविचारगरी.उद्योगभन्या.",
+    "pred_text": "मुईलेउघोगसितगर्या.परिअमलाग्दैनभनिपुरूषले.भन्योर.सोकुरामुनि.आफ्नुमनमाविचारगरी.उद्योगभन्या-",
+    "cer": 0.09677419066429138
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_c24eea61.png",
+    "ground_truth": "यणथापाहवल्दारकीमुषजुबानी।जाहेरहोगा।ज्यादाहालअषबार",
+    "pred_text": "यणथापाहवल्दारकीमुषजुबानी।जाहेरहोगा।ज्यादाहालभ्रषबार",
+    "cer": 0.06122449040412903
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000264_result/eSc_line_f725eaee.png",
+    "ground_truth": "रकेसीलसिलासल्तनत्वन्दोवस्तगैरहकावडातारिफेकरनेलगेवो",
+    "pred_text": "रकेसील्सिलासल्तनत्वन्दोवस्तगैरहकावडातारिफेकरनेलगैको",
+    "cer": 0.05999999865889549
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000321/eSc_line_ce97bf2d.png",
+    "ground_truth": "उप्रान्त.आषाडशुदि15रोज6मालेषियाकोसिक्ष्याअर्ति",
+    "pred_text": "उप्रान्त.आषाडशुदि15रोज6मारोषिध्याको.सिद्याअर्ति",
+    "cer": 0.17391304671764374
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_002/eSc_line_1be0bf8b.png",
+    "ground_truth": "भनिनामगरी",
+    "pred_text": "भनिनामग",
+    "cer": 0.2222222238779068
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0014_0242/eSc_line_2a2ab07e.png",
+    "ground_truth": "मानिस्आउँछन्.आयापछिताहावस्उठगरितवपा",
+    "pred_text": "मानिस्आउंछन्.आयापछिताहावस्उठगरितवमा",
+    "cer": 0.05714285746216774
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000394_result/eSc_line_efd83da7.png",
+    "ground_truth": "ल्छ.भन्न्याकुरासुनाया.भन्न्यासुनियो.दिनन्.ञाँहाँकाव",
+    "pred_text": "ल्छ.भन्न्याकुरासुनाया.भन्न्यासुनियो.दिनन्.ञाहाँकाचा",
+    "cer": 0.05882352963089943
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0012_0006/eSc_line_40714bf3.png",
+    "ground_truth": "स्वस्तिश्रीगिरिराजचक्रचूडामणिनरनारायणेत्यादिविविधविरुदावलीवि",
+    "pred_text": "स्वस्तिश्रीगिरिराजचक्रचूडामणिनरनारायणेत्यादिविविधविरुदावलीवि",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_009/eSc_line_b6a051ea.png",
+    "ground_truth": "वंशा",
+    "pred_text": "वन्ता",
+    "cer": 0.75
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/16/eSc_line_51315b16.png",
+    "ground_truth": "समर्थभै.मालाछाडीगयोर.एकाठाउमाएकजनापुरूषले.सुईकारासराषी.1/1सुईली.सुईले.केरीरूषढालनु-",
+    "pred_text": "समर्थभै.मालाछाडीगयोर.एकाठाउमाएकजनापुरूषले.सुईकारासराषी1।1षसुईली.सुईले.केरीरूपढालनु-",
+    "cer": 0.048192769289016724
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_004/eSc_line_8ae14cd2.png",
+    "ground_truth": "रूपर.गुह्येश्वरीप्रज्ञोपायकासेवागरी.तिक्षेत्रमारहन्यालोकहरूकन.प्रतिपालनगरी.तहीप्रकाश-",
+    "pred_text": "रूपर.गुह्येश्वरीप्रलो.पायकासेवागरी.तिक्षेत्रमारहन्यालोकहरूकन.प्रतिपालनगरी.तहीप्रकाश-",
+    "cer": 0.0470588244497776
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0472/eSc_line_bd39e1c3.png",
+    "ground_truth": "रनुहवस्.हामिलाईआसिरवादवक्सदैरहनुहवस्.योविर्तावक्सदासंकल्पवाक्यपह्र्न्यायदुनाथपुरोहित.पा",
+    "pred_text": "रनुहवस्.शामिलाईआसिरवादवक्सदैरहनुहवस्योविर्तावक्मदासंकल्पवाक्यपर्ह्यायदुनाथपुर्ण",
+    "cer": 0.14942528307437897
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0014_0296/eSc_line_7e2194e4.png",
+    "ground_truth": "सहरि.थामि.हायु.सुनुवार.चेपांग.एतिजातका.घरहिएक्एक्.",
+    "pred_text": "सहरि.थामि.हायु.सुनुवार.चेपांग.एतिजातका.घरहिएक्एक्.",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000051_result/eSc_line_8789ba18.png",
+    "ground_truth": "लंगिकोरभरतपुरकोपुसमालाडाईभयेछफिलंगिकोपल्ट",
+    "pred_text": "लंगिकोरभरतपुरकोपुसमालाडाईभयेछफिलंगिकोपल्ट",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0003_0551/eSc_line_e0ef34c9.png",
+    "ground_truth": "गरीवपर्वरहाललखनऊकादरियाफ्तहुवाकिइसमहीनेमेँकइरइ",
+    "pred_text": "गरीवपर्वरहाललखनउक्कादरियारूहुवाकिदसमहीनेमेँकहरइ",
+    "cer": 0.17391304671764374
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000631/eSc_line_ae6ecb13.png",
+    "ground_truth": "भनिरुक्कालेषिवक्स्यौँभनिहुकुमभयाकोहोउ",
+    "pred_text": "भनिरूक्कालेषिवक्स्यौंभनिहुकुमभयाकोहोड",
+    "cer": 0.0810810774564743
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0015_0290/eSc_line_0bc1f3a4.png",
+    "ground_truth": "आगे1पल्टन्प्रति2कंपनीवुटवल्कोतहसिल्मालाग्दा.तस्कोसट्टातिमिहरू",
+    "pred_text": "आगे1पल्टन्प्रति3कंपनीवुटवल्कोतहसिल्मालाग्दा.तस्कोसद्टातिमिहरू",
+    "cer": 0.032786883413791656
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000030_result/eSc_line_af4f4b1f.png",
+    "ground_truth": "उप्रांत.देसवाटषवरल्यायाको.लषनौकासमाचारकाअर्थ.वुढाजा",
+    "pred_text": "उप्रांत.देसवाटषवरल्यायाको.लषनौकासमाचारकाअर्थ.शुढाजा",
+    "cer": 0.019607843831181526
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0472/eSc_line_96c4e9cd.png",
+    "ground_truth": "णकोदक्षिणाकुसविर्तावितलपसंकल्पगरिवक्स्याकाषेत9।.मध्येथानसिंकाअम्वलभैरवकुंडषेत4।.सयमुर्याषेत1।.",
+    "pred_text": "णकोदक्षिणाकुसवित्तीवितलपसंकल्पगरिवक्साकाषेत9।5ध्येषानसिंकाअम्वलभेरवकुंडवेत4संयमुचाषेत1.",
+    "cer": 0.1702127605676651
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0367/eSc_line_7e967026.png",
+    "ground_truth": "लिलाममाविक्रिहुन्याछभन्न्याषवरसुनिन्छउस्दिनलिलामहुदापायाषरि",
+    "pred_text": "लिलाममाविक्रिहुन्याछभन्न्याषवरसुनिन्छउस्दिनलिलामहुदापायाषरि",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0013_0376/eSc_line_7d1110a0.png",
+    "ground_truth": "ककामोहरहानीतैलेवन्दोवस्तगरिवढन्याजगामाव",
+    "pred_text": "ककामोहरहानीतैलेवन्दोवस्तगरिवढन्याजगामाव",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_a21a10a4.png",
+    "ground_truth": "कुमका।उम्मैदवारहै।जिसतौरसेहुकुमहोवे।उसीतौरसे।",
+    "pred_text": "कुमका।उम्मैदषारहै।जिसतौरसेहुकुमहोवे।उसतौरसे।",
+    "cer": 0.04444444552063942
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_006/eSc_line_b4178765.png",
+    "ground_truth": "छानगरी.अवकसोगरूंभनि.संकालेजुक्तगरी.इक्षुमतीनदीकाकिनारामानञादर्वारवनाई.सहर",
+    "pred_text": "द्धानगरी.अवकसोगरूंभनि.संकालेजुक्तगरी.इक्षुमतीनदीकाकिनारामानआदर्वारवनाई.सहर",
+    "cer": 0.06849315017461777
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_009/eSc_line_dff5320d.png",
+    "ground_truth": "भनिकवूलदीसुवृष्टिगरी.नागहरूआफ्ना2स्वस्थानमागया॥॥ताहापछिगुणकामदेवराजाकासंतानले-",
+    "pred_text": "भनिकवूलदीसुवृष्टिगरी.नागहरूआफ्ना2स्वस्थानमागया॥॥ताहापछिगुणकामदेवराजाकासंतानले-",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_14_00000283/eSc_line_f25d5749.png",
+    "ground_truth": "आगेकपर्दारगरुडध्वजपाँडेप्रतितैरातैनाथिलुभुसेरामाअघिपनिमोहिको",
+    "pred_text": "आगेकपठारगरूडधलपाँडेप्रतिरातैनाथिलुभेरामाअघिपनिमोहिको",
+    "cer": 0.18333333730697632
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_14_00000283/eSc_line_926131d6.png",
+    "ground_truth": "स्वस्तिश्रीमन्महाराजाधिराज",
+    "pred_text": "स्वस्तिश्रीमन्महाराजाधिराज",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_006/eSc_line_432ee03b.png",
+    "ground_truth": "रमानपूजाभावगरी.वैशाषशुक्लतृतीयाकादिनपिण्डपात्रदानगर्याको.दानपूजाभावलिया॥॥पू-",
+    "pred_text": "रमानपूजाभावगरी.वैशाषशुक्लतृतीयाकादिनपिण्डपात्रदानगर्याको.दानपूजाभावलिया॥॥पू-",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000161_result/eSc_line_e11b7c8d.png",
+    "ground_truth": "श्रीः",
+    "pred_text": "अर्जीः",
+    "cer": 0.6000000238418579
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_2_00000293_result/eSc_line_c312b996.png",
+    "ground_truth": "से।हजूरकेमुलाहेजेमेगुजरेगा।ज्यादाक्याबिन्तीकरुँ।",
+    "pred_text": "से।हजूरकेमुलाहेजेमेगुजरेगा।ज्यादाक्याबिन्तीकरूँ",
+    "cer": 0.0416666679084301
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_005/eSc_line_53eebafc.png",
+    "ground_truth": "र्पक्षहुदा.विष्णुले.मैलेतापारगरीआउनसकेनभनि.भन्नुभया.व्रह्माजीजोछन्.उन्लेभन्या.मैलेता",
+    "pred_text": "र्पक्षहुदा.विष्णुले.मैलेतापारगरीआउनसकेनभनि.भन्नुभया.व्रह्माजीजोछन्.उन्लेभन्या.मैलेता",
+    "cer": 0.0
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_022/eSc_line_991cacc7.png",
+    "ground_truth": "आफुसंगराषीफिर्दाभया.आफुसंगराषीफिर्दामाएकदिनराजालेनित्यद्रव्यल्यायाकोदेष्योर.इविक्रमा",
+    "pred_text": "आफ्नुगराषीदिर्दाभया.आफुसगराषीफिर्दानाएकदिनराजालेनित्यद्रव्यल्यायाकोदेष्योर.इविक्रमा",
+    "cer": 0.0714285746216774
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_004/eSc_line_9e25dcd2.png",
+    "ground_truth": "न्याछन्॥अघिदेषि.पद्मपाणिवोधिसत्व.लोकेश्वरकाआज्ञापनियस्तैछन्.वरदानपनिदियाकोरहेछ.तस्का",
+    "pred_text": "न्याछन्॥अघिदेषि.पद्मंपाणिवोधिसत्व.लोकेश्वरकाआज्ञापनियस्तैछन्.वरदानपनिदियाकोरहेछ.तस्का",
+    "cer": 0.011904762126505375
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_021/eSc_line_b4f53f7e.png",
+    "ground_truth": "संस्कारभावलेछाडीआउंछन्॥॥तस्दिनदेषि.तेस्जग्गानागार्जुनभनिनामप्रख्यातभैगयो॥॥तेस्ता",
+    "pred_text": "संकारभावलेछाडीआउछन्॥॥तस्दिनदेषि.तेस्जग्गानागार्जुनभनिनामप्रख्यातभैगयो॥1॥तेस्मा",
+    "cer": 0.0625
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000285/eSc_line_fc52f2d4.png",
+    "ground_truth": "रोज3मेलिषीअर्जीबन्देकी।मैधफर्दअषबारके।",
+    "pred_text": "रोज3मेलिषीअर्जीबन्देकी।मै4पुर्दअषबारके।",
+    "cer": 0.07894736528396606
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000137/eSc_line_83825be5.png",
+    "ground_truth": "मालघटिभरहातिथामि.रंजितसिंलेलाठलाईदेषाया.लाठलेदेष्यार",
+    "pred_text": "मालघटिभाहातिथामि.रजितसिंलेलाठलाईदेषाया.लाठलेदेष्यार",
+    "cer": 0.03846153989434242
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_002/eSc_line_19b909fa.png",
+    "ground_truth": "र्गशिरमहीनाका.कृष्णपक्षनवमीकारात्रिमा.दर्शनगरी.तस्पछि.गुह्येश्वरीदेषिन्.पद्मनालछोपीलैगै",
+    "pred_text": "र्गशिरमहीनाका.कृष्णपक्षनवमीकारात्रिमा.दर्शनगरी.तस्पछि.गुद्येश्वरीदेषिन्.पद्मनालछोपीलैगै",
+    "cer": 0.01149425283074379
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_003/eSc_line_f55a0731.png",
+    "ground_truth": "प्य्रा.आधाकेशमाफेकीदियार.तिकेशआकाशवाटषस्दा.जाहातिकेशपतनभयो.उस्जग्गावाटजलप्र",
+    "pred_text": "श्रा.आधाकेशमाफेकीदियार.तिकेशआकाशवाटषस्दा.जाहातिकेशयतनभयो.उस्जग्गावाटजलप्र-",
+    "cer": 0.06666667014360428
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_0001_0368/eSc_line_9a6686ac.png",
+    "ground_truth": "97सालमितिभाद्रवदि9रोज6मो",
+    "pred_text": "77सालमितिभाद्रवदि1रोज6मो",
+    "cer": 0.0833333358168602
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/CA__The Cambridge Manuscript_Page_009/eSc_line_34336fbf.png",
+    "ground_truth": "र्दाभया.हेसिंहलसार्थवाह.तिमिइहाक्यानवस्यौ.त्योसुंदरीकामोहमापरिरह्यौ.तिसुंदरीस्त्रीहोईन.राक्षसीपोहो.अवस्य",
+    "pred_text": "र्दाभया.हेसिंहलसार्थवाह.तिमिइहाक्यानवस्यौ.त्योसुंदरीकामोहमापरिरह्यौ.तिसुंदरीस्तीहोईन.राक्षसीपोहो.अवस्य",
+    "cer": 0.01923076994717121
+  },
+  {
+    "image_path": "data/oldNepaliDataset_new/images/DNA_1_00000026/eSc_line_d2d21031.png",
+    "ground_truth": "कोहातिसारवेस्गरीजम्न्या",
+    "pred_text": "कोहातिसारवेस्गरीजम्न्या",
+    "cer": 0.0
+  }
+]
