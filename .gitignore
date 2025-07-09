@@ -11,3 +11,4 @@ post_processing/byt5-ocr-corrector/
 post_processing/byt5*
 byt5_ocr_model/
 post_processing/
+app/
