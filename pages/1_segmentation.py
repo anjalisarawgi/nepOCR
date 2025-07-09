@@ -121,11 +121,13 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
         to_remove = st.multiselect("Remove Lines:", labels, default=[])
         padding_lines_labels = st.multiselect("Apply padding to Lines:", labels, default=[])
 
+        st.markdown("To find the line numbers, hover over the lines in the plot below.")
+
         remove_idx = {int(lbl.split()[1]) - 1 for lbl in to_remove}
         padding_idx = {int(lbl.split()[1]) - 1 for lbl in padding_lines_labels}
 
         # ─── Plotly Interactive Preview ─────────────────────
-        with st.spinner("🔄 Rendering interactive preview… please hold up!"):
+        with st.spinner("Please wait, generating preview..."):
             fig = px.imshow(st.session_state.img_arr, origin="upper")
             fig.update_layout(height=chart_height, margin=dict(l=0, r=0, t=30, b=0))
             fig.update_coloraxes(showscale=False)

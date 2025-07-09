@@ -22,6 +22,6 @@ st.markdown(
     
     **Step 5:** Switch to the prediction tab to run OCR on the segments.
     
-    *Please note: Analysis is yet to be added, and more fixes can be done as required. *
+    *Please note: Analysis is yet to be added, and more fixes can be done as required.*
     """
 )
