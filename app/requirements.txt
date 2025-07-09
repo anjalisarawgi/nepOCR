@@ -4,4 +4,4 @@ plotly==6.2.0
 streamlit==1.46.1
 torch
 transformers
-kraken
+kraken==5.3.0
