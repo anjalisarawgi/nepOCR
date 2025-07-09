@@ -9,3 +9,6 @@ torchmetrics==1.6.0
 tqdm==4.67.0
 transformers==4.46.2
 pyarrow
+plotly
+kraken
+streamlit
