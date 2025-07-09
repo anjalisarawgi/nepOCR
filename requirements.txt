@@ -1,7 +1,7 @@
 datasets==3.1.0
 imageio==2.36.1
 imgaug==0.4.0
-numpy==2.2.5
+numpy==1.26.4  
 pandas==2.2.3
 Pillow==11.2.1
 torch==2.4.1
@@ -10,6 +10,6 @@ tqdm==4.67.0
 transformers==4.46.2
 pyarrow
 plotly
-kraken==4.2.0
+kraken==5.3.0     
 streamlit
 click
