@@ -56,7 +56,7 @@ def predict_text(image_path):
 # --- Run evaluation ---
 results = []
 for sample in tqdm(test_data, desc="Evaluating"):
-    page       = sample["page"]
+    page = sample.get("page", "NA") 
     image_path = sample["image_path"]
     gt         = sample["text"]
 

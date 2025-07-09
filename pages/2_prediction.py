@@ -25,6 +25,7 @@ def predict_from_image(image, model, tokenizer, feature_extractor, device):
             num_beams=5,
             early_stopping=True,
             eos_token_id=tokenizer.eos_token_id,
+            diversity_penalty=0.5,
         )
     # output is a batch of size 1
     seq = output[0]
