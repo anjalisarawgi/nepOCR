@@ -1,0 +1,8 @@
+Sample-level CER Summary:
+         raw_cer  cleaned_cer
+mean    0.086948     0.086948
+median  0.043478     0.043478
+min     0.000000     0.000000
+max     2.000000     2.000000
+
+Corpus-level CER (cleaned): 0.0598

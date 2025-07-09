@@ -22,10 +22,11 @@ def predict_from_image(image, model, tokenizer, feature_extractor, device):
         output = model.generate(
             pixel_values,
             max_length=256,
-            num_beams=5,
+            num_beams=6,
             early_stopping=True,
             eos_token_id=tokenizer.eos_token_id,
             diversity_penalty=0.5,
+            num_beam_groups = 2
         )
     # output is a batch of size 1
     seq = output[0]

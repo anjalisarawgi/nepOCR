@@ -6,7 +6,22 @@ import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 
 # === 1. Load your predictions CSV ===
-df = pd.read_csv("results/evaluation_results_cleaned_bytebpe500_test_new8.csv")
+df = pd.read_csv("results/eval_oldNepali_aug16.csv")
+
+
+# === Plot Histogram of CERs ===
+plt.figure(figsize=(10, 6))
+sns.histplot(df["raw_cer"], bins=40, color="blue", label="CER", alpha=0.6)
+
+plt.title("Histogram of Character Error Rates (CER)", fontsize=16)
+plt.xlabel("Character Error Rate (CER)")
+plt.ylabel("Number of Samples")
+plt.legend()
+plt.grid(True)
+plt.tight_layout()
+plt.savefig("cer_histogram_raw_vs_cleaned.png", dpi=300)
+plt.show()
+
 
 # === 2. Count all (GT, Pred) character-level replacements ===
 confusion_counter = Counter()
@@ -32,7 +47,7 @@ confusion_df = pd.DataFrame(
     columns=["ground_truth", "prediction", "count"]
 )
 
-confusion_df.to_csv("results/char_confusion_pairs.csv", index=False)
+confusion_df.to_csv("char_confusion_pairs.csv", index=False)
 
 # === 4. Create pivot matrix ===
 confusion_matrix = confusion_df.pivot_table(index="ground_truth", columns="prediction", values="count", fill_value=0)
@@ -51,13 +66,13 @@ devanagari_font = fm.FontProperties(fname=font_path)
 plt.figure(figsize=(12, 10))
 ax = sns.heatmap(confusion_matrix_subset, annot=True, fmt="d", cmap="Reds", linewidths=0.5, linecolor='gray', cbar=True, square=True)
 
-plt.title("🔤 Top OCR Character Confusions", fontsize=16, fontproperties=devanagari_font)
-plt.xlabel("Predicted Character", fontproperties=devanagari_font)
-plt.ylabel("Ground Truth Character", fontproperties=devanagari_font)
+plt.title("Top OCR Character Confusions", fontsize=16)
+plt.xlabel("Predicted Character")
+plt.ylabel("Ground Truth Character")
 
 # Set tick fonts
 ax.set_xticklabels(ax.get_xticklabels(), fontproperties=devanagari_font, rotation=90)
 ax.set_yticklabels(ax.get_yticklabels(), fontproperties=devanagari_font, rotation=0)
 
 plt.tight_layout()
-plt.savefig("results/char_confusion_heatmap_top30.png", dpi=300)
+plt.savefig("char_confusion_heatmap_top30.png", dpi=300)
