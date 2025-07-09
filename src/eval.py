@@ -10,9 +10,9 @@ from torchmetrics.functional.text import char_error_rate
 import unicodedata
 
 # --- Config ---
-MODEL_DIR = "models/trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepaliDataset_new_42"
-TEST_LABELS_PATH = "data/oldNepaliDataset_new_42/labels_test.json"
-OUTPUT_CSV = "results/eval_test_oldNepaliDataset_new_42.csv"
+MODEL_DIR = "models/trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_aug16"
+TEST_LABELS_PATH = "data/oldNepali/processed/labels_test.json"
+OUTPUT_CSV = "results/eval_oldNepali_aug16.csv"
 MAX_LENGTH = 256
 NUM_BEAMS = 5
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"

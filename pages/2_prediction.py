@@ -21,8 +21,8 @@ def predict_from_image(image, model, tokenizer, feature_extractor, device):
     with torch.no_grad():
         output = model.generate(
             pixel_values,
-            max_length=100,
-            num_beams=1,
+            max_length=256,
+            num_beams=5,
             early_stopping=True,
             eos_token_id=tokenizer.eos_token_id,
         )
