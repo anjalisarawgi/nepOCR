@@ -10,6 +10,6 @@ tqdm==4.67.0
 transformers==4.46.2
 pyarrow
 plotly
-kraken
+kraken==4.2.0
 streamlit
 click
