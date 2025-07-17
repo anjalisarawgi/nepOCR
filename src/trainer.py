@@ -40,29 +40,7 @@ def main(args):
     wandb.init(project="nepOCR-logs", name = args.model_name)
 
     # dataset
-    if args.dataset_name == "oldNepaliSynthetic":
-        dataset = load_dataset("data/oldNepaliSynthetic10k/labels.json")
-        split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "oldNepaliSynthetic30k":
-        dataset = load_dataset("data/oldNepaliSynthetic30k/labels_processed.json")
-        split_dataset = dataset.train_test_split(train_size=30000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "oldNepaliSynthetic_50k":
-        dataset = load_dataset("data/oldNepaliSynthetic_50k/labels.json")
-        split_dataset = dataset.train_test_split(train_size=50000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(1000))
-    elif args.dataset_name == "oldNepaliSynthetic_105k":
-        dataset = load_dataset("data/oldNepaliSynthetic_105k/labels.json")
-        split_dataset = dataset.train_test_split(train_size=80000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(1000))
-    elif args.dataset_name == "oldNepaliSynthetic_105k_vnoisy":
+    if args.dataset_name == "oldNepaliSynthetic_105k_vnoisy":
         dataset = load_dataset("data/oldNepaliSynthetic_105k_vnoisy/labels_processed.json")
         split_dataset = dataset.train_test_split(train_size=100000, seed=args.seed)
         train_dataset = split_dataset["train"]
@@ -70,141 +48,24 @@ def main(args):
         eval_dataset = full_eval_dataset.select(range(0, 2500))
         val_dataset = eval_dataset
         test_dataset = full_eval_dataset.select(range(2500, len(full_eval_dataset)))
-    # elif args.dataset_name == "nagari":
-    #     train_dataset = load_dataset("data/nagari/augmented3/train/labels_cleaned_v2.json")
-    #     full_eval_dataset = load_dataset("data/nagari/augmented3/test/labels_cleaned_v2.json")
-    #     split = full_eval_dataset.train_test_split(train_size=0.5, shuffle=False)
-    #     val_dataset = split["train"]
-    #     test_dataset = split["test"]
+    elif args.dataset_name == "nagari_original":
+        train_dataset = load_dataset("data/nagari/original/train/labels.json")
+        eval_dataset = load_dataset("data/nagari/original/test/labels.json")
     elif args.dataset_name == "nagari":
         train_dataset = load_dataset("data/nagari/augmented4/train/labels_train.json")
         val_dataset = load_dataset("data/nagari/original/train/labels_val.json")
         test_dataset = load_dataset("data/nagari/augmented4/test/labels_test.json")
-    elif args.dataset_name == "nagari_original":
-        train_dataset = load_dataset("data/nagari/original/train/labels.json")
-        eval_dataset = load_dataset("data/nagari/original/test/labels.json")
     elif args.dataset_name == "oldNepali_original":
-        train_dataset = load_dataset("data/oldNepali/original/train/labels.json")
-        eval_dataset = load_dataset("data/oldNepali/original/test/labels.json")
-    elif args.dataset_name == "oldNepaliDataset3":
-        train_dataset = load_dataset("data/oldNepaliDataset3/labels_train_processed.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset/labels_test_processed.json")
-    elif args.dataset_name == "oldNepaliDataset_new3":
-        train_dataset = load_dataset("data/oldNepaliDataset_new3/labels_train_processed_cleaned_newv9.json") # labels_train_processed_cleaned_new ---- labels_train_processed_cleaned_newv4
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv9.json")
-    elif args.dataset_name == "oldNepaliDataset_new5":
-        train_dataset = load_dataset("data/oldNepaliDataset_new5/labels_train_processed_cleaned_newv12.json") # labels_train_processed_cleaned_newv9 ----- labels_train_processed_cleaned
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-    elif args.dataset_name == "oldNepaliDataset_new8":
-        train_dataset = load_dataset("data/oldNepaliDataset_new8/labels_train_processed_cleaned_newv12.json") # labels_train_processed_cleaned_newv9 ----- labels_train_processed_cleaned
-        eval_dataset = load_dataset("splits/labels_val.json")
-        val_dataset = eval_dataset
-        test_dataset = load_dataset("splits/labels_test.json")
-        # eval_dataset = eval_dataset.shuffle(seed=42)
-        # test_dataset = eval_dataset.select(range(150))
-        # val_dataset = eval_dataset.select(range(150, len(eval_dataset)))
-        # eval_dataset = test_dataset
-        # print("length of eval_dataset:", len(eval_dataset))
-        # print("length of val_dataset:", len(val_dataset))
-    elif args.dataset_name == "oldNepaliDataset_new10_v2":
-        train_dataset = load_dataset("data/oldNepaliDataset_new10_v2/labels_train_processed_cleaned_newv12_shuffled.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-    elif args.dataset_name == "oldNepaliDataset_binarized3":
-        train_dataset = load_dataset("data/oldNepaliDataset_binarized3/labels_train_processed_cleaned.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_binarized/labels_test_processed_cleaned.json")
-    elif args.dataset_name == "oldNepaliSynthetic_difficult_2k_clean_vnoisy":
-        dataset = load_dataset("data/oldNepaliSynthetic_difficult_2k_clean_vnoisy/labels.json")
-        split_dataset = dataset.train_test_split(train_size=1600, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "new_synthetic_vnoisy":
-        dataset = load_dataset("data/new_synthetic_vnoisy/labels.json")
-        split_dataset = dataset.train_test_split(test_size = 0.1, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(1000))
-    elif args.dataset_name == "top5_confusion_lines_1000_vnoisy":
-        dataset = load_dataset("data/top5_confusion_lines_1000_vnoisy/labels.json")
-        split_dataset = dataset.train_test_split(train_size = 900, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "handwritten_aug8":
-        train_dataset = load_dataset("data/handwritten/labels_handwritten_v12_aug8_shuffled.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-    elif args.dataset_name == "char_htr_aug8":
-        train_dataset = load_dataset("data/char_htr_aug8/labels_train_processed.json")
-        eval_dataset = load_dataset("data/char_htr_aug8/labels_test_processed.json")
-    elif args.dataset_name == "char_htr_aug8_nosplit":
-        dataset = load_dataset("data/char_htr_aug8_nosplit/labels.json")
-        split_dataset = dataset.train_test_split(train_size = 0.99, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "oldNepaliDataset_new8_chava":
-        train_dataset = load_dataset("data/oldNepaliDataset_new8/labels_train_cha_v12.json") # labels_train_processed_cleaned_newv9 ----- labels_train_processed_cleaned
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-    elif args.dataset_name == "dev_char_kaggle":
-        dataset = load_dataset("data/dev_char_kaggle/labels.json")
-        split_dataset = dataset.train_test_split(train_size = 12000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "oldNepaliDataset_new12":
-        train_dataset = load_dataset("data/oldNepaliDataset_new12/labels_train.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-    elif args.dataset_name == "oldNepaliDataset_new16":
-        train_dataset = load_dataset("data/oldNepaliDataset_new16/labels_train.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
+        train_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_train_raw.json")
+        eval_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_test_raw.json")
         test_dataset = eval_dataset
-        val_dataset = eval_dataset 
-        # eval_dataset = eval_dataset.shuffle(seed=41)
-        # test_dataset = eval_dataset.select(range(150))
-        # val_dataset = eval_dataset.select(range(150, len(eval_dataset)))
-        # eval_dataset = test_dataset
-        # print("length of eval_dataset:", len(eval_dataset))
-        # print("length of val_dataset:", len(val_dataset))
-    elif args.dataset_name == "oldNepaliDataset_new18":
-        train_dataset = load_dataset("data/oldNepaliDataset_new18/labels_train.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-        test_dataset = eval_dataset
-        val_dataset = eval_dataset
-    elif args.dataset_name == "oldNepaliDataset_new8_new":
-        train_dataset = load_dataset("data/oldNepaliDataset_new8_new/labels_train.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/new/test.json")
-        # test_dataset = eval_dataset.select(range(150))
-        # val_dataset = eval_dataset.select(range(150, len(eval_dataset)))
-        test_dataset = eval_dataset
-        val_dataset = eval_dataset
-        print("length of eval_dataset:", len(eval_dataset))
-        print("length of val_dataset:", len(val_dataset))
-    elif args.dataset_name == "handwriiten_aug5":
-        train_dataset = load_dataset("data/handwriiten_aug5/labels_train.json")
-        eval_dataset = train_dataset
-        test_dataset = eval_dataset
-        val_dataset = eval_dataset
-    elif args.dataset_name =="oldNepaliDataset_new8_synth15":
-        train_dataset = load_dataset("data/oldNepaliDataset_new8_synth15/labels_train.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed_cleaned_newv12.json")
-        test_dataset = eval_dataset
-        val_dataset = eval_dataset
-    elif args.dataset_name == "oldNepaliDataset_new8_val":
-        train_dataset = load_dataset("data/oldNepaliDataset_new8_val/labels_train.json")
-        eval_dataset = load_dataset("splits/labels_test.json")
-        val_dataset=eval_dataset
-        test_dataset = eval_dataset
-    elif args.dataset_name == "oldNepaliDataset_new_42":
-        train_dataset = load_dataset("data/oldNepaliDataset_new_42_aug16/labels_train.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new_42/labels_test.json")
-        test_dataset = eval_dataset
-        val_dataset = load_dataset("data/oldNepaliDataset_new_42/labels_val.json")
+        val_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_val_raw.json")
     elif args.dataset_name == "oldNepali_aug16":
         train_dataset = load_dataset("data/oldNepali_aug16/labels_train.json")
         eval_dataset = load_dataset("data/oldNepali/processed/labels_test.json")
         test_dataset = eval_dataset
         val_dataset = load_dataset("data/oldNepali/processed/labels_val.json")
-    elif args.dataset_name == "oldNepali":
-        train_dataset = load_dataset("data/oldNepali/processed/labels_train_raw.json")
-        eval_dataset = load_dataset("data/oldNepali/processed/labels_test_raw.json")
-        test_dataset = eval_dataset
-        val_dataset = load_dataset("data/oldNepali/processed/labels_val_raw.json")
+
     
     else:
         raise ValueError(f"Unknown dataset name: {args.dataset_name}")
@@ -219,22 +80,15 @@ def main(args):
     print(f"Test  dataset size: {len(test_dataset)} examples")
 
     # tokenizer
-    if args.use_full_trocr:
-        model_path = "microsoft/" + args.full_torcr_model_name
-        print("Using full TrOCR tokenizer and processor from:", model_path)
-        processor = TrOCRProcessor.from_pretrained(model_path)
-        tokenizer = processor.tokenizer
-        feature_extractor = processor.feature_extractor 
+    if args.finetune_from_model: # if finetuning from a pretrained model, load the tokenizer from the model (esp for nagari and oldNepali)
+        model_path = args.finetune_from_model
+        print(f"Loading tokenizer from: {model_path}")
+        tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
     else:
-        if args.finetune_from_model: # if finetuning from a pretrained model, load the tokenizer from the model (esp for nagari and oldNepali)
-            model_path = args.finetune_from_model
-            print(f"Loading tokenizer from: {model_path}")
-            tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
-        else:
-            tokenizer_dir = os.path.join("tokenizer", args.tokenizer_type + "_" + str(args.vocab_size))
-            print(f"Loading tokenizer from: {tokenizer_dir}")
-            tokenizer = PreTrainedTokenizerFast.from_pretrained(tokenizer_dir)
-    
+        tokenizer_dir = os.path.join("tokenizer", args.tokenizer_type + "_" + str(args.vocab_size))
+        print(f"Loading tokenizer from: {tokenizer_dir}")
+        tokenizer = PreTrainedTokenizerFast.from_pretrained(tokenizer_dir)
+
 
     print("\n Debugging and checking the tokenizer:")
     print(f"  Vocab size: {len(tokenizer)}")
@@ -243,12 +97,8 @@ def main(args):
     print(f"  EOS token: {tokenizer.eos_token} (ID: {tokenizer.eos_token_id})\n")
 
     # processor
-    if args.use_full_trocr:
-        model_path = "microsoft/" + args.full_torcr_model_name
-        print("Loading processor from: ", model_path)
-    else:
-        model_path = "microsoft/" + args.encoder
-        print("Loading processor from: ", model_path)
+    model_path = "microsoft/" + args.encoder
+    print("Loading processor from: ", model_path)
 
     if args.encoder == "swin" or args.encoder == "swin_from_scratch":
         print("using swin feature extractor")
@@ -268,22 +118,32 @@ def main(args):
 
 
     # model    
-    if args.use_full_trocr:
-        print("Using full TrOCR model (encoder + decoder)")
-        full_trocr_model = "microsoft/" + args.full_torcr_model_name
-        model = VisionEncoderDecoderModel.from_pretrained(full_trocr_model)
+    if args.finetune_from_model:
+        print(f"Finetuning from: {args.finetune_from_model}")
+        model = VisionEncoderDecoderModel.from_pretrained(args.finetune_from_model)
+    elif args.encoder in ("swin", "swin_from_scratch"):
+        print("Using encoder:", args.encoder)
+        if args.encoder == "swin_from_scratch":
+            encoder = SwinModel(SwinConfig())  
+        else:
+            encoder = SwinModel.from_pretrained(
+                "microsoft/swin-base-patch4-window7-224-in22k"
+            )
+        decoder_config = BertConfig(
+            is_decoder=True,
+            add_cross_attention=True,
+            vocab_size=len(tokenizer),
+            pad_token_id=tokenizer.pad_token_id,
+            eos_token_id=tokenizer.eos_token_id
+        )
+        decoder = BertLMHeadModel(decoder_config)
+        # full model -- swin
+        model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
     else:
-        if args.finetune_from_model:
-            print(f"Finetuning from: {args.finetune_from_model}")
-            model = VisionEncoderDecoderModel.from_pretrained(args.finetune_from_model)
-        elif args.encoder in ("swin", "swin_from_scratch"):
-            print("Using encoder:", args.encoder)
-            if args.encoder == "swin_from_scratch":
-                encoder = SwinModel(SwinConfig())  
-            else:
-                encoder = SwinModel.from_pretrained(
-                    "microsoft/swin-base-patch4-window7-224-in22k"
-                )
+        trocr_model = "microsoft/" + args.encoder
+        encoder = VisionEncoderDecoderModel.from_pretrained(trocr_model).encoder
+    
+        if args.decoder == "bert":
             decoder_config = BertConfig(
                 is_decoder=True,
                 add_cross_attention=True,
@@ -292,38 +152,23 @@ def main(args):
                 eos_token_id=tokenizer.eos_token_id
             )
             decoder = BertLMHeadModel(decoder_config)
-            # full model -- swin
-            model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
-        else:
-            trocr_model = "microsoft/" + args.encoder
-            encoder = VisionEncoderDecoderModel.from_pretrained(trocr_model).encoder
         
-            if args.decoder == "bert":
-                decoder_config = BertConfig(
-                    is_decoder=True,
-                    add_cross_attention=True,
-                    vocab_size=len(tokenizer),
-                    pad_token_id=tokenizer.pad_token_id,
-                    eos_token_id=tokenizer.eos_token_id
-                )
-                decoder = BertLMHeadModel(decoder_config)
-            
-            elif args.decoder == "gpt2":
-                decoder_config = GPT2Config(
-                    is_decoder=True,
-                    add_cross_attention=True,
-                    vocab_size=len(tokenizer),
-                    pad_token_id=tokenizer.pad_token_id,
-                    eos_token_id=tokenizer.eos_token_id,
-                    bos_token_id=tokenizer.bos_token_id,
-                )
-                decoder = GPT2LMHeadModel(decoder_config)
-            
-            else:
-                raise ValueError(f"unsupported decoder type: {args.decoder}")
-            
-            # full model 
-            model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
+        elif args.decoder == "gpt2":
+            decoder_config = GPT2Config(
+                is_decoder=True,
+                add_cross_attention=True,
+                vocab_size=len(tokenizer),
+                pad_token_id=tokenizer.pad_token_id,
+                eos_token_id=tokenizer.eos_token_id,
+                bos_token_id=tokenizer.bos_token_id,
+            )
+            decoder = GPT2LMHeadModel(decoder_config)
+        
+        else:
+            raise ValueError(f"unsupported decoder type: {args.decoder}")
+        
+        # full model 
+        model = VisionEncoderDecoderModel(encoder=encoder, decoder=decoder)
 
     # configs for the model
     model.config.decoder_start_token_id = tokenizer.cls_token_id
@@ -368,7 +213,7 @@ def main(args):
         eval_steps=1000, 
         logging_steps=100,
         warmup_steps=500,
-        num_train_epochs=20,
+        num_train_epochs=25,
         learning_rate=3e-5,
         weight_decay=0.01,
         predict_with_generate=True,
@@ -394,21 +239,21 @@ def main(args):
     start_time = time.time()
     trainer.train()
 
+    # logging
     end_time = time.time()
     elapsed_time = end_time - start_time
     formatted_time = str(datetime.utcfromtimestamp(elapsed_time).strftime('%H:%M:%S'))
     
 
-
+    # save trained model and tokenizer
     trainer.save_model(args.model_dir)
     tokenizer.save_pretrained(args.model_dir)
 
-    # --- Timing and Evaluation ---
+    # logging eval
     end_time = time.time()
     elapsed_time = end_time - start_time
     formatted_time = str(datetime.utcfromtimestamp(elapsed_time).strftime('%H:%M:%S'))
 
-    # --- Final Evaluation ---
     results = trainer.evaluate(test_ds)
     results["train_time"] = formatted_time
     results["model_name"] = args.model_name
@@ -420,23 +265,14 @@ def main(args):
     results["tokenizer_type"] = args.tokenizer_type
     results["vocab_size"] = args.vocab_size
 
-    # --- CSV Log Path ---
     csv_file = os.path.join(args.model_dir, f"{args.model_name}_log.csv")
     os.makedirs(os.path.dirname(csv_file), exist_ok=True)
-
-    # --- Write to CSV ---
     write_header = not os.path.exists(csv_file)
     with open(csv_file, "a", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=results.keys())
         if write_header:
             writer.writeheader()
         writer.writerow(results)
-
-    # --- Print Summary ---
-    print("\n📊 Training Summary:")
-    for k, v in results.items():
-        print(f"  {k}: {v}")
-
 
     print("Final Evaluation:", trainer.evaluate(test_ds))
     wandb.finish()
@@ -448,7 +284,7 @@ def main(args):
 # oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_name", type=str, choices = ['nagari', 'char_htr_aug8_nosplit', 'oldNepali','oldNepaliDataset_new_42', 'handwriiten_aug5', 'dev_char_kaggle', 'oldNepaliDataset_new8_chava', 'char_htr_aug8', 'oldNepaliSynthetic', 'oldNepali', 'top5_confusion_lines_1000_vnoisy', 'oldNepaliSynthetic_difficult_2k_clean_vnoisy', 'new_synthetic_vnoisy', 'oldNepaliDataset_new7', 'oldNepaliDataset_binarized3', 'oldNepaliSynthetic30k', 'oldNepaliSynthetic_105k', 'nagari_original', 'oldNepali_original', 'oldNepaliSynthetic_105k_vnoisy', 'oldNepaliDataset', 'oldNepaliDataset3', 'oldNepaliDataset_new3', 'oldNepaliDataset_new5', 'oldNepaliDataset_new8', "oldNepaliDataset_new10_v2", "handwritten_aug8", 'oldNepaliDataset_new12', 'oldNepaliDataset_new16', 'oldNepaliDataset_new8_new', 'oldNepaliDataset_new18', 'oldNepaliDataset_new8_synth15', 'oldNepaliDataset_new8_val', 'oldNepaliDataset_new_v2_16', 'oldNepali_aug16' ], default="oldNepaliSynthetic")
+    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'nagari_original', 'nagari', 'oldNepali_original','oldNepali_aug16'], default="oldNepaliSynthetic")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for initialization")
 
     # model setup args
@@ -460,11 +296,6 @@ if __name__ == "__main__":
     # finetuning args   
     parser.add_argument("--finetune_from_model", type=str, default=None, help="Path to pretrained model to finetune from")
    
-   # args if you want to use base TrOCR (trocr as it is)
-    parser.add_argument("--use_full_trocr", action="store_true", help="set this if you want to use TrOCR as it is (both encoder and decoder).")
-    parser.add_argument("--full_torcr_model_name", type=str, choices=["trocr-small-handwritten", "trocr-base-handwritten", "trocr-large-handwritten"], default="trocr-base-handwritten",help="Full TrOCR model (only used if --use_full_trocr is set)")
-
-
     args = parser.parse_args()
 
     # model name configurations
@@ -472,10 +303,7 @@ if __name__ == "__main__":
         model_base = os.path.basename(args.finetune_from_model.strip("/"))
         args.model_name = f"{model_base}_finetuned_on_{args.dataset_name}"
     else: 
-        if args.use_full_trocr:
-            args.model_name = f"full-trocr-{args.dataset_name}"
-        else:
-            args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
+        args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
         
     args.model_dir = os.path.join("models/trained/", args.model_name)
 
