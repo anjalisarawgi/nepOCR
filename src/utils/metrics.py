@@ -16,11 +16,11 @@ def compute_metrics(predictions, tokenizer):
     label_ids = predictions.label_ids
     label_ids[label_ids == -100] = tokenizer.pad_token_id
 
-    pred_str = tokenizer.batch_decode(pred_ids, skip_special_tokens=True)
-    label_str = tokenizer.batch_decode(label_ids, skip_special_tokens=True)
+    pred_str = tokenizer.batch_decode(pred_ids, skip_special_tokens=True) # convert to strings
+    label_str = tokenizer.batch_decode(label_ids, skip_special_tokens=True) # convert to strings
 
-    pred_str = [clean_text(p) for p in pred_str]
-    label_str = [clean_text(l) for l in label_str]
+    pred_str = [clean_text(p) for p in pred_str] # clean up text
+    label_str = [clean_text(l) for l in label_str] # clean up text
 
     # CER
     cer = cer_metric(pred_str, label_str)

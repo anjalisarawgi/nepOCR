@@ -50,7 +50,8 @@ def main(args):
         split_dataset = dataset.train_test_split(train_size=80000, seed=args.seed)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(1000))
+        eval_dataset = eval_dataset.select(range(0, 2500))
+        test_dataset = eval_dataset.select(range(2500, 5000))
     elif args.dataset_name == "nagari":
         train_dataset = load_dataset("data/nagari/augmented3/train/labels.json")
         test_dataset = load_dataset("data/nagari/augmented3/test/labels.json")
@@ -70,6 +71,10 @@ def main(args):
         train_dataset = load_dataset("data/oldNepali/processed/labels_train_raw.json")
         test_dataset = load_dataset("data/oldNepali/processed/labels_test_raw.json")
         val_dataset = load_dataset("data/oldNepali/processed/labels_val_raw.json")
+    elif args.dataset_name == "oldNepali_final":
+        train_dataset = load_dataset("data/oldNepali_aug16/labels_train.json")
+        test_dataset = load_dataset("data/oldNepali/processed/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali/processed/labels_val.json")
     else:
         raise ValueError(f"Unknown dataset name: {args.dataset_name}")
 
@@ -108,7 +113,7 @@ def main(args):
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
         eval_strategy="steps",
-        eval_steps=1000,
+        eval_steps=100000,
         logging_steps=100,
         warmup_steps=500,
         num_train_epochs=20,

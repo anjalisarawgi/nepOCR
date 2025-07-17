@@ -5,7 +5,7 @@ import re
 # _DEV_DIGITS = str.maketrans("०१२३४५६७८९", "0123456789")
 
 VIRAMA = "\u094D" 
-_DIGITS      = str.maketrans("०१२३४५६७८९０１２３４５６７８९", "01234567890123456789")
+_DIGITS      = str.maketrans("०१२३४५६७८९０１２３４５６７８९", "01234567890123456789") ###
 _INVIS       = re.compile(r"[\u200B-\u200D\u00AD]")    
 _DASH        = re.compile(r"[–—−]")          
 _BULLET      = re.compile(r"[·•‧∙]")         
@@ -13,8 +13,7 @@ _MULTIDOT    = re.compile(r"\.{3,}")
 _WHITESPACE  = re.compile(r"[ \t\u00A0]+")   
 _QUOTES        = re.compile(r'[“”]')         
 _STRIP_SINGLE  = re.compile(r"[`'‘’]")   
-_NUKTA = re.compile(r"\u093C") # NUKTA (dot below) → nothing
-_DIGIT_RUN    = re.compile(r"[0-9०१२३४५६७८९]+")
+_NUKTA = re.compile(r"\u093C") # NUKTA (dot below) → nothing ###
 
 
 def remove_combining_with_logging(s):
@@ -28,12 +27,12 @@ def remove_combining_with_logging(s):
 
 def normalize_text(s):
     s = unicodedata.normalize("NFKC", s)
-    s = _INVIS.sub("", s)
-    s = _DASH.sub("-", s)       
-    s = _BULLET.sub(".", s)     
-    s = _MULTIDOT.sub("..", s)
-    s = s.replace("|", "।")
-    s = s.replace("||", "॥")
+    s = _INVIS.sub("", s)                       # remove invisible characters
+    s = _DASH.sub("-", s)                       # dash → hyphen
+    s = _BULLET.sub(".", s)                     # bullet → dot
+    s = _MULTIDOT.sub("..", s)                  # multiple dots → two dots
+    s = s.replace("|", "।")                     # pipe → danda 
+    s = s.replace("||", "॥")                    # double # pipe → double danda 
     s = s.replace("(", "").replace(")", "")
     s = s.replace('\"', "।")
     s = _WHITESPACE.sub(" ", s).strip()
@@ -45,8 +44,7 @@ def normalize_text(s):
     s = remove_combining_with_logging(s) # removes all combining characters except for VIRAMA
     # s = s.replace("¯", "") # remove upper dash
     s = s.replace(" ", "").replace("\u00A0", "").replace("\t", "") # remove all spaces
-    s = _NUKTA.sub("", s) # remove NUKTA
-    # s = s.replace("॥", "..")
+    s = _NUKTA.sub("", s)  ###
     return s
 
 def main():

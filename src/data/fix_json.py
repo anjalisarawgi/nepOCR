@@ -1,20 +1,20 @@
 import json
 
-with open("data/handwritten/labels.json", "r", encoding="utf-8") as f:
+with open("data/nagari/augmented4/test/labels_test.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 for entry in data:
     path = entry["image_path"]
 
-    if "handwritten/" in path:
-        path = path.replace("handwritten/data/processed/", "data/handwritten/", 1)
+    if "data/nagari/augmented4/test/" in path:
+        path = path.replace("data/nagari/augmented4/test/", "", 1)
 
     # elif "datasetProcessedAugmented/" in path:
     #     path = path.replace("datasetProcessedAugmented/", "datasetProcessedAugmented/train/", 1)
 
     entry["image_path"] = path
 
-with open("data/handwritten/labels.json", "w", encoding="utf-8") as f:
+with open("data/nagari/augmented4/test/labels_test.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 

@@ -583,12 +583,12 @@ from glob import glob
 # === Mapping function names to callables ===
 AUGMENTATIONS = {
     # 'randomlines': lambda img: add_random_white_lines(img, 2, 2, 4),
-    # 'thin': thin_letters,
-    # 'fatten': fatten_letters,
-    'rotation': lambda img: apply_small_random_rotation(img, max_angle=3),
-    'blurredpatches': lambda img: add_random_blur_marks(img, 5, 3),
+    'thin': thin_letters,
+    'fatten': fatten_letters,
+    # 'rotation': lambda img: apply_small_random_rotation(img, max_angle=3),
+    # 'blurredpatches': lambda img: add_random_blur_marks(img, 5, 3),
     # 'graypatches': lambda img: add_random_gray_patches(img, 20, 20),
-    'elastic': lambda img: elastic_distortion(img, alpha=10, sigma=3),
+    # 'elastic': lambda img: elastic_distortion(img, alpha=10, sigma=3),
     # 'cutouts': lambda img: random_cutouts(img, 20, 20),
     'jitter': lambda img: grayscale_jitter(img, strength=20),
     'hstretch': lambda img: horizontal_stretch(img, scale_x=1.2),
@@ -597,20 +597,20 @@ AUGMENTATIONS = {
     # 'multiplicative': lambda img: add_multiplicative_noise(img, (50, 100)),
     # 'contrast': increase_contrast,
     # 'brightness': lambda img: increase_brightness(img, value=50), 
-    'elasticblur': elastic_blur, 
+    # 'elasticblur': elastic_blur, 
     # 'brightfatten': brighten_fatten,
-    "perspective": perspective_warp, 
-    'sine': lambda img: sine(img, amplitude=5, wavelength=100),
-    'horizontal': lambda img: horizontal(img, strength=0.002),
-    'jpeg': lambda img: add_jpeg_artifacts(img, quality=20), 
-    'shift': lambda img: random_shift(img, min_dx=5, max_dx=20, min_dy=5, max_dy=20),
-    'morph': lambda img: random_morph(img, min_kernel=2, max_kernel=4),
-    'saltpepper': salt_and_pepper, # upto here for augs 8 
-    "shear": lambda img: random_shear(img, shear_range=0.05), 
-    'motion_blur': lambda img: motion_blur(img, degree=5), 
-    'med_blur': lambda img: tiny_median_blur(img, k=3),
-    'gaussian_noise': lambda img: add_gaussian_noise(img, mean=0, std=6),
-    'sharpen':            sharpen,
+    # "perspective": perspective_warp, 
+    # 'sine': lambda img: sine(img, amplitude=5, wavelength=100),
+    # 'horizontal': lambda img: horizontal(img, strength=0.002),
+    # 'jpeg': lambda img: add_jpeg_artifacts(img, quality=20), 
+    # 'shift': lambda img: random_shift(img, min_dx=5, max_dx=20, min_dy=5, max_dy=20),
+    # 'morph': lambda img: random_morph(img, min_kernel=2, max_kernel=4),
+    # 'saltpepper': salt_and_pepper, # upto here for augs 8 
+    # "shear": lambda img: random_shear(img, shear_range=0.05), 
+    # 'motion_blur': lambda img: motion_blur(img, degree=5), 
+    # 'med_blur': lambda img: tiny_median_blur(img, k=3),
+    # 'gaussian_noise': lambda img: add_gaussian_noise(img, mean=0, std=6),
+    # 'sharpen':            sharpen,
     # 'black_smudges': lambda img: add_black_smudges(img, num_smudges=5, max_radius=10),
     # 'smear':         lambda img: random_smear(img, max_length=25),
     # # 'black_patches': lambda img: random_black_patches(img, num_patches=4, patch_size=12),
@@ -713,9 +713,9 @@ def augment_labels_json(
 # === USAGE ===
 if __name__ == '__main__':
     augment_labels_json(
-        labels_json_path   = 'data/oldNepali/processed/labels_train.json',
-        input_base_folder  = 'data/oldNepali/processed/images',
-        output_base_folder = 'data/oldNepali_aug16/images',
-        output_json_path   = 'data/oldNepali_aug16/labels_train.json',
-        num_augmentations  = 16
+        labels_json_path   = 'data/nagari/original/train/labels_train.json',
+        input_base_folder  = 'data/nagari/original/train/images_grayscaled',
+        output_base_folder = 'data/nagari/augmented4/train/images',
+        output_json_path   = 'data/nagari/augmented4/labels.json',
+        num_augmentations  = 4
     )

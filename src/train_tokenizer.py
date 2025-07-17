@@ -34,7 +34,7 @@ if __name__ == "__main__":
     
     corpus_path = "corpus/30k_nagari_oldNepali_v3.txt"
     tokenizer_type = "byteBPE"  
-    vocab_size = 500
+    vocab_size = 200
 
     tokenizer = train_tokenizer(
             corpus_path = corpus_path,

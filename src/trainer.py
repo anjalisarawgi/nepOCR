@@ -23,9 +23,17 @@ from utils.tokenizer import train_tokenizer
 from utils.callbacks import PrintPredictionsCallback
 from utils.metrics import compute_metrics
 # from utils.seed import set_all_seeds
+import time
+import csv
+import GPUtil
+from datetime import datetime
 
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+start_time = time.time()
+
+
 
 def main(args):
     set_seed(args.seed)
@@ -58,11 +66,20 @@ def main(args):
         dataset = load_dataset("data/oldNepaliSynthetic_105k_vnoisy/labels_processed.json")
         split_dataset = dataset.train_test_split(train_size=100000, seed=args.seed)
         train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(1000))
+        full_eval_dataset = split_dataset["test"]
+        eval_dataset = full_eval_dataset.select(range(0, 2500))
+        val_dataset = eval_dataset
+        test_dataset = full_eval_dataset.select(range(2500, len(full_eval_dataset)))
+    # elif args.dataset_name == "nagari":
+    #     train_dataset = load_dataset("data/nagari/augmented3/train/labels_cleaned_v2.json")
+    #     full_eval_dataset = load_dataset("data/nagari/augmented3/test/labels_cleaned_v2.json")
+    #     split = full_eval_dataset.train_test_split(train_size=0.5, shuffle=False)
+    #     val_dataset = split["train"]
+    #     test_dataset = split["test"]
     elif args.dataset_name == "nagari":
-        train_dataset = load_dataset("data/nagari/augmented3/train/labels_cleaned_v2.json")
-        eval_dataset = load_dataset("data/nagari/augmented3/test/labels_cleaned_v2.json")
+        train_dataset = load_dataset("data/nagari/augmented4/train/labels_train.json")
+        val_dataset = load_dataset("data/nagari/original/train/labels_val.json")
+        test_dataset = load_dataset("data/nagari/augmented4/test/labels_test.json")
     elif args.dataset_name == "nagari_original":
         train_dataset = load_dataset("data/nagari/original/train/labels.json")
         eval_dataset = load_dataset("data/nagari/original/test/labels.json")
@@ -188,6 +205,7 @@ def main(args):
         eval_dataset = load_dataset("data/oldNepali/processed/labels_test_raw.json")
         test_dataset = eval_dataset
         val_dataset = load_dataset("data/oldNepali/processed/labels_val_raw.json")
+    
     else:
         raise ValueError(f"Unknown dataset name: {args.dataset_name}")
 
@@ -197,7 +215,8 @@ def main(args):
     # eval_dataset = eval_dataset.select(range(50))
 
     print(f"Train dataset size: {len(train_dataset)} examples")
-    print(f"Eval  dataset size: {len(eval_dataset)} examples\n")
+    print(f"Eval  dataset size: {len(val_dataset)} examples\n")
+    print(f"Test  dataset size: {len(test_dataset)} examples")
 
     # tokenizer
     if args.use_full_trocr:
@@ -245,7 +264,7 @@ def main(args):
 
     # callback for printing predictions for debugging
     sample_batch = [test_ds[i] for i in range(5)]
-    print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=100)
+    print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=10000)
 
 
     # model    
@@ -328,6 +347,7 @@ def main(args):
     print(f"  num_beams: {model.config.num_beams}")
     print(f"  no_repeat_ngram_size: {model.config.no_repeat_ngram_size}")
     print(f"  early_stopping: {model.config.early_stopping}\n")
+    
 
     # small sample to check the model and tokenizre
     test_str = "बजारमा नयाँ पुस्तक आएको छ"
@@ -349,7 +369,7 @@ def main(args):
         logging_steps=100,
         warmup_steps=500,
         num_train_epochs=20,
-        learning_rate=3e-5, #1e-4,
+        learning_rate=3e-5,
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
@@ -371,12 +391,57 @@ def main(args):
         compute_metrics=lambda p: compute_metrics(p, tokenizer),
         callbacks=[print_callback]
     )
-
+    start_time = time.time()
     trainer.train()
+
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    formatted_time = str(datetime.utcfromtimestamp(elapsed_time).strftime('%H:%M:%S'))
+    
+
+
     trainer.save_model(args.model_dir)
     tokenizer.save_pretrained(args.model_dir)
+
+    # --- Timing and Evaluation ---
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    formatted_time = str(datetime.utcfromtimestamp(elapsed_time).strftime('%H:%M:%S'))
+
+    # --- Final Evaluation ---
+    results = trainer.evaluate(test_ds)
+    results["train_time"] = formatted_time
+    results["model_name"] = args.model_name
+    results["dataset_name"] = args.dataset_name
+    results["finetune_from_model"] = args.finetune_from_model or "None"
+    results["num_parameters"] = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    results["beam_size"] = model.config.num_beams
+    results["max_length"] = model.config.max_length
+    results["tokenizer_type"] = args.tokenizer_type
+    results["vocab_size"] = args.vocab_size
+
+    # --- CSV Log Path ---
+    csv_file = os.path.join(args.model_dir, f"{args.model_name}_log.csv")
+    os.makedirs(os.path.dirname(csv_file), exist_ok=True)
+
+    # --- Write to CSV ---
+    write_header = not os.path.exists(csv_file)
+    with open(csv_file, "a", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=results.keys())
+        if write_header:
+            writer.writeheader()
+        writer.writerow(results)
+
+    # --- Print Summary ---
+    print("\n📊 Training Summary:")
+    for k, v in results.items():
+        print(f"  {k}: {v}")
+
+
     print("Final Evaluation:", trainer.evaluate(test_ds))
     wandb.finish()
+
+    
 
 # always make sure to define dataset_name (finetuning from scratch)
 # always make sure to define dataset_name + finetune_from_model (finetuning from the pretrained model)
@@ -412,7 +477,7 @@ if __name__ == "__main__":
         else:
             args.model_name = f"{args.encoder}-{args.decoder.upper()}-{args.dataset_name}-{args.tokenizer_type}-{args.vocab_size}"
         
-    args.model_dir = os.path.join("models", args.model_name)
+    args.model_dir = os.path.join("models/trained/", args.model_name)
 
 
     main(args)
