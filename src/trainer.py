@@ -204,16 +204,22 @@ def main(args):
     print(f"  Decoded: {decoded}")
     print(f"  Tokens: {tokens}")
 
+    # eval steps  (preferable per epoch)
+    num_epochs = 20
+    total_steps = len(train_ds) // 8 * num_epochs
+    eval_steps = total_steps // num_epochs
+    print(f"Total training steps: {total_steps}, Eval steps: {eval_steps}")
+
     # training
     training_args = Seq2SeqTrainingArguments(
         output_dir=args.model_dir,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
         eval_strategy="steps",
-        eval_steps=1000, 
+        eval_steps= eval_steps, 
         logging_steps=100,
         warmup_steps=500,
-        num_train_epochs=25,
+        num_train_epochs=num_epochs,
         learning_rate=3e-5,
         weight_decay=0.01,
         predict_with_generate=True,
