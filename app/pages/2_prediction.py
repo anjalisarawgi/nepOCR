@@ -10,7 +10,7 @@ def load_model():
     model_path = "AnjaliSarawgi/test-ocr-v5"
     model = VisionEncoderDecoderModel.from_pretrained(model_path)
     tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
-    processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
+    processor = TrOCRProcessor.from_pretrained("microsoft/trocr-large-handwritten")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device).eval()
     return model, tokenizer, processor.feature_extractor, device
