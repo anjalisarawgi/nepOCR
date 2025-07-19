@@ -220,7 +220,7 @@ def main(args):
         logging_steps=100,
         warmup_steps=500,
         num_train_epochs=num_epochs,
-        learning_rate=3e-5,
+        learning_rate=3e-5, 
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
@@ -229,7 +229,7 @@ def main(args):
         save_strategy="no",
         gradient_accumulation_steps=2,
         dataloader_num_workers=4,
-        dataloader_pin_memory=True
+        dataloader_pin_memory=True,
     )
 
     trainer = Seq2SeqTrainer(
