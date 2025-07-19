@@ -17,44 +17,6 @@ def load_dataset(json_path, add_sep_token: bool = False):
     return Dataset.from_pandas(df[["image_path", "text"]])
 
 
-def preprocess_dataset(dataset, tokenizer, feature_extractor, max_length):
-    images, labels = [], []
-    for item in tqdm(dataset, desc="Preprocessing dataset"):
-        image = Image.open(item["image_path"]).convert("RGB") # rgb only required for trocr
-        pixel = feature_extractor(images=image, return_tensors = "pt", size=(384,384)).pixel_values[0] # only required for trocr
-        # token_ids = tokenizer.encode(item["text"], add_special_tokens=False) # converting labels to token ids
-        # token_ids = token_ids[:max_length] + [tokenizer.eos_token_id] # [SEP]
-        # token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids)) # padding
-        token_ids = tokenizer.encode(item["text"], add_special_tokens=False)
-        if len(token_ids) >= max_length:
-            token_ids = token_ids[:max_length-1]  # reserve space for EOS
-        token_ids = token_ids + [tokenizer.eos_token_id] 
-        token_ids += [tokenizer.pad_token_id] * (max_length - len(token_ids))  # pad to max_length
-
-        labels_tensor = torch.tensor([i if i != tokenizer.pad_token_id else -100 for i in token_ids]) # -100 for padding and convert to tensor
-
-        images.append(pixel)
-        labels.append(labels_tensor)
-
-    return images, labels 
-
-
-class OCRTorchDataset(torch.utils.data.Dataset):
-    def __init__(self, images, labels):
-        self.images = images
-        self.labels = labels
-
-    def __len__(self):
-        return len(self.images)
-    
-    def __getitem__(self, idx):
-        return {
-            "pixel_values": self.images[idx], 
-            "labels": self.labels[idx]
-        }
-    
-
-
 
 class OCRLazyDataset(torch.utils.data.Dataset):
     def __init__(self, dataset, tokenizer, feature_extractor, max_length=100):
@@ -71,17 +33,25 @@ class OCRLazyDataset(torch.utils.data.Dataset):
         image = Image.open(item["image_path"]).convert("RGB")
         pixel = self.feature_extractor(images=image, return_tensors="pt", size=(384, 384)).pixel_values[0]
 
+        # Tokenize + truncate + add eos + pad
         token_ids = self.tokenizer.encode(item["text"], add_special_tokens=False)
         if len(token_ids) >= self.max_length:
             token_ids = token_ids[:self.max_length - 1]
         token_ids = token_ids + [self.tokenizer.eos_token_id]
         token_ids += [self.tokenizer.pad_token_id] * (self.max_length - len(token_ids))
+
         labels_tensor = torch.tensor([i if i != self.tokenizer.pad_token_id else -100 for i in token_ids])
+        decoder_attention_mask = torch.tensor([1 if t != self.tokenizer.pad_token_id else 0 for t in token_ids])
 
-        return {"pixel_values": pixel, "labels": labels_tensor}
+        return {
+            "pixel_values": pixel,
+            "labels": labels_tensor,
+            "decoder_attention_mask": decoder_attention_mask,
+        }
+    
 
-def collate_fn(batch):
-    return {
-        "pixel_values": torch.stack([b["pixel_values"] for b in batch]), 
-        "labels": torch.stack([b["labels"] for b in batch])
-    }
+# def collate_fn(batch):
+#     return {
+#         "pixel_values": torch.stack([b["pixel_values"] for b in batch]), 
+#         "labels": torch.stack([b["labels"] for b in batch]), 
+#     }

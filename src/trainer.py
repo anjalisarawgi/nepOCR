@@ -18,7 +18,7 @@ from transformers import (
     AutoFeatureExtractor, 
     SwinModel
 )
-from utils.data import load_dataset, preprocess_dataset, OCRTorchDataset, collate_fn, OCRLazyDataset
+from utils.data import load_dataset, OCRLazyDataset
 from utils.tokenizer import train_tokenizer
 from utils.callbacks import PrintPredictionsCallback
 from utils.metrics import compute_metrics
@@ -27,7 +27,7 @@ import time
 import csv
 import GPUtil
 from datetime import datetime
-from transformers import EarlyStoppingCallback
+from transformers import default_data_collator
 
 
 import os
@@ -111,13 +111,11 @@ def main(args):
     test_ds = OCRLazyDataset(test_dataset, tokenizer, feature_extractor, max_length=256)
     val_ds = OCRLazyDataset(val_dataset, tokenizer, feature_extractor, max_length=256)
 
+    print("train_ds sample:", train_ds[0])
+
     # callback for printing predictions for debugging
     sample_batch = [test_ds[i] for i in range(5)]
     print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=10000)
-    early_stop_callback = EarlyStoppingCallback(
-        early_stopping_patience=3,  # or any patience value you prefer
-        early_stopping_threshold=0.0  # how much improvement is considered significant
-    )
 
 
 
@@ -182,10 +180,10 @@ def main(args):
     
     # setting beam search params
     model.config.eos_token_id = tokenizer.eos_token_id
-    model.config.max_length = 256
-    model.config.early_stopping = True
-    model.config.no_repeat_ngram_size = 0
-    model.config.num_beams = 5
+    model.generation_config.max_length = 256
+    model.generation_config.early_stopping = True
+    model.generation_config.no_repeat_ngram_size = 0
+    model.generation_config.num_beams = 5
 
     print(" Checking model configuration:")
     print(f"  decoder_start_token_id: {model.config.decoder_start_token_id}")
@@ -238,6 +236,7 @@ def main(args):
         gradient_accumulation_steps=2,
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
+        run_name = args.model_name,
     )
 
     trainer = Seq2SeqTrainer(
@@ -245,10 +244,10 @@ def main(args):
         args=training_args,
         train_dataset=train_ds,
         eval_dataset=val_ds,  
-        data_collator=collate_fn,
+        data_collator=default_data_collator,
         tokenizer=tokenizer,
         compute_metrics=lambda p: compute_metrics(p, tokenizer),
-        callbacks=[print_callback, early_stop_callback]
+        callbacks=[print_callback]
     )
 
     start_time = time.time()
