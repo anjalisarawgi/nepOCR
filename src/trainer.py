@@ -27,12 +27,11 @@ import time
 import csv
 import GPUtil
 from datetime import datetime
+from transformers import EarlyStoppingCallback
+
 
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-
-start_time = time.time()
-
 
 
 def main(args):
@@ -115,6 +114,11 @@ def main(args):
     # callback for printing predictions for debugging
     sample_batch = [test_ds[i] for i in range(5)]
     print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=10000)
+    early_stop_callback = EarlyStoppingCallback(
+        early_stopping_patience=3,  # or any patience value you prefer
+        early_stopping_threshold=0.0  # how much improvement is considered significant
+    )
+
 
 
     # model    
@@ -204,29 +208,33 @@ def main(args):
     print(f"  Decoded: {decoded}")
     print(f"  Tokens: {tokens}")
 
-    # eval steps  (preferable per epoch)
-    num_epochs = 20
-    total_steps = len(train_ds) // 8 * num_epochs
-    eval_steps = total_steps // num_epochs
-    print(f"Total training steps: {total_steps}, Eval steps: {eval_steps}")
+    # # eval steps  (preferable per epoch)
+    # num_epochs = 20
+    # total_steps = len(train_ds) // 8 * num_epochs
+    # eval_steps = total_steps // num_epochs
+    # print(f"Total training steps: {total_steps}, Eval steps: {eval_steps}")
 
     # training
     training_args = Seq2SeqTrainingArguments(
         output_dir=args.model_dir,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
-        eval_strategy="steps",
-        eval_steps= eval_steps, 
+        eval_strategy="epoch",
+        # eval_steps= eval_steps, 
         logging_steps=100,
         warmup_steps=500,
-        num_train_epochs=num_epochs,
+        num_train_epochs=20, 
         learning_rate=3e-5, 
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
         report_to=["wandb"],
         max_grad_norm=0.5,
-        save_strategy="no",
+        save_strategy="epoch",
+        save_total_limit=1,
+        load_best_model_at_end=True, 
+        metric_for_best_model="cer", 
+        greater_is_better=False,  
         gradient_accumulation_steps=2,
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
@@ -240,47 +248,45 @@ def main(args):
         data_collator=collate_fn,
         tokenizer=tokenizer,
         compute_metrics=lambda p: compute_metrics(p, tokenizer),
-        callbacks=[print_callback]
+        callbacks=[print_callback, early_stop_callback]
     )
+
     start_time = time.time()
     trainer.train()
 
-    # logging
-    end_time = time.time()
-    elapsed_time = end_time - start_time
+    elapsed_time = time.time() - start_time
     formatted_time = str(datetime.utcfromtimestamp(elapsed_time).strftime('%H:%M:%S'))
-    
 
-    # save trained model and tokenizer
     trainer.save_model(args.model_dir)
     tokenizer.save_pretrained(args.model_dir)
 
-    # logging eval
-    end_time = time.time()
-    elapsed_time = end_time - start_time
-    formatted_time = str(datetime.utcfromtimestamp(elapsed_time).strftime('%H:%M:%S'))
+    # val set eval
+    results_val = trainer.evaluate(val_ds)
+    results_val["train_time"] = formatted_time
+    results_val["num_parameters"] = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    results_val["split"] = "val"
 
-    results = trainer.evaluate(test_ds)
-    results["train_time"] = formatted_time
-    results["model_name"] = args.model_name
-    results["dataset_name"] = args.dataset_name
-    results["finetune_from_model"] = args.finetune_from_model or "None"
-    results["num_parameters"] = sum(p.numel() for p in model.parameters() if p.requires_grad)
-    results["beam_size"] = model.config.num_beams
-    results["max_length"] = model.config.max_length
-    results["tokenizer_type"] = args.tokenizer_type
-    results["vocab_size"] = args.vocab_size
+    # test set eval
+    results_test = trainer.evaluate(test_ds)
+    results_test["train_time"] = formatted_time
+    results_test["num_parameters"] = results_val["num_parameters"]
+    results_test["split"] = "test"
 
+    # saving 
     csv_file = os.path.join(args.model_dir, f"{args.model_name}_log.csv")
     os.makedirs(os.path.dirname(csv_file), exist_ok=True)
     write_header = not os.path.exists(csv_file)
+
     with open(csv_file, "a", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=results.keys())
+        writer = csv.DictWriter(f, fieldnames=results_val.keys())
         if write_header:
             writer.writeheader()
-        writer.writerow(results)
+        writer.writerow(results_val)
+        writer.writerow(results_test)
 
-    print("Final Evaluation:", trainer.evaluate(test_ds))
+    print(" Results on test set:")
+    print(results_test)
+
     wandb.finish()
 
     
