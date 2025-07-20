@@ -59,6 +59,19 @@ def main(args):
         eval_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_test_raw.json")
         test_dataset = eval_dataset
         val_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_val_raw.json")
+    elif args.dataset_name == "oldNepali_cleaned":
+        train_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_train.json")
+        eval_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test.json")
+        test_dataset = eval_dataset
+        val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val.json")
+    elif args.dataset_name == "oldNepali_cleaned_v2":
+        train_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_train_nospace.json")
+        test_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test_nospace.json")
+        val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val_nospace.json")
+    elif args.dataset_name == "oldNepali_cleaned_v4":
+        train_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_train_v6.json")
+        test_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test_v6.json")
+        val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val_v6.json")
     elif args.dataset_name == "oldNepali_aug16":
         train_dataset = load_dataset("data/oldNepali_aug16/labels_train.json")
         eval_dataset = load_dataset("data/oldNepali/processed/labels_test.json")
@@ -111,11 +124,11 @@ def main(args):
     test_ds = OCRLazyDataset(test_dataset, tokenizer, feature_extractor, max_length=256)
     val_ds = OCRLazyDataset(val_dataset, tokenizer, feature_extractor, max_length=256)
 
-    print("train_ds sample:", train_ds[0])
+    # print("train_ds sample:", train_ds[0])
 
     # callback for printing predictions for debugging
     sample_batch = [test_ds[i] for i in range(5)]
-    print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=10000)
+    print_callback = PrintPredictionsCallback(sample_batch, tokenizer, print_every=1000)
 
 
 
@@ -295,7 +308,7 @@ def main(args):
 # oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'nagari_original', 'nagari', 'oldNepali_original','oldNepali_aug16'], default="oldNepaliSynthetic")
+    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'nagari_original', 'nagari', 'oldNepali_original','oldNepali_aug16', 'oldNepali_cleaned', 'oldNepali_cleaned_v2', 'oldNepali_cleaned_v4'], default="oldNepaliSynthetic")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for initialization")
 
     # model setup args

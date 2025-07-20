@@ -1,74 +1,78 @@
 import json
 import unicodedata
 import re
+from collections import defaultdict
 
-# _DEV_DIGITS = str.maketrans("०१२३४५६७८९", "0123456789")
+# Devanagari diacritics and marks
+VIRAMA = "\u094D"
+NUKTA = "\u093C"
+MACRON = "\u0304"
 
-VIRAMA = "\u094D" 
-_DIGITS      = str.maketrans("०१२३४५६७८९０１２３４５６７８९", "01234567890123456789") ###
-_INVIS       = re.compile(r"[\u200B-\u200D\u00AD]")    
-_DASH        = re.compile(r"[–—−]")          
-_BULLET      = re.compile(r"[·•‧∙]")         
-_MULTIDOT    = re.compile(r"\.{3,}")         
-_WHITESPACE  = re.compile(r"[ \t\u00A0]+")   
-_QUOTES        = re.compile(r'[“”]')         
-_STRIP_SINGLE  = re.compile(r"[`'‘’]")   
-_NUKTA = re.compile(r"\u093C") # NUKTA (dot below) → nothing ###
+# Patterns
+_PATTERNS = {
+    "removed_invis_chars": re.compile(r"[\u200B-\u200D\u00AD]"),
+    "bullet_to_dot": re.compile(r"[·•‧∙]"),
+    "removed_single_quotes": re.compile(r"[`'‘’]"),
+    "removed_whitespace": re.compile(r"\s+", re.UNICODE),
+}
 
-
-def remove_combining_with_logging(s):
-    removed = [c for c in s if unicodedata.combining(c) and c != VIRAMA]
-    if removed and VIRAMA not in s:
-        print("⚠️ Removed combining characters (no Virama found):")
-        for c in removed:
-            print(f"  {repr(c)} | U+{ord(c):04X} | {unicodedata.name(c, 'UNKNOWN')} | combining={unicodedata.combining(c)}")
-    return "".join(c for c in s if not (unicodedata.combining(c) and c != VIRAMA))
-
-
-def normalize_text(s):
+def normalize_text(s, counter):
     s = unicodedata.normalize("NFKC", s)
-    s = _INVIS.sub("", s)                       # remove invisible characters
-    s = _DASH.sub("-", s)                       # dash → hyphen
-    s = _BULLET.sub(".", s)                     # bullet → dot
-    s = _MULTIDOT.sub("..", s)                  # multiple dots → two dots
-    s = s.replace("|", "।")                     # pipe → danda 
-    s = s.replace("||", "॥")                    # double # pipe → double danda 
-    s = s.replace("(", "").replace(")", "")
-    s = s.replace('\"', "।")
-    s = _WHITESPACE.sub(" ", s).strip()
-    s = s.translate(_DIGITS)
-    # s = _DIGIT_RUN.sub("<NUM>", s)
-    s = _QUOTES.sub('"', s)
-    s = _STRIP_SINGLE.sub("", s)
-    # s = "".join(c for c in s if not unicodedata.combining(c)) 
-    s = remove_combining_with_logging(s) # removes all combining characters except for VIRAMA
-    # s = s.replace("¯", "") # remove upper dash
-    s = s.replace(" ", "").replace("\u00A0", "").replace("\t", "") # remove all spaces
-    s = _NUKTA.sub("", s)  ###
+
+    for key, pattern in _PATTERNS.items():
+        s, n = pattern.subn(
+            {
+                "bullet_to_dot": ".",
+                "removed_single_quotes": "",
+                "removed_invis_chars": "",
+                "removed_whitespace": "", 
+            }[key], s
+        )
+        if n:
+            counter[key] += n
+
+    if "||" in s:
+        s = s.replace("||", "॥")
+        counter["pipe_to_double_danda"] += 1
+    if "|" in s:
+        s = s.replace("|", "।")
+        counter["pipe_to_danda"] += 1
+
+    for char in "()":
+        if char in s:
+            counter["removed_parens"] += s.count(char)
+            s = s.replace(char, "")
+
+
+    # v6 - enable
+    if NUKTA in s:
+        counter["removed_nukta"] += s.count(NUKTA)
+        s = s.replace(NUKTA, "")
+
+    if MACRON in s:
+        counter["removed_macrons"] += s.count(MACRON)
+        s = s.replace(MACRON, "")
+
+    s = s.strip()
     return s
 
 def main():
-    with open("data/oldNepali/processed/labels.json", encoding="utf8") as f:
+    input_path = "data/oldNepali/processed/raw_labels/labels_test_raw.json"
+    output_path = "data/oldNepali/processed/normalized_labels/labels_test_v6.json"
+
+    with open(input_path, encoding="utf8") as f:
         labels = json.load(f)
 
-    cleaned = []
+    counter = defaultdict(int)
     for rec in labels:
-        orig = rec["text"]
-        norm = normalize_text(orig)
-        rec["text"] = norm        
-        cleaned.append(rec)
+        rec["text"] = normalize_text(rec["text"], counter)
 
-    out_path = "data/oldNepali/processed/labels_cleaned.json"
-    with open(out_path, "w", encoding="utf8") as f:
-        json.dump(cleaned, f, ensure_ascii=False, indent=2)
-    print(f"Wrote cleaned labels to: {out_path}\n")
+    with open(output_path, "w", encoding="utf8") as f:
+        json.dump(labels, f, ensure_ascii=False, indent=2)
 
-    print(f"{'ORIGINAL':40s} ↦ NORMALIZED")
-    print("-"*80)
-    for rec in labels[:5]:
-        before = rec["text"] 
-        after  = normalize_text(before)
-        print(f"{before!r:40s} ↦ {after!r}")
+    print(f"\n Summary of changes:")
+    for k, v in sorted(counter.items()):
+        print(f"  {k:<30s}: {v}")
 
 if __name__ == "__main__":
     main()
