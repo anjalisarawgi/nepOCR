@@ -68,6 +68,10 @@ def main(args):
         eval_dataset = load_dataset("data/oldNepali/processed/labels_test.json")
         test_dataset = eval_dataset
         val_dataset = load_dataset("data/oldNepali/processed/labels_val.json")
+    elif args.dataset_name == 'oldNepali_augment16':
+        train_dataset = load_dataset("data/oldNepali_augment16/labels.json")
+        test_dataset = load_dataset("data/oldNepali/processed/cleaned_labels/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali/processed/cleaned_labels/labels_val.json")
 
     
     else:
@@ -299,7 +303,7 @@ def main(args):
 # oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'nagari_original', 'nagari', 'oldNepali_original','oldNepali_aug16','oldNepali_normalized'], default="oldNepaliSynthetic")
+    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'nagari_original', 'nagari', 'oldNepali_original','oldNepali_aug16','oldNepali_normalized', 'oldNepali_augment16'], default="oldNepaliSynthetic")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for initialization")
 
     # model setup args

@@ -46,11 +46,11 @@ def normalize_text(s, counter):
             s = s.replace(char, "")
 
 
-    # v6 - enable
+    # # v6 - enable
     if "\\" in s:
         counter["removed_backslashes"] += s.count("\\")
         s = s.replace("\\", "")
-    
+
 
     if NUKTA in s:
         counter["removed_nukta"] += s.count(NUKTA)
@@ -59,7 +59,7 @@ def normalize_text(s, counter):
     matches = MACRON_PATTERN.findall(s)
     if matches:
         counter["removed_macrons"] += sum(len(m) for m in matches)
-        s = MACRON_PATTERN.sub("-", s)
+        s = MACRON_PATTERN.sub("", s)
 
 
     s = s.strip()
