@@ -6,7 +6,7 @@ from PIL import Image
 import io, csv
 
 @st.cache_resource
-def load_model():
+def load_model(dummy_version: str = "v6.1"): 
     model_path = "AnjaliSarawgi/test-ocr-v6Large"
     model = VisionEncoderDecoderModel.from_pretrained(model_path)
     tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
@@ -58,7 +58,7 @@ def main():
         choices   = ["All"] + [name for name, _ in crops]
         selection = st.selectbox("Which line(s) to OCR?", choices)
 
-        model, tokenizer, feat_ext, device = load_model()
+        model, tokenizer, feat_ext, device = load_model("v6.1")
 
         if st.button("Run OCR & Show"):
             to_run = (
