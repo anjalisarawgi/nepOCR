@@ -713,9 +713,9 @@ def augment_labels_json(
 # === USAGE ===
 if __name__ == '__main__':
     augment_labels_json(
-        labels_json_path   = 'data/oldNepali/processed/cleaned_labels/labels_train.json',
+        labels_json_path   = 'data/oldNepali/processed/processed_labels/labels_train_v2.json',
         input_base_folder  = 'data/oldNepali/processed/images/',
-        output_base_folder = 'data/oldNepali_augment4/images',
-        output_json_path   = 'data/oldNepali_augment4/labels.json',
-        num_augmentations  = 4
+        output_base_folder = 'data/oldNepali_augs16/images',
+        output_json_path   = 'data/oldNepali_augs16/labels.json',
+        num_augmentations  = 16
     )
