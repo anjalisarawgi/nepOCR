@@ -9,15 +9,15 @@ from transformers import VisionEncoderDecoderModel, TrOCRProcessor, AutoTokenize
 from torchmetrics.functional.text import char_error_rate
 import unicodedata
 
-MODEL_DIR = "models/trained/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_aug16" # previous set
-TEST_LABELS_PATH = "data/oldNepali/processed/normalized_labels/labels_test.json"
-OUTPUT_CSV = "results/oldNepali_aug16.csv"
+# MODEL_DIR = "models/trained/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_aug16" # previous set
+# TEST_LABELS_PATH = "data/oldNepali/processed/normalized_labels/labels_test.json"
+# OUTPUT_CSV = "results/oldNepali_aug16.csv"
 
 ## on full set (still has the mistakes so it is not a true representation)
 
-# MODEL_DIR = "models/trained/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_181_aug8" 
-# TEST_LABELS_PATH = "data/oldNepali_fullset/labels/labels_test.json"
-# OUTPUT_CSV = "results/oldNepali_181_aug8.csv"
+MODEL_DIR = "models/trained/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_181_aug8" 
+TEST_LABELS_PATH = "data/oldNepali_fullset/labels/labels_test.json"
+OUTPUT_CSV = "results/oldNepali_181_aug8.csv"
 
 MAX_LENGTH = 256
 NUM_BEAMS = 5
@@ -101,8 +101,8 @@ print(summary.to_string())
 # saving
 summary_path = OUTPUT_CSV.replace(".csv", "_summary.txt")
 with open(summary_path, "w", encoding="utf-8") as f:
-    f.write("Sample-level CER Summary:")
+    f.write("Sample level CER Summary:")
     f.write(summary.to_string())
-    f.write(f"Corpus-level CER: {corpus_cer:.4f}")
+    f.write(f"Corpus level CER: {corpus_cer:.4f}")
 print(f"Results saved to {OUTPUT_CSV} and summary to {summary_path}")
-print(f"Corpus-level CER (cleaned): {corpus_cer:.4f}")
+print(f"Corpus-level CER: {corpus_cer:.4f}")

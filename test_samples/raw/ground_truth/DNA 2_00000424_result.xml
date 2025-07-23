@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DNA 2_00000424_result.jpg</fileName>
+      <fileIdentifier>mets//export_doc3029_dna_0002_0071_alto_202507231053.zip/DNA 2_00000424_result.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT5019" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT2692" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4024"
+          HEIGHT="5544"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4024"
+                  HEIGHT="5544">
+        <TextBlock HPOS="1047.0"
+                   VPOS="1268.0"
+                   WIDTH="293.0"
+                   HEIGHT="133.0"
+                   ID="eSc_textblock_d4065fe0"
+                   TAGREFS="BT5019">
+          <Shape><Polygon POINTS="1152 1268 1315 1281 1340 1364 1204 1401 1047 1376 1047 1293 1152 1268"/></Shape>
+          <TextLine ID="eSc_line_0097f3bf"
+                    TAGREFS="LT2692"
+                    BASELINE="1053 1339 1331 1349" 
+                    HPOS="1050.0"
+                    VPOS="1275.0"
+                    WIDTH="281.0"
+                    HEIGHT="126.0">
+            <Shape><Polygon POINTS="1315 1305 1180 1305 1177 1302 1136 1275 1133 1275 1130 1275 1127 1275 1124 1275 1053 1296 1053 1339 1050 1379 1146 1401 1149 1401 1152 1401 1204 1386 1223 1382 1324 1389 1331 1349 1331 1330 1315 1305"/></Shape>
+	    <String CONTENT="न•­१८८"
+                    HPOS="1050.0"
+                    VPOS="1275.0"
+                    WIDTH="281.0"
+                    HEIGHT="126.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2585.0"
+                   VPOS="1232.0"
+                   WIDTH="625.0"
+                   HEIGHT="415.0"
+                   ID="eSc_textblock_d54ea104"
+                   TAGREFS="BT5019">
+          <Shape><Polygon POINTS="2902 1232 3198 1318 3210 1389 3087 1515 3050 1647 2905 1635 2905 1576 2853 1561 2720 1573 2585 1487 2597 1392 2766 1367 2902 1232"/></Shape>
+          <TextLine ID="eSc_line_0f88b386"
+                    BASELINE="2610 1466 2840 1470" 
+                    HPOS="2604.0"
+                    VPOS="1376.0"
+                    WIDTH="235.0"
+                    HEIGHT="227.0">
+            <Shape><Polygon POINTS="2654 1381 2608 1390 2608 1464 2604 1570 2738 1589 2742 1529 2742 1589 2830 1603 2839 1469 2835 1376 2664 1376 2654 1381"/></Shape>
+	    <String CONTENT="श्री­६­वावाज्यू­"
+                    HPOS="2604.0"
+                    VPOS="1376.0"
+                    WIDTH="235.0"
+                    HEIGHT="227.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f601851d"
+                    BASELINE="2731 1537 2771 1540" 
+                    HPOS="2719.0"
+                    VPOS="1473.0"
+                    WIDTH="51.0"
+                    HEIGHT="130.0">
+            <Shape><Polygon POINTS="2728 1533 2719 1598 2756 1603 2770 1538 2770 1478 2733 1473 2728 1533"/></Shape>
+	    <String CONTENT="४"
+                    HPOS="2719.0"
+                    VPOS="1473.0"
+                    WIDTH="51.0"
+                    HEIGHT="130.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1072.0"
+                   VPOS="3277.0"
+                   WIDTH="2311.0"
+                   HEIGHT="1130.0"
+                   ID="eSc_textblock_48415c9f"
+                   TAGREFS="BT5019">
+          <Shape><Polygon POINTS="2936 3277 3383 3301 3346 3572 3383 3988 3321 4321 2720 4333 2126 4407 1515 4345 1478 4308 1478 4065 1220 4000 1195 3794 1072 3705 1084 3412 1438 3461 1491 3314 2936 3277"/></Shape>
+          <TextLine ID="eSc_line_aaefc8fb"
+                    TAGREFS="LT2692"
+                    BASELINE="1484 3384 3349 3351" 
+                    HPOS="1480.0"
+                    VPOS="3280.0"
+                    WIDTH="1868.0"
+                    HEIGHT="134.0">
+            <Shape><Polygon POINTS="3325 3298 3279 3294 3233 3294 3186 3289 3140 3289 3094 3284 3048 3284 3001 3280 2724 3280 2724 3284 2719 3284 2557 3284 2539 3289 2493 3289 2446 3289 2414 3289 2395 3289 2354 3294 2308 3294 2261 3294 2215 3294 2169 3298 2123 3298 2076 3298 2030 3298 1984 3303 1937 3303 1891 3303 1845 3307 1799 3307 1752 3307 1706 3307 1660 3312 1614 3312 1567 3312 1521 3312 1484 3335 1480 3381 1480 3414 3344 3386 3348 3349 3334 3298 3325 3298"/></Shape>
+	    <String CONTENT="स्वस्ति­श्रीगुरुराजपण्डितधर्माधिकार•श्रीनगेन्द्रराजपण्डितज्यूकस्य­•स्वस्तिश्रीमन्निजदोरदण्ड"
+                    HPOS="1480.0"
+                    VPOS="3280.0"
+                    WIDTH="1868.0"
+                    HEIGHT="134.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8104c824"
+                    TAGREFS="LT2692"
+                    BASELINE="1491 3492 3330 3446" 
+                    HPOS="1488.0"
+                    VPOS="3375.0"
+                    WIDTH="1842.0"
+                    HEIGHT="154.0">
+            <Shape><Polygon POINTS="1491 3492 1491 3520 1783 3514 1787 3514 1848 3529 1851 3529 1854 3529 1857 3529 1913 3511 1916 3511 1971 3526 1975 3526 1978 3526 2221 3501 2236 3501 2246 3501 2344 3517 2347 3517 2461 3495 2471 3495 2477 3495 2588 3511 2591 3511 2714 3489 2717 3489 2751 3505 2754 3505 2757 3505 2896 3489 2948 3501 2951 3501 2954 3501 2957 3501 2960 3501 2960 3498 2976 3483 3330 3471 3330 3446 3324 3381 3087 3375 3084 3375 3081 3375 3053 3388 3038 3394 3025 3388 2997 3378 2994 3378 2991 3378 2988 3378 2960 3391 2954 3394 2948 3391 2917 3381 2914 3381 2911 3381 2686 3400 2588 3406 2566 3403 2511 3391 2508 3391 2378 3409 2341 3412 2298 3412 2101 3400 2098 3400 2095 3400 2061 3418 2055 3421 1827 3424 1817 3424 1688 3412 1685 3412 1488 3434 1491 3492"/></Shape>
+	    <String CONTENT="कमलकलितकरालकरवालनीराकृतारिकदम्व•श्रीमद्राजकुमारकुमारात्मज•श्रीकम्यांडरइ"
+                    HPOS="1488.0"
+                    VPOS="3375.0"
+                    WIDTH="1842.0"
+                    HEIGHT="154.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a9c10711"
+                    TAGREFS="LT2692"
+                    BASELINE="1495 3588 3344 3561" 
+                    HPOS="1489.0"
+                    VPOS="3474.0"
+                    WIDTH="1850.0"
+                    HEIGHT="171.0">
+            <Shape><Polygon POINTS="1493 3585 1493 3645 3334 3612 3339 3557 3325 3474 1489 3515 1493 3585"/></Shape>
+	    <String CONTENT="नचीफ्‌जनरलरणउद्दीपसिंहकुव़र•राणावर्म्मसु­•चतुर्वेदोक्तशुभआशिर्वाद•सतम्‌पूर्व"
+                    HPOS="1489.0"
+                    VPOS="3474.0"
+                    WIDTH="1850.0"
+                    HEIGHT="171.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_671aa523"
+                    TAGREFS="LT2692"
+                    BASELINE="1494 3689 2979 3675" 
+                    HPOS="1489.0"
+                    VPOS="3594.0"
+                    WIDTH="1489.0"
+                    HEIGHT="129.0">
+            <Shape><Polygon POINTS="1493 3686 1493 3723 2974 3714 2978 3672 2964 3594 1489 3612 1493 3686"/></Shape>
+	    <String CONTENT="कपत्रमिदम्­•उभयो­कुशल­च­उप्रान्त­ञाहा­दरवार­•थापाथलि­नारान्‌हिटि­"
+                    HPOS="1489.0"
+                    VPOS="3594.0"
+                    WIDTH="1489.0"
+                    HEIGHT="129.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1948334d"
+                    BASELINE="3105 3667 3335 3663" 
+                    HPOS="3098.0"
+                    VPOS="3585.0"
+                    WIDTH="236.0"
+                    HEIGHT="138.0">
+            <Shape><Polygon POINTS="3103 3663 3103 3723 3330 3696 3334 3659 3325 3585 3098 3585 3103 3663"/></Shape>
+	    <String CONTENT="हरू­सवैका"
+                    HPOS="3098.0"
+                    VPOS="3585.0"
+                    WIDTH="236.0"
+                    HEIGHT="138.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d6358230"
+                    TAGREFS="LT2692"
+                    BASELINE="1497 3785 3336 3779" 
+                    HPOS="1494.0"
+                    VPOS="3711.0"
+                    WIDTH="1842.0"
+                    HEIGHT="123.0">
+            <Shape><Polygon POINTS="1497 3785 1497 3819 1700 3819 1716 3831 1716 3834 1719 3834 1722 3834 1725 3834 1728 3834 1777 3819 1780 3819 1796 3819 1999 3834 2002 3834 2196 3822 2240 3819 2261 3822 2335 3834 2338 3834 2394 3822 2424 3816 2464 3822 2523 3831 2526 3831 2529 3831 2551 3822 2569 3816 2600 3822 2640 3831 2643 3834 2797 3834 2797 3831 2800 3831 2803 3831 2803 3828 2810 3825 2819 3816 3333 3825 3336 3779 3330 3726 2504 3711 2501 3711 2357 3726 1592 3714 1589 3714 1494 3729 1497 3785"/></Shape>
+	    <String CONTENT="गातमा­आराम­छ­•ताहा­विवाहमा­मत्ता­हात्ति­२­लडि­सार्‍हैहाहा­पर्‍योभंन्या­सम्‌चार­सुन्या­"
+                    HPOS="1494.0"
+                    VPOS="3711.0"
+                    WIDTH="1842.0"
+                    HEIGHT="123.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2be54388"
+                    TAGREFS="LT2692"
+                    BASELINE="1497 3886 3244 3891" 
+                    HPOS="1489.0"
+                    VPOS="3788.0"
+                    WIDTH="1753.0"
+                    HEIGHT="143.0">
+            <Shape><Polygon POINTS="1493 3885 1489 3917 3233 3931 3242 3890 3237 3811 1493 3788 1493 3885"/></Shape>
+	    <String CONTENT="तेस्तो­गडवड­पर्‍योतपनि­हजुरका­पुन्यले•­कसैलाइ­पनि­केही­भयेंछ­•वेस्‌­भयो­•वनारसमा­"
+                    HPOS="1489.0"
+                    VPOS="3788.0"
+                    WIDTH="1753.0"
+                    HEIGHT="143.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b6d50b07"
+                    TAGREFS="LT2692"
+                    BASELINE="1500 3991 1824 3991" 
+                    HPOS="1500.0"
+                    VPOS="3920.0"
+                    WIDTH="324.0"
+                    HEIGHT="117.0">
+            <Shape><Polygon POINTS="1500 3991 1500 4016 1750 4037 1753 4037 1824 4022 1824 3991 1820 3920 1500 3930 1500 3991"/></Shape>
+	    <String CONTENT="का­आजकाल्"
+                    HPOS="1500.0"
+                    VPOS="3920.0"
+                    WIDTH="324.0"
+                    HEIGHT="117.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1da033a8"
+                    TAGREFS="LT2692"
+                    BASELINE="2101 3988 3330 3994" 
+                    HPOS="2098.0"
+                    VPOS="3905.0"
+                    WIDTH="1232.0"
+                    HEIGHT="139.0">
+            <Shape><Polygon POINTS="2101 3988 2098 4016 2175 4040 2178 4040 2181 4040 2184 4040 2258 4022 2332 4040 2335 4040 2338 4040 2427 4022 2437 4022 2711 4022 2717 4022 2763 4044 2766 4044 2769 4044 3327 4028 3330 3994 3330 3930 3272 3908 3269 3908 3266 3908 3262 3908 3185 3927 3182 3927 3111 3908 3108 3908 3105 3908 3102 3908 3068 3927 3065 3927 3059 3927 2970 3908 2967 3908 2964 3908 2933 3923 2927 3927 2612 3927 2606 3920 2585 3905 2582 3905 2578 3905 2575 3905 2572 3905 2569 3905 2548 3920 2545 3923 2538 3920 2501 3905 2498 3905 2495 3905 2101 3914 2101 3988"/></Shape>
+	    <String CONTENT="हरूसंगको­मेल्‌­हुनाले­•नेपाल­जांछु­भनि­हुकुम्‌­हुदैन­•मसंग­प"
+                    HPOS="2098.0"
+                    VPOS="3905.0"
+                    WIDTH="1232.0"
+                    HEIGHT="139.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0e660eba"
+                    BASELINE="1504 4088 2170 4112" 
+                    HPOS="1498.0"
+                    VPOS="4005.0"
+                    WIDTH="671.0"
+                    HEIGHT="129.0">
+            <Shape><Polygon POINTS="1503 4084 1498 4134 2164 4134 2169 4111 2169 4010 1503 4005 1503 4084"/></Shape>
+	    <String CONTENT="नि­उस्तो­चित्त­छैन­भंन्या­वेहोरा­­•"
+                    HPOS="1498.0"
+                    VPOS="4005.0"
+                    WIDTH="671.0"
+                    HEIGHT="129.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e88c19c3"
+                    TAGREFS="LT2692"
+                    BASELINE="2337 4097 3333 4105" 
+                    HPOS="2331.0"
+                    VPOS="4014.0"
+                    WIDTH="999.0"
+                    HEIGHT="134.0">
+            <Shape><Polygon POINTS="2335 4093 2331 4130 3320 4148 3330 4102 3330 4024 2335 4014 2335 4093"/></Shape>
+	    <String CONTENT="वाट­•ञाहा­हामिलाई­लेषीवक्‌­•सनु­भयाको­रहेछ"
+                    HPOS="2331.0"
+                    VPOS="4014.0"
+                    WIDTH="999.0"
+                    HEIGHT="134.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d8f3e338"
+                    TAGREFS="LT2692"
+                    BASELINE="1511 4188 3318 4204" 
+                    HPOS="1503.0"
+                    VPOS="4111.0"
+                    WIDTH="1813.0"
+                    HEIGHT="153.0">
+            <Shape><Polygon POINTS="1507 4185 1503 4227 3307 4264 3316 4199 3311 4116 1507 4111 1507 4185"/></Shape>
+	    <String CONTENT="ज्यादा­गातको­क्षेमकुशल­लेषिवक्‌सदै­रह्या‌­•वेस्‌­होला­•विज्ञेषु­किमधिकम्­•इति­सम्वत्­"
+                    HPOS="1503.0"
+                    VPOS="4111.0"
+                    WIDTH="1813.0"
+                    HEIGHT="153.0"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8bd128ae"
+                    TAGREFS="LT2692"
+                    BASELINE="1497 4290 2508 4296" 
+                    HPOS="1494.0"
+                    VPOS="4222.0"
+                    WIDTH="1014.0"
+                    HEIGHT="148.0">
+            <Shape><Polygon POINTS="1497 4290 1494 4336 1568 4339 1608 4367 1611 4367 1614 4367 1617 4367 1620 4367 1676 4342 1731 4367 1734 4367 1737 4367 1740 4367 1787 4352 2058 4370 2061 4370 2206 4352 2252 4345 2280 4352 2341 4370 2344 4370 2347 4370 2504 4355 2508 4296 2504 4244 2255 4244 2252 4241 2236 4225 2233 4225 2230 4225 2227 4225 2224 4225 2178 4241 2175 4241 2172 4241 2144 4225 2141 4225 2138 4225 1864 4238 1851 4238 1836 4225 1836 4222 1833 4222 1830 4222 1827 4222 1497 4235 1497 4290"/></Shape>
+	    <String CONTENT="१९२३­साल­मिति­फाल्‌गुण­वदि­१­रोज­•३­शुभ्म्"
+                    HPOS="1494.0"
+                    VPOS="4222.0"
+                    WIDTH="1014.0"
+                    HEIGHT="148.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2153.0"
+                   VPOS="1256.0"
+                   WIDTH="108.0"
+                   HEIGHT="59.0"
+                   ID="eSc_textblock_9664855f"
+                   TAGREFS="BT5019">
+          <Shape><Polygon POINTS="2196 1256 2261 1268 2261 1315 2153 1315 2196 1256"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2622.0"
+                   VPOS="5026.0"
+                   WIDTH="107.0"
+                   HEIGHT="34.0"
+                   ID="eSc_textblock_688f4d96"
+                   TAGREFS="BT5019">
+          <Shape><Polygon POINTS="2643 5026 2717 5026 2729 5048 2622 5060 2643 5026"/></Shape>
+        </TextBlock>
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_69902e8e"
+                    BASELINE="2163 1295 2252 1298" 
+                    HPOS="2160.0"
+                    VPOS="1164.0"
+                    WIDTH="87.0"
+                    HEIGHT="189.0">
+            <Shape><Polygon POINTS="2160 1293 2160 1335 2243 1353 2247 1293 2247 1164 2160 1164 2160 1293"/></Shape>
+	    <String CONTENT="श्री­\"
+                    HPOS="2160.0"
+                    VPOS="1164.0"
+                    WIDTH="87.0"
+                    HEIGHT="189.0"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
