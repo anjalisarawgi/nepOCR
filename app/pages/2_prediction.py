@@ -54,6 +54,8 @@ def main():
         if not crops:
             st.info("⚠️ Please run Segmentation first.")
             return
+        
+        
 
         choices   = ["All"] + [name for name, _ in crops]
         selection = st.selectbox("Which line(s) to OCR?", choices)

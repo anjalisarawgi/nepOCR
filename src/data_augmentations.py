@@ -683,6 +683,8 @@ def augment_labels_json(
         # Keep the original JSON entry, but fix its path to the new folder
         new_orig_rec = dict(rec)
         new_orig_rec['image_path'] = os.path.join(output_base_folder, os.path.relpath(orig_path, input_base_folder))
+
+        
         augmented_records.append(new_orig_rec)
 
         # 3️⃣ Generate augmentations
@@ -713,9 +715,9 @@ def augment_labels_json(
 # === USAGE ===
 if __name__ == '__main__':
     augment_labels_json(
-        labels_json_path   = 'data/oldNepali/processed/processed_labels/labels_train_v2.json',
-        input_base_folder  = 'data/oldNepali/processed/images/',
-        output_base_folder = 'data/oldNepali_augs16/images',
-        output_json_path   = 'data/oldNepali_augs16/labels.json',
-        num_augmentations  = 16
+        labels_json_path   = 'data/oldNepali_fullset/labels/labels_train.json',
+        input_base_folder  = 'data/oldNepali_fullset/',
+        output_base_folder = 'data/oldNepali_fullset_aug8/images',
+        output_json_path   = 'data/oldNepali_fullset_aug8/labels.json',
+        num_augmentations  = 8
     )

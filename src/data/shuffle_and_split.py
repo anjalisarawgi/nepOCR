@@ -28,14 +28,14 @@ def split_data(data, seed, train_frac=0.8, val_frac=0.1):
     return train_data, val_data, test_data
 
 def main():
-    input_dir = "data/oldNepali/processed/labels.json"
-    output_dir = "data/oldNepali/processed/"
+    input_dir = "data/oldNepali_fullset/labels_normalized.json"
+    output_dir = "data/oldNepali_fullset/labels"
     data = load_labels(input_dir)
     train, test, val = split_data(data, seed=41)
 
-    save_labels(train, os.path.join(output_dir, "labels_train_raw.json"))
-    save_labels(val,   os.path.join(output_dir, "labels_val_raw.json"))
-    save_labels(test,  os.path.join(output_dir, "labels_test_raw.json"))
+    save_labels(train, os.path.join(output_dir, "labels_train.json"))
+    save_labels(val,   os.path.join(output_dir, "labels_val.json"))
+    save_labels(test,  os.path.join(output_dir, "labels_test.json"))
 
 if __name__ == "__main__":
     main()
