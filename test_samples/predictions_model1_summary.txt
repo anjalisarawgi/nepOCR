@@ -1,0 +1,5 @@
+Sample level CER Summary:             cer
+mean    0.277011
+median  0.107143
+min     0.000000
+max     1.000000Corpus level CER: 0.1117
