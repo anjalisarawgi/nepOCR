@@ -224,4 +224,7 @@ Prediction   : श्रीः
 CER          : 0.2000
 ----------------------------------------
 
-📊 Final Avg CER for `42`: 0.1048
+Total lines            : 45
+Correct predictions    : 13
+Perfect prediction %   : 28.89
+Final Avg CER          : 0.1048

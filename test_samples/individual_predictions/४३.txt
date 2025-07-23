@@ -109,4 +109,7 @@ Prediction   : ४३
 CER          : 0.0000
 ----------------------------------------
 
-📊 Final Avg CER for `४३`: 0.0271
+Total lines            : 22
+Correct predictions    : 7
+Perfect prediction %   : 31.82
+Final Avg CER          : 0.0271

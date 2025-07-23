@@ -159,4 +159,7 @@ Prediction   : अर्जीबालाशंकरकी
 CER          : 0.0000
 ----------------------------------------
 
-📊 Final Avg CER for `DNA 1_00000410`: 0.0096
+Total lines            : 32
+Correct predictions    : 26
+Perfect prediction %   : 81.25
+Final Avg CER          : 0.0096

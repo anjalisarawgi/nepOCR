@@ -84,4 +84,7 @@ Prediction   : श्रीः
 CER          : 0.2000
 ----------------------------------------
 
-📊 Final Avg CER for `DNA 2_00000424_result`: 0.1958
+Total lines            : 17
+Correct predictions    : 1
+Perfect prediction %   : 5.88
+Final Avg CER          : 0.1958
