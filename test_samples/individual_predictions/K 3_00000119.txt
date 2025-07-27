@@ -232,4 +232,4 @@ CER          : 0.4324
 Total lines            : 46
 Correct predictions    : 16
 Perfect prediction %   : 34.78
-Final Avg CER          : 0.2886
+Corpus-level CER       : 0.3802

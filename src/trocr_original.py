@@ -9,9 +9,11 @@ from transformers import (
     Seq2SeqTrainingArguments,
     set_seed,
 )
-from utils.data import load_dataset, OCRLazyDataset, collate_fn
+from utils.data import load_dataset, OCRLazyDataset
 from utils.callbacks import PrintPredictionsCallback
 from utils.metrics import compute_metrics
+from transformers import default_data_collator
+
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
@@ -19,9 +21,9 @@ def main(args):
     set_seed(args.seed)
 
     if args.finetune_from_model:
-        model_dir = os.path.join("models", f"finetuned_on_{args.dataset_name}")
+        model_dir = os.path.join("models/trocr_original", f"finetuned_on_{args.dataset_name}")
     else:
-        model_dir = os.path.join("models", f"scratch_on_{args.dataset_name}")
+        model_dir = os.path.join("models/trocr_original", f"trocr_base_on_{args.dataset_name}")
 
     os.makedirs(model_dir, exist_ok=True)
 
@@ -67,14 +69,14 @@ def main(args):
     elif args.dataset_name == "oldNepaliDataset_new3":
         train_dataset = load_dataset("data/oldNepaliDataset_new3/labels_train_processed.json")
         eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed.json")
+    # elif args.dataset_name == "oldNepali":
+    #     train_dataset = load_dataset("data/oldNepali/processed/labels_train_raw.json")
+    #     test_dataset = load_dataset("data/oldNepali/processed/labels_test_raw.json")
+    #     val_dataset = load_dataset("data/oldNepali/processed/labels_val_raw.json")
     elif args.dataset_name == "oldNepali":
-        train_dataset = load_dataset("data/oldNepali/processed/labels_train_raw.json")
-        test_dataset = load_dataset("data/oldNepali/processed/labels_test_raw.json")
-        val_dataset = load_dataset("data/oldNepali/processed/labels_val_raw.json")
-    elif args.dataset_name == "oldNepali_final":
-        train_dataset = load_dataset("data/oldNepali_aug16/labels_train.json")
-        test_dataset = load_dataset("data/oldNepali/processed/labels_test.json")
-        val_dataset = load_dataset("data/oldNepali/processed/labels_val.json")
+        train_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_train.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_val.json")
     else:
         raise ValueError(f"Unknown dataset name: {args.dataset_name}")
 
@@ -107,26 +109,32 @@ def main(args):
     model.config.decoder_start_token_id = tokenizer.cls_token_id
     model.config.pad_token_id = tokenizer.pad_token_id
     model.config.max_length = max_length
-
+    
+    
     training_args = Seq2SeqTrainingArguments(
         output_dir=model_dir,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
-        eval_strategy="steps",
-        eval_steps=100000,
+        eval_strategy="epoch",
+        # eval_steps= eval_steps, 
         logging_steps=100,
         warmup_steps=500,
-        num_train_epochs=20,
-        learning_rate=3e-5,
+        num_train_epochs=20, 
+        learning_rate=3e-5, 
         weight_decay=0.01,
         predict_with_generate=True,
         fp16=torch.cuda.is_available(),
         report_to=["wandb"],
         max_grad_norm=0.5,
-        save_strategy="no",
-        dataloader_num_workers=4,
+        save_strategy="epoch",
+        save_total_limit=1,
+        load_best_model_at_end=True, 
+        metric_for_best_model="cer", 
+        greater_is_better=False,  
         gradient_accumulation_steps=2,
-        dataloader_pin_memory=True
+        dataloader_num_workers=4,
+        dataloader_pin_memory=True,
+        run_name = f"trocr_original_{args.dataset_name}",
     )
 
     trainer = Seq2SeqTrainer(
@@ -134,7 +142,7 @@ def main(args):
         args=training_args,
         train_dataset=train_ds,
         eval_dataset=val_dataset,
-        data_collator=collate_fn,
+        data_collator=default_data_collator,
         tokenizer=tokenizer,
         compute_metrics=lambda p: compute_metrics(p, tokenizer),
         callbacks=[print_callback]
