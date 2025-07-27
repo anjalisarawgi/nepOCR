@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 
 
-df = pd.read_csv("results/trocr_base_bert_byteBPE/predictions.csv")
+df = pd.read_csv("results/trocr_large_bert_byteBPE/predictions.csv")
 font_path = "fonts/NotoSansDevanagari-Regular.ttf"
-output_dir = "results/trocr_base_bert_byteBPE/"
+output_dir = "results/trocr_large_bert_byteBPE/"
 os.makedirs(output_dir, exist_ok=True)
 
 #  CER histogram
@@ -78,3 +78,15 @@ plt.yticks(rotation=0)
 plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "confusion_pairs_heatmap.png"), dpi=300)
 plt.close()
+
+
+
+# compute mean and weigthed cer 
+mean_cer = df["cer"].mean()
+weighted_cer = (
+    (df["cer"] * df["ground_truth"].str.len()).sum()
+    / df["ground_truth"].str.len().sum()
+)
+
+print(f"Mean CER: {mean_cer:.4f}")
+print(f"Corpus-level CER (Weighted): {weighted_cer:.4f}")

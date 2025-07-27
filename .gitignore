@@ -1,6 +1,6 @@
 /data/
 models/
-*.png
+.png
 *.jpg
 *.jpeg
 wandb/
