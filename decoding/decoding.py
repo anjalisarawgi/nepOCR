@@ -1,95 +1,155 @@
+import os
+import json
+import re
+import torch
 import pandas as pd
-import difflib
-import matplotlib.pyplot as plt
-import matplotlib.font_manager as fm
-import seaborn as sns
-from collections import Counter
+from tqdm import tqdm
+from PIL import Image
+from transformers import VisionEncoderDecoderModel, TrOCRProcessor, AutoTokenizer, AutoImageProcessor
 from torchmetrics.text import CharErrorRate
+from argparse import ArgumentParser
 
-df = pd.read_csv("decoding/results/results_cleaned.csv", encoding="utf-8")
+MODEL_DIR = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
+TEST_LABELS_PATH = "data/oldNepali_fullset/labels_normalized_final/labels_test.json"
+ROOT_OUTPUT_DIR = "decoding/results/"
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+CLEANUP = re.compile(r'[\u00AD\u200B\u200C\u200D]')
 
-plt.figure(figsize=(10, 5))
-plt.hist(df['cer'], bins=20, edgecolor='black')
-plt.title("Distribution of Raw CER")
-plt.xlabel("Character Error Rate")
-plt.ylabel("Frequency")
-plt.grid(True)
-plt.savefig("decoding/results/histogram.png")
+def clean_text(text):
+    return CLEANUP.sub('', text)
+
+def predict(model, pixel_values, strategy, config):
+    with torch.no_grad():
+        if strategy == "beam_search":
+            return model.generate(
+                pixel_values, 
+                max_length=256, 
+                num_beams=10,
+                # num_return_sequences=10
+                )
+
+        elif strategy == "contrastive":
+            k, alpha = config
+            return model.generate(
+                pixel_values, 
+                max_length=256, 
+                top_k=k, 
+                penalty_alpha=alpha
+                )
+
+        elif strategy == "temp_sampling":
+            tau = config
+            return model.generate(
+                pixel_values, 
+                max_length=256, 
+                do_sample=True, 
+                temperature=tau
+                )
+
+        elif strategy == "top_k":
+            return model.generate(
+                pixel_values, 
+                max_length=256, 
+                do_sample=True, 
+                top_k=config
+                )
+
+        elif strategy == "top_p":
+            return model.generate(
+                pixel_values, 
+                max_length=256, 
+                do_sample=True, 
+                top_p=config
+                )
+
+def run_experiment(model, processor, tokenizer, strategy, config_name, config_value, test_labels):
+    output_dir = os.path.join(ROOT_OUTPUT_DIR, strategy, config_name)
+    os.makedirs(output_dir, exist_ok=True)
+    results_path = os.path.join(output_dir, 'results.csv')
+    json_path = os.path.join(output_dir, 'results.json')
+
+    results = []
+    cer_metric = CharErrorRate()
+
+    for sample in tqdm(test_labels, desc=f"{strategy}:{config_name}"):
+        image_path = sample['image_path']
+        ground_truth = clean_text(sample['text'])
+
+        image = Image.open(image_path).convert("RGB")
+        pixel_values = processor(image, return_tensors="pt").pixel_values.to(DEVICE)
+
+        output_ids = predict(model, pixel_values, strategy, config_value)
+        pred_text = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0]
+        pred_text = clean_text(pred_text)
+
+        cer_score = cer_metric(pred_text, ground_truth).item()
+        results.append({
+            'image_path': image_path,
+            'ground_truth': ground_truth,
+            'pred_text': pred_text,
+            'cer': cer_score
+        })
 
 
-mean_cer_all = df['cer'].mean()
-median_cer_all = df['cer'].median()
-print(f"Mean CER for all pages: {mean_cer_all:.4f}")
-print(f"Median CER for all pages: {median_cer_all:.4f}")
+    df = pd.DataFrame(results)
 
-# Corpus-level CER
-cer = CharErrorRate()
-corpus_level_cer = cer(df['pred_text'].astype(str).tolist(), df['ground_truth'].astype(str).tolist()).item()
-print(f"Corpus-level CER (true total edits / total chars): {corpus_level_cer:.4f}")
+    # Save per-line results
+    df.to_csv(results_path, index=False, encoding='utf-8')
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
-# Perfect predictions
-perfect_predictions = df[df['cer'] == 0]
-print(f"Percentage of perfect predictions: {len(perfect_predictions) / len(df) * 100:.2f}%")
+    # Corpus-level CER
+    corpus_cer = cer_metric(
+        [r["pred_text"] for r in results],
+        [r["ground_truth"] for r in results]
+    ).item()
 
-# Dotless CER
-def strip_dots(text):
-    return str(text).replace(".", "").replace("।", "")
+    # Mean of per-line CERs
+    mean_line_cer = df["cer"].mean()
 
-gt_nodots = df['ground_truth'].apply(strip_dots).tolist()
-pred_nodots = df['pred_text'].apply(strip_dots).tolist()
-dotless_cer = cer(pred_nodots, gt_nodots).item()
+    print(f"{strategy} | {config_name} | Corpus CER: {corpus_cer:.4f} | Mean Line CER: {mean_line_cer:.4f}")
 
-print(f"CER with all dots removed from GT and Prediction: {dotless_cer:.4f}")
-print(f"Δ CER (reduction): {corpus_level_cer - dotless_cer:.4f}")
+def main():
+    # model and processor
+    model = VisionEncoderDecoderModel.from_pretrained(MODEL_DIR).to(DEVICE)
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
+    processor = TrOCRProcessor(
+        image_processor=AutoImageProcessor.from_pretrained("microsoft/trocr-base-handwritten"),
+        tokenizer=tokenizer
+    )
+    model.config.decoder_start_token_id = tokenizer.cls_token_id
+    model.config.pad_token_id = tokenizer.pad_token_id
+    model.config.eos_token_id = tokenizer.eos_token_id
+    model.config.max_length = 256
 
-# === 3. Character-level Confusion Matrix ===
+    with open(TEST_LABELS_PATH, 'r', encoding='utf-8') as f:
+        test_labels = json.load(f)
 
-confusion_counter = Counter()
+    # hyperparameters
+    grid = {
+        "beam_search": {
+            f"beam{b}": b for b in [1, 5, 10, 20]
+        },
+        "contrastive": {
+            f"k{k}_alpha{a}": (k, a) for k in [5, 10] for a in [0.2, 0.6, 0.8]
+        },
+        "temp_sampling": {
+            f"tau{t}": t for t in [0.2, 0.4, 0.6, 0.8, 0.9, 1.0]
+        },
+        "top_k": {
+            f"topk{k}": k for k in [3, 5, 10, 20, 50]
+        },
+        "top_p": {
+            f"topp{int(p*100)}": p for p in [0.5, 0.6, 0.7, 0.8, 0.9, 0.95]
+        }, 
+        # "beam_search_with_diversity": {
+        #     f"beam{b}_diversity{d}": (b, d) for b in [1, 5, 10] for d in [0.2, 0.5, 0.8, 1.0]
+        # }
+    }
 
-def extract_confusion_pairs(gt, pred):
-    sm = difflib.SequenceMatcher(None, gt, pred)
-    for tag, i1, i2, j1, j2 in sm.get_opcodes():
-        if tag == 'replace':
-            g = gt[i1:i2]
-            p = pred[j1:j2]
-            max_len = max(len(g), len(p))
-            g = g.ljust(max_len)
-            p = p.ljust(max_len)
-            for gt_char, pred_char in zip(g, p):
-                confusion_counter[(gt_char, pred_char)] += 1
+    for strategy, configs in grid.items():
+        for config_name, config_val in configs.items():
+            run_experiment(model, processor, tokenizer, strategy, config_name, config_val, test_labels)
 
-for _, row in df.iterrows():
-    extract_confusion_pairs(str(row["ground_truth"]), str(row["pred_text"]))
-
-# Save confusion data
-confusion_df = pd.DataFrame(
-    [(gt, pred, count) for (gt, pred), count in confusion_counter.items()],
-    columns=["ground_truth", "pred_text", "count"]
-)
-confusion_df.to_csv("decoding/results/char_confusion_pairs.csv", index=False)
-
-# Pivot matrix
-confusion_matrix = confusion_df.pivot_table(index="ground_truth", columns="pred_text", values="count", fill_value=0)
-
-# Top 30 most confused
-top_gt = confusion_df.groupby("ground_truth")["count"].sum().nlargest(30).index
-top_pred = confusion_df.groupby("pred_text")["count"].sum().nlargest(30).index
-confusion_matrix_subset = confusion_matrix.loc[top_gt, top_pred].astype(int)
-
-# === 4. Heatmap ===
-
-# Load Devanagari font
-font_path = "fonts/NotoSansDevanagari-Regular.ttf"
-devanagari_font = fm.FontProperties(fname=font_path)
-
-plt.figure(figsize=(12, 10))
-ax = sns.heatmap(confusion_matrix_subset, annot=True, fmt="d", cmap="Reds", linewidths=0.5, linecolor='gray', cbar=True, square=True)
-
-plt.title("🔤 Top OCR Character Confusions", fontsize=16, fontproperties=devanagari_font)
-plt.xlabel("Predicted Character", fontproperties=devanagari_font)
-plt.ylabel("Ground Truth Character", fontproperties=devanagari_font)
-ax.set_xticklabels(ax.get_xticklabels(), fontproperties=devanagari_font, rotation=90)
-ax.set_yticklabels(ax.get_yticklabels(), fontproperties=devanagari_font, rotation=0)
-
-plt.tight_layout()
-plt.savefig("decoding/results/heatmap.png", dpi=300)
+if __name__ == "__main__":
+    main()

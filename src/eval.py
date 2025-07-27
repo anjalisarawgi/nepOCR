@@ -15,9 +15,9 @@ import unicodedata
 
 ## on full set (still has the mistakes so it is not a true representation)
 
-MODEL_DIR = "models/trained/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_181_aug8"
-TEST_LABELS_PATH = "test_samples/processed/labels_normalized.json"
-OUTPUT_CSV = "test_samples/predictions_model2.csv"
+MODEL_DIR = "models/trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
+TEST_LABELS_PATH = "data/oldNepali_fullset/labels_normalized_final/labels_test.json"
+OUTPUT_CSV = "results/predictions_trocr_base_bert_byteBPE_aug8.csv"
 
 MAX_LENGTH = 256
 NUM_BEAMS = 5
