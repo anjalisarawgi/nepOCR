@@ -19,7 +19,7 @@ def compute_metrics(predictions, tokenizer):
     pred_str = tokenizer.batch_decode(pred_ids, skip_special_tokens=True) # convert to strings
     label_str = tokenizer.batch_decode(label_ids, skip_special_tokens=True) # convert to strings
 
-    pred_str = [clean_text(p) for p in pred_str] # clean up text
+    pred_str = [clean_text(p) for p in pred_str] # clean up text 
     label_str = [clean_text(l) for l in label_str] # clean up text
 
     # CER

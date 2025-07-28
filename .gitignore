@@ -16,3 +16,9 @@ app/
 /pages//
 char_images/
 misc/
+post_processing/
+**/predictions.csv
+**/predictions_woth_logits.csv
+/misc/
+/pages/
+**/misc/

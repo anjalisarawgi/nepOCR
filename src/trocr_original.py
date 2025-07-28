@@ -36,44 +36,7 @@ def main(args):
         split_dataset = dataset.train_test_split(test_size=0.1, seed=args.seed)
         train_dataset = split_dataset["train"]
         eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "oldNepaliSynthetic30k":
-        dataset = load_dataset("data/oldNepaliSynthetic30k/labels.json")
-        split_dataset = dataset.train_test_split(train_size=30000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-    elif args.dataset_name == "oldNepaliSynthetic_50k":
-        dataset = load_dataset("data/oldNepaliSynthetic_50k/labels.json")
-        split_dataset = dataset.train_test_split(train_size=50000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(1000))
-    elif args.dataset_name == "oldNepaliSynthetic_105k":
-        dataset = load_dataset("data/oldNepaliSynthetic_105k/labels.json")
-        split_dataset = dataset.train_test_split(train_size=80000, seed=args.seed)
-        train_dataset = split_dataset["train"]
-        eval_dataset = split_dataset["test"]
-        eval_dataset = eval_dataset.select(range(0, 2500))
-        test_dataset = eval_dataset.select(range(2500, 5000))
-    elif args.dataset_name == "nagari":
-        train_dataset = load_dataset("data/nagari/augmented3/train/labels.json")
-        test_dataset = load_dataset("data/nagari/augmented3/test/labels.json")
-        val_dataset = test_dataset
-    elif args.dataset_name == "nagari_original":
-        train_dataset = load_dataset("data/nagari/original/train/labels.json")
-        eval_dataset = load_dataset("data/nagari/original/test/labels.json")
-        test_dataset = eval_dataset
-        val_dataset = eval_dataset
-    elif args.dataset_name == "oldNepali_original":
-        train_dataset = load_dataset("data/oldNepali/original/train/labels.json")
-        eval_dataset = load_dataset("data/oldNepali/original/test/labels.json")
-    elif args.dataset_name == "oldNepaliDataset_new3":
-        train_dataset = load_dataset("data/oldNepaliDataset_new3/labels_train_processed.json")
-        eval_dataset = load_dataset("data/oldNepaliDataset_new/labels_test_processed.json")
-    # elif args.dataset_name == "oldNepali":
-    #     train_dataset = load_dataset("data/oldNepali/processed/labels_train_raw.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/labels_test_raw.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/labels_val_raw.json")
-    elif args.dataset_name == "oldNepali":
+    elif args.dataset_name == "oldNepali_fullset":
         train_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_train.json")
         test_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_test.json")
         val_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_val.json")

@@ -364,7 +364,7 @@ def augment_labels_json(
 
 if __name__ == '__main__':
     augment_labels_json(
-        labels_json_path   = 'data/oldNepali_fullset/labels_normalized_final/labels_train.json',
+        labels_json_path   = 'data/oldNepali_fullset/labels_normalized/labels_train.json',
         input_base_folder  = 'data/oldNepali_fullset/',
         output_base_folder = 'data/oldNepali_fullset_aug12/images',
         output_json_path   = 'data/oldNepali_fullset_aug12/labels.json',

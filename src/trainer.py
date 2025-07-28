@@ -51,71 +51,38 @@ def main(args):
         train_dataset = load_dataset("data/nagari/original/train/labels_train.json")
         val_dataset = load_dataset("data/nagari/original/train/labels_val.json")
         test_dataset = load_dataset("data/nagari/augmented4/test/labels_test.json")
-    # elif args.dataset_name == "nagari":
-    #     train_dataset = load_dataset("data/nagari/augmented4/train/labels_train.json")
-    #     val_dataset = load_dataset("data/nagari/original/train/labels_val.json")
-    #     test_dataset = load_dataset("data/nagari/augmented4/test/labels_test.json")
-    # elif args.dataset_name == "oldNepali_original":
-    #     train_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_train_raw.json")
-    #     eval_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_test_raw.json")
-    #     test_dataset = eval_dataset
-    #     val_dataset = load_dataset("data/oldNepali/processed/raw_labels/labels_val_raw.json")
-    # elif args.dataset_name == "oldNepali_aug16_converted":
-    #     train_dataset = load_dataset("data/oldNepali_aug16/labels_train_converted.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/labels_test.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/labels_val.json")
-    # elif args.dataset_name == 'oldNepali_augment2':
-    #     train_dataset = load_dataset("data/oldNepali_augment2/labels.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val.json")
-    # elif args.dataset_name == 'oldNepali_augment4':
-    #     train_dataset = load_dataset("data/oldNepali_augment4/labels.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val.jso n")
-    # elif args.dataset_name == 'oldNepali_augment8':
-    #     train_dataset = load_dataset("data/oldNepali_augment8/labels.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val.json")
-    # elif args.dataset_name == 'oldNepali_augment12':
-    #     train_dataset = load_dataset("data/oldNepali_augment12/labels.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_test.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/normalized_labels/labels_val.json")
-    # elif args.dataset_name == 'oldNepali_augment16':
-    #     train_dataset = load_dataset("data/oldNepali_augment16/labels.json")
-    #     test_dataset = load_dataset("data/oldNepali/processed/cleaned_labels/labels_test.json")
-    #     val_dataset = load_dataset("data/oldNepali/processed/cleaned_labels/labels_val.json")
     elif args.dataset_name == "oldNepali_fullset_original":
         train_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_train.json")
         test_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_test.json")
         val_dataset = load_dataset("data/oldNepali_fullset/labels_raw/labels_val.json")
     elif args.dataset_name == "oldNepali_fullset_normalized":
-        train_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_train.json")
-        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_test.json")
-        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_val.json")
+        train_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_train.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_val.json")
     elif args.dataset_name == "oldNepali_fullset_binarized":
         train_dataset = load_dataset("data/oldNepali_fullset_binarized/labels/labels_train.json")
         test_dataset = load_dataset("data/oldNepali_fullset_binarized/labels/labels_test.json")
         val_dataset = load_dataset("data/oldNepali_fullset_binarized/labels/labels_val.json")
     elif args.dataset_name == 'oldNepali_fullset_aug2':
         train_dataset = load_dataset("data/oldNepali_fullset_aug2/labels.json")
-        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_test.json")
-        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_val.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_val.json")
     elif args.dataset_name == 'oldNepali_fullset_aug4':
         train_dataset = load_dataset("data/oldNepali_fullset_aug4/labels.json")
-        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_test.json")
-        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_val.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_val.json")
     elif args.dataset_name == 'oldNepali_fullset_aug8':
         train_dataset = load_dataset("data/oldNepali_fullset_aug8/labels.json")
-        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_test.json")
-        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_val.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_val.json")
     elif args.dataset_name == 'oldNepali_fullset_aug12':
         train_dataset = load_dataset("data/oldNepali_fullset_aug12/labels.json")
-        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_test.json")
-        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_val.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_test.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_val.json")
     elif args.dataset_name == 'oldNepali_fullset_aug8_nospace':
         train_dataset = load_dataset("data/oldNepali_fullset_aug8/labels_no_space.json")
-        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_test_no_space.json")
-        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized_final/labels_val_no_space.json")
+        test_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_test_no_space.json")
+        val_dataset = load_dataset("data/oldNepali_fullset/labels_normalized/labels_val_no_space.json")
     else:
         raise ValueError(f"Unknown dataset name: {args.dataset_name}")
 
@@ -361,7 +328,7 @@ def main(args):
 # oldNepaliSynthetic = pretraining dataset , nagari = finetuning dataset, oldNepali = main dataset
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'labels_normalized_final', 'nagari_original', 'nagari', 'oldNepali_original','oldNepali_aug16','oldNepali_aug16_converted','oldNepali_normalized','oldNepali_augment2', 'oldNepali_augment4', 'oldNepali_augment8', 'oldNepali_augment16', 'oldNepali_cleaned', 'oldNepali_augs16', 'oldNepali_16aug', 'oldNepali_digits', 'oldNepali_augment12', 'oldNepali_fullset_aug8', 'oldNepali_fullset_aug12', 'oldNepali_fullset', 'oldNepali_fullset_original', 'oldNepali_fullset_normalized', 'oldNepali_fullset_normalized_new','oldNepali_fullset_aug2', 'oldNepali_fullset_aug4', 'oldNepali_fullset_binarized', 'oldNepali_fullset_aug8_nospace'], default="oldNepaliSynthetic")
+    parser.add_argument("--dataset_name", type=str, choices = ['oldNepaliSynthetic_105k_vnoisy', 'labels_normalized_final', 'nagari_original', 'nagari', 'oldNepali_fullset_aug8', 'oldNepali_fullset_aug12', 'oldNepali_fullset', 'oldNepali_fullset_original', 'oldNepali_fullset_normalized','oldNepali_fullset_aug2', 'oldNepali_fullset_aug4', 'oldNepali_fullset_binarized', 'oldNepali_fullset_aug8_nospace'], default="oldNepaliSynthetic")
     parser.add_argument("--seed", type=int, default=42, help="Random seed for initialization")
 
     # model setup args

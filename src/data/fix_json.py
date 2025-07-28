@@ -17,19 +17,3 @@ for entry in data:
 with open("data/oldNepali_fullset_binarized/labels/labels_train.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
-
-
-# ############################################
-# import json
-
-# with open('data/oldNepaliDataset3/labels_train.json', 'r', encoding='utf-8') as f:
-#     data = json.load(f)
-
-# for item in data:
-#     if "label" in item:
-#         item["text"] = item.pop("label")
-
-# with open('data/oldNepaliDataset3/labels_train_processed.json', 'w', encoding='utf-8') as f:
-#     json.dump(data, f, ensure_ascii=False, indent=2)
-
-# print("✅ Labels changed to text successfully!")

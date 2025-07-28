@@ -10,7 +10,7 @@ from torchmetrics.text import CharErrorRate
 from argparse import ArgumentParser
 
 MODEL_DIR = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
-TEST_LABELS_PATH = "data/oldNepali_fullset/labels_normalized_final/labels_test.json"
+TEST_LABELS_PATH = "data/oldNepali_fullset/labels_normalized/labels_test.json"
 ROOT_OUTPUT_DIR = "decoding/results/"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 CLEANUP = re.compile(r'[\u00AD\u200B\u200C\u200D]')

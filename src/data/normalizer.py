@@ -52,26 +52,6 @@ def normalize_text(s, counter, line_counter):
         counter["pipe_to_danda"] += 1
         line_counter["pipe_to_danda"] += 1
 
-    # for char in "()":
-    #     if char in s:
-    #         count = s.count(char)
-    #         counter["removed_parens"] += count
-    #         line_counter["removed_parens"] += 1
-    #         s = s.replace(char, "")
-
-    # Optional backslash removal (uncomment if needed)
-    # if "\\" in s:
-    #     count = s.count("\\")
-    #     counter["removed_backslashes"] += count
-    #     line_counter["removed_backslashes"] += 1
-    #     s = s.replace("\\", "")
-
-    # if NUKTA in s:
-    #     count = s.count(NUKTA)
-    #     s = s.replace(NUKTA, "")
-    #     counter["removed_nukta"] += count
-    #     line_counter["removed_nukta"] += 1
-
     if MACRON_PATTERN.search(s):
         matches = MACRON_PATTERN.findall(s)
         total_len = sum(len(m) for m in matches)
@@ -95,12 +75,9 @@ def normalize_text(s, counter, line_counter):
     s = new_s
 
     # s = HYPHEN_COLLAPSE.sub("-", s)
-    s = re.sub(r'[-\.]+$', '', s)
+    # s = re.sub(r'[-\.]+$', '', s)
     s = normalize_digits(s, counter, line_counter)
 
-    # s = unicodedata.normalize("NFKC", s)
-    # s = normalize_digits(s, counter, line_counter, to="latin")
-    
 
     s = s.strip()
     return s

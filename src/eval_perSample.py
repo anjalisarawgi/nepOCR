@@ -6,8 +6,9 @@ from transformers import VisionEncoderDecoderModel, TrOCRProcessor, AutoTokenize
 from torchmetrics.functional.text import char_error_rate
 
 
-MODEL_DIR = "models/trained/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_aug16"
-IMAGE_PATH = "sample_1.png"
+MODEL_DIR = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
+# IMAGE_PATH = "data/oldNepali_fullset/oldNepali/images/DNA_0014_0296 zuschn/eSc_line_b278b45e.png"
+IMAGE_PATH = "data/oldNepali_fullset/oldNepali/images/DNA_0014_0296 zuschn/eSc_line_996ee0ca.png"
 OUTPUT_FILE = "ocr_predictions.txt"
 MAX_LENGTH = 256
 NUM_BEAMS = 5
@@ -37,6 +38,7 @@ model.config.update({
 })
 
 def predict_text(image_path):
+    img = Image.open(image_path).convert("L")  
     img = Image.open(image_path).convert("RGB")
     pixel_values = processor(images=img, return_tensors="pt").pixel_values.to(DEVICE)
     with torch.no_grad():

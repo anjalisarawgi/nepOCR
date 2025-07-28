@@ -32,7 +32,7 @@ def train_tokenizer(corpus_path, tokenizer_type, vocab_size, output_dir):
     
 if __name__ == "__main__":
     
-    corpus_path = "corpus/30k_nagari_oldNepali_v3.txt"
+    corpus_path = "corpus/oldNepaliSynthetic_30K.txt"
     tokenizer_type = "byteBPE"  
     vocab_size = 200
 
