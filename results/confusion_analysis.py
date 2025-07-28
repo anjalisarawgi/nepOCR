@@ -45,11 +45,7 @@ for _, row in df.iterrows():
         #         confusions[(gc, '')] += 1  # deletion: something in GT and nothing in pred
 
 
-# saving it as csv
-df_conf = pd.DataFrame(
-    [(g, p, c) for (g, p), c in confusions.items()],
-    columns=["ground_truth", "prediction", "count"]
-)
+df_conf = pd.DataFrame([(g, p, c) for (g, p), c in confusions.items()], columns=["ground_truth", "prediction", "count"])
 df_conf.to_csv(os.path.join(output_dir, "char_confusion_pairs.csv"), index=False)
 
 pivot = df_conf.pivot_table(index="ground_truth", columns="prediction", values="count", fill_value=0)
@@ -60,7 +56,6 @@ matrix = pivot.loc[top_gt, top_pred].astype(int)
 # heatmap for confusion pairs
 font = fm.FontProperties(fname=font_path)
 plt.figure(figsize=(12, 10))
-
 ax = sns.heatmap(
     matrix,
     annot=True,
@@ -72,25 +67,21 @@ ax = sns.heatmap(
     square=True,
     annot_kws={"fontsize": 10}
 )
-
 plt.title("Top 30 Most Frequent Character Confusions", fontsize=16, pad=12)
 plt.xlabel("Predicted Character", fontsize=14)
 plt.ylabel("Ground Truth Character", fontsize=14)
 ax.set_xticklabels(ax.get_xticklabels(), fontproperties=font, fontsize=12, rotation=90)
 ax.set_yticklabels(ax.get_yticklabels(), fontproperties=font, fontsize=12, rotation=0)
-
 plt.xticks(rotation=90)
 plt.yticks(rotation=0)
 plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "confusion_pairs_heatmap.png"), dpi=300)
-plt.close()
 
 
 
 # mean and weighted cer
 mean_cer = df["cer"].mean()
-weighted_cer = (
-    (df["cer"] * df["ground_truth"].str.len()).sum()  / df["ground_truth"].str.len().sum())
-
+weighted_cer = ((df["cer"] * df["ground_truth"].str.len()).sum()  / df["ground_truth"].str.len().sum())
 print("Mean cer:", mean_cer)
 print("Weighted cer:", weighted_cer)
+

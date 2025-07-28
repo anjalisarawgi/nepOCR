@@ -37,25 +37,14 @@ def align_and_score(pred_tokens, gt_tokens, probs):
         if tag == 'equal':
             for i, j in zip(range(i1, i2), range(j1, j2)):
                 if j < len(pred_tokens) and j < len(probs) and i < len(gt_tokens):
-                    aligned.append({
-                        "token": pred_tokens[j],
-                        "gt": gt_tokens[i],
-                        "prob": probs[j],
-                        "correct": True
-                    })
+                    aligned.append({"token": pred_tokens[j], "prob": probs[j], "correct": True})
         else:
             for j in range(j1, j2):
                 if j < len(pred_tokens) and j < len(probs):
-                    aligned.append({
-                        "token": pred_tokens[j],
-                        "gt": None,
-                        "prob": probs[j],
-                        "correct": False
-                    })
+                    aligned.append({"token": pred_tokens[j],"prob": probs[j], "correct": False}) 
     return aligned
 
 df["token_analysis"] = df.apply(lambda row: align_and_score(row["pred_tokens"], row["gt_tokens"], row["pred_token_probs"]), axis=1)
-
 token_df = pd.DataFrame([t for sublist in df["token_analysis"] for t in sublist])
 total_tokens = len(token_df)
 correct_tokens = token_df["correct"].sum()

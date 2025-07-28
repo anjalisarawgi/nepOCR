@@ -16,20 +16,14 @@ df = pd.read_csv ("results/trocr_large_bert_byteBPE/predictions.csv")
 df["gt_clean"]  = df["ground_truth"].apply(clean_text)
 df["gt_length"] = df["gt_clean"].str.len()
 
-bins = list(range(0, df["gt_length"].max() + 10, 10))
+bins = list(range(0, df["gt_length"].max() + 20, 20))
 df["length_bin"] = pd.cut(df["gt_length"], bins, right=False)
 
-binned = (
-    df
-    .groupby("length_bin")
-    .apply(lambda g: pd.Series({
-        "weighted_cer": np.average(g["cer"], weights=g["gt_length"]),
-        "n_lines":     len(g)
-    }))
-    .reset_index()
-)
+binned = (df.groupby("length_bin").apply(lambda g: pd.Series({
+            "weighted_cer": np.average(g["cer"], weights=g["gt_length"]),
+            "n_lines":     len(g)
+            })).reset_index())
 
-# binned.to_csv("results/trocr_large_bert_byteBPE/weighted_cer_by_length.csv", index=False)
 plt.figure(figsize=(10, 6))
 plt.plot(binned["length_bin"].astype(str), binned["weighted_cer"], marker="o", linewidth=2)
 plt.xlabel("Ground Truth Length (Bins)", fontsize=12, fontweight="bold")
@@ -41,3 +35,6 @@ plt.grid(True, linestyle="--", linewidth=0.5, alpha=0.7)
 # plt.legend(fontsize=10)
 plt.tight_layout()
 plt.savefig("results/trocr_large_bert_byteBPE/weighted_cer_by_length.png", dpi=300)
+
+# n_long_lines = df[df["gt_length"] > 110].shape[0]
+# print("Number of lines with > 110 characters:", n_long_lines) ## only 3!!!!

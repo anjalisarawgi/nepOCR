@@ -9,9 +9,9 @@ from transformers import VisionEncoderDecoderModel, TrOCRProcessor, AutoTokenize
 from torchmetrics.functional.text import char_error_rate
 import unicodedata
 
-MODEL_DIR = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
+MODEL_DIR = "models/trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
 TEST_LABELS_PATH = "data/oldNepali_fullset/labels_normalized_final/labels_test.json"
-OUTPUT_CSV = "results/trocr_large_bert_byteBPE/predictions.csv"
+OUTPUT_CSV = "results/trocr_base_bert_byteBPE/predictions.csv"
 
 MAX_LENGTH = 256
 NUM_BEAMS = 5
@@ -27,7 +27,7 @@ def clean_text(text: str) -> str:
 model = VisionEncoderDecoderModel.from_pretrained(MODEL_DIR).to(DEVICE)
 tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
 processor = TrOCRProcessor(
-    image_processor=AutoImageProcessor.from_pretrained("microsoft/trocr-large-handwritten"),
+    image_processor=AutoImageProcessor.from_pretrained("microsoft/trocr-base-handwritten"),
     tokenizer=tokenizer
 )
 model.config.update({
