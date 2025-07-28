@@ -203,8 +203,8 @@ def main(args):
     model.generation_config.no_repeat_ngram_size = 0
     model.generation_config.num_beams = 5
 
-    # model.generation_config.decoder_start_token_id = tokenizer.cls_token_id
-    # model.generation_config.bos_token_id = tokenizer.cls_token_id
+    model.generation_config.decoder_start_token_id = tokenizer.cls_token_id
+    model.generation_config.bos_token_id = tokenizer.cls_token_id
 
     print(" Checking model configuration:")
     print(f"  decoder_start_token_id: {model.config.decoder_start_token_id}")
