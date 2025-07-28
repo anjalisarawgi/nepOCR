@@ -37,6 +37,12 @@ for _, row in df.iterrows():
             p = pred[j1:j2].ljust(max(i2 - i1, j2 - j1))
             for gc, pc in zip(g, p):
                 confusions[(gc, pc)] += 1
+        # elif tag == 'insert':
+        #     for pc in pred[j1:j2]:
+        #         confusions[('', pc)] += 1  # insertion: nothing in GT, something in pred
+        # elif tag == 'delete':
+        #     for gc in gt[i1:i2]:
+        #         confusions[(gc, '')] += 1  # deletion: something in GT and nothing in pred
 
 
 # saving it as csv
@@ -81,12 +87,10 @@ plt.close()
 
 
 
-# compute mean and weigthed cer 
+# mean and weighted cer
 mean_cer = df["cer"].mean()
 weighted_cer = (
-    (df["cer"] * df["ground_truth"].str.len()).sum()
-    / df["ground_truth"].str.len().sum()
-)
+    (df["cer"] * df["ground_truth"].str.len()).sum()  / df["ground_truth"].str.len().sum())
 
-print(f"Mean CER: {mean_cer:.4f}")
-print(f"Corpus-level CER (Weighted): {weighted_cer:.4f}")
+print("Mean cer:", mean_cer)
+print("Weighted cer:", weighted_cer)

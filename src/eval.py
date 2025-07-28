@@ -11,7 +11,7 @@ import unicodedata
 
 MODEL_DIR = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
 TEST_LABELS_PATH = "data/oldNepali_fullset/labels_normalized_final/labels_test.json"
-OUTPUT_CSV = "results/predictions_trocr_large_bert_byteBPE_aug8.csv"
+OUTPUT_CSV = "results/trocr_large_bert_byteBPE/predictions.csv"
 
 MAX_LENGTH = 256
 NUM_BEAMS = 5
@@ -63,55 +63,29 @@ for sample in tqdm(test_data, desc="Evaluating"):
         print(f"[!] Error on {image_path}: {e}")
         pred = ""
 
-    gt_clean = clean_text(gt)
-    pred_clean = clean_text(pred)
+    gt = clean_text(gt)
+    pred = clean_text(pred)
 
-    cer_orig   = char_error_rate([pred],      [gt]).item()
-    cer_clean  = char_error_rate([pred_clean],[gt_clean]).item()
+    cer  = char_error_rate([pred],[gt]).item()
 
     results.append({
         "page": page,
         "image_path": image_path,
         "ground_truth": gt,
         "prediction": pred,
-        "cer": cer_orig,
-        "cleaned_cer": cer_clean
+        "cer": cer
     })
 
 
-# build dataframe
 df = pd.DataFrame(results)
 
-# ← NEW: compute a length column on cleaned ground-truth
-df["gt_length"] = df["ground_truth"].apply(lambda txt: len(clean_text(txt)))
-
-# ← NEW: compute weighted-errors per line
-df["weighted_errors"]   = df["cer"] * df["gt_length"]
-df["weighted_errors_clean"] = df["cleaned_cer"] * df["gt_length"]
-
-# ← NEW: overall length-weighted CER
+# weighted CER
+df["gt_length"] = df["ground_truth"].apply(lambda txt: len(clean_text(txt))) # length of ground truth text
+df["weighted_errors"] = df["cer"] * df["gt_length"]
 total_chars = df["gt_length"].sum()
-total_errs  = df["weighted_errors"].sum()
-total_errs_clean = df["weighted_errors_clean"].sum()
+total_errs = df["weighted_errors"].sum()
+weighted_cer = total_errs/total_chars
 
-weighted_cer       = total_errs  / total_chars
-weighted_cer_clean = total_errs_clean / total_chars
-
-# ← NEW: append to summary
-summary = df[["cer", "cleaned_cer"]].agg(["mean", "median", "min", "max"])
-summary_path = OUTPUT_CSV.replace(".csv", "_summary.txt")
-
-with open(summary_path, "w", encoding="utf-8") as f:
-    f.write("Sample-level CER Summary ===\n")
-    f.write(summary.to_string())
-    f.write(f"\nCorpus-level CER (cleaned): {char_error_rate(df['prediction'].apply(clean_text).tolist(), df['ground_truth'].apply(clean_text).tolist()).item():.4f}\n")
-    f.write(f"Overall length-weighted CER (raw):    {weighted_cer:.4f}\n")           # ← NEW
-    f.write(f"Overall length-weighted CER (clean):  {weighted_cer_clean:.4f}\n")     # ← NEW
-
-# save full results with weights if needed
 df.to_csv(OUTPUT_CSV, index=False)
-
-print(f"Results saved to         {OUTPUT_CSV}")
-print(f"Sample summary saved to  {summary_path}")
-print(f"Overall length-weighted CER (raw):   {weighted_cer:.4f}")
-print(f"Overall length-weighted CER (clean): {weighted_cer_clean:.4f}")
+print(f"Results saved to{OUTPUT_CSV}")
+print(f"Overall length-weighted CER:   {weighted_cer:.4f}") 
