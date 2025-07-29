@@ -121,6 +121,7 @@ def main(args):
      
     # for trocr small handwritten
     # feature_extractor = ViTFeatureExtractor.from_pretrained("microsoft/trocr-small-handwritten")
+    
     if args.encoder == "swin" or args.encoder == "swin_from_scratch":
         print("using swin feature extractor")
         feature_extractor = AutoFeatureExtractor.from_pretrained("microsoft/ ")
