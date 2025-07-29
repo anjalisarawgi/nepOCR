@@ -20,8 +20,8 @@ We use a **three-stage fine-tuning pipeline**:
 ---
 
 
-## Dataset setup
-Please download it from this link: [Link](https://drive.google.com/drive/folders/1uDNqMMBWFBVD7Vstwm_WrVJlB5GjAxz0?usp=sharing)
+<!-- ## Dataset setup -->
+<!-- Please download it from this link: [Link](https://drive.google.com/drive/folders/1uDNqMMBWFBVD7Vstwm_WrVJlB5GjAxz0?usp=sharing) -->
 
 ---
 ## 🚀 How to Run
