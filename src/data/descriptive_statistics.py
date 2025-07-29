@@ -27,6 +27,9 @@ print("Maximum line length:", max_length)
 print("Median line length:", median_length)
 print("Standard deviation of line lengths:", std_dev)
 
+long_lines = [entry for entry in data if len(entry["text"]) > 100]
+print("Number of lines with length > 120:", len(long_lines))
+
 
 
 #### image statisticss

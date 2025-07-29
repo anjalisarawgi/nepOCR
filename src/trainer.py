@@ -28,7 +28,7 @@ import csv
 import GPUtil
 from datetime import datetime
 from transformers import default_data_collator
-
+from transformers import ViTFeatureExtractor   
 
 import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -116,6 +116,11 @@ def main(args):
     model_path = "microsoft/" + args.encoder
     print("Loading processor from: ", model_path)
 
+    
+
+     
+    # for trocr small handwritten
+    feature_extractor = ViTFeatureExtractor.from_pretrained("microsoft/trocr-small-handwritten")
     if args.encoder == "swin" or args.encoder == "swin_from_scratch":
         print("using swin feature extractor")
         feature_extractor = AutoFeatureExtractor.from_pretrained("microsoft/ ")
@@ -257,7 +262,7 @@ def main(args):
         # eval_steps= eval_steps, 
         logging_steps=100,
         warmup_steps=500,
-        num_train_epochs=20, 
+        num_train_epochs=6, 
         learning_rate=3e-5, 
         weight_decay=0.01,
         predict_with_generate=True,
