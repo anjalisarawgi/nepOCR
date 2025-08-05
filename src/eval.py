@@ -67,8 +67,7 @@ for sample in tqdm(test_data, desc="Evaluating"):
         "image_path": image_path,
         "ground_truth": gt,
         "prediction": pred,
-        "cer": cer
-    })
+        "cer": cer })
 
 
 df = pd.DataFrame(results)
