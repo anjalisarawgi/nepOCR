@@ -7,7 +7,6 @@ from PIL import Image, ImageDraw
 import numpy as np
 import plotly.express as px
 
-# ─── Page Config & Custom CSS ─────────────────────────────────────────────
 st.set_page_config(
     page_title="📜  Old Nepali OCR - Segmentaion", 
     layout="wide", 
@@ -33,9 +32,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# =====================
-# Sidebar: Segmentation Input
-# =====================
+# for the sidebar
 st.sidebar.header("1. Input & Segmentation")
 uploaded_file = st.sidebar.file_uploader(
     "Upload image (JPEG/PNG)", 
@@ -82,9 +79,7 @@ if st.sidebar.button("Run Segmentation"):
 
             st.sidebar.success("Segmentation complete.")
 
-# =====================
-# Main Layout
-# =====================
+# main part
 st.title("Old Nepali OCR Visualizer")
 st.markdown("---")
 
@@ -93,7 +88,6 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
     lines = st.session_state.seg_data.get("lines", [])
     orig_w, orig_h = img.size
 
-    # ─── Visual Overlay ─────────────────────────────
     st.subheader("Detected Lines")
     base = img.convert("RGBA")
     overlay = Image.new("RGBA", base.size, (0, 0, 0, 0))
@@ -110,10 +104,9 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
     with col2:
         st.image(composite, caption="Overlay of detected text lines", width=orig_w // 2)
 
-    # ─── Line Removal & Padding ─────────────────────
     st.subheader("2. Adjust Segmentation")
 
-    with st.expander("🧹 Remove Unwanted Lines", expanded=True):
+    with st.expander("Please remove Unwanted Lines", expanded=True):
         chart_height = st.slider("Panel Height (px)", 200, 1200, 600)
         padding = st.slider("Add Padding to Selected Lines (pixels)", 0, 100, 10)
 
@@ -121,11 +114,12 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
         to_remove = st.multiselect("Remove Lines:", labels, default=[])
         padding_lines_labels = st.multiselect("Apply padding to Lines:", labels, default=[])
 
+        st.markdown("To find the line numbers, hover over the lines in the plot below.")
+
         remove_idx = {int(lbl.split()[1]) - 1 for lbl in to_remove}
         padding_idx = {int(lbl.split()[1]) - 1 for lbl in padding_lines_labels}
 
-        # ─── Plotly Interactive Preview ─────────────────────
-        with st.spinner("🔄 Rendering interactive preview… please hold up!"):
+        with st.spinner("Please wait, generating preview..."):
             fig = px.imshow(st.session_state.img_arr, origin="upper")
             fig.update_layout(height=chart_height, margin=dict(l=0, r=0, t=30, b=0))
             fig.update_coloraxes(showscale=False)
@@ -164,7 +158,6 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
             st.plotly_chart(fig, use_container_width=True)
 
     
-    # ─── Build Crops ─────────────────────────────
     orig_crops, adj_crops = [], []
     for idx, line in enumerate(lines):
         if idx in remove_idx or "boundary" not in line:
@@ -188,7 +181,6 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
     st.session_state.adjusted_crops = adj_crops
     st.session_state.adjusted_overlay = composite
 
-    # ─── Save Adjustments ─────────────────────────────
     if "adjusted_saved" not in st.session_state:
         st.session_state.adjusted_saved = False
 
@@ -216,8 +208,6 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
         st.info("Please save your changes before proceeding to prediction.")
         
 
-
-    # # ─── Prediction Crop Selector ─────────────────────────────
     # st.markdown("---")
     # st.subheader("3. Choose Segmentation for Prediction")
     # choice = st.selectbox("Pick which crops to use for OCR prediction:", ["Original Segmentation", "Adjusted Segmentation"])
@@ -227,8 +217,7 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
     st.session_state.crops = st.session_state.adjusted_crops 
     st.session_state.segmentation_overlay = composite
 
-
-    # ─── Download Section ─────────────────────────────
+    # download part
     st.markdown("---")
     st.subheader("Download Segmentation Data")
 
@@ -263,4 +252,4 @@ if "img_arr" in st.session_state and "seg_data" in st.session_state:
     st.download_button("Download Adjusted Segmentation (.json & Crops)", data=buf_adj.getvalue(), file_name="adjusted_segmentation_and_crops.zip", mime="application/zip")
 
 else:
-    st.info("Upload an image and run segmentation to begin.")
+    st.info("Please upload an image and run segmentation to begin")
