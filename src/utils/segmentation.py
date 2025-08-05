@@ -23,6 +23,6 @@ for line in data["lines"]:
 
 plt.figure(figsize=(12, 12))
 plt.imshow(img)
-plt.title("Kraken Line Segmentation: Red = Polygon, Green = Baseline")
+plt.title("segmentations: red is polygon, green is baseline ")
 plt.axis("off")
 # plt.show()
