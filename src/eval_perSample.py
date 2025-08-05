@@ -6,12 +6,10 @@ from transformers import VisionEncoderDecoderModel, TrOCRProcessor, AutoTokenize
 from torchmetrics.functional.text import char_error_rate
 
 
-MODEL_DIR = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
+model_dir = "models/trocr-large-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari_finetuned_on_oldNepali_fullset_aug8"
 # IMAGE_PATH = "data/oldNepali_fullset/oldNepali/images/DNA_0014_0296 zuschn/eSc_line_b278b45e.png"
-IMAGE_PATH = "data/oldNepali_fullset/oldNepali/images/DNA_0014_0296 zuschn/eSc_line_996ee0ca.png"
-OUTPUT_FILE = "ocr_predictions.txt"
-MAX_LENGTH = 256
-NUM_BEAMS = 5
+image = "data/oldNepali_fullset/oldNepali/images/DNA_0014_0296 zuschn/eSc_line_996ee0ca.png"
+# output_file = "ocr_predictions.txt"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
@@ -21,18 +19,15 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 #     text = CLEANUP.sub("", text)
 #     return re.sub(r"\s+", "", text)
 
-model = VisionEncoderDecoderModel.from_pretrained(MODEL_DIR).to(DEVICE)
-tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR)
-processor = TrOCRProcessor(
-    image_processor=AutoImageProcessor.from_pretrained("microsoft/trocr-large-handwritten"),
-    tokenizer=tokenizer
-)
+model = VisionEncoderDecoderModel.from_pretrained(model_dir).to(DEVICE)
+tokenizer = AutoTokenizer.from_pretrained(model_dir)
+processor = TrOCRProcessor(image_processor=AutoImageProcessor.from_pretrained("microsoft/trocr-large-handwritten"),tokenizer=tokenizer)
 model.config.update({
     "decoder_start_token_id": tokenizer.cls_token_id,
     "pad_token_id":           tokenizer.pad_token_id,
     "eos_token_id":           tokenizer.eos_token_id,
-    "max_length":             MAX_LENGTH,
-    "num_beams":              NUM_BEAMS,
+    "max_length":             256,
+    "num_beams":              5,
     "early_stopping":         True,
     "no_repeat_ngram_size":   0
 })
@@ -45,7 +40,7 @@ def predict_text(image_path):
         generated_ids = model.generate(pixel_values)
     return processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
 
-prediction = predict_text(IMAGE_PATH)
+prediction = predict_text(image)
 # pred_clean = clean_text(prediction)
 
-print(f" Prediction:    {prediction}")
+print("Prediction:" prediction)
