@@ -44,7 +44,7 @@ for xml_fname in os.listdir(XML_DIR):
     for idx, line in enumerate(lines, start=1):
         lid = line.attrib.get('ID', f'line{idx}')
         poly_el = line.find('.//a:Polygon', ns)
-        if poly_el is None:
+        if poly_el is None: 
             continue
 
         coords = list(map(int, poly_el.attrib['POINTS'].split()))
@@ -68,10 +68,7 @@ for xml_fname in os.listdir(XML_DIR):
         cv2.imwrite(out_path, out)
         texts = [s.attrib.get('CONTENT', '') for s in line.findall('.//a:String', ns)]
         transcription = ' '.join(texts)
-        page_labels.append({
-            "text": transcription,
-            "image_path": os.path.join('oldNepali_100', 'processed', 'images', basename, f"{lid}.png")
-        })
+        page_labels.append({ "text": transcription, "image_path": os.path.join('oldNepali_100', 'processed', 'images', basename, f"{lid}.png")})
 
     all_labels.setdefault("data", []).extend(page_labels)
     print(f"Saved {len(page_labels)} crops adn the labels for {basename}")
