@@ -22,17 +22,17 @@ def split_data(data, seed, train_frac=0.8, val_frac=0.1):
     val_data   = data[n_train : n_train + n_val]
     test_data  = data[n_train + n_val :]
 
-    print(f"Total samples: {n}, Train samples: {len(train_data)}, Validation samples: {len(val_data)}, Test samples: {len(test_data)}")
+    print("Total samples:", {n}, "Train samples:", len(train_data), "Validation:", len(val_data), "Test:", len(test_data))
     return train_data, val_data, test_data
 
 def main():
-    input_dir = "data/oldNepali_fullset/labels_v4/labels_full.json"
-    output_dir ="data/oldNepali_fullset/labels_v4"
-    data = load_labels(input_dir)
+    # output_dir = "data/oldNepali_fullset/labels_v4"
+    data = load_labels("data/oldNepali_fullset/labels_v4/labels_full.json")
     train, test, val = split_data(data, seed=41)
-    save_labels(train,os.path.join(output_dir, "labels_train.json"))
-    save_labels(val,os.path.join(output_dir, "labels_val.json"))
-    save_labels(test, os.path.join(output_dir, "labels_test.json"))
+    save_labels(train,os.path.join("data/oldNepali_fullset/labels_v4", "labels_train.json"))
+    save_labels(val,os.path.join("data/oldNepali_fullset/labels_v4", "labels_val.json"))
+    save_labels(test, os.path.join("data/oldNepali_fullset/labels_v4", "labels_test.json"))
 
 if __name__ == "__main__":
     main()
+    print("completed")
