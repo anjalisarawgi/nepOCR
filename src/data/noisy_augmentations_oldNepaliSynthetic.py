@@ -11,26 +11,24 @@ import numpy as np
 np.bool = bool 
 
 
-INPUT_DIR = "data/oldNepaliSynth_105k"
-OUTPUT_DIR = "data/oldNepaliSynth_105k_vnoisy/images"
-LABEL_FILE_IN = "data/oldNepaliSynth_105k/labels.json"
-LABEL_FILE_OUT = "data/oldNepaliSynth_105k_vnoisy/labels.json"
-
+# INPUT_DIR = "data/oldNepaliSynth_105k"
+output_dir = "data/oldNepaliSynth_105k_vnoisy/images"
 
 # thickness randomization
-def apply_random_thickness(image, min_dilate=1, max_dilate=2, min_erode=0, max_erode=1):
-    image = np.array(image)
-    if random.random() < 0.7:
-        ksize = random.randint(min_dilate, max_dilate)
-        if ksize > 0:
-            kernel = np.ones((ksize, ksize), np.uint8)
-            image = cv2.dilate(image, kernel, iterations=1)
-    else:
-        ksize = random.randint(min_erode, max_erode)
-        if ksize > 0:
-            kernel = np.ones((ksize, ksize), np.uint8)
-            image = cv2.erode(image, kernel, iterations=1)
-    return image
+# we do erosion and dilation here - 70 percent dilation - 30 percent erosion
+# def apply_random_thickness(image, min_dilate=1, max_dilate=2, min_erode=0, max_erode=1):
+#     image = np.array(image)
+#     if random.random() < 0.7:
+#         ksize = random.randint(min_dilate, max_dilate)
+#         if ksize > 0:
+#             kernel = np.ones((ksize, ksize), np.uint8)
+#             image = cv2.dilate(image, kernel, iterations=1)
+#     else:
+#         ksize = random.randint(min_erode, max_erode)
+#         if ksize > 0:
+#             kernel = np.ones((ksize, ksize), np.uint8)
+#             image = cv2.erode(image, kernel, iterations=1)
+#     return image
 
 
 # def get_augmenter():
@@ -69,7 +67,7 @@ def get_augmenter():
         ]))
     ])
 
-
+# we do erosion and dilation here - both are randomized and may appear together in the same image
 def apply_variable_thickness(image):
     image = np.array(image)
     mask = np.random.randint(0, 2, image.shape, dtype=np.uint8)
@@ -88,32 +86,33 @@ def process_image(img_path, augmenter, save_path):
         image = image[:, :, :3]
 
     augmented = augmenter(image=image)
-    thicker = apply_variable_thickness(augmented)
-    final = cv2.cvtColor(thicker, cv2.COLOR_RGB2GRAY)
-    imageio.imwrite(save_path, final)
+    thicker = apply_variable_thickness(augmented) # apply the dilation and erosion herre 
+    final = cv2.cvtColor(thicker, cv2.COLOR_RGB2GRAY) # convert to greyscale
+    imageio.imwrite(save_path, final) # save
 
+# main loop for a ll image iterations
 def process_all_images():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-    with open(LABEL_FILE_IN, "r", encoding="utf-8") as f:
+    # input file dir 
+    with open("data/oldNepaliSynth_105k/labels.json", "r", encoding="utf-8") as f:
         original_labels = json.load(f)
 
     noisy_labels = []
     augmenter = get_augmenter()
 
-    for entry in tqdm(original_labels, desc="Augmenting images", ncols=80): 
+    for entry in tqdm(original_labels): 
         input_path = entry["image_path"]
         label = entry["label"]
         filename = os.path.basename(input_path)
-        output_path = os.path.join(OUTPUT_DIR, filename)
+        output_path = os.path.join(output_dir, filename)
         process_image(input_path, augmenter, output_path)
+        
         noisy_labels.append({"image_path": output_path, "text": label})
 
-
-            
-    with open(LABEL_FILE_OUT, "w", encoding="utf-8") as f:
+    # output - transformed directory 
+    with open("data/oldNepaliSynth_105k_vnoisy/labels.json", "w", encoding="utf-8") as f:
         json.dump(noisy_labels, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
     process_all_images()
+    print("done!!")
