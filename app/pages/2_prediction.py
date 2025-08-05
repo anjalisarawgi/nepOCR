@@ -6,11 +6,11 @@ from PIL import Image
 import io, csv
 
 @st.cache_resource
-def load_model(dummy_version: str = "v6.1"): 
-    model_path = "AnjaliSarawgi/test-ocr-v6Large"
+def load_model():
+    model_path = "model_name" # changed for now
     model = VisionEncoderDecoderModel.from_pretrained(model_path)
     tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
-    processor = TrOCRProcessor.from_pretrained("microsoft/trocr-large-handwritten")
+    processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.to(device).eval()
     return model, tokenizer, processor.feature_extractor, device
@@ -21,10 +21,12 @@ def predict_from_image(image, model, tokenizer, feature_extractor, device):
     with torch.no_grad():
         output = model.generate(
             pixel_values,
-            max_length=100,
-            num_beams=1,
+            max_length=256,
+            num_beams=6,
             early_stopping=True,
             eos_token_id=tokenizer.eos_token_id,
+            diversity_penalty=0.5,
+            num_beam_groups = 2
         )
     # output is a batch of size 1
     seq = output[0]
@@ -45,22 +47,20 @@ def main():
         if overlay:
             st.image(overlay, use_container_width=True)
         else:
-            st.info("⚠️ No overlay found. Run Segmentation → Crop first.")
+            st.info("No overlay found. Run Segmentation. Please Crop first.")
 
     # RIGHT: OCR controls & output
     with col_right:
         st.subheader("OCR Predictions")
 
         if not crops:
-            st.info("⚠️ Please run Segmentation first.")
+            st.info("Please run Segmentation first.")
             return
-        
-        
 
         choices   = ["All"] + [name for name, _ in crops]
         selection = st.selectbox("Which line(s) to OCR?", choices)
 
-        model, tokenizer, feat_ext, device = load_model("v6.1")
+        model, tokenizer, feat_ext, device = load_model()
 
         if st.button("Run OCR & Show"):
             to_run = (
@@ -69,7 +69,7 @@ def main():
                 else [crops[choices.index(selection) - 1]]
             )
 
-            # 1️⃣ Run OCR and collect results
+
             results = []
             for fname, img in to_run:
                 txt = predict_from_image(img, model, tokenizer, feat_ext, device)
