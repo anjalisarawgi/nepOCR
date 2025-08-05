@@ -11,7 +11,6 @@ labels_path = os.path.join(base_dir, "labels.json")
 with open(labels_path, "r", encoding="utf-8") as f:
     labels = json.load(f)
 
-# for convert images to grayscale and also save the labels.json with updated paths
 grayscale_labels = []
 for item in labels:
     orig_rel = item["image_path"]
@@ -28,4 +27,4 @@ out_labels = os.path.join(base_dir, "labels_grayscaled.json")
 with open(out_labels, "w", encoding="utf-8") as f:
     json.dump(grayscale_labels, f, ensure_ascii=False, indent=2)
 
-print("Grayscale conversion complete.")
+print("complete")
