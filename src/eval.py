@@ -81,4 +81,4 @@ weighted_cer = total_errs/total_chars
 
 df.to_csv( "results/trocr_base_bert_byteBPE/predictions.csv", index=False) # change here
 print("results saved")
-print("Overall weighted CER:", weighted_cer:.4f) 
+print("Overall weighted CER:", weighted_cer) 

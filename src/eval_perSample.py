@@ -43,4 +43,4 @@ def predict_text(image_path):
 prediction = predict_text(image)
 # pred_clean = clean_text(prediction)
 
-print("Prediction:" prediction)
+print("Prediction:", prediction)

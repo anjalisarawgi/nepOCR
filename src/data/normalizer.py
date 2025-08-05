@@ -105,6 +105,7 @@ def main():
     with open("data/oldNepali_fullset/labels_normalized_final/labels_full.json", "w", encoding="utf8") as f:
         json.dump(labels, f, ensure_ascii=False, indent=2)
 
+    total_chars_affected = sum( count for key, count in counter.items() if key not in {"total_chars_before", "total_chars_after"}   )
     removed = counter["total_chars_before"] - counter["total_chars_after"]
     print(f"Total characters affected: {total_chars_affected}")
     print(f"Characters removed: {removed}")
@@ -120,10 +121,7 @@ def main():
     #         print(f"  {k:<30s}: {counter[k]:<6d}   (lines affected: {line_counter[k]})")
 
 
-    # total_chars_affected = sum(
-    #     count for key, count in counter.items()
-    #     if key not in {"total_chars_before", "total_chars_after"}
-    # )
+
 
 
 if __name__ == "__main__":
