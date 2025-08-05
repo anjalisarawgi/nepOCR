@@ -1,9 +1,8 @@
 import re
 
+# to clean the corpus for englihs characters and unwanted symbols
 def clean_line(text):
-    # Remove English letters and digits
     text = re.sub(r'[a-zA-Z0-9$%#!@&?]', '', text)
-
     return text.strip()
 
 
@@ -12,7 +11,6 @@ output_file = 'corpus/oldNepaliCorpus.txt'
 with open(input_file, 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-# for cleaning each line individually
 cleaned_lines = [clean_line(line) for line in lines if clean_line(line)]
 
 with open(output_file, 'w', encoding='utf-8') as f:
