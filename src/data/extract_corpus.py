@@ -12,4 +12,4 @@ with open(output_txt_path, 'w', encoding='utf-8') as outfile:
         if text:
             outfile.write(text + '\n')
 
-print(f"Wrote {len(data)} lines to {output_txt_path}")
+print("completed")
