@@ -17,7 +17,7 @@ config = BertConfig(
 )
 decoder = BertLMHeadModel(config)
 
-dataset = load_dataset("text", data_files="corpus/nepali_texts_210k.txt")  # contains raw oldNepali texts extracted from books (size ~ 210k)
+dataset = load_dataset("text", data_files="corpus/nepali_texts_210k.txt")  # contains raw oldNepali texts extracted from books
 
 def tokenize_fn(example):
     return tokenizer(example["text"], truncation=True, max_length=128)
