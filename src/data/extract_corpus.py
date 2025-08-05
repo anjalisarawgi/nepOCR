@@ -13,22 +13,3 @@ with open(output_txt_path, 'w', encoding='utf-8') as outfile:
             outfile.write(text + '\n')
 
 print(f"Wrote {len(data)} lines to {output_txt_path}")
-
-
-# import pandas as pd
-
-# # 1) Load your CSV
-# df = pd.read_csv(
-#     "data/evaluation_results_cleaned_bytebpe500_test_new8.csv",
-#     encoding="utf-8"
-# )
-
-# # 2) Extract the prediction column
-# preds = df["prediction"].astype(str).tolist()
-
-# # 3) Write them out to a .txt (one line per prediction)
-# with open("corpus/oldNepali_test_ground_truth.txt", "w", encoding="utf-8") as f:
-#     for line in preds:
-#         f.write(line + "\n")
-
-# print(f"✅ Saved {len(preds)} lines to predictions_corpus.txt")
