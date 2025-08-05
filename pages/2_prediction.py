@@ -7,7 +7,7 @@ import io, csv
 
 @st.cache_resource
 def load_model():
-    model_path = "AnjaliSarawgi/test-ocr-v4"
+    model_path = "model_name" # changed for now
     model = VisionEncoderDecoderModel.from_pretrained(model_path)
     tokenizer = PreTrainedTokenizerFast.from_pretrained(model_path)
     processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
@@ -47,14 +47,14 @@ def main():
         if overlay:
             st.image(overlay, use_container_width=True)
         else:
-            st.info("⚠️ No overlay found. Run Segmentation → Crop first.")
+            st.info("No overlay found. Run Segmentation. Please Crop first.")
 
     # RIGHT: OCR controls & output
     with col_right:
         st.subheader("OCR Predictions")
 
         if not crops:
-            st.info("⚠️ Please run Segmentation first.")
+            st.info("Please run Segmentation first.")
             return
 
         choices   = ["All"] + [name for name, _ in crops]
@@ -69,7 +69,7 @@ def main():
                 else [crops[choices.index(selection) - 1]]
             )
 
-            # 1️⃣ Run OCR and collect results
+
             results = []
             for fname, img in to_run:
                 txt = predict_from_image(img, model, tokenizer, feat_ext, device)
