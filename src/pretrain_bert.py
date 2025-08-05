@@ -1,6 +1,7 @@
-from transformers import BertTokenizerFast, BertForMaskedLM, BertConfig, Trainer, TrainingArguments, DataCollatorForLanguageModeling, BertLMHeadModel
+from transformers import BertTokenizerFast, BertForMaskedLM, BertConfig,
 from datasets import load_dataset
 
+from transformers import  Trainer, TrainingArguments, DataCollatorForLanguageModeling, BertLMHeadModel
 from src.utils.tokenizer import train_tokenizer
 from transformers import PreTrainedTokenizerFast
 import argparse
