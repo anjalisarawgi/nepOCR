@@ -83,10 +83,8 @@ def normalize_text(s, counter, line_counter):
     return s
 
 def main():
-    input_path = "data/oldNepali_fullset/labels_raw/labels_full.json"
-    output_path = "data/oldNepali_fullset/labels_normalized_final/labels_full.json"
     
-    with open(input_path, encoding="utf8") as f:
+    with open("data/oldNepali_fullset/labels_raw/labels_full.json", encoding="utf8") as f:
         labels = json.load(f)
 
     total_lines = len(labels)
@@ -104,28 +102,29 @@ def main():
             total_lines_changed += 1
             
 
-    with open(output_path, "w", encoding="utf8") as f:
+    with open("data/oldNepali_fullset/labels_normalized_final/labels_full.json", "w", encoding="utf8") as f:
         json.dump(labels, f, ensure_ascii=False, indent=2)
 
     removed = counter["total_chars_before"] - counter["total_chars_after"]
-    print(f"\n Summary of changes:")
-    keys = sorted(set(counter) | set(line_counter))
-    for k in keys:
-        if k in ["total_chars_before", "total_chars_after"]:
-            print(f"  {k:<30s}: {counter[k]}")
-        else:
-            print(f"  {k:<30s}: {counter[k]:<6d}   (lines affected: {line_counter[k]})")
-
-
-    total_chars_affected = sum(
-        count for key, count in counter.items()
-        if key not in {"total_chars_before", "total_chars_after"}
-    )
-    print(f"Total characters affected             : {total_chars_affected}")
-    print(f"Characters removed during normalization: {removed}")
-    print(f"Summary of changes:")
-    print(f"total_lines_processed: {total_lines}")
+    print(f"Total characters affected: {total_chars_affected}")
+    print(f"Characters removed: {removed}")
+    # print("all changes":)
+    print(f"total_lines_processed:{total_lines}")
     print(f"total_lines_changed: {total_lines_changed}")
+    
+    # keys = sorted(set(counter) | set(line_counter))
+    # for k in keys:
+    #     if k in ["total_chars_before", "total_chars_after"]:
+    #         print(f"  {k:<30s}: {counter[k]}")
+    #     else:
+    #         print(f"  {k:<30s}: {counter[k]:<6d}   (lines affected: {line_counter[k]})")
+
+
+    # total_chars_affected = sum(
+    #     count for key, count in counter.items()
+    #     if key not in {"total_chars_before", "total_chars_after"}
+    # )
+
 
 if __name__ == "__main__":
     main()
