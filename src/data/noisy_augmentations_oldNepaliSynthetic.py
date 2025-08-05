@@ -106,12 +106,9 @@ def process_all_images():
         label = entry["label"]
         filename = os.path.basename(input_path)
         output_path = os.path.join(OUTPUT_DIR, filename)
+        process_image(input_path, augmenter, output_path)
+        noisy_labels.append({"image_path": output_path, "text": label})
 
-        try:
-            process_image(input_path, augmenter, output_path)
-            noisy_labels.append({"image_path": output_path, "text": label})
-        except Exception as e:
-            print(f"Failed to process {input_path}: {e}")
 
             
     with open(LABEL_FILE_OUT, "w", encoding="utf-8") as f:
