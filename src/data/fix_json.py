@@ -17,3 +17,4 @@ for entry in data:
 with open("data/oldNepali_fullset_binarized/labels/labels_train.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
+print("done")
