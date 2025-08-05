@@ -1,8 +1,6 @@
 import json
 
-json_path = "data/oldNepali_fullset/labels_normalized_final/labels_full.json"
-
-with open(json_path, "r", encoding="utf-8") as f:
+with open("data/oldNepali_fullset/labels_normalized_final/labels_full.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 total_spaces = 0
