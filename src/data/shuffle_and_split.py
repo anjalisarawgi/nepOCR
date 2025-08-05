@@ -30,9 +30,9 @@ def main():
     output_dir ="data/oldNepali_fullset/labels_v4"
     data = load_labels(input_dir)
     train, test, val = split_data(data, seed=41)
-    save_labels(train, os.path.join(output_dir, "labels_train.json"))
-    save_labels(val,   os.path.join(output_dir, "labels_val.json"))
-    save_labels(test,  os.path.join(output_dir, "labels_test.json"))
+    save_labels(train,os.path.join(output_dir, "labels_train.json"))
+    save_labels(val,os.path.join(output_dir, "labels_val.json"))
+    save_labels(test, os.path.join(output_dir, "labels_test.json"))
 
 if __name__ == "__main__":
     main()
