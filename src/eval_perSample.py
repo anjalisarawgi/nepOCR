@@ -13,11 +13,11 @@ image = "data/oldNepali_fullset/oldNepali/images/DNA_0014_0296 zuschn/eSc_line_9
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
-# CLEANUP = re.compile(r'[\u00AD\u200B\u200C\u200D]')
-# def clean_text(text: str) -> str:
-#     text = unicodedata.normalize("NFC", text)
-#     text = CLEANUP.sub("", text)
-#     return re.sub(r"\s+", "", text)
+CLEANUP = re.compile(r'[\u00AD\u200B\u200C\u200D]')
+def clean_text(text: str) -> str:
+    text = unicodedata.normalize("NFC", text)
+    text = CLEANUP.sub("", text)
+    return re.sub(r"\s+", "", text)
 
 model = VisionEncoderDecoderModel.from_pretrained(model_dir).to(DEVICE)
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
