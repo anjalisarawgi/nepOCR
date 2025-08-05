@@ -265,7 +265,7 @@ AUGMENTATIONS = {
     'motion_blur': lambda img: motion_blur(img, degree=5), 
     'med_blur': lambda img: median_blur(img, k=3),
     'gaussian_noise': lambda img: add_gaussian_noise(img, mean=0, std=6),
-    'sharpen':            sharpen,
+    'sharpen': sharpen,
 }
 
 
@@ -297,6 +297,7 @@ def apply_random_augmentations(input_folder, output_folder, num_augmentations=7)
 
 
 # for labels.json
+# we cna make this more compact - check later
 def augment_labels_json(
     labels_json_path,
     input_base_folder,      
