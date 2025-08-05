@@ -3,9 +3,7 @@ import argparse
 import torch
 import wandb
 from transformers import (
-    VisionEncoderDecoderModel,
-    TrOCRProcessor,
-    Seq2SeqTrainer,
+    VisionEncoderDecoderModel, TrOCRProcessor, Seq2SeqTrainer,
     Seq2SeqTrainingArguments,
     set_seed,
 )
@@ -49,11 +47,11 @@ def main(args):
     tokenizer = processor.tokenizer
     feature_extractor = processor.feature_extractor
 
-    print("\n[Tokenizer Debug]")
-    print(f"Vocab size: {len(tokenizer)}")
-    print(f"PAD token: {tokenizer.pad_token} (ID: {tokenizer.pad_token_id})")
-    print(f"CLS token: {tokenizer.cls_token} (ID: {tokenizer.cls_token_id})")
-    print(f"EOS token: {tokenizer.eos_token} (ID: {tokenizer.eos_token_id})\n")
+    # debugging
+    print(f"Vocab_size: {len(tokenizer)}")
+    print(f"pad token:{tokenizer.pad_token} (ID: {tokenizer.pad_token_id})")
+    print(f"cls token: {tokenizer.cls_token} (ID: {tokenizer.cls_token_id})")
+    print(f"EOS token:{tokenizer.eos_token} (ID: {tokenizer.eos_token_id})")
 
     # Prepare datasets
     max_length = 256
