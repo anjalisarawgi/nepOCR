@@ -74,7 +74,7 @@ for xml_fname in os.listdir(XML_DIR):
         })
 
     all_labels.setdefault("data", []).extend(page_labels)
-    print(f"[✓] Saved {len(page_labels)} crops and labels for {basename}")
+    print(f"Saved {len(page_labels)} crops adn the labels for {basename}")
 
 
 with open(JSON_PATH, 'w', encoding='utf-8') as f:
