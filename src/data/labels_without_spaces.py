@@ -10,13 +10,10 @@ with open(input_path, "r", encoding="utf-8") as f:
 data_no_space = []
 for entry in data:
     new_text = entry["text"].replace(" ", "")
-    data_no_space.append({
-        "text": new_text,
-        "image_path": entry["image_path"]
-    })
+    data_no_space.append({"text": new_text, "image_path": entry["image_path"]})
 
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(data_no_space, f, indent=2, ensure_ascii=False)
 
-print("Processed data saved to:", output_path)
+print("complete")
