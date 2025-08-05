@@ -24,7 +24,7 @@ def split_data(data, seed, train_frac=0.8, val_frac=0.1):
     val_data   = data[n_train : n_train + n_val]
     test_data  = data[n_train + n_val :]
 
-    print(f"Total: {n} → Train: {len(train_data)}, Val: {len(val_data)}, Test: {len(test_data)}")
+    print(f"Total: {n} - Train: {len(train_data)}, Val: {len(val_data)}, Test: {len(test_data)}")
     return train_data, val_data, test_data
 
 def main():
