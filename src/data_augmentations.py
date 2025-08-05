@@ -25,7 +25,7 @@ def add_random_blur_marks(img, num_blurs=3, max_radius=5):
         y = random.randint(0, height - 1)
         radius = random.randint(3, max_radius)
 
-        # Extract patch and apply Gaussian blur
+        # Extracting the patch and apply Gaussian blur
         x1 = max(0, x - radius)
         x2 = min(width, x + radius)
         y1 = max(0, y - radius)
@@ -282,10 +282,6 @@ def apply_random_augmentations(input_folder, output_folder, num_augmentations=7)
         name, ext   = os.path.splitext(filename)
 
         img = cv2.imread(img_path, cv2.IMREAD_COLOR)
-        if img is None:
-            print(f"⚠️ Could not read {img_path}, skipping.")
-            continue
-
         # save original
         original_out = os.path.join(output_folder, filename)
         cv2.imwrite(original_out, img)
@@ -318,10 +314,6 @@ def augment_labels_json(
         orig_path = rec['image_path']
         img_path = os.path.join(input_base_folder, os.path.relpath(orig_path, input_base_folder))
         img = cv2.imread(img_path, cv2.IMREAD_COLOR)
-        if img is None:
-            print(f" Couldn’t load {img_path}; skipping.")
-            continue
-
         rel_save_dir = os.path.dirname(os.path.relpath(orig_path, input_base_folder))
         full_save_dir = os.path.join(output_base_folder, rel_save_dir)
         os.makedirs(full_save_dir, exist_ok=True)
@@ -349,17 +341,13 @@ def augment_labels_json(
             }
             augmented_records.append(aug_rec)
 
-        print(f"{orig_filename} → {[s for s,_ in choices]}")
+        # print(f"{orig_filename} : {[s for s,_ in choices]}")
 
-    
     with open(output_json_path, 'w', encoding='utf-8') as f:
         json.dump(augmented_records, f, ensure_ascii=False, indent=2)
 
-    print(f"Augmented JSON with {len(augmented_records)} entries written to {output_json_path}")
-
-
-
-
+    
+    print("complete")
 
 
 if __name__ == '__main__':
