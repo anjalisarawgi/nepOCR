@@ -71,6 +71,7 @@ python src/trainer.py \
   --decoder bert \
   --encoder trocr-base-handwritten
 ```
+The model_name for this stage will be saved in our example as: trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500
 
 ### Step 2: Stage 2 training
 The model saved from stage 1 is then used to initialize the second stage training with the  --finetune_from_model argument. This stage helps bridge the gap between synthetically generated line images and real data (10 epochs)
@@ -81,8 +82,10 @@ python src/trainer.py \
   --vocab_size 500 \
   --decoder bert \
   --encoder trocr-base-handwritten \
-  --finetune_from_model models/trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500
+  --finetune_from_model models/model_name_saved_from_stage_1
 ```
+The model_name for this stage will be saved in our example as: trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari
+
 
 ### Step 3: Stage 3 training
 Finally, the model obtained after stage 2 is further fine-tuned on the main handwritten Old Nepali manuscript dataset, with 8x augmentation (for 20 epochs)
@@ -93,8 +96,9 @@ python src/trainer.py \
   --vocab_size 500 \
   --decoder bert \
   --encoder trocr-base-handwritten \
-  --finetune_from_model models/trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari
+  --finetune_from_model models/model_name_saved_from_stage_2
 ```
+The model_name for this stage will be saved in our example as: trocr-base-handwritten-BERT-oldNepaliSynthetic_105k_vnoisy-byteBPE-500_finetuned_on_nagari
 
 ### Step 4: Model evaluation
 Run the evaluation script on a trained model by specifying the model name. Evaluation results are saved to the results/ directory
