@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="webapp_2.jpeg" width="650"/>
+  <img src="app/web_app.jpeg" width="650"/>
 </p>
 
 <p align="center">
