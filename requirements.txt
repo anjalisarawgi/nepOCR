@@ -12,10 +12,10 @@ seaborn
 tokenizers
 tqdm
 transformers==4.45.2
-numpy==1.26.4
+numpy
 Pillow
 plotly
 streamlit
-torch==2.4.1
-torchmetrics==1.7.0
-kraken==5.3.0
+torch
+torchmetrics
+kraken
