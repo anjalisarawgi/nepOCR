@@ -18,6 +18,7 @@
 
 This repository contains the official implementation of the paper **[Digitizing Nepal’s Written Heritage: A Comprehensive HTR Pipeline for Old Nepali Manuscripts](PAPER_LINK_HERE)**(to-add), by **Anjali Sarawgi, Esteban Garcés Arias, and Christof Zotter**.
 
+Link to model: [Old Nepali HTR model](https://huggingface.co/AnjaliSarawgi/oldNepali_htr_model)
 
 
 ## Abstract
