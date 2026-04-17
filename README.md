@@ -1,9 +1,6 @@
 # Digitizing Nepal’s Written Heritage: A Comprehensive HTR Pipeline for Old Nepali Manuscripts
 
 <p align="center">
-  <a href="https://arxiv.org/abs/to-add">
-    <img src="https://img.shields.io/badge/arXiv-toadd-b31b1b"/>
-  </a>
 </p>
 <p align="center">
   <img src="app/web_app.jpeg" width="650"/>
@@ -15,14 +12,6 @@
   <em>Right:</em> Predicted line-level transcription
 </p>
 
-
-This repository contains the official implementation of the paper **[Digitizing Nepal’s Written Heritage: A Comprehensive HTR Pipeline for Old Nepali Manuscripts](PAPER_LINK_HERE)**(to-add), by **Anjali Sarawgi, Esteban Garcés Arias, and Christof Zotter**.
-
-Link to model: [Old Nepali HTR model](https://huggingface.co/AnjaliSarawgi/oldNepali_htr_model)
-
-
-## Abstract
-This paper presents the first end-to-end pipeline for Handwritten Text Recognition (HTR) for Old Nepali, a historically significant but low-resource language. We adopt a line-level transcription approach and systematically explore encoder-decoder architectures and data-centric techniques to improve recognition accuracy. Our best model achieves a Character Error Rate (CER) of 4.9\%.  In addition, we implement and evaluate decoding strategies and analyze token-level confusions to better understand model behaviour and error patterns. While the dataset we used for evaluation is confidential, we release our training code, model configurations, and evaluation scripts to support further research in HTR for low-resource historical scripts.
 
 ## Environment
 We use a conda Python 3.12 environment. To create and activate the env run:
@@ -36,8 +25,8 @@ pip install -r requirements.txt
 For the training pipeline, we have a total of three stages. They are:
 | Training Stage | Dataset Description | Source / Link |
 |---------------|---------------------|---------------|
-| Stage 1 | Synthetic Devanagari line images | [link](https://drive.google.com/drive/folders/1Iq40Aejr5B1t022q8r7RwiFbwxAdxlHL?usp=sharing) |
-| Stage 2 | Printed Devanagari line images | [link](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/EGOKEI)|
+| Stage 1 | Synthetic Devanagari line images | link-anonymized
+| Stage 2 | Printed Devanagari line images | link-anonymized
 | Stage 3 | Handwritten Old Nepali manuscript images | Restricted / Not Publicly Available |
 
 
@@ -112,11 +101,6 @@ Run the evaluation script on a trained model by specifying the model name. Evalu
 python src/eval.py
 ```
 
-## Citation
-If you find this work useful, please cite (to-add):
-```
-```
 
 ## Contact
-For questions or suggestions, please contact  
-**Anjali Sarawgi** at [anjali.sarawgi@campus.lmu.de](mailto:anjali.sarawgi@campus.lmu.de).
+Anonymized
